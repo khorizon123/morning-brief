@@ -1,15 +1,6 @@
-require('dotenv').config();
-const { google } = require('googleapis');
 const { extractEmail } = require('./extract');
 const { classify } = require('./sources');
-
-const oauth2Client = new google.auth.OAuth2(
-  process.env.GOOGLE_CLIENT_ID,
-  process.env.GOOGLE_CLIENT_SECRET
-);
-oauth2Client.setCredentials({ refresh_token: process.env.GOOGLE_REFRESH_TOKEN });
-
-const gmail = google.gmail({ version: 'v1', auth: oauth2Client });
+const { gmail } = require('./gmail-client');
 
 // Fetches and classifies all newsletter emails newer than `window` (Gmail search syntax, e.g. '1d').
 async function fetchBatch(window = '1d') {

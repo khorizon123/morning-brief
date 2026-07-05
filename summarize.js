@@ -143,14 +143,24 @@ ${bySource}`;
 }
 
 // Claude occasionally serializes a nested array/object field as an escaped
-// JSON string instead of native structure. Defensively parse those back.
-function normalizeField(value) {
-  if (typeof value !== 'string') return value;
-  try {
-    return JSON.parse(value);
-  } catch {
-    return value;
+// JSON string instead of native structure. Defensively parse those back —
+// and fail loudly if that doesn't produce the expected shape, rather than
+// silently passing a broken string downstream.
+function normalizeField(value, fieldName, expectedType) {
+  let result = value;
+  if (typeof value === 'string') {
+    try {
+      result = JSON.parse(value);
+    } catch (err) {
+      throw new Error(`Digest field "${fieldName}" was a string that failed to parse as JSON: ${err.message}`);
+    }
   }
+
+  const isValid = expectedType === 'array' ? Array.isArray(result) : (result && typeof result === 'object' && !Array.isArray(result));
+  if (!isValid) {
+    throw new Error(`Digest field "${fieldName}" expected ${expectedType} but got ${JSON.stringify(result).slice(0, 200)}`);
+  }
+  return result;
 }
 
 async function generateDigest(batch) {
@@ -173,12 +183,12 @@ async function generateDigest(batch) {
 
   const raw = toolUse.input;
   return {
-    world: normalizeField(raw.world),
-    marketsAndDeals: normalizeField(raw.marketsAndDeals),
-    aiAndTech: normalizeField(raw.aiAndTech),
-    interesting: normalizeField(raw.interesting),
-    company: normalizeField(raw.company),
-    upcoming: normalizeField(raw.upcoming),
+    world: normalizeField(raw.world, 'world', 'array'),
+    marketsAndDeals: normalizeField(raw.marketsAndDeals, 'marketsAndDeals', 'array'),
+    aiAndTech: normalizeField(raw.aiAndTech, 'aiAndTech', 'array'),
+    interesting: normalizeField(raw.interesting, 'interesting', 'array'),
+    company: normalizeField(raw.company, 'company', 'object'),
+    upcoming: normalizeField(raw.upcoming, 'upcoming', 'array'),
   };
 }
 

@@ -27,6 +27,12 @@ function escapeAttr(str) {
   return escapeHtml(str).replace(/\n/g, '');
 }
 
+// A non-empty string is truthy, so `x || []` doesn't guard against a
+// mis-shaped string field. Guard explicitly rather than relying on that.
+function asArray(value) {
+  return Array.isArray(value) ? value : [];
+}
+
 function readMoreLink(link, sourceName) {
   if (!link) {
     return `<span style="font-family:${SANS};font-size:13px;color:#888;">${escapeHtml(sourceName)}</span>`;
@@ -87,11 +93,11 @@ function renderClippersLine(clippers) {
 }
 
 function renderEmailHtml({ date, digest, audioUrl, clippers }) {
-  const world = (digest.world || []).map(renderWorldItem).join('');
-  const marketsAndDeals = (digest.marketsAndDeals || []).map(renderBodyItem).join('');
-  const aiAndTech = (digest.aiAndTech || []).map(renderBodyItem).join('');
-  const interesting = (digest.interesting || []).map(renderInterestingItem).join('');
-  const upcoming = (digest.upcoming || []).map(renderUpcomingItem).join('');
+  const world = asArray(digest.world).map(renderWorldItem).join('');
+  const marketsAndDeals = asArray(digest.marketsAndDeals).map(renderBodyItem).join('');
+  const aiAndTech = asArray(digest.aiAndTech).map(renderBodyItem).join('');
+  const interesting = asArray(digest.interesting).map(renderInterestingItem).join('');
+  const upcoming = asArray(digest.upcoming).map(renderUpcomingItem).join('');
 
   const company = digest.company
     ? `

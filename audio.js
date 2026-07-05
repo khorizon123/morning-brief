@@ -12,6 +12,13 @@ function escapeSsml(text) {
     .replace(/>/g, '&gt;');
 }
 
+// A non-empty string is truthy, so `x || []` doesn't guard against a
+// mis-shaped string field -- and strings are iterable char-by-char in JS,
+// which silently produces garbage instead of an error. Guard explicitly.
+function asArray(value) {
+  return Array.isArray(value) ? value : [];
+}
+
 // Each block gets read aloud, then a pause. Section-header blocks get a longer
 // pause after them so transitions feel deliberate rather than rushed.
 function buildBlocks(digest, clippers) {
@@ -26,22 +33,22 @@ function buildBlocks(digest, clippers) {
   }
 
   sectionHeader("Let's start with the world.");
-  for (const item of digest.world || []) {
+  for (const item of asArray(digest.world)) {
     say(`${item.headline}. ${item.narrative} ${item.context}`);
   }
 
   sectionHeader('Now, markets and deals.');
-  for (const item of digest.marketsAndDeals || []) {
+  for (const item of asArray(digest.marketsAndDeals)) {
     say(`${item.headline}. ${item.body}`);
   }
 
   sectionHeader('Next, A-I and tech.');
-  for (const item of digest.aiAndTech || []) {
+  for (const item of asArray(digest.aiAndTech)) {
     say(`${item.headline}. ${item.body}`);
   }
 
   sectionHeader('A few other interesting items.');
-  for (const item of digest.interesting || []) {
+  for (const item of asArray(digest.interesting)) {
     say(item.headline, 400);
   }
 
@@ -51,7 +58,7 @@ function buildBlocks(digest, clippers) {
   }
 
   sectionHeader("Finally, here's what's on the radar this week.");
-  for (const item of digest.upcoming || []) {
+  for (const item of asArray(digest.upcoming)) {
     say(`${item.headline}. ${item.body}`);
   }
 

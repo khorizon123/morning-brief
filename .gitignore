@@ -1,6 +1,9 @@
 node_modules/
 .env
 digest-cache.json
+digest-debug.json
 preview.html
 preview-audio.mp3
+last-run-preview.html
+run-output.txt
 *.log
