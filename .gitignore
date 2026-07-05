@@ -1,0 +1,6 @@
+node_modules/
+.env
+digest-cache.json
+preview.html
+preview-audio.mp3
+*.log
