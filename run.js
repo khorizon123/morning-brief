@@ -9,8 +9,7 @@ const { getClippersUpdate } = require('./clippers');
 const { renderEmailHtml } = require('./template');
 const { archiveMessages } = require('./archive');
 
-const REPO = 'khorizon123/morning-brief';
-const BRANCH = 'master';
+const PAGES_URL = 'https://khorizon123.github.io/morning-brief';
 const AUDIO_PATH = 'audio/latest.mp3';
 
 const isLive = process.argv.includes('--live');
@@ -57,7 +56,7 @@ function pushAudio(buffer) {
   } catch (err) {
     console.log('Nothing to commit or push failed:', err.message.split('\n')[0]);
   }
-  return `https://raw.githubusercontent.com/${REPO}/${BRANCH}/${AUDIO_PATH}`;
+  return `${PAGES_URL}/${AUDIO_PATH}`;
 }
 
 async function main() {
