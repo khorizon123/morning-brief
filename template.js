@@ -92,7 +92,9 @@ function renderClippersLine(clippers) {
         </tr>`;
 }
 
-function renderEmailHtml({ date, digest, audioUrl, clippers }) {
+// Shared between the email and the hosted web page -- both show the same
+// six sections, just with a different header/audio treatment around them.
+function renderBodyContent(digest) {
   const world = asArray(digest.world).map(renderWorldItem).join('');
   const marketsAndDeals = asArray(digest.marketsAndDeals).map(renderBodyItem).join('');
   const aiAndTech = asArray(digest.aiAndTech).map(renderBodyItem).join('');
@@ -107,14 +109,41 @@ function renderEmailHtml({ date, digest, audioUrl, clippers }) {
   </div>`
     : '';
 
+  return `
+    ${sectionHeader('World')}
+    ${world}
+
+    ${sectionHeader('Markets & Deals')}
+    ${marketsAndDeals}
+
+    ${sectionHeader('AI & Tech')}
+    ${aiAndTech}
+
+    ${sectionHeader('Interesting')}
+    <ul style="padding-left:20px;margin:0;">${interesting}</ul>
+
+    ${sectionHeader('Company')}
+    ${company}
+
+    ${sectionHeader('Upcoming')}
+    ${upcoming}`;
+}
+
+function renderEmailHtml({ date, digest, audioUrl, clippers }) {
+  const bodyContent = renderBodyContent(digest);
+
   return `<!doctype html>
 <html>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light">
+<meta name="supported-color-schemes" content="light">
 <title>Morning Brief — ${escapeHtml(date)}</title>
 <style>
+  :root { color-scheme: light; supported-color-schemes: light; }
   body { margin: 0; padding: 0; background: #e9e9e9; }
+  [data-ogsc] .mb-header, [data-ogsc] .mb-header * { background: ${COLORS.headerFrom} !important; color: #ffffff !important; }
   @media only screen and (max-width: 480px) {
     .mb-container { width: 100% !important; }
     .mb-header { padding: 20px 18px 18px 18px !important; }
@@ -146,27 +175,68 @@ function renderEmailHtml({ date, digest, audioUrl, clippers }) {
   </div>
 
   <div class="mb-body" style="padding:8px 28px 28px 28px;">
-    ${sectionHeader('World')}
-    ${world}
-
-    ${sectionHeader('Markets & Deals')}
-    ${marketsAndDeals}
-
-    ${sectionHeader('AI & Tech')}
-    ${aiAndTech}
-
-    ${sectionHeader('Interesting')}
-    <ul style="padding-left:20px;margin:0;">${interesting}</ul>
-
-    ${sectionHeader('Company')}
-    ${company}
-
-    ${sectionHeader('Upcoming')}
-    ${upcoming}
+    ${bodyContent}
   </div>
 </div>
 </body>
 </html>`;
 }
 
-module.exports = { renderEmailHtml };
+// The full digest as a standalone web page, with a real working <audio>
+// player up top -- unlike the email, a normal webpage isn't sanitized by a
+// mail client, so audio actually works here. This is what the email's
+// "Listen" button links to: one page with both the player and the full
+// newsletter content, rather than a bare audio-only stub.
+function renderWebPage({ date, digest, audioFileName, clippers }) {
+  const bodyContent = renderBodyContent(digest);
+
+  return `<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light">
+<meta name="supported-color-schemes" content="light">
+<title>Morning Brief — ${escapeHtml(date)}</title>
+<style>
+  :root { color-scheme: light; supported-color-schemes: light; }
+  body { margin: 0; padding: 0; background: #e9e9e9; }
+  [data-ogsc] .mb-header, [data-ogsc] .mb-header * { background: ${COLORS.headerFrom} !important; color: #ffffff !important; }
+  audio { width: 100%; margin-top: 16px; }
+  @media only screen and (max-width: 480px) {
+    .mb-container { width: 100% !important; }
+    .mb-header { padding: 20px 18px 18px 18px !important; }
+    .mb-header-title { font-size: 25px !important; }
+    .mb-body { padding: 6px 18px 20px 18px !important; }
+    .mb-story-title { font-size: 17.5px !important; }
+    .mb-story-text { font-size: 15px !important; }
+  }
+</style>
+</head>
+<body>
+<div class="mb-container" style="max-width:640px;margin:0 auto;background:#ffffff;">
+  <div style="height:3px;background:${COLORS.accentBar};"></div>
+  <div class="mb-header" style="background:linear-gradient(135deg, ${COLORS.headerFrom}, ${COLORS.headerTo});padding:28px 28px 24px 28px;">
+    <table role="presentation" width="100%" style="border-collapse:collapse;">
+      <tr>
+        <td style="font-family:${SANS};font-size:12.5px;letter-spacing:1.2px;text-transform:uppercase;color:${COLORS.muted};">${escapeHtml(date)}</td>
+      </tr>
+      <tr>
+        <td class="mb-header-title" style="padding-top:6px;font-family:${SERIF};font-size:30px;font-weight:bold;color:#ffffff;">Morning Brief</td>
+      </tr>
+      ${renderClippersLine(clippers)}
+    </table>
+    <audio controls autoplay src="${escapeAttr(audioFileName)}">
+      Your browser doesn't support inline audio. <a href="${escapeAttr(audioFileName)}" style="color:#fff;">Download the MP3</a> instead.
+    </audio>
+  </div>
+
+  <div class="mb-body" style="padding:8px 28px 28px 28px;">
+    ${bodyContent}
+  </div>
+</div>
+</body>
+</html>`;
+}
+
+module.exports = { renderEmailHtml, renderWebPage };

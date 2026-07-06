@@ -3,6 +3,7 @@ node_modules/
 digest-cache.json
 digest-debug.json
 preview.html
+audio/preview-player.html
 preview-audio.mp3
 last-run-preview.html
 run-output.txt

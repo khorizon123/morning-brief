@@ -6,11 +6,12 @@ const { fetchBatch } = require('./fetch-batch');
 const { generateDigest } = require('./summarize');
 const { generateAudio } = require('./audio');
 const { getClippersUpdate } = require('./clippers');
-const { renderEmailHtml } = require('./template');
+const { renderEmailHtml, renderWebPage } = require('./template');
 const { archiveMessages } = require('./archive');
 
 const PAGES_URL = 'https://khorizon123.github.io/morning-brief';
 const AUDIO_PATH = 'audio/latest.mp3';
+const PLAYER_PATH = 'audio/player.html';
 
 const isLive = process.argv.includes('--live');
 const TARGET_HOUR = 7;
@@ -32,7 +33,7 @@ function formatDate(d) {
   return d.toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
 }
 
-async function sendEmail(html) {
+async function sendEmail(html, date) {
   const res = await fetch('https://api.resend.com/emails', {
     method: 'POST',
     headers: {
@@ -42,7 +43,7 @@ async function sendEmail(html) {
     body: JSON.stringify({
       from: process.env.RESEND_FROM_EMAIL,
       to: process.env.RESEND_TO_EMAIL,
-      subject: `Morning Brief — ${formatDate(new Date())}`,
+      subject: `Morning Brief — ${date}`,
       html,
     }),
   });
@@ -53,7 +54,7 @@ async function sendEmail(html) {
 
 const MAX_REASONABLE_AUDIO_BYTES = 40 * 1024 * 1024; // ~40MB is generous for a 15-min voice MP3
 
-function pushAudio(buffer) {
+function pushAudio(buffer, date, digest, clippers) {
   if (buffer.length > MAX_REASONABLE_AUDIO_BYTES) {
     throw new Error(
       `Audio buffer is ${(buffer.length / 1024 / 1024).toFixed(1)}MB, far beyond what a 10-15 minute ` +
@@ -63,14 +64,18 @@ function pushAudio(buffer) {
   }
   fs.mkdirSync(path.dirname(AUDIO_PATH), { recursive: true });
   fs.writeFileSync(AUDIO_PATH, buffer);
-  execSync(`git add ${AUDIO_PATH}`);
+
+  const webPageHtml = renderWebPage({ date, digest, audioFileName: path.basename(AUDIO_PATH), clippers });
+  fs.writeFileSync(PLAYER_PATH, webPageHtml, 'utf8');
+
+  execSync(`git add ${AUDIO_PATH} ${PLAYER_PATH}`);
   try {
     execSync(`git commit -m "Update daily audio ${new Date().toISOString().slice(0, 10)}"`);
     execSync('git push');
   } catch (err) {
     console.log('Nothing to commit or push failed:', err.message.split('\n')[0]);
   }
-  return `${PAGES_URL}/${AUDIO_PATH}`;
+  return `${PAGES_URL}/${PLAYER_PATH}`;
 }
 
 async function main() {
@@ -84,6 +89,8 @@ async function main() {
     }
     console.log(`It's 7am in ${timezone} -- proceeding with today's brief.`);
   }
+
+  const date = formatDate(new Date());
 
   console.log('Fetching newsletters...');
   const batch = await fetchBatch('1d');
@@ -101,11 +108,11 @@ async function main() {
   const audioBuffer = await generateAudio(digest, clippers);
 
   console.log('Pushing audio to GitHub...');
-  const audioUrl = pushAudio(audioBuffer);
-  console.log('Audio URL:', audioUrl);
+  const audioUrl = pushAudio(audioBuffer, date, digest, clippers);
+  console.log('Audio player URL:', audioUrl);
 
   const html = renderEmailHtml({
-    date: formatDate(new Date()),
+    date,
     digest,
     audioUrl,
     clippers,
@@ -120,7 +127,7 @@ async function main() {
   }
 
   console.log('Sending email...');
-  const sendResult = await sendEmail(html);
+  const sendResult = await sendEmail(html, date);
   console.log('Email sent:', sendResult.id);
 
   console.log('Archiving processed emails...');
