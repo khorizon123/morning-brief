@@ -7,3 +7,4 @@ preview-audio.mp3
 last-run-preview.html
 run-output.txt
 *.log
+.claude/
