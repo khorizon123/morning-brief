@@ -31,7 +31,10 @@ jobs:
 
       - name: Run Morning Brief
         env:
-          SCHEDULED_RUN: 'true'
+          # Only the actual cron schedule respects the "is it 7am yet"
+          # gate -- manual (workflow_dispatch) runs always execute for real,
+          # since that's the whole point of triggering one by hand.
+          SCHEDULED_RUN: ${{ github.event_name == 'schedule' && 'true' || 'false' }}
           TARGET_TIMEZONE: ${{ vars.TARGET_TIMEZONE }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           GOOGLE_CLIENT_ID: ${{ secrets.GOOGLE_CLIENT_ID }}
