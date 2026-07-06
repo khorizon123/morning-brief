@@ -2,11 +2,14 @@ name: Morning Brief
 
 on:
   schedule:
-    # Fires every hour; the script itself checks whether it's actually 7am
-    # in the currently configured TARGET_TIMEZONE and skips otherwise (see
-    # run.js). This lets the "local 7am" follow a repo variable you can
-    # update when traveling, rather than a fixed UTC offset.
-    - cron: '0 * * * *'
+    # Fires twice an hour, deliberately NOT on the :00 minute -- GitHub's own
+    # docs warn that :00 is the most congested slot and scheduled runs can be
+    # delayed or dropped entirely during high load. Two offset times per hour
+    # gives redundancy in case one is dropped. run.js checks whether it's
+    # actually 7am in TARGET_TIMEZONE and skips otherwise, and separately
+    # guards against sending twice if both land in the target hour.
+    - cron: '12 * * * *'
+    - cron: '42 * * * *'
   workflow_dispatch: {}
 
 permissions:

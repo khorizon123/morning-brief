@@ -29,6 +29,20 @@ function isTargetHourNow(timezone) {
   return parseInt(hourStr, 10) % 24 === TARGET_HOUR;
 }
 
+// The workflow now checks twice an hour for redundancy (see daily-brief.yml),
+// so both checks could land inside the target hour. Guard against sending
+// twice by checking whether today's audio commit has already happened.
+function alreadySentToday(timezone) {
+  try {
+    const lastCommitIso = execSync(`git log -1 --format=%cI -- ${AUDIO_PATH}`).toString().trim();
+    if (!lastCommitIso) return false;
+    const dateFmt = new Intl.DateTimeFormat('en-CA', { timeZone: timezone });
+    return dateFmt.format(new Date(lastCommitIso)) === dateFmt.format(new Date());
+  } catch {
+    return false;
+  }
+}
+
 function formatDate(d) {
   return d.toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
 }
@@ -84,7 +98,11 @@ async function main() {
   if (process.env.SCHEDULED_RUN === 'true') {
     const timezone = process.env.TARGET_TIMEZONE || 'America/Chicago';
     if (!isTargetHourNow(timezone)) {
-      console.log(`Not currently 7am in ${timezone} -- skipping this hourly check.`);
+      console.log(`Not currently 7am in ${timezone} -- skipping this check.`);
+      return;
+    }
+    if (alreadySentToday(timezone)) {
+      console.log(`Already sent today's brief in ${timezone} -- skipping duplicate.`);
       return;
     }
     console.log(`It's 7am in ${timezone} -- proceeding with today's brief.`);
