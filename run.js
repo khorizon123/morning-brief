@@ -13,6 +13,20 @@ const PAGES_URL = 'https://khorizon123.github.io/morning-brief';
 const AUDIO_PATH = 'audio/latest.mp3';
 
 const isLive = process.argv.includes('--live');
+const TARGET_HOUR = 7;
+
+// The GitHub Actions cron fires hourly (since cron can't follow a traveling
+// person's timezone on its own). This checks whether it's actually 7am in
+// whatever timezone is currently configured, and skips the run otherwise.
+// Only applies to the scheduled workflow -- local manual runs always proceed.
+function isTargetHourNow(timezone) {
+  const hourStr = new Intl.DateTimeFormat('en-US', {
+    timeZone: timezone,
+    hour: 'numeric',
+    hour12: false,
+  }).format(new Date());
+  return parseInt(hourStr, 10) % 24 === TARGET_HOUR;
+}
 
 function formatDate(d) {
   return d.toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
@@ -61,6 +75,15 @@ function pushAudio(buffer) {
 
 async function main() {
   console.log(`Mode: ${isLive ? 'LIVE (will send email + archive Gmail)' : 'DRY RUN (no send, no archive)'}`);
+
+  if (process.env.SCHEDULED_RUN === 'true') {
+    const timezone = process.env.TARGET_TIMEZONE || 'America/Chicago';
+    if (!isTargetHourNow(timezone)) {
+      console.log(`Not currently 7am in ${timezone} -- skipping this hourly check.`);
+      return;
+    }
+    console.log(`It's 7am in ${timezone} -- proceeding with today's brief.`);
+  }
 
   console.log('Fetching newsletters...');
   const batch = await fetchBatch('1d');

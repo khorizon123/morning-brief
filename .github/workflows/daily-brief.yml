@@ -1,0 +1,44 @@
+name: Morning Brief
+
+on:
+  schedule:
+    # Fires every hour; the script itself checks whether it's actually 7am
+    # in the currently configured TARGET_TIMEZONE and skips otherwise (see
+    # run.js). This lets the "local 7am" follow a repo variable you can
+    # update when traveling, rather than a fixed UTC offset.
+    - cron: '0 * * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - run: npm ci
+
+      - name: Configure git identity for the audio commit
+        run: |
+          git config user.email "actions@github.com"
+          git config user.name "Morning Brief Bot"
+
+      - name: Run Morning Brief
+        env:
+          SCHEDULED_RUN: 'true'
+          TARGET_TIMEZONE: ${{ vars.TARGET_TIMEZONE }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GOOGLE_CLIENT_ID: ${{ secrets.GOOGLE_CLIENT_ID }}
+          GOOGLE_CLIENT_SECRET: ${{ secrets.GOOGLE_CLIENT_SECRET }}
+          GOOGLE_REFRESH_TOKEN: ${{ secrets.GOOGLE_REFRESH_TOKEN }}
+          GOOGLE_TTS_API_KEY: ${{ secrets.GOOGLE_TTS_API_KEY }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          RESEND_FROM_EMAIL: ${{ secrets.RESEND_FROM_EMAIL }}
+          RESEND_TO_EMAIL: ${{ secrets.RESEND_TO_EMAIL }}
+        run: node run.js --live
