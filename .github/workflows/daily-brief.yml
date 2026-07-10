@@ -2,14 +2,20 @@ name: Morning Brief
 
 on:
   schedule:
-    # Fires twice an hour, deliberately NOT on the :00 minute -- GitHub's own
+    # Fires 4x an hour, deliberately NOT on the :00 minute -- GitHub's own
     # docs warn that :00 is the most congested slot and scheduled runs can be
-    # delayed or dropped entirely during high load. Two offset times per hour
-    # gives redundancy in case one is dropped. run.js checks whether it's
-    # actually 7am in TARGET_TIMEZONE and skips otherwise, and separately
-    # guards against sending twice if both land in the target hour.
-    - cron: '12 * * * *'
-    - cron: '42 * * * *'
+    # delayed or dropped entirely during high load. On 2026-07-10, GitHub
+    # dropped BOTH of the (then two) offset triggers inside the 7am hour, so
+    # nothing sent that day -- four spread-out offsets makes a full-hour
+    # miss much less likely. This is free either way: public repos get
+    # unlimited Actions minutes, and each skipped (non-7am) run only takes
+    # ~15-20s. run.js checks whether it's actually 7am in TARGET_TIMEZONE
+    # and skips otherwise, and separately guards against sending twice if
+    # more than one trigger lands in the target hour.
+    - cron: '7 * * * *'
+    - cron: '22 * * * *'
+    - cron: '37 * * * *'
+    - cron: '52 * * * *'
   workflow_dispatch: {}
 
 permissions:
