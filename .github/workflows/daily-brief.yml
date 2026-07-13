@@ -26,6 +26,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          # Full history -- alreadySentToday() in run.js walks git log for the
+          # last audio commit, which a shallow (depth-1) clone can't see once
+          # any non-audio commit becomes the new HEAD.
+          fetch-depth: 0
 
       - uses: actions/setup-node@v4
         with:

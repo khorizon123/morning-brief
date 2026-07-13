@@ -15,18 +15,23 @@ const PLAYER_PATH = 'audio/player.html';
 
 const isLive = process.argv.includes('--live');
 const TARGET_HOUR = 7;
-
-// The GitHub Actions cron fires hourly (since cron can't follow a traveling
-// person's timezone on its own). This checks whether it's actually 7am in
-// whatever timezone is currently configured, and skips the run otherwise.
-// Only applies to the scheduled workflow -- local manual runs always proceed.
-function isTargetHourNow(timezone) {
+// On 2026-07-10 GitHub dropped both then-existing 7am triggers; even after
+// bumping to 4 triggers/hour, on 2026-07-13 it dropped all four -- the whole
+// 7am hour never fired. A single-hour match is too fragile against GitHub
+// silently dropping a whole hour's scheduled runs, so this accepts any hour
+// adjacent to the target too. The workflow already polls every 15 minutes
+// around the clock, so this just gives neighboring hours' triggers a chance
+// to catch a fully-dropped target hour. alreadySentToday() still guards
+// against sending more than once within the widened window.
+function isWithinTargetWindow(timezone) {
   const hourStr = new Intl.DateTimeFormat('en-US', {
     timeZone: timezone,
     hour: 'numeric',
     hour12: false,
   }).format(new Date());
-  return parseInt(hourStr, 10) % 24 === TARGET_HOUR;
+  const hour = parseInt(hourStr, 10) % 24;
+  const diff = Math.min((hour - TARGET_HOUR + 24) % 24, (TARGET_HOUR - hour + 24) % 24);
+  return diff <= 1;
 }
 
 // The workflow now checks twice an hour for redundancy (see daily-brief.yml),
@@ -97,15 +102,15 @@ async function main() {
 
   if (process.env.SCHEDULED_RUN === 'true') {
     const timezone = process.env.TARGET_TIMEZONE || 'America/Chicago';
-    if (!isTargetHourNow(timezone)) {
-      console.log(`Not currently 7am in ${timezone} -- skipping this check.`);
+    if (!isWithinTargetWindow(timezone)) {
+      console.log(`Not within the 7am window in ${timezone} -- skipping this check.`);
       return;
     }
     if (alreadySentToday(timezone)) {
       console.log(`Already sent today's brief in ${timezone} -- skipping duplicate.`);
       return;
     }
-    console.log(`It's 7am in ${timezone} -- proceeding with today's brief.`);
+    console.log(`Within the 7am window in ${timezone} -- proceeding with today's brief.`);
   }
 
   const date = formatDate(new Date());
