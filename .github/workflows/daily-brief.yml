@@ -21,6 +21,16 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  # Without this, two triggers landing minutes apart inside the target window
+  # (see run.js's isWithinTargetWindow) can both start before either has
+  # committed audio/latest.mp3 -- alreadySentToday() only guards against a
+  # commit that already exists, not one still in flight, so both would pass
+  # the check and both would send. Queuing (not cancelling) means a run that
+  # starts after an earlier one finishes will correctly see its commit and skip.
+  group: morning-brief
+  cancel-in-progress: false
+
 jobs:
   run:
     runs-on: ubuntu-latest
