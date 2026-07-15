@@ -8,6 +8,7 @@ const { generateAudio } = require('./audio');
 const { getClippersUpdate } = require('./clippers');
 const { renderEmailHtml, renderWebPage } = require('./template');
 const { archiveMessages } = require('./archive');
+const { loadHistory, saveHistory, appendToHistory, buildHistoryContext, HISTORY_PATH } = require('./digest-history');
 
 const PAGES_URL = 'https://khorizon123.github.io/morning-brief';
 const AUDIO_PATH = 'audio/latest.mp3';
@@ -87,7 +88,7 @@ function pushAudio(buffer, date, digest, clippers) {
   const webPageHtml = renderWebPage({ date, digest, audioFileName: path.basename(AUDIO_PATH), clippers });
   fs.writeFileSync(PLAYER_PATH, webPageHtml, 'utf8');
 
-  execSync(`git add ${AUDIO_PATH} ${PLAYER_PATH}`);
+  execSync(`git add ${AUDIO_PATH} ${PLAYER_PATH} ${HISTORY_PATH}`);
   try {
     execSync(`git commit -m "Update daily audio ${new Date().toISOString().slice(0, 10)}"`);
     execSync('git push');
@@ -114,18 +115,34 @@ async function main() {
   }
 
   const date = formatDate(new Date());
+  const dateIso = new Date().toISOString().slice(0, 10);
 
   console.log('Fetching newsletters...');
   const batch = await fetchBatch('1d');
   console.log(`Fetched ${batch.length} emails.`);
 
+  if (batch.length === 0) {
+    // Zero newsletters means zero source material -- the model has nothing
+    // to summarize and required fields (like company) get fabricated. This
+    // should only happen if alreadySentToday() failed to catch a duplicate
+    // run against an inbox an earlier run already archived; bail rather than
+    // send a broken digest.
+    console.log('No newsletters fetched -- aborting rather than sending an empty digest.');
+    return;
+  }
+
   console.log('Checking Clippers...');
   const clippers = await getClippersUpdate();
   console.log(clippers ? `Clippers: ${clippers.result} vs ${clippers.opponent} ${clippers.score}` : 'No Clippers game.');
 
+  const history = loadHistory();
+  const historyContext = buildHistoryContext(history);
+
   console.log('Generating digest with Claude...');
-  const digest = await generateDigest(batch);
+  const digest = await generateDigest(batch, historyContext);
   fs.writeFileSync('digest-debug.json', JSON.stringify(digest, null, 2), 'utf8');
+
+  saveHistory(appendToHistory(history, dateIso, digest));
 
   console.log('Generating audio...');
   const audioBuffer = await generateAudio(digest, clippers);

@@ -41,6 +41,16 @@ jobs:
           # last audio commit, which a shallow (depth-1) clone can't see once
           # any non-audio commit becomes the new HEAD.
           fetch-depth: 0
+          # Explicit branch ref, not the default github.sha. For a `schedule`
+          # event, github.sha is resolved when the run is QUEUED, not when it
+          # starts -- so a run held in the concurrency queue (see `concurrency`
+          # below) can still check out a stale commit from before an earlier
+          # queued run pushed today's audio commit. On 2026-07-15 this let a
+          # second run miss alreadySentToday() entirely: it saw an inbox
+          # already drained by the first run's archiveMessages() and sent a
+          # broken digest. Pinning to the branch name forces a fresh fetch of
+          # the true tip at execution time.
+          ref: master
 
       - uses: actions/setup-node@v4
         with:
