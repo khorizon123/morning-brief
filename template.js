@@ -44,9 +44,21 @@ function sectionHeader(title) {
   return `<h2 style="color:${COLORS.amber};font-family:${SANS};font-size:13px;letter-spacing:1.5px;text-transform:uppercase;border-bottom:2px solid ${COLORS.amber};padding-bottom:8px;margin:32px 0 18px 0;">${escapeHtml(title)}</h2>`;
 }
 
+// Silent unless the model flagged an item as pure recap -- nothing beyond
+// what's already been covered, no new facts or developments. An ongoing
+// story with real new specifics (e.g. today's war coverage) is never
+// flagged just for being a continuation, so this stays quiet on a normal
+// weekday and only shows up for thin-newsletter weekend-style recaps.
+function recapNote(item) {
+  if (!item.isRecap) return '';
+  const detail = item.recapNote ? ` — ${escapeHtml(item.recapNote)}` : '';
+  return `<div style="font-family:${SANS};font-size:10.5px;letter-spacing:0.8px;font-weight:bold;color:${COLORS.amber};text-transform:uppercase;margin-bottom:4px;">Recap${detail}</div>`;
+}
+
 function renderWorldItem(item) {
   return `
   <div style="margin-bottom:24px;">
+    ${recapNote(item)}
     <h3 class="mb-story-title" style="font-family:${SERIF};font-size:19px;line-height:1.3;margin:0 0 8px 0;color:${COLORS.bodyText};">${escapeHtml(item.headline)}</h3>
     <p class="mb-story-text" style="font-family:${SERIF};font-size:15.5px;line-height:1.55;color:${COLORS.bodyText};margin:0 0 8px 0;">${escapeHtml(item.narrative)}</p>
     <p class="mb-story-text" style="font-family:${SERIF};font-size:15.5px;line-height:1.55;color:${COLORS.contextText};font-style:italic;margin:0 0 10px 0;">${escapeHtml(item.context)}</p>
@@ -57,6 +69,7 @@ function renderWorldItem(item) {
 function renderBodyItem(item) {
   return `
   <div style="margin-bottom:24px;">
+    ${recapNote(item)}
     <h3 class="mb-story-title" style="font-family:${SERIF};font-size:19px;line-height:1.3;margin:0 0 8px 0;color:${COLORS.bodyText};">${escapeHtml(item.headline)}</h3>
     <p class="mb-story-text" style="font-family:${SERIF};font-size:15.5px;line-height:1.55;color:${COLORS.bodyText};margin:0 0 10px 0;">${escapeHtml(item.body)}</p>
     ${readMoreLink(item.link, item.sourceName)}
@@ -68,7 +81,10 @@ function renderInterestingItem(item) {
   const content = item.link
     ? `<a href="${escapeAttr(item.link)}" style="color:${COLORS.link};text-decoration:underline;">${inner}</a>`
     : inner;
-  return `<li style="font-family:${SERIF};font-size:15.5px;line-height:1.6;color:${COLORS.bodyText};margin-bottom:10px;">${content}</li>`;
+  const tag = item.isRecap
+    ? `<span style="font-family:${SANS};font-size:10px;font-weight:bold;color:${COLORS.amber};text-transform:uppercase;margin-right:6px;">Recap</span>`
+    : '';
+  return `<li style="font-family:${SERIF};font-size:15.5px;line-height:1.6;color:${COLORS.bodyText};margin-bottom:10px;">${tag}${content}</li>`;
 }
 
 function renderUpcomingItem(item) {

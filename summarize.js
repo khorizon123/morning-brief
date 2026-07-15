@@ -4,6 +4,23 @@ const Anthropic = require('@anthropic-ai/sdk');
 const client = new Anthropic();
 const MODEL = 'claude-sonnet-4-6';
 
+const IS_RECAP_FIELD = {
+  type: 'boolean',
+  description:
+    'true ONLY if this item contains nothing beyond what\'s already in the PREVIOUSLY COVERED list -- ' +
+    'pure restatement/summary with no new facts, figures, statements, or developments. This is NOT about ' +
+    'whether the story is part of an ongoing situation: an ongoing story (a war, an earnings season, a ' +
+    'trial) that has real new specifics today is false, even though it is obviously a continuation. Only ' +
+    'true when there is genuinely nothing new here. Always false when there is no PREVIOUSLY COVERED list.',
+};
+
+const RECAP_NOTE_FIELD = {
+  type: 'string',
+  description:
+    "If isRecap is true, a short phrase (3-8 words) naming what's being recapped and since when, e.g. " +
+    "\"No new developments since Tuesday's coverage\". Empty string if isRecap is false.",
+};
+
 const DIGEST_SCHEMA = {
   name: 'output_digest',
   description: 'Outputs the structured Morning Brief digest sections.',
@@ -21,8 +38,10 @@ const DIGEST_SCHEMA = {
             context: { type: 'string', description: 'Background for a reader without deep geopolitical knowledge. Will be italicized. 1-3 sentences.' },
             sourceName: { type: 'string' },
             link: { type: 'string', description: 'The article URL from the AVAILABLE LINKS list for this article. Empty string if none apply.' },
+            isRecap: IS_RECAP_FIELD,
+            recapNote: RECAP_NOTE_FIELD,
           },
-          required: ['headline', 'narrative', 'context', 'sourceName', 'link'],
+          required: ['headline', 'narrative', 'context', 'sourceName', 'link', 'isRecap', 'recapNote'],
         },
       },
       marketsAndDeals: {
@@ -35,8 +54,10 @@ const DIGEST_SCHEMA = {
             body: { type: 'string', description: '4-6 sentences.' },
             sourceName: { type: 'string' },
             link: { type: 'string', description: 'The article URL from the AVAILABLE LINKS list for this article. Empty string if none apply.' },
+            isRecap: IS_RECAP_FIELD,
+            recapNote: RECAP_NOTE_FIELD,
           },
-          required: ['headline', 'body', 'sourceName', 'link'],
+          required: ['headline', 'body', 'sourceName', 'link', 'isRecap', 'recapNote'],
         },
       },
       aiAndTech: {
@@ -49,8 +70,10 @@ const DIGEST_SCHEMA = {
             body: { type: 'string', description: '4-6 sentences.' },
             sourceName: { type: 'string' },
             link: { type: 'string', description: 'The article URL from the AVAILABLE LINKS list for this article. Empty string if none apply.' },
+            isRecap: IS_RECAP_FIELD,
+            recapNote: RECAP_NOTE_FIELD,
           },
-          required: ['headline', 'body', 'sourceName', 'link'],
+          required: ['headline', 'body', 'sourceName', 'link', 'isRecap', 'recapNote'],
         },
       },
       interesting: {
@@ -62,8 +85,10 @@ const DIGEST_SCHEMA = {
             headline: { type: 'string' },
             sourceName: { type: 'string' },
             link: { type: 'string', description: 'The article URL from the AVAILABLE LINKS list for this article. Empty string if none apply.' },
+            isRecap: IS_RECAP_FIELD,
+            recapNote: RECAP_NOTE_FIELD,
           },
-          required: ['headline', 'sourceName', 'link'],
+          required: ['headline', 'sourceName', 'link', 'isRecap', 'recapNote'],
         },
       },
       company: {
@@ -92,7 +117,7 @@ const DIGEST_SCHEMA = {
   },
 };
 
-function buildPrompt(batch) {
+function buildPrompt(batch, historyContext) {
   const bySource = batch
     .map((item, i) => {
       const linkList = (item.links || [])
@@ -137,6 +162,8 @@ LINKS: Each article's raw material is followed by an "AVAILABLE LINKS" list of (
 
 Only include genuinely substantive items — it's fine for a section to be shorter than usual if the source material doesn't support more, but do not pad with filler or invented stories.
 
+RECAP TAGGING: Every item in World, Markets & Deals, AI & Tech, and Interesting needs an "isRecap" flag and a "recapNote" — see those fields' descriptions in the schema. The bar is "does this tell the reader anything they don't already know" — an ongoing story (a war, an earnings season, a trial) with real new specifics today is NOT a recap just because it's a continuation. Only flag isRecap: true when an item is genuinely just restating something already covered with nothing new added. This matters most on quiet days (e.g. weekends) when thin source material leans on "week in review"-style recaps.
+${historyContext ? `\n${historyContext}\n` : ''}
 Here is the raw material:
 
 ${bySource}`;
@@ -163,13 +190,13 @@ function normalizeField(value, fieldName, expectedType) {
   return result;
 }
 
-async function generateDigest(batch) {
+async function generateDigest(batch, historyContext = '') {
   const stream = client.messages.stream({
     model: MODEL,
     max_tokens: 16000,
     tools: [DIGEST_SCHEMA],
     tool_choice: { type: 'tool', name: 'output_digest' },
-    messages: [{ role: 'user', content: buildPrompt(batch) }],
+    messages: [{ role: 'user', content: buildPrompt(batch, historyContext) }],
   });
 
   const message = await stream.finalMessage();
