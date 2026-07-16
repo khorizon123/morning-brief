@@ -1,0 +1,137 @@
+[
+  {
+    "date": "2026-07-16",
+    "items": [
+      {
+        "section": "World",
+        "headline": "U.S.-Iran War Enters Sixth Day of Exchanges, With No End in Sight",
+        "gist": "The U.S. and Iran traded strikes for a sixth consecutive day, with American forces attacking a disputed island in the Strait of Hormuz and Iran targeting U.S. facilities in Jordan. Iran's parliament s"
+      },
+      {
+        "section": "World",
+        "headline": "Ukraine's Defense Minister Ousted After Six Months, Protests Erupt",
+        "gist": "President Zelensky fired Ukraine's defense minister — the young modernizer widely credited with building the country's successful drone warfare program — after just six months in the role. Protests br"
+      },
+      {
+        "section": "World",
+        "headline": "France Legalizes Medically Assisted Dying",
+        "gist": "France's parliament voted to legalize medically assisted dying for those with incurable diseases, though the legislation still requires approval by the country's constitutional authority. France will "
+      },
+      {
+        "section": "World",
+        "headline": "China's Economy Posts Slowest Growth in Three Years",
+        "gist": "China's GDP grew just 4.3% in the second quarter year-on-year — the weakest pace since the pandemic era and well below Beijing's 4.5–5% full-year target. Weak retail sales, falling fixed-asset investm"
+      },
+      {
+        "section": "World",
+        "headline": "California Billionaires Mobilize to Fight First-of-Its-Kind Wealth Tax Ballot Measure",
+        "gist": "California voters will face a November ballot measure proposing a one-time 5% tax on the paper wealth of every billionaire resident as of January 1, 2026, aimed at replacing healthcare funding cut by "
+      },
+      {
+        "section": "World",
+        "headline": "Hungary's New Government Rapidly Dismantles Orbán-Era Institutions",
+        "gist": "Since defeating nationalist Prime Minister Viktor Orbán, Péter Magyar's Tisza party has moved quickly: amending the constitution to remove an Orbán-appointed president, strengthening anti-corruption b"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Stripe and Advent International Launch $53 Billion Joint Bid for PayPal",
+        "gist": ""
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Uber to Acquire Delivery Hero for Over €13 Billion in Landmark Food-Delivery Deal",
+        "gist": ""
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "TSMC Commits Another $100 Billion to U.S. Manufacturing, Bringing Total to $265 Billion",
+        "gist": ""
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "BlackRock Hits Record $15.3 Trillion in Assets; Morgan Stanley Profits Jump 58%",
+        "gist": ""
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "U.S. Slaps 25% Tariff on Brazilian Goods, Escalating Trade Tensions",
+        "gist": ""
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "IBM Suffers Worst Trading Day Since 1968 as AI Disruption Hits Software Sector",
+        "gist": ""
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Energy IPOs Hit Fastest Pace This Century as Investors Play the AI Power Boom",
+        "gist": ""
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI Ships Its First Hardware: A $230 AI Agent Control Pad",
+        "gist": "OpenAI launched Codex Micro, a $230 mechanical keypad built with Work Louder that allows developers to physically control AI coding agents. Color-coded \"Agent Keys\" signal task status, errors, and com"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Mira Murati's Thinking Machines Lab Debuts Its First AI Model, Inkling",
+        "gist": "Thinking Machines Lab, founded by former OpenAI CTO Mira Murati and backed by $2 billion in funding, released Inkling — its first model and a rare U.S.-built open-weights (publicly downloadable and cu"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Weco's AI Agent Redesigns Itself, Beating a Human-Engineered Version on Every Benchmark",
+        "gist": "AI research firm Weco demonstrated early recursive self-improvement with its AIDE² system — an automated agent that spent eight days rewriting its own research process and outperformed a version that "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Bonsai 27B: The First 27-Billion-Parameter AI Model That Runs on a Smartphone",
+        "gist": "PrismML announced Bonsai 27B, which it claims is the first 27-billion-parameter model capable of running entirely on a phone — achieved through 1-bit and ternary weight quantization (a technique that "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Anthropic Launches \"Ode\" — an Enterprise AI Services Firm Backed by Blackstone and Hellman & Friedman",
+        "gist": "Anthropic debuted Ode, a new AI services firm co-created with private equity giants Blackstone and Hellman & Friedman, designed to embed AI engineers inside large enterprises to build Claude-based sys"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "The Economist Warns: China's Open-Source AI Is a Strategic Trap",
+        "gist": "The Economist's geopolitics column argues that China's posture of offering open, accessible AI models as a benign alternative to America's closed, proprietary ones is a strategic illusion. The column "
+      },
+      {
+        "section": "Interesting",
+        "headline": "China has banned chatbot \"romance\" apps from encouraging emotional dependency on AI companions — to boost birthrates",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Argentina's World Cup semi-final win over England included players celebrating with a banner reading \"Las Malvinas son Argentinas\" — invoking a 40-year-old war",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "MIT researchers built a waterproof winged robot that can silently dip in and out of water to monitor marine ecosystems",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A 91-year-old hiker known as \"Grey Beard\" is attempting to re-break his own record as the oldest person to complete the 3,500-km Appalachian Trail",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A New Jersey couple secretly kept a rare meteorite — containing complex organic molecules and evidence of salty water — in their bedroom for two years before scientists found it",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A previously unknown African monkey species — only the fifth newly described in 75 years — was identified 18 years after researchers first spotted it in the DRC",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Bears in Japan are breaking into homes and raiding pantries at record rates",
+        "gist": ""
+      }
+    ]
+  }
+]
