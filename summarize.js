@@ -190,7 +190,7 @@ function normalizeField(value, fieldName, expectedType) {
   return result;
 }
 
-async function generateDigest(batch, historyContext = '') {
+async function generateDigestOnce(batch, historyContext) {
   const stream = client.messages.stream({
     model: MODEL,
     max_tokens: 16000,
@@ -217,6 +217,30 @@ async function generateDigest(batch, historyContext = '') {
     company: normalizeField(raw.company, 'company', 'object'),
     upcoming: normalizeField(raw.upcoming, 'upcoming', 'array'),
   };
+}
+
+const MAX_DIGEST_ATTEMPTS = 3;
+
+// Claude occasionally returns a malformed tool_use payload (see
+// normalizeField above) or gets truncated at max_tokens -- both
+// non-deterministic hiccups worth a same-run retry. Without this, the whole
+// process crashes before archiveMessages()/the audio commit ever run, so the
+// next scheduled trigger (~15min later) sees the same unarchived batch and
+// calls Claude again from scratch, doubling API spend for one digest. On
+// 2026-07-17 that's exactly what happened. Retrying here is one run, one
+// email batch, at most a couple extra Claude calls -- far cheaper than a
+// full duplicate pipeline run.
+async function generateDigest(batch, historyContext = '') {
+  let lastErr;
+  for (let attempt = 1; attempt <= MAX_DIGEST_ATTEMPTS; attempt++) {
+    try {
+      return await generateDigestOnce(batch, historyContext);
+    } catch (err) {
+      lastErr = err;
+      console.log(`Digest generation attempt ${attempt}/${MAX_DIGEST_ATTEMPTS} failed: ${err.message}`);
+    }
+  }
+  throw lastErr;
 }
 
 module.exports = { generateDigest };
