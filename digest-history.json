@@ -133,5 +133,140 @@
         "gist": ""
       }
     ]
+  },
+  {
+    "date": "2026-07-17",
+    "items": [
+      {
+        "section": "World",
+        "headline": "U.S.-Iran War Escalates as American Forces Strike Deeper Inside Iran",
+        "gist": "American forces escalated their campaign overnight, hitting infrastructure deep inside Iran — including six bridges at a southern port, a railway, and an airport — according to Iranian state media. Th"
+      },
+      {
+        "section": "World",
+        "headline": "Andy Burnham Becomes UK Labour Leader, Set to Be Prime Minister Monday",
+        "gist": "Andy Burnham, the former mayor of Greater Manchester, was confirmed today as leader of Britain's governing Labour Party, setting him up to become prime minister on Monday when he travels to Buckingham"
+      },
+      {
+        "section": "World",
+        "headline": "Ukraine's Defense Minister Ousted: Protests Spread, Fedorov Hits Back at Top General",
+        "gist": "A day after being dismissed, Mykhailo Fedorov — the 35-year-old architect of Ukraine's drone warfare program — publicly accused Commander-in-Chief Oleksandr Syrskyi of blocking military modernization "
+      },
+      {
+        "section": "World",
+        "headline": "The Philippines Formally Protests a Chinese State Media AI Video Depicting It as a Monkey",
+        "gist": "The Philippines lodged an official complaint with Beijing after a state-run Chinese publication posted an AI-generated video depicting the Philippines as a karaoke-singing monkey controlled by the Uni"
+      },
+      {
+        "section": "World",
+        "headline": "Diesel Prices Surge 20% as Iran War Chokes Strait of Hormuz Supplies",
+        "gist": "U.S. diesel futures have surged about 20% since the start of last week, with the national average hitting $5.01 per gallon and analysts warning of another 20–25 cents of increases to come. Domestic st"
+      },
+      {
+        "section": "World",
+        "headline": "Astronomers Identify First Nearby Planet With an Atmosphere That Could Support Life",
+        "gist": "Astronomers have identified what they describe as the first potentially habitable nearby planet with a confirmed atmosphere — a significant milestone in the search for life beyond Earth. The planet is"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "AI and Tech Stocks Slide as Euphoria Fades; Nikkei Drops 4%, Nasdaq Futures Down",
+        "gist": "Global equity markets fell sharply Friday as investors pulled back from the AI-driven trade that has powered markets for much of the year. Japan's tech-heavy Nikkei 225 dropped 4%, China's CSI 300 fel"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Netflix Shares Fall 9% After Forecasting Slowest Revenue Growth in Three Years",
+        "gist": "Netflix reported second-quarter revenue of $12.6 billion — up 13% year on year and largely in line with expectations — but its guidance for Q3 revenue growth of just 11.7% (the slowest since late 2023"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "SpaceX Shares Dip Below IPO Price as AI Euphoria Fades",
+        "gist": "SpaceX, the rocketry and AI company that went public on the Nasdaq at $135 per share, briefly fell below that IPO price after a failed rocket launch — a sharp reversal from its peak of $225, which had"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "London Stock Exchange Bleeds Out: Three More UK Companies Agree to Foreign Takeovers in a Single Day",
+        "gist": "Three separate UK-listed companies agreed to sell to foreign buyers on Thursday, underscoring what has become a structural drain on London's public markets. Swiss engineering giant ABB agreed to buy U"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Eli Lilly Buys Psychedelic Biotech AtaiBeckley for $2.8 Billion",
+        "gist": "Eli Lilly, the world's largest pharmaceutical company, agreed to acquire AtaiBeckley — a developer of psychedelic-based treatments for mental health conditions — for $2.8 billion, with an additional $"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Chevron in Advanced Talks to Invest in Iraq and Build Hormuz Bypass Pipeline Through Syria",
+        "gist": "Chevron is set to sign preliminary deals to invest in two Iraqi oil fields and will join a consortium — which also includes a Syrian-Qatari group and an L.A. venture firm with ties to Trump ally Tom B"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Anthropic Moves Closer to Fall IPO as Banks Line Up Investor Meetings",
+        "gist": "Anthropic — the AI lab behind the Claude family of models — is taking concrete steps toward a fall IPO, with Goldman Sachs, Morgan Stanley, and JPMorgan Chase arranging investor meetings in coming wee"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Moonshot AI's Kimi K3 Pulls Within Striking Distance of GPT-5.6 Sol and Claude Fable 5",
+        "gist": "Chinese lab Moonshot AI released Kimi K3, an open-weights model that lands at 57 on Artificial Analysis's Intelligence Index — behind only Claude Fable 5 (60) and OpenAI's GPT-5.6 Sol (59). K3 beats b"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Xi Jinping Pitches China as the World's \"Open\" AI Leader at Shanghai Conference",
+        "gist": "Speaking at the World Artificial Intelligence Conference in Shanghai, President Xi Jinping called for global AI cooperation as a \"symphony\" and framed China's approach as inclusive and open — a pointe"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Google's Gemini 3.5 Pro Delayed Again as Internal Tensions Slow Releases",
+        "gist": "Google's long-awaited Gemini 3.5 Pro model is facing further delays after its coding benchmark results fell short of internal goals, according to Bloomberg. Google told developers at I/O in May to exp"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI Trains GPT-Red to Attack Its Own Models — and It Works",
+        "gist": "OpenAI developed GPT-Red, a model specifically trained to generate adversarial prompts and expose vulnerabilities in other AI systems at scale — essentially an AI red-teamer. Incorporating GPT-Red's a"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "AI-Generated Fake Biographies Are Flooding Amazon — And Selling for $26.99",
+        "gist": "A New York Times tech reporter discovered an AI-generated biography of herself for sale on Amazon at $26.99 — and found she was far from alone. A cottage industry of AI-generated books, often using re"
+      },
+      {
+        "section": "Interesting",
+        "headline": "A White House teleprompter operator won ~$100,000 betting on what Trump would say in his own speeches, using his insider access to place trades on prediction market Kalshi",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Trump Media plans to sell millisecond-early access to Trump's Truth Social posts to high-frequency algorithmic trading firms — calling it \"Truth API\"",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Christopher Nolan's \"The Odyssey\" — first feature film shot entirely in IMAX — is tracking for $200M+ opening weekend, which would beat Oppenheimer",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Merck's FDA-approved cholesterol pill Lipfendra reduces LDL by up to 60% over six months — and at $315/month it's cheaper than existing injectable alternatives",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Astronomers discovered two \"super-puff\" planets at least the size of Jupiter but less dense than cotton candy — making them among the strangest objects in the known universe",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "The CDC linked a Cyclospora parasitic outbreak to Taylor Farms iceberg lettuce sent to Taco Bell locations across five states",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Israel's Knesset entered pre-election recess Friday ahead of an October 27 vote — the first time voters will weigh in on the Oct. 7 intelligence failures and three years of subsequent wars",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "The EU will unveil a major revision of its carbon permit system today, phasing out free allowances for heavy industry and replacing them with a carbon border tariff",
+        "gist": ""
+      }
+    ]
   }
 ]
