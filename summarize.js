@@ -2,7 +2,7 @@ require('dotenv').config();
 const Anthropic = require('@anthropic-ai/sdk');
 
 const client = new Anthropic();
-const MODEL = 'claude-sonnet-4-6';
+const MODEL = 'claude-sonnet-5';
 
 const IS_RECAP_FIELD = {
   type: 'boolean',
@@ -24,6 +24,7 @@ const RECAP_NOTE_FIELD = {
 const DIGEST_SCHEMA = {
   name: 'output_digest',
   description: 'Outputs the structured Morning Brief digest sections.',
+  strict: true,
   input_schema: {
     type: 'object',
     properties: {
@@ -42,6 +43,7 @@ const DIGEST_SCHEMA = {
             recapNote: RECAP_NOTE_FIELD,
           },
           required: ['headline', 'narrative', 'context', 'sourceName', 'link', 'isRecap', 'recapNote'],
+          additionalProperties: false,
         },
       },
       marketsAndDeals: {
@@ -58,6 +60,7 @@ const DIGEST_SCHEMA = {
             recapNote: RECAP_NOTE_FIELD,
           },
           required: ['headline', 'body', 'sourceName', 'link', 'isRecap', 'recapNote'],
+          additionalProperties: false,
         },
       },
       aiAndTech: {
@@ -74,6 +77,7 @@ const DIGEST_SCHEMA = {
             recapNote: RECAP_NOTE_FIELD,
           },
           required: ['headline', 'body', 'sourceName', 'link', 'isRecap', 'recapNote'],
+          additionalProperties: false,
         },
       },
       interesting: {
@@ -89,6 +93,7 @@ const DIGEST_SCHEMA = {
             recapNote: RECAP_NOTE_FIELD,
           },
           required: ['headline', 'sourceName', 'link', 'isRecap', 'recapNote'],
+          additionalProperties: false,
         },
       },
       company: {
@@ -99,6 +104,7 @@ const DIGEST_SCHEMA = {
           body: { type: 'string', description: '4-5 sentences.' },
         },
         required: ['name', 'body'],
+        additionalProperties: false,
       },
       upcoming: {
         type: 'array',
@@ -110,10 +116,12 @@ const DIGEST_SCHEMA = {
             body: { type: 'string', description: '1-2 sentences on timing/why it matters.' },
           },
           required: ['headline', 'body'],
+          additionalProperties: false,
         },
       },
     },
     required: ['world', 'marketsAndDeals', 'aiAndTech', 'interesting', 'company', 'upcoming'],
+    additionalProperties: false,
   },
 };
 
