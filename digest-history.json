@@ -268,5 +268,115 @@
         "gist": ""
       }
     ]
+  },
+  {
+    "date": "2026-07-18",
+    "items": [
+      {
+        "section": "World",
+        "headline": "US-Iran War Enters Second Week as American Strikes Push Deeper Into Iran",
+        "gist": "American forces carried out a seventh consecutive night of strikes on Iran, hitting surveillance sites, military logistics infrastructure and underground weapons storage, while also destroying a port "
+      },
+      {
+        "section": "World",
+        "headline": "Ukraine Protests Enter Second Day Over Ousted Drone-Warfare Chief",
+        "gist": "Thousands of Ukrainians protested for a second consecutive day against President Zelensky's dismissal of popular defense minister Mykhailo Fedorov, the 35-year-old architect of the country's drone pro"
+      },
+      {
+        "section": "World",
+        "headline": "Andy Burnham Set to Become UK Prime Minister Monday, Names Chancellor Pick",
+        "gist": "Andy Burnham, the former Greater Manchester mayor known as \"king of the north,\" will be asked by King Charles to form a government Monday after being confirmed as Labour leader. Home Secretary Shabana"
+      },
+      {
+        "section": "World",
+        "headline": "Israel Heads Toward Election Widely Seen as Most Consequential in Its History",
+        "gist": "Israel's Knesset has entered its pre-election recess ahead of an October 27 vote, which The Economist frames as possibly the country's most important ever, forcing voters to weigh in for the first tim"
+      },
+      {
+        "section": "World",
+        "headline": "Canada's Wildfires Prompt Trump Tariff Threat Over Smoke Drifting Into US",
+        "gist": "President Trump threatened new tariffs on Canada, accusing it of failing to properly maintain its forests as smoke from hundreds of Ontario wildfires — 81 of the province's 191 blazes still uncontaine"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Global Stocks Sink as Chip Selloff Hands Apple the World's-Most-Valuable Crown",
+        "gist": "Global equities fell sharply as investors dumped semiconductor shares, with South Korea's KOSPI down more than 6% and Japan's Nikkei off roughly 4%; the Nasdaq and S&P 500 dropped 1.4% and 1% respecti"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "SpaceX in Talks With Pentagon for Multibillion-Dollar AI Data-Center Deal",
+        "gist": "SpaceX is discussing an arrangement to provide the Defense Department with data-center capacity for running AI models, in a deal that could be worth several billion dollars, according to people famili"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Meta in Talks to Rent Anthropic Up to $10 Billion of AI Data-Center Capacity",
+        "gist": "Meta is in early-stage talks to rent out excess computing power from its data centers to Anthropic in a deal that could be worth up to $10 billion over two years, according to the New York Times. Meta"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Vinod Khosla Family Agrees to Buy Seattle Seahawks for $9.6 Billion",
+        "gist": "Vinod Khosla, the Sun Microsystems co-founder and venture capitalist, and his family agreed to buy the Seattle Seahawks for $9.6 billion, acquiring the NFL franchise from the estate of the late Paul A"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Netflix Shares Slide Further as Slowdown Deepens",
+        "gist": "Netflix shares fell nearly 11% in premarket trading after the company projected Q3 revenue and profit growth below Wall Street's expectations, extending a slide that began with the initial guidance. I"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Moonshot's Kimi K3 Rattles Markets, Narrows US-China AI Gap",
+        "gist": "Chinese startup Moonshot released Kimi K3, a 2.8-trillion-parameter open-weights model with a 1-million-token context window, whose benchmark results reportedly rival or exceed OpenAI's and Anthropic'"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Gemini 3.5 Pro Delay Confirmed as Coding Performance Falls Short",
+        "gist": "Google has delayed its long-awaited Gemini 3.5 Pro model after its coding benchmark results fell short of internal targets, sending Alphabet shares down 4% on the news. Google says the model remains i"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Xi Jinping Pitches China as Global AI's Open, Cooperative Leader",
+        "gist": "At the World Artificial Intelligence Conference in Shanghai, Xi Jinping called for \"extensive international cooperation\" on AI and pledged Chinese training and capacity-building for developing countri"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "US Lawmakers Push to Ban American Firms From Buying Chinese Memory Chips",
+        "gist": "US lawmakers urged the Trump administration to bar American companies from buying memory chips from China's CXMT and YMTC, aiming to prevent reliance on Chinese suppliers for critical AI infrastructur"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "ASML Disputes US Claim That China Obtained an Advanced EUV Lithography Machine",
+        "gist": "US Commerce Secretary Howard Lutnick has claimed that, despite export controls, an extreme-ultraviolet (EUV) lithography machine — the only tool capable of printing chips advanced enough for frontier "
+      },
+      {
+        "section": "Interesting",
+        "headline": "A White House teleprompter operator is under CFTC investigation for winning $100,000 betting on Trump's own speeches via Kalshi",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Trump Media has pitched selling millisecond-early access to Trump's Truth Social posts for up to $100,000 a month",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Hidden Valley Ranch dressing has become an unlikely World Cup phenomenon, driving a measurable sales spike among visiting fans",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A brain implant let a paralyzed man regain movement and feeling in his hands after 15 hours of open-skull surgery",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A humanoid robot showed off its culinary skills at China's World AI Conference in Shanghai",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Skyroot Aerospace attempted to launch India's first commercial orbital rocket, Vikram-1, named after the founder of India's space program",
+        "gist": ""
+      }
+    ]
   }
 ]
