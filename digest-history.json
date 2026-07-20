@@ -443,5 +443,120 @@
         "gist": ""
       }
     ]
+  },
+  {
+    "date": "2026-07-20",
+    "items": [
+      {
+        "section": "World",
+        "headline": "US-Iran War Hits Ninth Night as Oil Tops $90 and Casualties Mount",
+        "gist": "American forces struck Iran for a ninth consecutive night after Iranian attacks killed three U.S. troops since Friday — including one soldier killed disposing of an Iranian drone in northern Iraq and "
+      },
+      {
+        "section": "World",
+        "headline": "Andy Burnham Becomes UK Prime Minister, Names Cabinet",
+        "gist": "Andy Burnham was sworn in as Britain's new prime minister today, taking over from Sir Keir Starmer after being confirmed as Labour leader last week. He's expected to name Shabana Mahmood as chancellor"
+      },
+      {
+        "section": "World",
+        "headline": "Third US Soldier Dies as Iran War Casualties Mount",
+        "gist": "A third American service member died over the weekend during a controlled detonation of an Iranian drone in northern Iraq, following the deaths of two soldiers in a Friday attack on a Jordan air base."
+      },
+      {
+        "section": "World",
+        "headline": "Saudi-Houthi Truce Fraying, Raising Threat to Red Sea Oil Route",
+        "gist": "Growing hostilities between Saudi Arabia and Yemen's Houthi militia threaten a Red Sea pipeline route the kingdom has relied on to keep oil exports flowing while the Strait of Hormuz remains blockaded"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Oil Tops $90 for First Time Since June as War Chokes Supply",
+        "gist": "Brent crude jumped 2.5% to $90.30 a barrel, its highest level since June 11, after Iran's latest attacks and the deaths of American troops. Diesel and airfreight rates are also climbing — Xeneta now e"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Morgan Stanley Emerges as Top Bank for AI Debt Deals",
+        "gist": "Morgan Stanley has become Wall Street's chief architect of the financing structures underpinning the AI boom, according to industry executives, dominating the biggest and most inventive AI infrastruct"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "IBM Delivers Preliminary Warning; Stock Suffers Worst Day Ever",
+        "gist": "IBM CEO Arvind Krishna told investors the tech industry's spending frenzy on AI data centers, memory and servers means fewer companies want the on-premise business hardware IBM sells, admitting \"this "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Samsung Biologics Bids $1.8B for PolyPeptide",
+        "gist": "South Korean drugmaker Samsung Biologics offered nearly SFr1.5bn ($1.8bn) for Swiss contract manufacturer PolyPeptide Group, a 6% premium over Friday's close. The deal reflects surging demand for pept"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "China's 'National Team' Buys Nearly $9bn in Stocks to Stem Rout",
+        "gist": "Chinese state-owned asset managers bought close to $9bn in equities to stabilize markets after a bruising sell-off Friday tied to the AI chip stock rout; the CSI 300 had fallen more than 5% last week."
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Anthropic Ends Fable 5's Access Chaos, Halving Usage Caps",
+        "gist": "Anthropic finally settled weeks of shifting deadlines over Claude Fable 5 access, announcing the model stays permanently within Max and Team Premium plans but at half the previous usage caps; lower-ti"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI CFO Proposes 'Useful Intelligence Per Dollar' as New AI Budget Metric",
+        "gist": "OpenAI CFO Sarah Friar published a scorecard for grading corporate AI spending, arguing companies should measure \"useful intelligence per dollar\" rather than raw per-token pricing. Using the DeepSWE c"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Moonshot Halts New Kimi K3 Signups After Hitting Compute Limits",
+        "gist": "Chinese AI lab Moonshot is pausing new subscriptions to its open-weights Kimi K3 model after demand pushed the company to its compute ceiling, splitting existing memberships into separate chat and cod"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "CIA Operative's Secret Role in Securing the UAE's AI Win",
+        "gist": "A Wall Street Journal investigation reveals that CIA operative Jonny Gannon, sent to assess whether the UAE could be trusted with advanced American AI technology, ended up coaching Emirati officials o"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Nicole Nguyen Gave an AI Agent Her Passwords — It Logged Into Her 401(k)",
+        "gist": "A WSJ columnist gave Anthropic's Claude agent access to her passwords as an experiment; within seconds the AI had opened her browser, found her 401(k) provider's login page, and autofilled her credent"
+      },
+      {
+        "section": "Interesting",
+        "headline": "A White House teleprompter operator faces CFTC investigation for betting $100,000 on Trump's own speeches via Kalshi",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A Costco perk: the retailer contributes 9% of pay to 401(k)s for employees with 25+ years of tenure",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A former Ohio strip-club owner once charged with money laundering is now battling to build California's biggest data center",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Tech executives are reconsidering personal security after a firebombing attempt on Sam Altman's home amid rising anti-AI backlash",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Spain beat Argentina 1-0 in extra time to win the World Cup, in what may have been Lionel Messi's final tournament",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Trump and FIFA president Gianni Infantino were booed while handing out the World Cup trophy",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Spain's players ordered 15 margherita, 15 plain, and 10 buffalo chicken pizzas for their post-final celebration in New Jersey",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Tokyo's government is letting office workers wear shorts to work for the first time, to cut air-conditioning costs",
+        "gist": ""
+      }
+    ]
   }
 ]
