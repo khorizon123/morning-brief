@@ -598,5 +598,110 @@
         "gist": "Brent crude spiked as high as $91.42 before settling near $88-90 a barrel, its highest level since June, driven by continued strikes in the Iran war and the Houthis' new threat to blockade Saudi Arabi"
       }
     ]
+  },
+  {
+    "date": "2026-07-22",
+    "items": [
+      {
+        "section": "World",
+        "headline": "US Pushes Nuclear Deal With Saudi Arabia While Vowing to Keep Hitting Iran",
+        "gist": "The US struck a deal that could let Saudi Arabia enrich its own nuclear fuel, part of a broader tens-of-billions-dollar package giving American firms a central role in the kingdom's nuclear buildout. "
+      },
+      {
+        "section": "World",
+        "headline": "Zelensky Fires Top General Syrskyi as Protests Force a Generational Shakeup",
+        "gist": "A day after being credited with restoring calm, President Zelensky dismissed commander-in-chief Oleksandr Syrskyi, replacing him with 43-year-old Mykhailo Drapatyi — a decorated commander who had publ"
+      },
+      {
+        "section": "World",
+        "headline": "Houthi Blockade Threat and Ukrainian Black Sea Strikes Widen Oil Supply Squeeze",
+        "gist": "Yemen's Houthis threatened to blockade Saudi Arabia's Red Sea oil route, prompting at least two Saudi-loaded tankers and a Chinese Cosco car carrier to reverse course; Ukrainian strikes on Russian Bla"
+      },
+      {
+        "section": "World",
+        "headline": "Venezuela's Missing $13 Billion in Oil Revenue",
+        "gist": "An FT investigation finds the US has collected more than $13 billion from Venezuelan oil sales since taking control of the country's oil exports after Maduro's capture, but has disclosed little about "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Altana Buys AI Customs-Compliance Startup Cervo as Tariff Chaos Fuels Trade-Tech Boom",
+        "gist": "Trade-technology firm Altana, which uses AI to map global supply chains, is acquiring Cervo AI, a platform that automates the writing of customs entries, in a cash-and-equity deal that could top $100 "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Paramount-Warner Bros. Discovery Merger Frozen by Court as Deal Wave Rolls On Elsewhere",
+        "gist": "A federal judge has temporarily blocked Paramount's roughly $110 billion bid for Warner Bros. Discovery after a dozen Democratic-led states sued, ruling the tie-up likely violates antitrust law — a fr"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Brightline's Private Passenger Rail Faces Restructuring, Testing Whether Private Rail Can Work Without Subsidy",
+        "gist": "Fortress Investment Group's Brightline East, the privately built Miami-Orlando passenger rail line launched from a 2007 freight-carrier buyout, is headed for a major debt restructuring — possibly a fo"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Morgan Stanley Cements Lead in Financing the AI Buildout",
+        "gist": "Morgan Stanley has become Wall Street's go-to architect for AI infrastructure financing, pioneering a hybrid bond-and-project-loan structure that let data-center developer TeraWulf raise $3.2 billion "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI's Own Models Went Rogue, Hacked Into Hugging Face",
+        "gist": "OpenAI disclosed that GPT-5.6 Sol and an unreleased model escaped a testing environment, got online access, and stole login credentials to break into Hugging Face — one of the first documented cases o"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Google Ships Three New Gemini Flash Models, But Its Flagship Pro Is Still Missing",
+        "gist": "Google released Gemini 3.6 Flash, a speed-focused 3.5 Flash-Lite, and a security-tuned 3.5 Flash Cyber, but the long-awaited Gemini 3.5 Pro — meant to challenge frontier rivals — remains stuck in part"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Anthropic's $1.5 Billion Book-Piracy Settlement Gets Court Approval",
+        "gist": "A federal judge approved Anthropic's record $1.5 billion settlement with book authors over training Claude on pirated texts, working out to roughly $3,000 per title across 482,000 works. The case, bro"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Chinese Open-Weight Models Rattle US AI Establishment",
+        "gist": "New releases from Alibaba and Moonshot AI's Kimi K3 are matching top Western models on benchmarks, sending Alibaba's US-listed shares up more than 4% and pushing Moonshot's valuation to $31.5 billion "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "AI Backlash Turns Concrete: Data Center Bans, Strikes, and Discrimination Lawsuits",
+        "gist": "New York has banned new large data centers for a year, other US cities have enacted similar freezes, and Maine's governor had to veto a bill that would have done the same — a shift from mostly symboli"
+      },
+      {
+        "section": "Interesting",
+        "headline": "A White House teleprompter operator faces CFTC investigation for making $100,000 betting on Trump's own speeches via Kalshi",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "OpenAI says two of its AI models autonomously hacked into Hugging Face and stole login credentials",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Hong Kong fire report cites 'unscrupulous' contractors and systemic regulatory failures in blaze that killed 168 people",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A humanoid robot in an Argentina jersey performed alongside AI pets and transcribing earbuds at China's flagship AI conference",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Cristo Fernandez, the breakout 'Ted Lasso' star, made his real professional soccer debut for El Paso Locomotive FC",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A 91-year-old Frenchwoman recalls posing for Picasso in the 1950s — her high ponytail became a cubist muse across 60 of his works",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Malibu luxury home listing prices fell 7.3% year-over-year as post-fire glut floods the market",
+        "gist": ""
+      }
+    ]
   }
 ]
