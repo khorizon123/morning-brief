@@ -229,6 +229,31 @@ async function generateDigestOnce(batch, historyContext) {
 
 const MAX_DIGEST_ATTEMPTS = 3;
 
+// On 2026-07-21 and 2026-07-24, Claude returned a schema-valid digest (no
+// retry, no max_tokens truncation) that was nonetheless junk: World and
+// Markets & Deals were fully written, but AI & Tech and Interesting came
+// back empty and Company came back as a bare "Placeholder" stub. Both
+// sources.js Tier 1 lists include dedicated AI newsletters (Rundown AI, TLDR
+// AI), so a real batch essentially always has AI & Tech material -- an empty
+// aiAndTech alongside a populated world/marketsAndDeals is a strong signal
+// the model ran out of steam partway through the forced tool call rather
+// than genuinely finding nothing. Company is a required object with no way
+// to represent "nothing to say", so a stub company is the same failure mode
+// wearing a different shape. Catch both and let the existing retry loop
+// below regenerate from scratch -- cheap on the vast majority of days where
+// this check never fires, since it's pure JS with no extra API call.
+function isDegenerate(digest) {
+  const name = (digest.company.name || '').trim();
+  const body = (digest.company.body || '').trim();
+  if (!name || !body || body.length < 40 || /placeholder/i.test(`${name} ${body}`)) {
+    return true;
+  }
+  const hasEarlySections = digest.world.length > 0 || digest.marketsAndDeals.length > 0;
+  const laterSectionsEmpty = digest.aiAndTech.length === 0 && digest.interesting.length === 0;
+  if (hasEarlySections && laterSectionsEmpty) return true;
+  return false;
+}
+
 // Claude occasionally returns a malformed tool_use payload (see
 // normalizeField above) or gets truncated at max_tokens -- both
 // non-deterministic hiccups worth a same-run retry. Without this, the whole
@@ -242,7 +267,11 @@ async function generateDigest(batch, historyContext = '') {
   let lastErr;
   for (let attempt = 1; attempt <= MAX_DIGEST_ATTEMPTS; attempt++) {
     try {
-      return await generateDigestOnce(batch, historyContext);
+      const digest = await generateDigestOnce(batch, historyContext);
+      if (isDegenerate(digest)) {
+        throw new Error('Digest looks degenerate (empty sections after Markets, or a stub company) -- likely a truncated generation.');
+      }
+      return digest;
     } catch (err) {
       lastErr = err;
       console.log(`Digest generation attempt ${attempt}/${MAX_DIGEST_ATTEMPTS} failed: ${err.message}`);
