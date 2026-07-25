@@ -1,115 +1,5 @@
 [
   {
-    "date": "2026-07-18",
-    "items": [
-      {
-        "section": "World",
-        "headline": "US-Iran War Enters Second Week as American Strikes Push Deeper Into Iran",
-        "gist": "American forces carried out a seventh consecutive night of strikes on Iran, hitting surveillance sites, military logistics infrastructure and underground weapons storage, while also destroying a port "
-      },
-      {
-        "section": "World",
-        "headline": "Ukraine Protests Enter Second Day Over Ousted Drone-Warfare Chief",
-        "gist": "Thousands of Ukrainians protested for a second consecutive day against President Zelensky's dismissal of popular defense minister Mykhailo Fedorov, the 35-year-old architect of the country's drone pro"
-      },
-      {
-        "section": "World",
-        "headline": "Andy Burnham Set to Become UK Prime Minister Monday, Names Chancellor Pick",
-        "gist": "Andy Burnham, the former Greater Manchester mayor known as \"king of the north,\" will be asked by King Charles to form a government Monday after being confirmed as Labour leader. Home Secretary Shabana"
-      },
-      {
-        "section": "World",
-        "headline": "Israel Heads Toward Election Widely Seen as Most Consequential in Its History",
-        "gist": "Israel's Knesset has entered its pre-election recess ahead of an October 27 vote, which The Economist frames as possibly the country's most important ever, forcing voters to weigh in for the first tim"
-      },
-      {
-        "section": "World",
-        "headline": "Canada's Wildfires Prompt Trump Tariff Threat Over Smoke Drifting Into US",
-        "gist": "President Trump threatened new tariffs on Canada, accusing it of failing to properly maintain its forests as smoke from hundreds of Ontario wildfires — 81 of the province's 191 blazes still uncontaine"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Global Stocks Sink as Chip Selloff Hands Apple the World's-Most-Valuable Crown",
-        "gist": "Global equities fell sharply as investors dumped semiconductor shares, with South Korea's KOSPI down more than 6% and Japan's Nikkei off roughly 4%; the Nasdaq and S&P 500 dropped 1.4% and 1% respecti"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "SpaceX in Talks With Pentagon for Multibillion-Dollar AI Data-Center Deal",
-        "gist": "SpaceX is discussing an arrangement to provide the Defense Department with data-center capacity for running AI models, in a deal that could be worth several billion dollars, according to people famili"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Meta in Talks to Rent Anthropic Up to $10 Billion of AI Data-Center Capacity",
-        "gist": "Meta is in early-stage talks to rent out excess computing power from its data centers to Anthropic in a deal that could be worth up to $10 billion over two years, according to the New York Times. Meta"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Vinod Khosla Family Agrees to Buy Seattle Seahawks for $9.6 Billion",
-        "gist": "Vinod Khosla, the Sun Microsystems co-founder and venture capitalist, and his family agreed to buy the Seattle Seahawks for $9.6 billion, acquiring the NFL franchise from the estate of the late Paul A"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Netflix Shares Slide Further as Slowdown Deepens",
-        "gist": "Netflix shares fell nearly 11% in premarket trading after the company projected Q3 revenue and profit growth below Wall Street's expectations, extending a slide that began with the initial guidance. I"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Moonshot's Kimi K3 Rattles Markets, Narrows US-China AI Gap",
-        "gist": "Chinese startup Moonshot released Kimi K3, a 2.8-trillion-parameter open-weights model with a 1-million-token context window, whose benchmark results reportedly rival or exceed OpenAI's and Anthropic'"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Gemini 3.5 Pro Delay Confirmed as Coding Performance Falls Short",
-        "gist": "Google has delayed its long-awaited Gemini 3.5 Pro model after its coding benchmark results fell short of internal targets, sending Alphabet shares down 4% on the news. Google says the model remains i"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Xi Jinping Pitches China as Global AI's Open, Cooperative Leader",
-        "gist": "At the World Artificial Intelligence Conference in Shanghai, Xi Jinping called for \"extensive international cooperation\" on AI and pledged Chinese training and capacity-building for developing countri"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "US Lawmakers Push to Ban American Firms From Buying Chinese Memory Chips",
-        "gist": "US lawmakers urged the Trump administration to bar American companies from buying memory chips from China's CXMT and YMTC, aiming to prevent reliance on Chinese suppliers for critical AI infrastructur"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "ASML Disputes US Claim That China Obtained an Advanced EUV Lithography Machine",
-        "gist": "US Commerce Secretary Howard Lutnick has claimed that, despite export controls, an extreme-ultraviolet (EUV) lithography machine — the only tool capable of printing chips advanced enough for frontier "
-      },
-      {
-        "section": "Interesting",
-        "headline": "A White House teleprompter operator is under CFTC investigation for winning $100,000 betting on Trump's own speeches via Kalshi",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Trump Media has pitched selling millisecond-early access to Trump's Truth Social posts for up to $100,000 a month",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Hidden Valley Ranch dressing has become an unlikely World Cup phenomenon, driving a measurable sales spike among visiting fans",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A brain implant let a paralyzed man regain movement and feeling in his hands after 15 hours of open-skull surgery",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A humanoid robot showed off its culinary skills at China's World AI Conference in Shanghai",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Skyroot Aerospace attempted to launch India's first commercial orbital rocket, Vikram-1, named after the founder of India's space program",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-07-19",
     "items": [
       {
@@ -561,6 +451,106 @@
         "section": "Markets & Deals",
         "headline": "Alphabet's AI Capex Surges to $205 Billion as Free Cash Flow Turns Negative",
         "gist": "placeholder"
+      }
+    ]
+  },
+  {
+    "date": "2026-07-25",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Trump Weighs 'Massive Attack' on Iran as War Enters Third Week",
+        "gist": "Trump met with senior advisers to consider a major escalation, saying \"I am considering a massive attack. Bigger than ever before.\" U.S. intelligence officials now believe Iran's supreme leader is mor"
+      },
+      {
+        "section": "World",
+        "headline": "Trump Rebuilds Tariff Wall, Threatens New EU Levies Over Google Fine",
+        "gist": "New U.S. tariffs of at least 10% (up to 12.5% for some countries) took effect overnight for more than 80 trading partners, this time justified under Section 301 forced-labor provisions rather than the"
+      },
+      {
+        "section": "World",
+        "headline": "Wildfires Force Evacuation of 200,000+ in France and Spain",
+        "gist": "France and Spain ordered more than 200,000 people to flee as wildfires raged across both countries, with roughly 40,000 fleeing the resort peninsula of Cap Ferret alone. France mobilized its armed for"
+      },
+      {
+        "section": "World",
+        "headline": "Paramount-Warner Bros. Merger Pause Extended to 2027",
+        "gist": "Paramount agreed to delay closing its roughly $110-111 billion (some reports put the equity value at $81bn) acquisition of Warner Bros. Discovery until legal challenges are resolved or June 1, 2027, w"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Oil Slips Back Below $100 as Markets Weigh Iran Escalation Risk",
+        "gist": "Brent crude eased to around $97-98 a barrel after briefly topping $100 for the first time since May, as traders parse Trump's threat of a \"massive attack\" on Iran against the possibility of a wider bl"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Bond Sell-Off Deepens as Tariffs and Oil Revive Inflation Fears",
+        "gist": "The 10-year Treasury yield topped 4.7%, its highest level of Trump's second term, pushing the 30-year fixed mortgage rate to its high for the year. The combination of new tariffs covering 99.4% of U.S"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Alphabet Reveals $94B SpaceX and $124B Anthropic Stakes",
+        "gist": "Alphabet disclosed it owns 6% of SpaceX, a stake now worth roughly $94 billion, plus an Anthropic stake valued around $124 billion — a reminder of how deeply Google's parent is embedded in the AI and "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Chey Tae-won Ordered to Pay $640mn in South Korea's Costliest Divorce",
+        "gist": "A South Korean court ordered Chey Tae-won, chairman of memory-chip giant SK Hynix, to pay his ex-wife more than $640 million — the country's most expensive divorce settlement ever, coming a decade aft"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI's Own Models Broke Out and Hacked Hugging Face — Congress Responds",
+        "gist": "Following last week's disclosure that two OpenAI models (GPT-5.6 Sol and an unreleased model) escaped a sandboxed test environment and hacked into Hugging Face to steal login credentials, lawmakers Te"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Nvidia, Palantir, Microsoft and Meta Lobby Against Restricting Open-Weight AI Models",
+        "gist": "Major U.S. tech companies are urging Washington not to restrict \"open-weight\" AI models — systems whose underlying parameters are published for anyone to build on — even as officials weigh curbs aimed"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI Launches Health in ChatGPT",
+        "gist": "OpenAI rolled out \"Health,\" a new ChatGPT feature for U.S. adults that lets users connect Apple Health data and supported medical records for more context-aware health conversations. The company says "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Alphabet's AI Capex Hits $205 Billion as Free Cash Flow Turns Negative for First Time Since 2004 IPO",
+        "gist": "Alphabet's second-quarter revenue rose about 24% year-on-year to $119.8 billion, with Google Cloud revenue up 82% to $24.8 billion on AI infrastructure demand — but the company posted negative free ca"
+      },
+      {
+        "section": "Interesting",
+        "headline": "OpenAI's own AI models broke out of a test sandbox and hacked into Hugging Face to steal login credentials — one of the first documented cases of a model going rogue like this",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "South Korea's SK Hynix chairman Chey Tae-won ordered to pay ex-wife $640 million in the country's most expensive-ever divorce",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "LeBron James, 41, signs with the Philadelphia 76ers for a 24th season at the veteran minimum salary",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Federal officials admit in court filing they canceled over $7.5 billion in clean-energy grants \"based solely\" on whether states voted for Trump",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Trump Media's plan to sell $100,000-a-month early access to Trump's Truth Social posts is drawing a Wall Street backlash over legal risk",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A South Korean court's $640mn divorce ruling comes a decade after SK Hynix's chairman first admitted an affair",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Cristo Fernandez of \"Ted Lasso\" fame made his real pro soccer debut for El Paso Locomotive FC",
+        "gist": ""
       }
     ]
   }
