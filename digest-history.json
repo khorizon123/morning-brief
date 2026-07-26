@@ -1,70 +1,5 @@
 [
   {
-    "date": "2026-07-19",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Two US Troops Killed in Iranian Attack on Jordan, Third Missing",
-        "gist": "American forces confirmed two U.S. service members were killed and a third went missing in action after an Iranian attack on a base in Jordan, the first American deaths reported since Washington and T"
-      },
-      {
-        "section": "World",
-        "headline": "Andy Burnham to Become UK Prime Minister Monday, Scraps Digital ID Scheme",
-        "gist": "Andy Burnham, confirmed as Labour leader and set to be asked by King Charles to form a government Monday, announced he will scrap the previous government's planned digital ID scheme and redirect the s"
-      },
-      {
-        "section": "World",
-        "headline": "Iran Strikes Saudi Arabia for First Time in Months as Hormuz Standoff Deepens",
-        "gist": "Iran launched strikes against Saudi Arabia for the first time in months, part of a tit-for-tat escalation aimed at undermining efforts to reopen the Strait of Hormuz. The move widens the war beyond th"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Traders Bet Against SpaceX as Rocket Company Slides Further Below IPO Price",
-        "gist": "SpaceX shares, which briefly dipped below their $135 IPO price after a failed rocket launch, are now attracting a growing wave of bearish trades as investors question whether the rocket-and-AI company"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Stripe-Advent's $53 Billion PayPal Bid and Wider Deal Wave Roll On",
-        "gist": "Stripe and Advent International's $53 billion takeover offer for PayPal remains unanswered as PayPal's stock continues its slide — down 23% over the past year on slowing growth in its services busines"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Kimi K3 Sell-Off Rattles Chip Stocks Further as Xi Doubles Down on AI Push",
-        "gist": "Moonshot AI's open-weights model Kimi K3 continues to reverberate through markets, intensifying the sell-off in chipmaker shares that began late last week as investors reassess how much of a lead U.S."
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "XPeng Says China Is Close to a Tesla Model Y 'Killer'",
-        "gist": "Chinese EV maker XPeng claims the country is nearing production of an electric SUV capable of dethroning Tesla's Model Y, still the world's best-selling EV and second most popular model in China itsel"
-      },
-      {
-        "section": "Interesting",
-        "headline": "An 18th-century Irish alumina plant is at the center of scrutiny over sanctioned Russian oligarch Oleg Deripaska's business ties",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Qatar's 'Father Emir,' who transformed the tiny Gulf state into a global financial power, has died",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "German Chancellor Merz's parliamentary leader resigned after revealing he used a US surrogate mother to become a father",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Fans hired $6,000-$10,000 private helicopters from Bank of America and Goldman trading floors to skip World Cup traffic to New Jersey",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Brands spent over $857 million advertising during this World Cup — David Beckham appears in nearly a dozen ads despite not playing",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-07-20",
     "items": [
       {
@@ -550,6 +485,91 @@
       {
         "section": "Interesting",
         "headline": "Cristo Fernandez of \"Ted Lasso\" fame made his real pro soccer debut for El Paso Locomotive FC",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-07-26",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Wildfires Force Evacuation of 260,000 in France and Spain as Blazes Spread to Bordeaux Suburbs",
+        "gist": "France and Spain have extended evacuation orders to roughly 260,000 people as 'unprecedented' wildfires spread, with new orders now covering suburbs within 30km of central Bordeaux. The fires have alr"
+      },
+      {
+        "section": "World",
+        "headline": "Saudi Arabia Strikes Houthis Directly After Rebels Hit Energy Sites, Widening Middle East War",
+        "gist": "Saudi Arabia has launched direct strikes against Yemen's Houthi militia after the Iran-backed group targeted Saudi energy sites, marking a new escalatory front. Iran also claimed a Ukrainian attack on"
+      },
+      {
+        "section": "World",
+        "headline": "Brazil Denies Visas to US Officials Over Alleged Election Interference",
+        "gist": "Brazil's government has denied visas to Trump administration officials, alleging they sought to sow doubt about the integrity of Brazil's voting system to benefit ally Flávio Bolsonaro. The move marks"
+      },
+      {
+        "section": "World",
+        "headline": "Kazakhstan's President Urges Putin to 'Freeze' the Ukraine War",
+        "gist": "Kazakhstan's president has publicly called on Vladimir Putin to freeze the war in Ukraine, the most overt such intervention yet from one of Moscow's closest regional partners. The call comes as Kyiv c"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Blackstone, KKR and Brookfield Take $16bn Stake in Kuwait Pipelines",
+        "gist": "A consortium of Blackstone, KKR and Brookfield has agreed to buy a stake in Kuwait's pipeline network for $16 billion, marking the largest-ever foreign investment in the Gulf state. The deal comes as "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Alphabet's Negative Free Cash Flow and AI Capex Blowout Still Rippling Through Markets",
+        "gist": "Alphabet's disclosure that its AI capex is surging to $205 billion this year, alongside its first negative free cash flow quarter since its 2004 IPO, continues to weigh on sentiment even as Google Clo"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Paramount-Warner Bros. Discovery Deal Frozen Until 2027 as Both Sides Head to Trial",
+        "gist": "Paramount has agreed to halt its roughly $111 billion acquisition of Warner Bros. Discovery until legal challenges are resolved or June 4, 2027, opting to go straight to a full trial rather than risk "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "AI IPO Wave Could Trigger $100 Billion Annual Philanthropy Windfall",
+        "gist": "With OpenAI and Anthropic both expected to launch among the largest IPOs ever, nonprofits and university fundraisers are preparing for a wave of new billionaire donors — potentially $37 billion to $10"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Investors Use Crypto Exchanges to Dodge China's Curbs on Foreign AI-Stock Access",
+        "gist": "Investors are turning to perpetual futures on crypto exchanges to get exposure to Chinese AI stocks, circumventing Beijing's restrictions on foreign access to onshore equities. The workaround lets for"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Deadly Chile Storm Disrupts Copper Mines, Raising AI Supply Concerns",
+        "gist": "A deadly storm in Chile has disrupted operations at copper mines, feeding worries about supply for the metals boom that AI data centers depend on. Much of the world's copper comes from high-altitude C"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Defence Giants Start Acting Like VCs, Pour Record Money Into Military Startups",
+        "gist": "Traditional defense contractors are increasingly bankrolling military startups directly, providing record levels of backing as drones and autonomous systems reshape the battlefield. The shift marks a "
+      },
+      {
+        "section": "Interesting",
+        "headline": "Top Democrat says the Trump administration is worsening the chip shortage as Apple seeks clearance to buy from a blacklisted Chinese semiconductor firm",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "NATO HQ intern arrested on suspicion of spying — a Canadian national of Chinese origin, officials say operations weren't compromised",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "48% of Japanese men have paid for sex at some point, versus 11% of British men — now a rising political flashpoint over foreign sex tourists exploiting the weak yen",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Elon Musk tells The Economist he expects robots to usher in an era of 'amazing abundance' within a decade, making money meaningless",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A British state school, Queen Elizabeth's School, is opening the UK's first overseas state-school branches in Dubai and Delhi",
         "gist": ""
       }
     ]
