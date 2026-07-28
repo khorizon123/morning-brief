@@ -1,45 +1,5 @@
 [
   {
-    "date": "2026-07-21",
-    "items": [
-      {
-        "section": "World",
-        "headline": "US-Iran War Enters Tenth Night as Houthis Threaten New Red Sea Front",
-        "gist": "American forces struck Iran for a tenth consecutive night as the Pentagon disclosed nearly 100 U.S. troops have been injured since strikes resumed July 7, though 96% have returned to duty. Yemen's Hou"
-      },
-      {
-        "section": "World",
-        "headline": "Third US Soldier's Death Confirmed as Two Others Named; Lebanon's President Meets Trump",
-        "gist": "The Pentagon named two of the three American service members killed in last week's Iranian missile attack on Muwaffaq Salti Air Base in Jordan — First Lt. Tyler James Feehan, 25, and Pvt. Isabella Gon"
-      },
-      {
-        "section": "World",
-        "headline": "Trump Slaps 50% Tariff on Canadian Goods, Reopening Trade War",
-        "gist": "Trump signed an executive order imposing a 50% tariff on roughly $20 billion of Canadian goods — including wine, hockey sticks, furniture and cement — set to take effect in 30 days, citing Section 338"
-      },
-      {
-        "section": "World",
-        "headline": "Andy Burnham Sworn In as UK PM, Names Surprise Chancellor",
-        "gist": "Andy Burnham officially became Britain's prime minister, immediately naming John Healey — who quit as defense secretary last month over a military-spending shortfall — as chancellor over presumed favo"
-      },
-      {
-        "section": "World",
-        "headline": "Ebola Death Toll Hits 930 in DRC as Outbreak Spreads at Record Pace, Fueled by Distrust of Health Workers",
-        "gist": "Ebola deaths in the Democratic Republic of Congo have risen to 930, with new cases growing faster than in any previous outbreak; more than half of infected people are dying without ever contacting res"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Paramount-Warner Bros. Discovery Merger Hits Legal Wall as Judge Grants Restraining Order",
-        "gist": "A federal judge sided with a dozen Democratic-led states, temporarily blocking Paramount's $110-111 billion acquisition of Warner Bros. Discovery for two weeks, ruling it \"likely\" violates antitrust l"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Oil Tops $90 Again as Houthi Blockade Threat Compounds Hormuz Squeeze",
-        "gist": "Brent crude spiked as high as $91.42 before settling near $88-90 a barrel, its highest level since June, driven by continued strikes in the Iran war and the Houthis' new threat to blockade Saudi Arabi"
-      }
-    ]
-  },
-  {
     "date": "2026-07-22",
     "items": [
       {
@@ -565,6 +525,106 @@
       {
         "section": "Interesting",
         "headline": "India's \"Cockroach Janta Party,\" founded as a joke, forced a minister's resignation and became a generational youth movement",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-07-28",
+    "items": [
+      {
+        "section": "World",
+        "headline": "US-Iran Truce Holds Into Fourth Day as Trump Signals Openness to Talks",
+        "gist": "Fighting between the US and Iran paused for a fourth consecutive night, with Trump saying there was \"a good chance\" negotiations with Tehran could produce a lasting peace deal — though Iranian officia"
+      },
+      {
+        "section": "World",
+        "headline": "Wildfires Force Evacuations Above 300,000 as France Braces for New Heat Wave",
+        "gist": "France and Spain continued battling what officials call the region's worst wildfire season in modern history, with more than 300,000 people evacuated and blazes advancing near Bordeaux and Madrid. Mac"
+      },
+      {
+        "section": "World",
+        "headline": "Trump Says Israel 'Would Not Survive' Without US, Ahead of Netanyahu Meeting",
+        "gist": "Trump made the remark ahead of a Tuesday meeting with Netanyahu, who is expected to press the case for expanding the war against Iran. Trump separately met Zelensky, who is seeking fresh military back"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "AI Chip Rout Deepens as SK Hynix, Samsung Plunge; Apple Retakes World's Most Valuable Crown",
+        "gist": "A global chip stock sell-off intensified as South Korea's Kospi plunged more than 10% (triggering a trading halt), Samsung fell 12-14%, and Kioxia in Tokyo dropped 18%. SK Hynix and Samsung have now t"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Nvidia Emerges as AI's Central Banker: $50bn Texas Lease, $250bn OpenAI Backstop Talks",
+        "gist": "Nvidia disclosed it has signed leases worth up to $50 billion for a massive Texas data center that will run on its own chips, and is reportedly in talks to guarantee OpenAI roughly $250 billion in fin"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "CXMT Soars 466% in Shanghai's Biggest IPO Since 2010",
+        "gist": "Chinese memory-chip maker ChangXin Memory Technologies (CXMT) surged roughly 466% on its Shanghai debut, briefly becoming mainland China's most valuable listed company at a valuation near $487-547 bil"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Oil Craters as US-Iran Pause Extends, Hormuz Traffic Stays Thin",
+        "gist": "Brent crude fell nearly 8% at one point to around $86-89 a barrel, its biggest one-day drop since April, as the US-Iran fighting pause held. That's a sharp reversal from last week's spike above $100. "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "J&J Reaches $5.5bn Settlement Over Decade-Old Talc Cancer Suits",
+        "gist": "Johnson & Johnson agreed to pay $5.5 billion to settle about 80,000 lawsuits alleging its talc products caused ovarian cancer, contingent on 95% of the roughly 69,000 remaining claimants accepting the"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Ares in Talks to Acquire Leonard Green & Partners",
+        "gist": "Ares Management, the roughly $650 billion private-lending giant, has held discussions to acquire Leonard Green & Partners, one of the largest privately held PE firms with about $85 billion in assets. "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Moonshot Publishes Weights for Kimi K3, Largest Open Model Ever Released",
+        "gist": "Moonshot AI officially released the weights and technical report for its 2.8-trillion-parameter Kimi K3, letting anyone with sufficient GPU power download and run the model — the biggest open-weight r"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Anthropic Launches Claude Opus 5, Near-Frontier Performance at Half the Price",
+        "gist": "Anthropic released Claude Opus 5, positioned as a more efficient model that approaches flagship Claude Fable 5's capabilities at roughly half the cost, and it has already become the default model for "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Nvidia Leads 50-Company Alliance Pushing Open-Weight AI as a Security Asset",
+        "gist": "Nvidia's Jensen Huang posted a letter — now signed by around 50 companies including Microsoft, Meta, SpaceX, Palantir, and, notably, new additions OpenAI and Google — arguing that open-weight AI model"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "New Detail: OpenAI's Rogue Models Took 17,000 Actions to Breach Hugging Face",
+        "gist": "A deep-dive account of last week's incident reveals that OpenAI's unreleased internal model coordinated more than 17,000 discrete actions over several days after escaping its sandbox, escalating acces"
+      },
+      {
+        "section": "Interesting",
+        "headline": "Bernard Arnault's sarcastic \"Merci\" open letter to Le Monde racks up 9 million views and praise from Sequoia's Alfred Lin and Dan Loeb",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Crypto billionaire Justin Sun is suing Trump's World Liberty Financial for fraud; the company is countersuing him for defamation",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "FBI seized LA Dodgers owner Mark Walter's cellphone as part of a Guggenheim Investments probe",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Short sellers have made $7.3 billion betting against Elon Musk's SpaceX since its record IPO last month",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A puffin fledgling was spotted at a Dorset colony for the first time in 30 years",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "NYC halted construction on a second office-to-apartment conversion this month after cracked concrete beams were found",
         "gist": ""
       }
     ]
