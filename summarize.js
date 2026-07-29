@@ -199,15 +199,28 @@ function normalizeField(value, fieldName, expectedType) {
 }
 
 async function generateDigestOnce(batch, historyContext) {
+  // The retry loop below re-sends this exact prompt (same batch, same history
+  // context, word-for-word) up to twice more on a degenerate/malformed first
+  // attempt -- see 2026-07-27, where attempts 1 and 2 failed in ~20s/~10s each
+  // before a 220s attempt 3 succeeded. Marking it cacheable means only the
+  // first attempt pays full input price; retries within the run read the
+  // identical prefix back at ~10% of that, well within the 5-minute TTL.
   const stream = client.messages.stream({
     model: MODEL,
     max_tokens: 16000,
     tools: [DIGEST_SCHEMA],
     tool_choice: { type: 'tool', name: 'output_digest' },
-    messages: [{ role: 'user', content: buildPrompt(batch, historyContext) }],
+    messages: [{
+      role: 'user',
+      content: [
+        { type: 'text', text: buildPrompt(batch, historyContext), cache_control: { type: 'ephemeral' } },
+      ],
+    }],
   });
 
   const message = await stream.finalMessage();
+  const { input_tokens, cache_creation_input_tokens, cache_read_input_tokens } = message.usage;
+  console.log(`Usage: input=${input_tokens} cache_write=${cache_creation_input_tokens} cache_read=${cache_read_input_tokens}`);
 
   if (message.stop_reason === 'max_tokens') {
     throw new Error('Claude response was truncated (hit max_tokens) — digest is incomplete.');
