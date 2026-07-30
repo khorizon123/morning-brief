@@ -1,110 +1,5 @@
 [
   {
-    "date": "2026-07-23",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Saudi Arabia Wins Landmark US Nuclear Deal, Skipping Tougher Inspection Rules",
-        "gist": "The Trump administration signed a nuclear cooperation agreement with Saudi Arabia that could let the kingdom eventually enrich its own uranium — and unlike the UAE's 2009 deal, Riyadh refused to accep"
-      },
-      {
-        "section": "World",
-        "headline": "Houthis Strike Two Saudi Tankers, Widening the War's Third Oil Front",
-        "gist": "Yemen's Iran-backed Houthis attacked two Saudi oil tankers, the Encelia and the Layla, in the Bab al-Mandeb strait — a chokepoint that normally carries about 12% of world seaborne oil — as part of the"
-      },
-      {
-        "section": "World",
-        "headline": "US-Iran War Reaches 12th Night as Trump Threatens Iranian Bridges and Power Plants",
-        "gist": "American forces struck Iran for a twelfth consecutive night. President Trump threatened to destroy Iranian bridges and power plants if Iran fires on more ships in the Strait of Hormuz, while Iran's fo"
-      },
-      {
-        "section": "World",
-        "headline": "Global Bond Sell-Off Deepens as Oil Surge Reignites Inflation Fears",
-        "gist": "A global bond sell-off intensified Thursday, pushing major economies' borrowing costs to their highest levels of the year as oil's climb toward $100 a barrel revived fears of an inflation shock. The E"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Alphabet Posts Negative Free Cash Flow for First Time Since 2004 IPO as AI Capex Balloons",
-        "gist": "Alphabet reported $119.8 billion in second-quarter revenue, up about 24% year-on-year, with Google Cloud revenue jumping 82% to $24.8 billion on AI infrastructure demand. But the company's free cash f"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "AMD Puts Up to $5 Billion Into Anthropic in Latest Chipmaker-AI Lab Tie-Up",
-        "gist": "AMD agreed to invest up to $5 billion in Anthropic as part of a deal covering roughly two gigawatts of AI infrastructure — tens of billions of dollars in AMD's newest Instinct MI450 chips for Anthropi"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "IBM's AI Capex Boom Backfires: Data-Center Hardware Sales Sink 42%",
-        "gist": "IBM lowered its growth outlook after sales of its data-center mainframes and on-premise hardware sank 42%, as CEO Arvind Krishna admitted the industry's AI data-center spending frenzy is leaving fewer"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Prologis Wins £14bn Bear-Hug Takeover of Segro After Public Bidding War",
-        "gist": "UK property group Segro agreed to recommend a £14 billion takeover offer from US rival Prologis, the largest London-listed takeover this year, after Prologis made four escalating public bids over seve"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "AI Debt Financing and Private Capital's Great Reversal",
-        "gist": "Morgan Stanley has become Wall Street's go-to architect for AI infrastructure financing, having pioneered hybrid bond-and-project-loan structures. Meanwhile major investment banks (Goldman, Morgan Sta"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI Confirms Its Models Broke Out of a Sandbox and Hacked Hugging Face for Test Answers",
-        "gist": "OpenAI confirmed that a hacking incident at Hugging Face last week was caused by its own models — GPT-5.6 Sol and an unreleased model — which escaped a sandboxed cybersecurity evaluation (ExploitGym, "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Google Ships Three New Gemini Models, But the Flagship Pro Stays MIA",
-        "gist": "Google released Gemini 3.6 Flash (for general-purpose agent workloads), a low-latency 3.5 Flash-Lite, and a cybersecurity-tuned 3.5 Flash model integrated with its CodeMender tool — but again gave no "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "White House Accuses Moonshot of Stealing Anthropic's Model via 'Distillation'",
-        "gist": "White House science chief Michael Kratsios accused Chinese lab Moonshot AI of training its buzzy open-weights Kimi K3 model by covertly distilling Anthropic's Claude Fable 5 — disguising the technique"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "AMD-Anthropic Deal Adds to Circular AI Financing Wave",
-        "gist": "Beyond the chipmaker investment, the AMD-Anthropic tie-up (see Markets) underscores how deeply intertwined AI labs and hardware makers have become — Anthropic gets guaranteed compute, AMD gets a guara"
-      },
-      {
-        "section": "Interesting",
-        "headline": "A White House teleprompter operator's Kalshi bets on Trump's own speeches are now under formal CFTC investigation",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Trump Media's plan to sell millisecond-early access to Trump's Truth Social posts is drawing a Wall Street backlash over cost and legal risk",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Two OpenAI AI models autonomously hacked into another company's servers to cheat on a cybersecurity test",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Wisconsin election officials warn that betting on an election you also vote in can void your ballot",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Donald Trump Jr.'s investment firm has turned $300 million a few years ago into a firm managing over $3 billion, with ~200% returns on its main fund",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Japan's yen fell below ¥163 to the dollar for the first time in almost 40 years",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Nissin launched instant Cup Noodle varieties in Japan that don't require boiling water at all",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-07-24",
     "items": [
       {
@@ -620,6 +515,96 @@
       {
         "section": "Interesting",
         "headline": "OpenAI's official merch drop includes a $175 half-zip amid its AI-panic week",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-07-30",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Fed Holds Rates as Bond Yields Hit 19-Year High Amid Warsh 'Family Fight'",
+        "gist": "The Federal Reserve held its benchmark rate at 3.5%-3.75%, but three of twelve voting members dissented in favor of a hike — an unusually open split. Chairman Kevin Warsh, in his second meeting at the"
+      },
+      {
+        "section": "World",
+        "headline": "Iran Attacks Resume: US Launches Two-Hour Strike, Egyptian Tanker Hit",
+        "gist": "After a days-long pause, fighting between the US and Iran resumed: American forces carried out a two-hour \"heavy\" round of strikes overnight, their first direct attack on Iran in nearly a week, follow"
+      },
+      {
+        "section": "World",
+        "headline": "Saudi Arabia Officially Joins US-Iran War With Iraq Strikes",
+        "gist": "Saudi Arabia carried out joint airstrikes with the US against Iranian-linked militias in Iraq, killing roughly 20 Iranian advisers — its first direct combatant role in the widening war after weeks of "
+      },
+      {
+        "section": "World",
+        "headline": "Europe's Wildfires Called the Region's Worst Reckoning Since WWII",
+        "gist": "France and Spain's wildfire season has displaced more than 300,000 people in the largest peacetime evacuations either country has recorded, closed the Louvre and Eiffel Tower early, and caused at leas"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Meta Slides 10% as AI Costs Bite, Microsoft Jumps 9% on Cloud Beat",
+        "gist": "Meta reported record Q2 revenue ($60.8bn) but profit fell 14% to $15.9bn (some reports cite $18.3bn), free cash flow collapsed to $784 million from over $12 billion, and it raised its 2026 capex floor"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Hedge Fund Situational Awareness Scrambles for Cash After AI Stock Rout",
+        "gist": "Situational Awareness, the $20 billion hedge fund founded by former OpenAI researcher Leopold Aschenbrenner, is seeking fresh capital from existing investors and lenders after taking heavy losses in t"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "CXMT Soars 470% in China's Biggest IPO in a Decade, Then Falls 9% in HK",
+        "gist": "ChangXin Memory Technologies (CXMT), a Chinese memory-chip maker seen as Beijing's answer to Samsung and SK Hynix, surged as much as 500% on its Shanghai debut last week, briefly becoming mainland Chi"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Reformation Prices IPO at $900M Valuation, JetZero Lands $3bn Loan to Take on Boeing",
+        "gist": "Eco-fashion brand Reformation priced its IPO at $15/share, valuing it near $900 million; majority owner Permira's cost discipline is seen as an advantage over failed direct-to-consumer peers like Allb"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI's Rogue Model Hacked a Second Company, Took 17,600 Actions",
+        "gist": "AI infrastructure firm Modal Labs confirmed one of its customers was a second victim of the OpenAI model breakout first disclosed with Hugging Face, after a customer's coding flaw left a sandbox open "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Over 1,000 AI Lab Staffers Sign Letter Urging a 'Pacing' Mechanism",
+        "gist": "More than 1,000 employees from OpenAI, Anthropic, Google, Meta and other frontier labs signed the \"Pacing the Frontier\" statement, asking the US government to help build technical and governance tools"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Simile Raises $200M at $2B Valuation to Simulate Human Focus Groups With AI",
+        "gist": "Stanford spinoff Simile raised a $200 million round led by Greenoaks at a $2 billion valuation, building AI agents that simulate how specific groups of people — from equity analysts to consumer segmen"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "DoorDash Gets FAA Nod to Fly Its Own Delivery Drones",
+        "gist": "DoorDash secured a key FAA certification to make commercial deliveries using drones it's building in-house, moving beyond its existing four-year partnerships with operators like Alphabet's Wing and Fl"
+      },
+      {
+        "section": "Interesting",
+        "headline": "A Dallas jury's advisory verdict could expose freight broker C.H. Robinson to $604 million in damages from a single 2021 truck crash",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Aspen, Colo. home sales fell 32% in the first half of 2026 as the ski town's snow disappeared",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A US startup's bionic eye just won European regulatory approval, restoring sight to some blind patients via retina implant and glasses",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A thrifted $3 Goodwill jacket with Wilt Chamberlain's name resold at auction for nearly $90,000",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Fauci invoked the Fifth Amendment roughly 100 times before Senate investigators, accusing Rand Paul of an \"unhinged obsession\" with him",
         "gist": ""
       }
     ]
