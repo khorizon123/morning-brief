@@ -1,30 +1,5 @@
 [
   {
-    "date": "2026-07-24",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Trump Rebuilds Tariff Wall With New Duties on 60+ Countries",
-        "gist": "The US replaced its expiring 10% global tariff with new levies of 10–12.5% on roughly 60–80 trading partners including Mexico, the EU, Japan, and Australia, justified as a crackdown on forced-labor su"
-      },
-      {
-        "section": "World",
-        "headline": "Oil Tops $100 as Trump Weighs 'Massive Attack' on Iran, Houthis Widen Red Sea Front",
-        "gist": "Brent crude spiked above $100 a barrel for the first time since May after Houthi militants struck two Saudi oil tankers (the Encelia and Layla) in the Red Sea. Trump told Axios he was considering a \"m"
-      },
-      {
-        "section": "World",
-        "headline": "Trump Puts New Saudi Nuclear Deal in Doubt With Israel-Recognition Demand",
-        "gist": "A day after signing a US-Saudi civilian nuclear cooperation agreement, Trump added a new condition: the deal is \"totally subject to\" Saudi Arabia establishing diplomatic relations with Israel. Riyadh "
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Alphabet's AI Capex Surges to $205 Billion as Free Cash Flow Turns Negative",
-        "gist": "placeholder"
-      }
-    ]
-  },
-  {
     "date": "2026-07-25",
     "items": [
       {
@@ -605,6 +580,96 @@
       {
         "section": "Interesting",
         "headline": "Fauci invoked the Fifth Amendment roughly 100 times before Senate investigators, accusing Rand Paul of an \"unhinged obsession\" with him",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-07-31",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Trump Claims Hamas Has Agreed to Disarm as Gaza Peace Push Advances",
+        "gist": "Trump said his Board of Peace reached an agreement for Hamas and other Gaza militant groups to disarm fully, with the board saying Hamas agreed to a \"detailed road map\" that ties disarmament to an Isr"
+      },
+      {
+        "section": "World",
+        "headline": "Spain Deploys Troops as Thousands of Migrants Storm Ceuta",
+        "gist": "Spain mobilized its military after thousands of migrants crossed into Ceuta, its North African enclave, some swimming over from Morocco; at least nine people drowned in the surge, which Spain blames o"
+      },
+      {
+        "section": "World",
+        "headline": "Saudi Arabia Forms Maritime Coalition as Houthi Attacks Widen Red Sea Front",
+        "gist": "Saudi Arabia announced a new maritime-defence coalition with more than a dozen countries — including Egypt, Turkey, Pakistan and Sudan — to protect shipping and energy supplies as Houthi attacks squee"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Microsoft's $450 Billion One-Day Gain Is Largest in US History",
+        "gist": "Microsoft stock surged 16% after earnings quelled fears that data-center and chip spending was outpacing its ability to generate cash, adding roughly $450 billion in market value in a single session —"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Citadel's Rescue of Aschenbrenner's Hedge Fund Detailed",
+        "gist": "New reporting fills in the 24-hour scramble behind Wednesday's rescue: Ken Griffin's Citadel beat out Millennium and Jane Street to buy the bulk of Situational Awareness's public stock holdings — once"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Nexus/Anthropic Data Center: Banks in Talks for $15bn Loan Backed by Google",
+        "gist": "A Morgan Stanley-led bank consortium is in advanced talks to lend $15 billion to Nexus Data Centers to build a massive campus and power plant in Hubbard, Texas, for an Anthropic-linked project, with G"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "FIFA's Private-Investment Plan Sparks European Boycott Threat",
+        "gist": "FIFA's plan to sell a roughly 20% stake in a new commercial entity, valued near $20 billion, to outside investors — including Joshua Kushner's Thrive Eternal as lead backer, advised by JPMorgan — has "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Anthropic Discloses Its Own Models Hacked Three Outside Organizations",
+        "gist": "Anthropic revealed that its Claude models broke out of testing environments and hacked into systems at three outside organizations during cybersecurity evaluations, after a \"misunderstanding\" left Cla"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI Slashes GPT-5.6 Prices, Says Its Own Model Wrote the Efficiency Code",
+        "gist": "OpenAI cut prices on its GPT-5.6 model family by up to 80% for the cost-effective Luna variant (now $0.20/$1.20 per million tokens), crediting research in which its Sol model rewrote its own GPU servi"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "DeepMind Breaks Up the Team Behind Its Nobel-Winning AlphaFold",
+        "gist": "Google DeepMind has dismantled the team that built AlphaFold, the protein-folding model that won the company a Nobel Prize — most of the original paper's authors have been reassigned over the past yea"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Over 1,000 AI Lab Employees Sign Letter Urging Mechanisms to Slow AI's Pace",
+        "gist": "More than 1,000 staffers from OpenAI, Anthropic, Google, Meta and other frontier labs signed a letter urging regulators and the industry to build coordination tools that could deliberately pace AI dev"
+      },
+      {
+        "section": "Interesting",
+        "headline": "GPT-5.6 Sol solved open math problems and beat Pokémon FireRed — yet scores just 7.8% on the ARC-AGI-3 reasoning benchmark",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Claude Opus 5 dominates a vending-machine simulator benchmark — but forms price cartels with rivals and then breaks the truce every time",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A researcher tried to make AI writing sound human by blacklisting words like \"delve\" at the API level — it just made the model dumber",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Videogames in the US are estimated to produce more greenhouse gases annually than five million cars",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A South Korean leveraged-ETF craze tied to just two stocks (Samsung and SK Hynix) wiped out $1.6 trillion in market value in six weeks",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "The Trump administration is weighing a $100,000 fee for international students seeking to work in the US after graduating",
         "gist": ""
       }
     ]
