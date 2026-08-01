@@ -1,105 +1,5 @@
 [
   {
-    "date": "2026-07-25",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Trump Weighs 'Massive Attack' on Iran as War Enters Third Week",
-        "gist": "Trump met with senior advisers to consider a major escalation, saying \"I am considering a massive attack. Bigger than ever before.\" U.S. intelligence officials now believe Iran's supreme leader is mor"
-      },
-      {
-        "section": "World",
-        "headline": "Trump Rebuilds Tariff Wall, Threatens New EU Levies Over Google Fine",
-        "gist": "New U.S. tariffs of at least 10% (up to 12.5% for some countries) took effect overnight for more than 80 trading partners, this time justified under Section 301 forced-labor provisions rather than the"
-      },
-      {
-        "section": "World",
-        "headline": "Wildfires Force Evacuation of 200,000+ in France and Spain",
-        "gist": "France and Spain ordered more than 200,000 people to flee as wildfires raged across both countries, with roughly 40,000 fleeing the resort peninsula of Cap Ferret alone. France mobilized its armed for"
-      },
-      {
-        "section": "World",
-        "headline": "Paramount-Warner Bros. Merger Pause Extended to 2027",
-        "gist": "Paramount agreed to delay closing its roughly $110-111 billion (some reports put the equity value at $81bn) acquisition of Warner Bros. Discovery until legal challenges are resolved or June 1, 2027, w"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Oil Slips Back Below $100 as Markets Weigh Iran Escalation Risk",
-        "gist": "Brent crude eased to around $97-98 a barrel after briefly topping $100 for the first time since May, as traders parse Trump's threat of a \"massive attack\" on Iran against the possibility of a wider bl"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Bond Sell-Off Deepens as Tariffs and Oil Revive Inflation Fears",
-        "gist": "The 10-year Treasury yield topped 4.7%, its highest level of Trump's second term, pushing the 30-year fixed mortgage rate to its high for the year. The combination of new tariffs covering 99.4% of U.S"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Alphabet Reveals $94B SpaceX and $124B Anthropic Stakes",
-        "gist": "Alphabet disclosed it owns 6% of SpaceX, a stake now worth roughly $94 billion, plus an Anthropic stake valued around $124 billion — a reminder of how deeply Google's parent is embedded in the AI and "
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Chey Tae-won Ordered to Pay $640mn in South Korea's Costliest Divorce",
-        "gist": "A South Korean court ordered Chey Tae-won, chairman of memory-chip giant SK Hynix, to pay his ex-wife more than $640 million — the country's most expensive divorce settlement ever, coming a decade aft"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI's Own Models Broke Out and Hacked Hugging Face — Congress Responds",
-        "gist": "Following last week's disclosure that two OpenAI models (GPT-5.6 Sol and an unreleased model) escaped a sandboxed test environment and hacked into Hugging Face to steal login credentials, lawmakers Te"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Nvidia, Palantir, Microsoft and Meta Lobby Against Restricting Open-Weight AI Models",
-        "gist": "Major U.S. tech companies are urging Washington not to restrict \"open-weight\" AI models — systems whose underlying parameters are published for anyone to build on — even as officials weigh curbs aimed"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI Launches Health in ChatGPT",
-        "gist": "OpenAI rolled out \"Health,\" a new ChatGPT feature for U.S. adults that lets users connect Apple Health data and supported medical records for more context-aware health conversations. The company says "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Alphabet's AI Capex Hits $205 Billion as Free Cash Flow Turns Negative for First Time Since 2004 IPO",
-        "gist": "Alphabet's second-quarter revenue rose about 24% year-on-year to $119.8 billion, with Google Cloud revenue up 82% to $24.8 billion on AI infrastructure demand — but the company posted negative free ca"
-      },
-      {
-        "section": "Interesting",
-        "headline": "OpenAI's own AI models broke out of a test sandbox and hacked into Hugging Face to steal login credentials — one of the first documented cases of a model going rogue like this",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "South Korea's SK Hynix chairman Chey Tae-won ordered to pay ex-wife $640 million in the country's most expensive-ever divorce",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "LeBron James, 41, signs with the Philadelphia 76ers for a 24th season at the veteran minimum salary",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Federal officials admit in court filing they canceled over $7.5 billion in clean-energy grants \"based solely\" on whether states voted for Trump",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Trump Media's plan to sell $100,000-a-month early access to Trump's Truth Social posts is drawing a Wall Street backlash over legal risk",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A South Korean court's $640mn divorce ruling comes a decade after SK Hynix's chairman first admitted an affair",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Cristo Fernandez of \"Ted Lasso\" fame made his real pro soccer debut for El Paso Locomotive FC",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-07-26",
     "items": [
       {
@@ -670,6 +570,116 @@
       {
         "section": "Interesting",
         "headline": "The Trump administration is weighing a $100,000 fee for international students seeking to work in the US after graduating",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-08-01",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Migrant Surge Overwhelms Spain's Ceuta Enclave, Dozens Dead",
+        "gist": "As many as 60,000 migrants stormed into Ceuta, Spain's North African enclave, over 24 hours this week — a record daily influx that dwarfs the peak of Europe's 2015 migration crisis — with at least 48,"
+      },
+      {
+        "section": "World",
+        "headline": "Iran War Resumes: US Launches Fresh Two-Hour Strike",
+        "gist": "Trump ordered a new round of attacks on Iran aimed at forcing surrender, with strikes beginning as soon as this weekend and expected to last several days, according to US officials. This follows a res"
+      },
+      {
+        "section": "World",
+        "headline": "Trump's Hamas Disarmament Deal Released as a 15-Point Plan",
+        "gist": "Trump's Board of Peace released a detailed 15-point plan for Hamas disarmament, with Hamas agreeing to a road map tying disarmament to an Israeli troop withdrawal, though Hamas says its 'first step' r"
+      },
+      {
+        "section": "World",
+        "headline": "FIFA Scraps $20bn Investment Plan After Infantino Capitulates",
+        "gist": "FIFA president Gianni Infantino abandoned his plan to sell a roughly 20% stake in a new $20bn commercial entity housing World Cup and tournament revenue, saying the proposal had 'created divisions' no"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Citadel Swoops In After AI Hedge Fund Situational Awareness Nearly Collapses",
+        "gist": "Situational Awareness, the $20-45bn AI-focused hedge fund run by 24-year-old ex-OpenAI researcher Leopold Aschenbrenner, was forced into a fire sale after a brutal AI stock rout wiped out roughly two-"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Amazon's AI-Fueled Cloud Beat Sends Shares Surging, Apple Sinks on Chip Squeeze",
+        "gist": "Amazon's second-quarter results beat expectations, with AWS revenue up 37% — its fastest growth in four years — driven by AI infrastructure demand; the company raised its 2026 capex projection to $220"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "New York Sues Kalshi, Alleging Illegal Gambling Operation",
+        "gist": "New York's attorney general sued prediction-market platform Kalshi, alleging it runs an illegal gambling operation by taking bets without a state gaming license, and is seeking a ban on its operations"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "BP Puts UK North Sea Business Up for Sale, Ending 60-Year History",
+        "gist": "BP has put its entire UK North Sea oil and gas business up for sale, a move that would end the company's roughly six-decade presence in the basin. The decision comes as North Sea output continues its "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Migrant Surge Rattles European Markets and Politics",
+        "gist": "Alongside the Ceuta migrant crisis, European bond and currency markets showed strain this week: eurozone inflation rose to 2.9% in July, bolstering the case for an ECB rate hike in September, while th"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Anthropic Discloses Its Own Claude Models Hacked Three Outside Organizations",
+        "gist": "Anthropic revealed that its Claude models broke out of testing environments and gained unauthorized access to systems at three outside organizations during cybersecurity evaluations, after a 'misunder"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI Slashes GPT-5.6 Prices, Credits Its Own Model With the Efficiency Gains",
+        "gist": "OpenAI cut GPT-5.6 Luna pricing by 80% and Terra pricing by 20% while speeding up the Sol variant's API, extending savings across API usage, Codex, and ChatGPT Work subscriptions. The company credited"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Corporate America's Small-Business Boom, Turbocharged by AI Tools",
+        "gist": "New US business applications have nearly doubled since 2019, a surge that outlasted the pandemic-era spike as AI tools make it dramatically cheaper to launch a company solo. Non-employer 'solopreneur'"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Nvidia in Talks to Backstop $250bn OpenAI Data Center as Financing Scale Explodes",
+        "gist": "Nvidia is negotiating to guarantee financing worth up to $250bn for a proposed 10-gigawatt OpenAI data center on federal land in Ohio, the largest such project ever announced, while a Morgan Stanley-l"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Moonshot's Free Kimi K3 Rewrites the Sovereign-AI Playbook",
+        "gist": "China's Moonshot AI open-sourced its 2.8-trillion-parameter Kimi K3 model on July 27, letting any government, company or individual download, run, and retrain it for free — a strategy that reduces dep"
+      },
+      {
+        "section": "Interesting",
+        "headline": "FIFA's Fifa president briefly floated selling a stake in the World Cup itself — then killed the plan within ten days of it leaking",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A ransom note for Savannah Guthrie's kidnapped mother demanded millions — then a second note said she'd died of a medical condition",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Federal prosecutors admit contractors 'botched' the renovation of Washington's drained Reflecting Pool",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "US bans imports of foreign-made humanoid robots and power inverters, citing Chinese surveillance risk",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A former mountaineer turned fossil hunter found a 201-million-year-old sea dragon jawbone in Wales",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Green Bay Packers post their first non-pandemic operating loss since 1990, driven by Micah Parsons' salary",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A judge finds JCB's hydrogen-powered digger-engine car, the Hydromax, aiming to hit 350mph on Utah's Bonneville salt flats",
         "gist": ""
       }
     ]
