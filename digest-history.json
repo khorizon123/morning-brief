@@ -1,90 +1,5 @@
 [
   {
-    "date": "2026-07-26",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Wildfires Force Evacuation of 260,000 in France and Spain as Blazes Spread to Bordeaux Suburbs",
-        "gist": "France and Spain have extended evacuation orders to roughly 260,000 people as 'unprecedented' wildfires spread, with new orders now covering suburbs within 30km of central Bordeaux. The fires have alr"
-      },
-      {
-        "section": "World",
-        "headline": "Saudi Arabia Strikes Houthis Directly After Rebels Hit Energy Sites, Widening Middle East War",
-        "gist": "Saudi Arabia has launched direct strikes against Yemen's Houthi militia after the Iran-backed group targeted Saudi energy sites, marking a new escalatory front. Iran also claimed a Ukrainian attack on"
-      },
-      {
-        "section": "World",
-        "headline": "Brazil Denies Visas to US Officials Over Alleged Election Interference",
-        "gist": "Brazil's government has denied visas to Trump administration officials, alleging they sought to sow doubt about the integrity of Brazil's voting system to benefit ally Flávio Bolsonaro. The move marks"
-      },
-      {
-        "section": "World",
-        "headline": "Kazakhstan's President Urges Putin to 'Freeze' the Ukraine War",
-        "gist": "Kazakhstan's president has publicly called on Vladimir Putin to freeze the war in Ukraine, the most overt such intervention yet from one of Moscow's closest regional partners. The call comes as Kyiv c"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Blackstone, KKR and Brookfield Take $16bn Stake in Kuwait Pipelines",
-        "gist": "A consortium of Blackstone, KKR and Brookfield has agreed to buy a stake in Kuwait's pipeline network for $16 billion, marking the largest-ever foreign investment in the Gulf state. The deal comes as "
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Alphabet's Negative Free Cash Flow and AI Capex Blowout Still Rippling Through Markets",
-        "gist": "Alphabet's disclosure that its AI capex is surging to $205 billion this year, alongside its first negative free cash flow quarter since its 2004 IPO, continues to weigh on sentiment even as Google Clo"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Paramount-Warner Bros. Discovery Deal Frozen Until 2027 as Both Sides Head to Trial",
-        "gist": "Paramount has agreed to halt its roughly $111 billion acquisition of Warner Bros. Discovery until legal challenges are resolved or June 4, 2027, opting to go straight to a full trial rather than risk "
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "AI IPO Wave Could Trigger $100 Billion Annual Philanthropy Windfall",
-        "gist": "With OpenAI and Anthropic both expected to launch among the largest IPOs ever, nonprofits and university fundraisers are preparing for a wave of new billionaire donors — potentially $37 billion to $10"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Investors Use Crypto Exchanges to Dodge China's Curbs on Foreign AI-Stock Access",
-        "gist": "Investors are turning to perpetual futures on crypto exchanges to get exposure to Chinese AI stocks, circumventing Beijing's restrictions on foreign access to onshore equities. The workaround lets for"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Deadly Chile Storm Disrupts Copper Mines, Raising AI Supply Concerns",
-        "gist": "A deadly storm in Chile has disrupted operations at copper mines, feeding worries about supply for the metals boom that AI data centers depend on. Much of the world's copper comes from high-altitude C"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Defence Giants Start Acting Like VCs, Pour Record Money Into Military Startups",
-        "gist": "Traditional defense contractors are increasingly bankrolling military startups directly, providing record levels of backing as drones and autonomous systems reshape the battlefield. The shift marks a "
-      },
-      {
-        "section": "Interesting",
-        "headline": "Top Democrat says the Trump administration is worsening the chip shortage as Apple seeks clearance to buy from a blacklisted Chinese semiconductor firm",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "NATO HQ intern arrested on suspicion of spying — a Canadian national of Chinese origin, officials say operations weren't compromised",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "48% of Japanese men have paid for sex at some point, versus 11% of British men — now a rising political flashpoint over foreign sex tourists exploiting the weak yen",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Elon Musk tells The Economist he expects robots to usher in an era of 'amazing abundance' within a decade, making money meaningless",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A British state school, Queen Elizabeth's School, is opening the UK's first overseas state-school branches in Dubai and Delhi",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-07-27",
     "items": [
       {
@@ -680,6 +595,76 @@
       {
         "section": "Interesting",
         "headline": "A judge finds JCB's hydrogen-powered digger-engine car, the Hydromax, aiming to hit 350mph on Utah's Bonneville salt flats",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-08-02",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Spain Deploys Troops to Ceuta as Enclave 'Vents' Over Migrant Surge",
+        "gist": "Spain has begun rounding up and repatriating Moroccan migrants who crossed into Ceuta hoping to stay, as soldiers patrol the North African enclave amid vocal local opposition. EU home affairs minister"
+      },
+      {
+        "section": "World",
+        "headline": "Trump Cancels New Iran Strikes After Middle East Allies' Request",
+        "gist": "Donald Trump called off a fresh round of planned strikes on Iran after regional allies requested he hold off, with the White House claiming the 'perimeters of a deal' have been agreed. The reversal co"
+      },
+      {
+        "section": "World",
+        "headline": "US Treasury Makes Historic Yen Intervention",
+        "gist": "The New York Federal Reserve sold euros to buy yen in an unusual coordinated move, following speculation that Tokyo had separately intervened to prop up its currency. The intervention marks a rare dir"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Ares in Talks, Intesa Launches Hostile €35bn Bid for World's Oldest Bank",
+        "gist": "Italy's Banca Intesa, the country's biggest lender, has made a hostile 35-billion-euro ($40 billion) cash-and-shares bid for Banca Monte dei Paschi di Siena, the 1472-founded lender that has stumbled "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "SpaceX Leads a New Land Rush — for Radio Spectrum, Not Land",
+        "gist": "SpaceX and rivals are racing to lock up radio spectrum, the invisible airwaves that carry satellite and wireless signals, in a scramble likened to the 19th-century land rushes. In the US, the FCC trea"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Chinese VC Firms Rush to Raise Funds After Three-Year Drought",
+        "gist": "Chinese venture capital managers are finding fresh appetite from investors eager to hedge against concentrated bets on US markets, ending a multi-year fundraising drought. The rebound follows a string"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Simile's AI 'Agentic Twins' Simulate Consumers Without the Consumers",
+        "gist": "Simile, a year-old Stanford-linked startup, raised $200 million at a $2 billion valuation to build AI agents that simulate how specific groups of people — equity analysts, shoppers, brand audiences — "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "How Mexico Became a Surprise Cornerstone of America's AI Boom",
+        "gist": "Factories across Mexico are ramping up production of servers destined for US data centers, pushing the country's exports to record levels as it quietly becomes an assembly hub for the AI infrastructur"
+      },
+      {
+        "section": "Interesting",
+        "headline": "Australian pineapple farmers battle a biosecurity fight over Indian and Indonesian fruit imports",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Prospectors say they found America's largest tungsten deposit — but NASA may block it",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Freemasons launch recruitment push to attract younger members as secret-handshake society ages",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Von Hagens, the anatomist nicknamed 'Dr. Death' whose plastinated-corpse exhibits drew millions, dies at 80",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Foreign 'bear hug' takeover offers surge against unwilling UK-listed boards",
         "gist": ""
       }
     ]
