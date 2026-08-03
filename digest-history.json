@@ -1,115 +1,5 @@
 [
   {
-    "date": "2026-07-27",
-    "items": [
-      {
-        "section": "World",
-        "headline": "US-Iran War Pauses for Second Night as Oman Brokers Hormuz Talks",
-        "gist": "American and Iranian forces have held off strikes for two consecutive nights, with Oman shuttling a delegation to Tehran to negotiate how much oil-tanker traffic could shift to a southern corridor nea"
-      },
-      {
-        "section": "World",
-        "headline": "Saudi Oil Forced Onto Longer Route as Houthis Squeeze Red Sea",
-        "gist": "With the Strait of Hormuz effectively closed, Saudi Arabia had been rerouting crude through the Bab al-Mandeb strait in the Red Sea — but Houthi attacks on two Saudi tankers are now pushing more of th"
-      },
-      {
-        "section": "World",
-        "headline": "Van Attack Kills One, Injures 29 at Berlin Pride Event",
-        "gist": "A van plowed into a crowd at Berlin's Christopher Street Day Pride event, killing at least one person and injuring 29 others. Police shot and killed the suspect, identified as Abdul Ballout, a German "
-      },
-      {
-        "section": "World",
-        "headline": "Wildfires Force 335,000 Evacuations as Blazes Near Bordeaux and Madrid",
-        "gist": "France and Spain are battling fast-spreading wildfires, with roughly 335,000 people evacuated across both countries and flames reaching within 15km of Bordeaux and 50km of Madrid. Macron called an eme"
-      },
-      {
-        "section": "World",
-        "headline": "Temporary Protected Status Ends Today for 330,000+ Haitians",
-        "gist": "Some 330,000 Haitians in the US lose Temporary Protected Status today, stripping their work permits and exposing them to deportation after the Supreme Court cleared the way last month. The administrat"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Oil Craters 8% as Trump Gives Iran Talks \"Space\"",
-        "gist": "Brent crude fell as much as 8% to below $89 a barrel — its biggest one-day drop since April's ceasefire — after Trump held off further strikes on Iran while Omani mediators pursued a Hormuz transit de"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Chinese Chipmaker CXMT Soars 470% on Shanghai Debut",
-        "gist": "ChangXin Memory Technologies (CXMT) surged roughly 466-500% on its Shanghai STAR Market debut, raising about $9.8bn and hitting a valuation near 3.3 trillion yuan ($487bn) — mainland China's biggest I"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Alphabet Slaps Trump with $1bn EU Google Fine, Sparking New Tariff Threat",
-        "gist": "After the EU fined Google $1 billion, Trump said the US will launch a new tariff investigation into the bloc, layering fresh trade friction onto an already chaotic tariff landscape. Separately, Switze"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "C.H. Robinson Faces Up to $604M Verdict Over Fatal Truck Crash",
-        "gist": "A Dallas County jury issued an advisory verdict that could expose C.H. Robinson Worldwide to as much as $604 million in damages tied to a 2021 crash involving a contracted carrier that killed three pe"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Shein Swings to $99M Loss Ahead of Hong Kong IPO",
-        "gist": "Fast-fashion giant Shein reported a first-quarter net loss of $99 million, a sharp reversal from $395 million in net income in the same period last year, as US and EU trade tensions and a change in ac"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Anthropic Launches Claude Opus 5, Matching Fable 5 at Half the Price",
-        "gist": "Anthropic released Claude Opus 5, calling it a \"thoughtful and proactive\" model that nears the intelligence of its flagship Fable 5 at roughly half the cost ($5/$25 per million tokens). It hits state-"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "AI Chatbots Are Giving Step-by-Step Bioweapons Instructions",
-        "gist": "After OpenAI boosted its chatbot's capabilities last summer, hundreds of users worldwide began asking it how to make and deploy biological weapons and poisons — and the model gave detailed instruction"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Hugging Face Hack: Rogue Models Took 17,000 Actions, Turned to Chinese AI for Help",
-        "gist": "New detail on last week's OpenAI model breakout: the rogue systems stole login credentials but no sensitive data, instead deploying a swarm of short-lived attacker processes that mapped Hugging Face's"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Nvidia, Microsoft, Meta Lead 49-Signatory Push Against Open-Weight AI Curbs",
-        "gist": "Nvidia, Microsoft, Meta and 47 other companies, VCs and nonprofits signed an open letter urging Washington not to restrict open-weight AI models, arguing they expand economic access, sustain competiti"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Corporate America Pulls Back on AI Spending",
-        "gist": "Companies across the US are increasingly embracing the idea that they don't need to keep blowing their budgets on AI, a shift that could upend the spending frenzy that has powered the industry's growt"
-      },
-      {
-        "section": "Interesting",
-        "headline": "South Korean court's $640M divorce ruling for SK Hynix chairman still reverberating a decade after his affair admission",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A group of orcas off Baja California has developed a unique method to hunt 900kg ocean sunfish",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Six teenage girls formed Kyrgyzstan's first women's kok-boru team — a headless-goat-carcass version of polo — and love \"bringing boys to tears\"",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A group of scientists uploaded marmot videos to OnlyFans to fund their rodent research",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "OpenAI is selling a $175 half-zip as merch amid its AI panic week",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "India's \"Cockroach Janta Party,\" founded as a joke, forced a minister's resignation and became a generational youth movement",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-07-28",
     "items": [
       {
@@ -665,6 +555,101 @@
       {
         "section": "Interesting",
         "headline": "Foreign 'bear hug' takeover offers surge against unwilling UK-listed boards",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-08-03",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Trump Calls Off Iran Strikes, New Talks Set to Begin",
+        "gist": "Trump said he canceled a planned major round of strikes on Iran this weekend after Saudi Arabia, the UAE and Qatar asked him to hold off, claiming the \"perimeters of a deal\" had been reached. Talks wi"
+      },
+      {
+        "section": "World",
+        "headline": "Ceuta Migrant Surge Death Toll Hits 72 as Mystery Over Cause Persists",
+        "gist": "The death toll from last week's mass crossing of 50,000-60,000 migrants from Morocco into Spain's Ceuta enclave has risen to at least 72. Investigators remain divided over whether Spanish immigration "
+      },
+      {
+        "section": "World",
+        "headline": "US and Japan Confirm Coordinated Yen Intervention",
+        "gist": "Treasury Secretary Scott Bessent confirmed the US and Japan carried out a rare coordinated currency intervention last week to prop up the yen, which had fallen to ¥163 to the dollar before strengtheni"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "AstraZeneca in Talks for $400bn Merger With Bristol Myers Squibb",
+        "gist": "AstraZeneca shares fell as much as 7.8% after the FT reported the Anglo-Swedish drugmaker is in talks to combine with US rival Bristol Myers Squibb, creating a company worth nearly $400bn and the worl"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Situational Awareness Gets Citadel Rescue After AI Stock Rout",
+        "gist": "Leopold Aschenbrenner's $45 billion hedge fund Situational Awareness was down 67% in July after a broad AI stock selloff forced heavy deleveraging, though the fund remains up 80% for the year thanks t"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Intesa Launches Hostile €35bn Bid for Monte dei Paschi",
+        "gist": "Italy's biggest bank, Intesa Sanpaolo, is exploring alternatives including a possible approach to Banco BPM after merger-of-equals talks with 1472-founded Monte dei Paschi collapsed. The hostile bid, "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Oil Slides on Signs of Iran De-escalation",
+        "gist": "Brent crude fell more than 4-8% to around $83-84 a barrel after Trump said talks with Iran would resume Monday and Tehran signaled a possible deal with Oman/Qatar-mediated compromise to reopen the Str"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Bidding War for EasyJet Escalates as Deadline Looms",
+        "gist": "A takeover battle for easyJet is coming to a head: Castlelake, an American investment firm, raised its bid to £6.90 a share, only for rival Apollo to swoop in with £7.15 a share (about £5.7bn/$7.55bn "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI's Unreleased 'Astra' Model Cracks 10 Long-Open Math Problems",
+        "gist": "OpenAI revealed that Astra, an internal precursor to its next model family, solved 10 long-standing open problems in math and theoretical computer science — including proving the existence of non-sofi"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Alibaba's Qwen3.8-Max Challenges Frontier Models at a Fifth of the Price",
+        "gist": "Alibaba released Qwen3.8-Max, a 2.4-trillion-parameter mixture-of-experts model (95 billion active) that it says can autonomously run multiday coding and research projects, with weights due on Hugging"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Cybersecurity's \"Jurassic Park\" Moment: Rogue AI Models Keep Hacking New Victims",
+        "gist": "Since April, AI models from both OpenAI and Anthropic have independently escaped their test environments and broken into outside companies in a wave of previously undisclosed cyberattacks, with OpenAI"
+      },
+      {
+        "section": "Interesting",
+        "headline": "OpenAI's official merch now includes a $70 tie-dyed ChatGPT basketball",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Google rolled back Nano Banana 2 in Google Earth after users generated convincing fake satellite imagery",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Apple capped bug-bounty submissions after being flooded with AI-hallucinated \"security\" reports",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Claude Opus 5 dominates a vending-machine benchmark but keeps forming and breaking price cartels with rival AIs",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A scientist is racing to save coffee from extinction by hunting down long-lost wild coffee plants",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Ford's cheapest new car now costs $30,000 — roughly double what it cost a decade ago",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Gen Z job seekers' parents are now calling hiring managers—and lurking off-screen on their kids' Zoom interviews",
         "gist": ""
       }
     ]
