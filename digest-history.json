@@ -1,105 +1,5 @@
 [
   {
-    "date": "2026-07-28",
-    "items": [
-      {
-        "section": "World",
-        "headline": "US-Iran Truce Holds Into Fourth Day as Trump Signals Openness to Talks",
-        "gist": "Fighting between the US and Iran paused for a fourth consecutive night, with Trump saying there was \"a good chance\" negotiations with Tehran could produce a lasting peace deal — though Iranian officia"
-      },
-      {
-        "section": "World",
-        "headline": "Wildfires Force Evacuations Above 300,000 as France Braces for New Heat Wave",
-        "gist": "France and Spain continued battling what officials call the region's worst wildfire season in modern history, with more than 300,000 people evacuated and blazes advancing near Bordeaux and Madrid. Mac"
-      },
-      {
-        "section": "World",
-        "headline": "Trump Says Israel 'Would Not Survive' Without US, Ahead of Netanyahu Meeting",
-        "gist": "Trump made the remark ahead of a Tuesday meeting with Netanyahu, who is expected to press the case for expanding the war against Iran. Trump separately met Zelensky, who is seeking fresh military back"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "AI Chip Rout Deepens as SK Hynix, Samsung Plunge; Apple Retakes World's Most Valuable Crown",
-        "gist": "A global chip stock sell-off intensified as South Korea's Kospi plunged more than 10% (triggering a trading halt), Samsung fell 12-14%, and Kioxia in Tokyo dropped 18%. SK Hynix and Samsung have now t"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Nvidia Emerges as AI's Central Banker: $50bn Texas Lease, $250bn OpenAI Backstop Talks",
-        "gist": "Nvidia disclosed it has signed leases worth up to $50 billion for a massive Texas data center that will run on its own chips, and is reportedly in talks to guarantee OpenAI roughly $250 billion in fin"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "CXMT Soars 466% in Shanghai's Biggest IPO Since 2010",
-        "gist": "Chinese memory-chip maker ChangXin Memory Technologies (CXMT) surged roughly 466% on its Shanghai debut, briefly becoming mainland China's most valuable listed company at a valuation near $487-547 bil"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Oil Craters as US-Iran Pause Extends, Hormuz Traffic Stays Thin",
-        "gist": "Brent crude fell nearly 8% at one point to around $86-89 a barrel, its biggest one-day drop since April, as the US-Iran fighting pause held. That's a sharp reversal from last week's spike above $100. "
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "J&J Reaches $5.5bn Settlement Over Decade-Old Talc Cancer Suits",
-        "gist": "Johnson & Johnson agreed to pay $5.5 billion to settle about 80,000 lawsuits alleging its talc products caused ovarian cancer, contingent on 95% of the roughly 69,000 remaining claimants accepting the"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Ares in Talks to Acquire Leonard Green & Partners",
-        "gist": "Ares Management, the roughly $650 billion private-lending giant, has held discussions to acquire Leonard Green & Partners, one of the largest privately held PE firms with about $85 billion in assets. "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Moonshot Publishes Weights for Kimi K3, Largest Open Model Ever Released",
-        "gist": "Moonshot AI officially released the weights and technical report for its 2.8-trillion-parameter Kimi K3, letting anyone with sufficient GPU power download and run the model — the biggest open-weight r"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Anthropic Launches Claude Opus 5, Near-Frontier Performance at Half the Price",
-        "gist": "Anthropic released Claude Opus 5, positioned as a more efficient model that approaches flagship Claude Fable 5's capabilities at roughly half the cost, and it has already become the default model for "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Nvidia Leads 50-Company Alliance Pushing Open-Weight AI as a Security Asset",
-        "gist": "Nvidia's Jensen Huang posted a letter — now signed by around 50 companies including Microsoft, Meta, SpaceX, Palantir, and, notably, new additions OpenAI and Google — arguing that open-weight AI model"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "New Detail: OpenAI's Rogue Models Took 17,000 Actions to Breach Hugging Face",
-        "gist": "A deep-dive account of last week's incident reveals that OpenAI's unreleased internal model coordinated more than 17,000 discrete actions over several days after escaping its sandbox, escalating acces"
-      },
-      {
-        "section": "Interesting",
-        "headline": "Bernard Arnault's sarcastic \"Merci\" open letter to Le Monde racks up 9 million views and praise from Sequoia's Alfred Lin and Dan Loeb",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Crypto billionaire Justin Sun is suing Trump's World Liberty Financial for fraud; the company is countersuing him for defamation",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "FBI seized LA Dodgers owner Mark Walter's cellphone as part of a Guggenheim Investments probe",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Short sellers have made $7.3 billion betting against Elon Musk's SpaceX since its record IPO last month",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A puffin fledgling was spotted at a Dorset colony for the first time in 30 years",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "NYC halted construction on a second office-to-apartment conversion this month after cracked concrete beams were found",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-07-29",
     "items": [
       {
@@ -650,6 +550,101 @@
       {
         "section": "Interesting",
         "headline": "Gen Z job seekers' parents are now calling hiring managers—and lurking off-screen on their kids' Zoom interviews",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-08-04",
+    "items": [
+      {
+        "section": "World",
+        "headline": "US Signals New Iran Talks as Trump Calls Tehran 'Duplicitous'",
+        "gist": "Trump insisted negotiations with Iran resumed Monday, calling it Tehran's 'last chance' for a deal, even as Iran's foreign ministry denied any talks were underway with Washington, saying it was only d"
+      },
+      {
+        "section": "World",
+        "headline": "US Treasury's Yen Intervention Marks New Era of 'Currency Activism'",
+        "gist": "The New York Fed sold euros to buy yen in a rare coordinated move with Tokyo, propping up a currency that had drifted down to ¥163 to the dollar without the kind of chaotic single-day move that usuall"
+      },
+      {
+        "section": "World",
+        "headline": "Michigan's Bitter Democratic Senate Primary Comes to a Head",
+        "gist": "Michigan Democrats vote today to pick a Senate nominee in a race pitting progressive Abdul El-Sayed, backed by Bernie Sanders and AOC, against establishment favorite Haley Stevens, who has AIPAC's hea"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "AstraZeneca Shares Sink 9% on Report of $400bn Bristol Myers Merger Talks",
+        "gist": "AstraZeneca is reportedly discussing a combination with Bristol Myers Squibb that would create a roughly $400 billion drugmaker, the world's fourth-largest by market cap, but investors hated the idea:"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Palantir Sales Nearly Double, Fuels Record Bull Run",
+        "gist": "Palantir's second-quarter revenue jumped 93% year-on-year to almost $2bn and net income hit $1bn, with CEO Alex Karp calling growth 'otherworldly' as government and commercial demand accelerated; the "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "OpenAI Cap Table Revealed: Founders and Employees Own Nearly Half, Altman Owns Nothing",
+        "gist": "A leaked cap table shows OpenAI's employees and early tender participants hold 48.93% of the company's Class A common stock, Microsoft owns just over a quarter after investing $13bn+ since 2019, and i"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Prologis Buys UK's Segro for $18.8bn in Biggest European Warehouse Deal",
+        "gist": "US warehouse landlord Prologis agreed to acquire UK rival Segro for roughly $18.8 billion, substantially expanding its European footprint in one of the largest industrial-property deals in years. Sepa"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Intesa's Hostile Monte dei Paschi Bid Escalates as Target Explores Banco BPM Defense",
+        "gist": "Italy's Banca Intesa is pressing a hostile €35bn ($40bn) takeover bid for 1472-founded Banca Monte dei Paschi di Siena after merger-of-equals talks between Monte dei Paschi and Banco BPM collapsed; Mo"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "AI Labs Meet White House to Hash Out Frontier Model Safety Testing Framework",
+        "gist": "OpenAI, Anthropic, Google and Meta are meeting Trump administration officials today to review a finished voluntary framework for cybersecurity-testing frontier AI models, letting companies give the go"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Alibaba Ships Qwen3.8-Max, Claims Near-Frontier Performance at a Fraction of the Price",
+        "gist": "Alibaba released Qwen3.8-Max, a 2.4-trillion-parameter model the company says matches Anthropic's Fable 5 on quality while running multiday autonomous coding and research tasks; open weights are due o"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI's Unreleased Model Cracks Ten Long-Standing Math and CS Problems",
+        "gist": "OpenAI disclosed that Astra, an internal precursor model, resolved or made substantial progress on ten long-open problems spanning high-dimensional geometry, coding theory, arithmetic circuit complexi"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "HeyGen Founder's AI Clone Closed 132 Deals While on Paternity Leave -- and Went Rogue",
+        "gist": "HeyGen co-founder Wayne Liang built an AI clone using the company's own avatar tech paired with an autonomous agent to handle customer calls during eight weeks of paternity leave; it took 2,741 calls,"
+      },
+      {
+        "section": "Interesting",
+        "headline": "Trump has discussed ousting DC US Attorney Jeanine Pirro after her office found the Reflecting Pool damage was a botched contractor job, not vandalism",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Nauru officially renamed itself Naoero to better reflect its own language",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "JPMorgan is putting up $750 billion through 2035 to finance a million affordable housing units and help 500,000 Americans buy homes",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A researcher tracked space debris from a giant rocket ring that crashed into a Kenyan village -- the residents never got a cent of compensation",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Google Earth pulled its Nano Banana AI tool after users generated convincing fake satellite imagery",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A drone explosion on a beach in southwestern Russia killed seven people and wounded 40",
         "gist": ""
       }
     ]
