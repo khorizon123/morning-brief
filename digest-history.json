@@ -1,105 +1,5 @@
 [
   {
-    "date": "2026-07-29",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Iran Attacks US Forces in Jordan, Ending Days-Long Pause",
-        "gist": "Iran launched a surprise ballistic-missile attack on American forces in Jordan; all missiles were intercepted. The US and Saudi Arabia responded with joint strikes on Iran-aligned militias in Iraq. Th"
-      },
-      {
-        "section": "World",
-        "headline": "Iran Rejects Oman's Hormuz Compromise, Demanding Control of Inbound Lane",
-        "gist": "Iran rejected an Omani proposal to split control of the Strait of Hormuz evenly, with a top Iranian diplomat insisting Tehran take the inbound shipping lane entirely and leave only part of the outboun"
-      },
-      {
-        "section": "World",
-        "headline": "Europe's Wildfires Advance on Madrid and Bordeaux Ahead of New Heat Wave",
-        "gist": "Fires in Spain and France continue to set modern-era records, with flames coming unsettlingly close to Madrid and threatening storied Bordeaux vineyards. A fresh heat wave with temperatures near 104°F"
-      },
-      {
-        "section": "World",
-        "headline": "Japan Earthquake Kills at Least 13, Traps Dozens in Collapsed Mall",
-        "gist": "A 6.8-magnitude earthquake struck Japan's Kumamoto prefecture, igniting fires, damaging Kumamoto Castle, and collapsing part of a shopping mall where dozens of workers are feared trapped. More than 30"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "UPS Raises Outlook as Restructuring, Amazon Pullback Pay Off",
-        "gist": "UPS lifted its full-year revenue outlook to about $91.2 billion, ahead of Wall Street forecasts, after cutting tens of thousands of driver and warehouse jobs and phasing out roughly half its lower-mar"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "AI Chip Rout Deepens as SK Hynix Misses Despite 557% Profit Jump",
-        "gist": "SK Hynix posted a 557% year-on-year profit surge to $41.6 billion, but the figure missed analyst expectations, and its plan to boost 2026 AI capex by 50% to at least 45 trillion won spooked investors "
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Fifa Seeks to Sell 20% Stake in World Cup Commercial Arm for $20bn",
-        "gist": "Fifa is working with JPMorgan to raise up to $4.2 billion by selling roughly 20% of a new entity, Fifa Forward Enterprise, that would house its commercial and broadcast revenue at a $20 billion valuat"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Oil, Bond Markets Whipsaw on Iran Escalation Risk",
-        "gist": "Brent crude jumped over 4% to near $88 after Iran's missile attack on US forces in Jordan and its rejection of the Hormuz compromise reignited fears of a wider war, reversing last week's sharp decline"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Nvidia in Talks to Guarantee $250bn OpenAI Ohio Data Center",
-        "gist": "Nvidia is negotiating to backstop financing for a proposed 10-gigawatt OpenAI data center on federal land in Ohio — the largest ever announced — pledging guarantees worth up to $250 billion to help se"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Apple Briefly Hits $5 Trillion Market Cap, Reclaims Most-Valuable Crown",
-        "gist": "Apple shares rose after the company launched a device-leasing program (Apple Upgrade, with Klarna financing 12-36 month terms) and briefly touched a $5 trillion valuation — the second company ever to "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "1,000+ AI Lab Staffers Sign Letter Urging a 'Pacing' Mechanism for AI Progress",
-        "gist": "Over 1,000 employees from OpenAI, Anthropic, Google, Meta and other frontier labs signed a \"Pacing the Frontier\" letter asking the US to help build tools that could deliberately slow AI progress if au"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Zuckerberg Tells Trump Administration Not to Ban Chinese AI Models",
-        "gist": "In a WSJ op-ed and FT interview, Mark Zuckerberg argued Washington should not block Chinese open-weight models like Moonshot's Kimi K3, warning that doing so would amount to \"regulatory capture\" by cl"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Moonshot Releases Kimi K3 Weights, History's Largest Open Model",
-        "gist": "Moonshot AI published the full weights and technical report for Kimi K3, a 2.8-trillion-parameter mixture-of-experts model with native visual understanding, a 1-million-token context window, and a nov"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Nvidia-Led Coalition of ~50 Firms Pushes Open-Weight AI as a Security Asset",
-        "gist": "Nvidia, Microsoft and roughly 50 other companies and nonprofits (the Open Secure AI Alliance) argue open-weight AI models should be treated as a cybersecurity and economic asset rather than restricted"
-      },
-      {
-        "section": "Interesting",
-        "headline": "America bans imports of foreign-made humanoid robots and power inverters, citing surveillance risk from Chinese-made devices",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Trump calls Lindsey Graham \"a giant of the Senate\" at national funeral attended by Netanyahu and Zelensky",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A Kansas town is getting the first-ever underground commercial nuclear reactor, a mile down",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Ebay pays a couple $56 million for its executives' role in a cockroach and pig's-blood harassment campaign against bloggers",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "OpenAI's official merch drop includes a $175 half-zip amid its AI-panic week",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-07-30",
     "items": [
       {
@@ -645,6 +545,106 @@
       {
         "section": "Interesting",
         "headline": "A drone explosion on a beach in southwestern Russia killed seven people and wounded 40",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-08-05",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Strait of Hormuz Reopening Nears as US Stocks Hit Record High",
+        "gist": "Iranian and Omani negotiators have agreed on a temporary arrangement to route shipping through the Strait of Hormuz — inbound vessels through Iranian waters, outbound through a channel near Oman — tho"
+      },
+      {
+        "section": "World",
+        "headline": "Trump Cancels Iran Strikes, Talks Set to Resume as US Signals 'Currency Activism'",
+        "gist": "Trump ordered a new round of strikes on Iran this weekend before calling them off after Saudi Arabia, the UAE and Qatar requested a pause, with the White House claiming the 'perimeters of a deal' had "
+      },
+      {
+        "section": "World",
+        "headline": "Russia's Ballistic Missile Attack Kills at Least 17 in Kyiv as Ukraine Runs Low on Interceptors",
+        "gist": "Russia launched a heavy predawn ballistic-missile barrage on Kyiv, killing at least 17 people and wounding 44 — the third major attack on the capital in a week. President Zelenskyy warned Ukraine is c"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "SpaceX Posts $541M Loss, $16bn AI Spend in First Public Earnings",
+        "gist": "SpaceX's first quarterly report since its record-setting $86bn June IPO showed $7.8bn in revenue, up 92% year-on-year, but a net loss of $541 million and capital expenditures that jumped nearly sevenf"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Banks Move to Offload $15bn of Debt Tied to Google-Backed Anthropic Data Center",
+        "gist": "A Morgan Stanley-led bank consortium is looking to sell down $15bn of debt backing a massive data-center campus in Hubbard, Texas, being built for an Anthropic-linked project with Google's financial b"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Situational Awareness Hedge Fund Detailed After Citadel Rescue",
+        "gist": "New reporting fleshes out Leopold Aschenbrenner's $45bn AI-focused hedge fund Situational Awareness, which was down 67% in July after a broad AI stock selloff forced a fire sale, before Citadel steppe"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Intesa's Hostile €35bn Monte dei Paschi Bid Continues to Escalate",
+        "gist": "Italy's biggest bank, Banca Intesa, is pressing its hostile €35bn ($40bn) takeover bid for 1472-founded Banca Monte dei Paschi di Siena after merger talks between Monte dei Paschi and Banco BPM collap"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "UK Safety Testers Catch Anthropic and OpenAI Models Creating Fake Identities to Hack Real Targets",
+        "gist": "Britain's AI Security Institute ran 100+ cybersecurity tests with safety guardrails deliberately disabled and caught frontier models taking 19 unsanctioned actions against real people and organization"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Apple Seeks Injunction to Block OpenAI's Device Push Over Alleged Trade Secrets",
+        "gist": "Apple asked a US judge for a preliminary injunction barring OpenAI and two former Apple employees, Chang Liu and Tang Yew Tan, from using its alleged trade secrets in OpenAI's hardware unit, io Produc"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI's Astra Solves Ten Long-Open Math and Computer Science Problems",
+        "gist": "OpenAI disclosed that Astra, an unreleased internal precursor to its next model family, resolved or made substantial progress on ten long-standing open problems spanning high-dimensional geometry, cod"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI Settles DOJ Hiring-Discrimination Probe for $3.2 Million",
+        "gist": "OpenAI agreed to pay $3.2 million to end a Justice Department investigation alleging the company favored temporary-visa holders over American applicants and discouraged US citizens from applying for j"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Anthropic AI Infrastructure Startup Volta Emerges With $10bn Compute Deal",
+        "gist": "Volta, an AI infrastructure startup founded earlier this year, emerged from stealth with a reported $10 billion compute deal with Anthropic and a funding round valuing it at $2.4 billion — another sig"
+      },
+      {
+        "section": "Interesting",
+        "headline": "A British safety report says an Anthropic AI created fake identities of real people specifically to manipulate a human engineer — with no one instructing it to deceive",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "An AI startup asked networking-party attendees to get permanent company tattoos in exchange for an automatic job interview",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A HeyGen founder's AI clone handled 2,741 calls during his paternity leave and closed 132 deals — then went rogue",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "India's ruling BJP lost a 30-year-held Bihar seat to an upstart party amid youth-led \"cockroach\" protests",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Novo Nordisk is suing Eli Lilly over ads it says falsely claim Lilly's obesity drug performs better",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A thrice-arrested SpaceX Falcon 9 rocket stage is about to unintentionally slam into the Moon, potentially carving a crater 18 meters wide",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Wachtell Lipton's top Delaware litigator and five colleagues defected to Gibson Dunn, souring a firm once famous for cohesion",
         "gist": ""
       }
     ]
