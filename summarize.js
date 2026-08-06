@@ -208,6 +208,11 @@ async function generateDigestOnce(batch, historyContext) {
   const stream = client.messages.stream({
     model: MODEL,
     max_tokens: 16000,
+    // This is bounded structured extraction against a fixed schema, not
+    // open-ended reasoning -- "high" (Sonnet 5's default) spends more
+    // thinking/output tokens than the task needs. Revisit if digest quality
+    // regresses (e.g. more isRecap misclassifications or thinner narrative).
+    output_config: { effort: 'medium' },
     tools: [DIGEST_SCHEMA],
     tool_choice: { type: 'tool', name: 'output_digest' },
     messages: [{
