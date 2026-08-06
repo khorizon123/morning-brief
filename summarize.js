@@ -198,13 +198,24 @@ function normalizeField(value, fieldName, expectedType) {
   return result;
 }
 
-async function generateDigestOnce(batch, historyContext) {
+async function generateDigestOnce(batch, historyContext, attempt) {
   // The retry loop below re-sends this exact prompt (same batch, same history
   // context, word-for-word) up to twice more on a degenerate/malformed first
   // attempt -- see 2026-07-27, where attempts 1 and 2 failed in ~20s/~10s each
-  // before a 220s attempt 3 succeeded. Marking it cacheable means only the
-  // first attempt pays full input price; retries within the run read the
-  // identical prefix back at ~10% of that, well within the 5-minute TTL.
+  // before a 220s attempt 3 succeeded. Marking it cacheable means a retry
+  // within the run reads the identical prefix back at ~10% of input price
+  // instead of paying full price again.
+  //
+  // Only mark it cacheable from attempt 2 onward, not attempt 1. A cache
+  // *write* itself costs ~25% more than a plain input token, so caching
+  // attempt 1 unconditionally means every run that succeeds on the first try
+  // -- the vast majority of them -- pays that premium for a cache that's
+  // never read (cache_read stayed 0 on both 2026-08-05 and 2026-08-06, which
+  // both succeeded on attempt 1). Deferring the cache write to the first
+  // retry keeps the common no-retry case at plain input price, while still
+  // letting a genuine multi-attempt run (attempt 2 writes, attempt 3 reads)
+  // get the cheap re-read.
+  const cacheable = attempt > 1;
   const stream = client.messages.stream({
     model: MODEL,
     max_tokens: 16000,
@@ -218,7 +229,11 @@ async function generateDigestOnce(batch, historyContext) {
     messages: [{
       role: 'user',
       content: [
-        { type: 'text', text: buildPrompt(batch, historyContext), cache_control: { type: 'ephemeral' } },
+        {
+          type: 'text',
+          text: buildPrompt(batch, historyContext),
+          ...(cacheable ? { cache_control: { type: 'ephemeral' } } : {}),
+        },
       ],
     }],
   });
@@ -285,7 +300,7 @@ async function generateDigest(batch, historyContext = '') {
   let lastErr;
   for (let attempt = 1; attempt <= MAX_DIGEST_ATTEMPTS; attempt++) {
     try {
-      const digest = await generateDigestOnce(batch, historyContext);
+      const digest = await generateDigestOnce(batch, historyContext, attempt);
       if (isDegenerate(digest)) {
         throw new Error('Digest looks degenerate (empty sections after Markets, or a stub company) -- likely a truncated generation.');
       }
