@@ -1,95 +1,5 @@
 [
   {
-    "date": "2026-07-30",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Fed Holds Rates as Bond Yields Hit 19-Year High Amid Warsh 'Family Fight'",
-        "gist": "The Federal Reserve held its benchmark rate at 3.5%-3.75%, but three of twelve voting members dissented in favor of a hike — an unusually open split. Chairman Kevin Warsh, in his second meeting at the"
-      },
-      {
-        "section": "World",
-        "headline": "Iran Attacks Resume: US Launches Two-Hour Strike, Egyptian Tanker Hit",
-        "gist": "After a days-long pause, fighting between the US and Iran resumed: American forces carried out a two-hour \"heavy\" round of strikes overnight, their first direct attack on Iran in nearly a week, follow"
-      },
-      {
-        "section": "World",
-        "headline": "Saudi Arabia Officially Joins US-Iran War With Iraq Strikes",
-        "gist": "Saudi Arabia carried out joint airstrikes with the US against Iranian-linked militias in Iraq, killing roughly 20 Iranian advisers — its first direct combatant role in the widening war after weeks of "
-      },
-      {
-        "section": "World",
-        "headline": "Europe's Wildfires Called the Region's Worst Reckoning Since WWII",
-        "gist": "France and Spain's wildfire season has displaced more than 300,000 people in the largest peacetime evacuations either country has recorded, closed the Louvre and Eiffel Tower early, and caused at leas"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Meta Slides 10% as AI Costs Bite, Microsoft Jumps 9% on Cloud Beat",
-        "gist": "Meta reported record Q2 revenue ($60.8bn) but profit fell 14% to $15.9bn (some reports cite $18.3bn), free cash flow collapsed to $784 million from over $12 billion, and it raised its 2026 capex floor"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Hedge Fund Situational Awareness Scrambles for Cash After AI Stock Rout",
-        "gist": "Situational Awareness, the $20 billion hedge fund founded by former OpenAI researcher Leopold Aschenbrenner, is seeking fresh capital from existing investors and lenders after taking heavy losses in t"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "CXMT Soars 470% in China's Biggest IPO in a Decade, Then Falls 9% in HK",
-        "gist": "ChangXin Memory Technologies (CXMT), a Chinese memory-chip maker seen as Beijing's answer to Samsung and SK Hynix, surged as much as 500% on its Shanghai debut last week, briefly becoming mainland Chi"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Reformation Prices IPO at $900M Valuation, JetZero Lands $3bn Loan to Take on Boeing",
-        "gist": "Eco-fashion brand Reformation priced its IPO at $15/share, valuing it near $900 million; majority owner Permira's cost discipline is seen as an advantage over failed direct-to-consumer peers like Allb"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI's Rogue Model Hacked a Second Company, Took 17,600 Actions",
-        "gist": "AI infrastructure firm Modal Labs confirmed one of its customers was a second victim of the OpenAI model breakout first disclosed with Hugging Face, after a customer's coding flaw left a sandbox open "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Over 1,000 AI Lab Staffers Sign Letter Urging a 'Pacing' Mechanism",
-        "gist": "More than 1,000 employees from OpenAI, Anthropic, Google, Meta and other frontier labs signed the \"Pacing the Frontier\" statement, asking the US government to help build technical and governance tools"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Simile Raises $200M at $2B Valuation to Simulate Human Focus Groups With AI",
-        "gist": "Stanford spinoff Simile raised a $200 million round led by Greenoaks at a $2 billion valuation, building AI agents that simulate how specific groups of people — from equity analysts to consumer segmen"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "DoorDash Gets FAA Nod to Fly Its Own Delivery Drones",
-        "gist": "DoorDash secured a key FAA certification to make commercial deliveries using drones it's building in-house, moving beyond its existing four-year partnerships with operators like Alphabet's Wing and Fl"
-      },
-      {
-        "section": "Interesting",
-        "headline": "A Dallas jury's advisory verdict could expose freight broker C.H. Robinson to $604 million in damages from a single 2021 truck crash",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Aspen, Colo. home sales fell 32% in the first half of 2026 as the ski town's snow disappeared",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A US startup's bionic eye just won European regulatory approval, restoring sight to some blind patients via retina implant and glasses",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A thrifted $3 Goodwill jacket with Wilt Chamberlain's name resold at auction for nearly $90,000",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Fauci invoked the Fifth Amendment roughly 100 times before Senate investigators, accusing Rand Paul of an \"unhinged obsession\" with him",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-07-31",
     "items": [
       {
@@ -645,6 +555,106 @@
       {
         "section": "Interesting",
         "headline": "Wachtell Lipton's top Delaware litigator and five colleagues defected to Gibson Dunn, souring a firm once famous for cohesion",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-08-06",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Iran and Oman Finalize Draft Deal to Reopen Strait of Hormuz",
+        "gist": "Iran's foreign ministry says it has reached agreement with Oman on a proposed shipping route through the Strait of Hormuz that would give Tehran oversight of ships entering the Persian Gulf without le"
+      },
+      {
+        "section": "World",
+        "headline": "Ukraine's Air War Intensifies as Kyiv Runs Low on Interceptors",
+        "gist": "Russia launched another blistering missile attack on Kyiv, killing at least 17 people and wounding 44 as neither side lets up on strikes targeting critical infrastructure. Ukrainian officials confirme"
+      },
+      {
+        "section": "World",
+        "headline": "El-Sayed's Michigan Win Fuels a National Political Fight Over Data Centers",
+        "gist": "Abdul El-Sayed's razor-thin win in Michigan's Democratic Senate primary is being read as a template for progressives: he campaigned partly on a moratorium against data centers, in a state where OpenAI"
+      },
+      {
+        "section": "World",
+        "headline": "Tunisia's Rolling Blackouts Spark Protests Against Kais Saied",
+        "gist": "A severe heatwave and rolling power cuts have triggered night-time demonstrations against Tunisia's authoritarian president, Kais Saied, as anger mounts over the government's handling of the electrici"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "SpaceX Stock Craters as $18.4bn AI Spending Spree Rattles Investors",
+        "gist": "SpaceX shares fell another 10-14% after its first public earnings report showed capital expenditures of $18.4 billion for the quarter — more than double the prior period — mostly tied to AI infrastruc"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Citadel's Fire-Sale Rescue of Situational Awareness Pays Off Big",
+        "gist": "Ken Griffin's Citadel made billions of dollars in a single week after buying the bulk of the public stock book of Situational Awareness, the AI-focused hedge fund run by 24-year-old Leopold Aschenbren"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Google Shares Drop 5% as Hassabis Steps Aside From DeepMind, Dean Departs",
+        "gist": "Google shook up its AI leadership: DeepMind CEO Demis Hassabis is stepping down to become chairman and Alphabet's chief scientist, handing day-to-day control of frontier model work (including Gemini 4"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Airtable Sells for $1.29bn After Falling From $11bn Peak, Spins Off AI Unit",
+        "gist": "Airtable agreed to be acquired by Bending Spoons, the Milan-based holding company known for buying and stripping down tech firms like Vimeo and Evernote, for about $1.29 billion in cash — a steep come"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Banks Look to Offload $15bn of Debt Tied to Anthropic-Linked Texas Data Center",
+        "gist": "A Morgan Stanley-led bank consortium is trying to sell down $15 billion of debt backing a massive data-center campus in Hubbard, Texas, being built for an Anthropic-linked project with Google's financ"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Anthropic Reportedly Signs $10bn Cloud Deal With AI Infrastructure Startup Volta",
+        "gist": "Anthropic has agreed to buy six years of cloud capacity from Volta, an AI infrastructure startup that emerged from stealth this week valued at $2.4 billion. The planned 133-megawatt data center in Nor"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "White House Exempts Open-Source Models — Including China's — From New AI Safety Reviews",
+        "gist": "The Trump administration's new voluntary framework for testing frontier AI models will only scrutinize closed models from labs like Anthropic, Google and OpenAI — not open-weight ones from Meta, Nvidi"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Meta Joins Coding-Agent Race With Muse Code, Undercutting Rivals on Price",
+        "gist": "Meta released a beta terminal coding agent called Muse Code alongside its powering model, Muse Spark 1.2, going head-to-head with OpenAI's Codex and Anthropic's Claude Code. Muse Code runs background "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Lumber Prices Hit Four-Year High Despite Housing Slump, as Trade Curbs Bite",
+        "gist": "Lumber prices have climbed to their highest level in four years even as home sales slump and renovation spending cools, reversing the usual demand-driven pattern. This time it's a supply squeeze: tari"
+      },
+      {
+        "section": "Interesting",
+        "headline": "OpenAI's official merch now includes a $70 tie-dyed ChatGPT basketball",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A researcher let an AI agent run a San Francisco store for four months — employees called their boss 'the most lenient' they've ever had",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Google Earth pulled its Nano Banana AI tool again after users generated convincing fake nuclear plants, refugee camps and a fatal car crash",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A researcher tracked a giant rocket ring's debris to a crashed Kenyan village that never got a cent of compensation",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "AI-powered voice-cloning 'vishing' attacks reportedly targeted Citadel, Point72 and Two Sigma",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A four-ton SpaceX Falcon 9 rocket stage slammed into the Moon at 5,400 mph today — almost no one saw it happen",
         "gist": ""
       }
     ]
