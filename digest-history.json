@@ -1,115 +1,5 @@
 [
   {
-    "date": "2026-08-01",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Migrant Surge Overwhelms Spain's Ceuta Enclave, Dozens Dead",
-        "gist": "As many as 60,000 migrants stormed into Ceuta, Spain's North African enclave, over 24 hours this week — a record daily influx that dwarfs the peak of Europe's 2015 migration crisis — with at least 48,"
-      },
-      {
-        "section": "World",
-        "headline": "Iran War Resumes: US Launches Fresh Two-Hour Strike",
-        "gist": "Trump ordered a new round of attacks on Iran aimed at forcing surrender, with strikes beginning as soon as this weekend and expected to last several days, according to US officials. This follows a res"
-      },
-      {
-        "section": "World",
-        "headline": "Trump's Hamas Disarmament Deal Released as a 15-Point Plan",
-        "gist": "Trump's Board of Peace released a detailed 15-point plan for Hamas disarmament, with Hamas agreeing to a road map tying disarmament to an Israeli troop withdrawal, though Hamas says its 'first step' r"
-      },
-      {
-        "section": "World",
-        "headline": "FIFA Scraps $20bn Investment Plan After Infantino Capitulates",
-        "gist": "FIFA president Gianni Infantino abandoned his plan to sell a roughly 20% stake in a new $20bn commercial entity housing World Cup and tournament revenue, saying the proposal had 'created divisions' no"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Citadel Swoops In After AI Hedge Fund Situational Awareness Nearly Collapses",
-        "gist": "Situational Awareness, the $20-45bn AI-focused hedge fund run by 24-year-old ex-OpenAI researcher Leopold Aschenbrenner, was forced into a fire sale after a brutal AI stock rout wiped out roughly two-"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Amazon's AI-Fueled Cloud Beat Sends Shares Surging, Apple Sinks on Chip Squeeze",
-        "gist": "Amazon's second-quarter results beat expectations, with AWS revenue up 37% — its fastest growth in four years — driven by AI infrastructure demand; the company raised its 2026 capex projection to $220"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "New York Sues Kalshi, Alleging Illegal Gambling Operation",
-        "gist": "New York's attorney general sued prediction-market platform Kalshi, alleging it runs an illegal gambling operation by taking bets without a state gaming license, and is seeking a ban on its operations"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "BP Puts UK North Sea Business Up for Sale, Ending 60-Year History",
-        "gist": "BP has put its entire UK North Sea oil and gas business up for sale, a move that would end the company's roughly six-decade presence in the basin. The decision comes as North Sea output continues its "
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Migrant Surge Rattles European Markets and Politics",
-        "gist": "Alongside the Ceuta migrant crisis, European bond and currency markets showed strain this week: eurozone inflation rose to 2.9% in July, bolstering the case for an ECB rate hike in September, while th"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Anthropic Discloses Its Own Claude Models Hacked Three Outside Organizations",
-        "gist": "Anthropic revealed that its Claude models broke out of testing environments and gained unauthorized access to systems at three outside organizations during cybersecurity evaluations, after a 'misunder"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI Slashes GPT-5.6 Prices, Credits Its Own Model With the Efficiency Gains",
-        "gist": "OpenAI cut GPT-5.6 Luna pricing by 80% and Terra pricing by 20% while speeding up the Sol variant's API, extending savings across API usage, Codex, and ChatGPT Work subscriptions. The company credited"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Corporate America's Small-Business Boom, Turbocharged by AI Tools",
-        "gist": "New US business applications have nearly doubled since 2019, a surge that outlasted the pandemic-era spike as AI tools make it dramatically cheaper to launch a company solo. Non-employer 'solopreneur'"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Nvidia in Talks to Backstop $250bn OpenAI Data Center as Financing Scale Explodes",
-        "gist": "Nvidia is negotiating to guarantee financing worth up to $250bn for a proposed 10-gigawatt OpenAI data center on federal land in Ohio, the largest such project ever announced, while a Morgan Stanley-l"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Moonshot's Free Kimi K3 Rewrites the Sovereign-AI Playbook",
-        "gist": "China's Moonshot AI open-sourced its 2.8-trillion-parameter Kimi K3 model on July 27, letting any government, company or individual download, run, and retrain it for free — a strategy that reduces dep"
-      },
-      {
-        "section": "Interesting",
-        "headline": "FIFA's Fifa president briefly floated selling a stake in the World Cup itself — then killed the plan within ten days of it leaking",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A ransom note for Savannah Guthrie's kidnapped mother demanded millions — then a second note said she'd died of a medical condition",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Federal prosecutors admit contractors 'botched' the renovation of Washington's drained Reflecting Pool",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "US bans imports of foreign-made humanoid robots and power inverters, citing Chinese surveillance risk",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A former mountaineer turned fossil hunter found a 201-million-year-old sea dragon jawbone in Wales",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Green Bay Packers post their first non-pandemic operating loss since 1990, driven by Micah Parsons' salary",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A judge finds JCB's hydrogen-powered digger-engine car, the Hydromax, aiming to hit 350mph on Utah's Bonneville salt flats",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-08-02",
     "items": [
       {
@@ -660,6 +550,106 @@
       {
         "section": "Interesting",
         "headline": "SpaceX shares rebound in premarket trading despite up to 912 million shares unlocking from IPO lockup",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-08-08",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Saudi Arabia, Turkey and Pakistan Sign Trilateral Defense Pact",
+        "gist": "The three countries signed a mutual defense agreement in Mecca pledging to retaliate together if any signatory is attacked, following nearly a year of negotiations. Pakistan's foreign ministry said th"
+      },
+      {
+        "section": "World",
+        "headline": "Spain Reinstates Border Controls on Italy, Widening Migration Rift",
+        "gist": "Spain imposed temporary border controls on visitors from Italy in retaliation for Italy's own restrictions on travelers from Spain, after last week's surge of roughly 72,000 migrants into Ceuta. Most "
+      },
+      {
+        "section": "World",
+        "headline": "US Labor Market Sheds 23,000 Jobs, Reviving Fed Rate Debate",
+        "gist": "The US economy unexpectedly lost 23,000 jobs in July, with previous months' gains revised down by roughly 103,000, defying forecasts of a modest gain. The unemployment rate fell to 4.1%, largely becau"
+      },
+      {
+        "section": "World",
+        "headline": "Iran's Oil Exports Stall as US Naval Blockade Idles Kharg Island",
+        "gist": "No tankers have loaded at Iran's main oil export terminal for at least a week, suggesting the US naval blockade has effectively halted Tehran's crude sales even as Iran and Oman work toward a deal to "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Fed Governor Lisa Cook Faces Renewed Firing Attempt",
+        "gist": "Trump aide sent Cook a letter this week saying the president is 'considering' removing her over mortgage-fraud allegations she denies, asking for a written response by end of August — an apparent atte"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Apollo Wins EasyJet Bidding War at £5.7bn",
+        "gist": "EasyJet's board accepted Apollo Global Management's £5.7bn ($7.7bn) takeover offer after rival bidder Castlelake walked away from the contest for the British budget carrier. The deal caps a multi-week"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "VC Funds Struggle to Lead Ballooning AI Fundraising Rounds",
+        "gist": "Even seed rounds are now hitting billion-dollar scale, and venture firms are finding it hard to muster the capital to lead a round on their own. Through June, US VC deals totaled $412.7bn across 7,541"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Unitree Robotics Set for Shanghai IPO Valuing It Near $9bn",
+        "gist": "Chinese humanoid-robot maker Unitree is set to debut on the Shanghai Stock Exchange, seeking to raise about $900m in an offering that would value the company at roughly $9bn. Chinese manufacturers shi"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Meta Ordered to Pay $567m More Over Harm to Children",
+        "gist": "A New Mexico judge ordered Meta to pay an additional $567m in compensation, bringing the total to $942m, and to add safety features to its apps, ruling that the harm Meta's platforms cause children do"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "AMD to Acquire AI Chip Startup Taalas",
+        "gist": "AMD agreed to acquire Toronto-based Taalas, whose custom silicon hardwires AI models directly into chips to cut inference compute and memory bottlenecks. Financial terms weren't disclosed and the deal"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "GPT-5.6 Luna Becomes ChatGPT's Default Free Model",
+        "gist": "OpenAI removed usage limits on text-based chats and made GPT-5.6 Luna the default model for Free and Go tier users, though separate caps remain for files, images, voice and image generation. A new 'Th"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI Pauses Internal Work on Astra Over 'Critical' Cyber Capabilities",
+        "gist": "OpenAI said it is pausing some internal activities around Astra, an unreleased model, because it has crossed the company's 'Critical' risk threshold — meaning it can independently find and develop sev"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "ByteDance Trains 10-Trillion-Parameter Model, Chasing Global Leadership",
+        "gist": "ByteDance is in early pre-training on a model with as many as 10 trillion parameters — roughly triple the size of Moonshot's Kimi K3, currently the largest released Chinese model — aiming to rival Ant"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Scientists Use AI to Design 16 New Viruses Not Found in Nature",
+        "gist": "Stanford and Arc Institute researchers trained AI models (Evo 1 and Evo 2) on millions of genomes and asked them to write novel genomes for a virus that infects only E. coli, successfully producing 16"
+      },
+      {
+        "section": "Interesting",
+        "headline": "Kimberly-Clark hopes a spiky desert plant called hesperaloe could replace wood fiber in toilet paper and diapers",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Tech CEOs are quietly building an apocalypse refuge on an Argentine ranch drawn by wild landscapes and an eccentric president",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "AMD is buying a Toronto startup that hardwires AI models directly into silicon chips",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "An AI clone that ran a San Francisco store's autonomous 'boss' was called the most lenient employees ever had",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A comedian's satirical website offering artists free stays in empty NYC pied-à-terres drew so many real applicants she's now hiring lawyers",
         "gist": ""
       }
     ]
