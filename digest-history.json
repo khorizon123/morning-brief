@@ -1,75 +1,5 @@
 [
   {
-    "date": "2026-08-02",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Spain Deploys Troops to Ceuta as Enclave 'Vents' Over Migrant Surge",
-        "gist": "Spain has begun rounding up and repatriating Moroccan migrants who crossed into Ceuta hoping to stay, as soldiers patrol the North African enclave amid vocal local opposition. EU home affairs minister"
-      },
-      {
-        "section": "World",
-        "headline": "Trump Cancels New Iran Strikes After Middle East Allies' Request",
-        "gist": "Donald Trump called off a fresh round of planned strikes on Iran after regional allies requested he hold off, with the White House claiming the 'perimeters of a deal' have been agreed. The reversal co"
-      },
-      {
-        "section": "World",
-        "headline": "US Treasury Makes Historic Yen Intervention",
-        "gist": "The New York Federal Reserve sold euros to buy yen in an unusual coordinated move, following speculation that Tokyo had separately intervened to prop up its currency. The intervention marks a rare dir"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Ares in Talks, Intesa Launches Hostile €35bn Bid for World's Oldest Bank",
-        "gist": "Italy's Banca Intesa, the country's biggest lender, has made a hostile 35-billion-euro ($40 billion) cash-and-shares bid for Banca Monte dei Paschi di Siena, the 1472-founded lender that has stumbled "
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "SpaceX Leads a New Land Rush — for Radio Spectrum, Not Land",
-        "gist": "SpaceX and rivals are racing to lock up radio spectrum, the invisible airwaves that carry satellite and wireless signals, in a scramble likened to the 19th-century land rushes. In the US, the FCC trea"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Chinese VC Firms Rush to Raise Funds After Three-Year Drought",
-        "gist": "Chinese venture capital managers are finding fresh appetite from investors eager to hedge against concentrated bets on US markets, ending a multi-year fundraising drought. The rebound follows a string"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Simile's AI 'Agentic Twins' Simulate Consumers Without the Consumers",
-        "gist": "Simile, a year-old Stanford-linked startup, raised $200 million at a $2 billion valuation to build AI agents that simulate how specific groups of people — equity analysts, shoppers, brand audiences — "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "How Mexico Became a Surprise Cornerstone of America's AI Boom",
-        "gist": "Factories across Mexico are ramping up production of servers destined for US data centers, pushing the country's exports to record levels as it quietly becomes an assembly hub for the AI infrastructur"
-      },
-      {
-        "section": "Interesting",
-        "headline": "Australian pineapple farmers battle a biosecurity fight over Indian and Indonesian fruit imports",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Prospectors say they found America's largest tungsten deposit — but NASA may block it",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Freemasons launch recruitment push to attract younger members as secret-handshake society ages",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Von Hagens, the anatomist nicknamed 'Dr. Death' whose plastinated-corpse exhibits drew millions, dies at 80",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Foreign 'bear hug' takeover offers surge against unwilling UK-listed boards",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-08-03",
     "items": [
       {
@@ -650,6 +580,86 @@
       {
         "section": "Interesting",
         "headline": "A comedian's satirical website offering artists free stays in empty NYC pied-à-terres drew so many real applicants she's now hiring lawyers",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-08-09",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Iran Demands US 'Rectify Behaviour' Before Reopening Strait of Hormuz",
+        "gist": "A senior Iranian security official said Washington must pay compensation for war damage before Tehran will finalize the reopening of the Strait of Hormuz, even as Iranian and Omani negotiators continu"
+      },
+      {
+        "section": "World",
+        "headline": "Spain-Italy Border Rift Widens Amid Migration Fallout",
+        "gist": "Spain has reinstated temporary border controls on visitors from Italy in retaliation for Italy's own travel restrictions, deepening a diplomatic rift between Pedro Sánchez and Giorgia Meloni that foll"
+      },
+      {
+        "section": "World",
+        "headline": "China's Inflation Cools as Iran War Shockwaves Fade",
+        "gist": "China's July consumer price index rose at its slowest pace since January, while factory-gate price growth also decelerated, as the inflationary jolt from the Iran conflict works its way out of the dat"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "European Stocks Rally on Strong Earnings as Iran War Gloom Lifts",
+        "gist": "Investors have piled back into European equities, with companies in the Stoxx Europe 600 on track to post a 22% year-on-year jump in second-quarter profits. The rally reflects fading anxiety over the "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Berkshire's Greg Abel Ends Buffett's Three-Year Cash Hoarding Streak",
+        "gist": "Berkshire Hathaway CEO Greg Abel has broken from Warren Buffett's more than three-year pattern of net stock selling, putting roughly $20 billion of the conglomerate's cash pile to work in equities. Th"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "UK State Subsidies to Business Nearly Double on Post-Brexit Energy Grants",
+        "gist": "UK government subsidies to businesses climbed to £114 billion in the year to March, more than double the prior year's total, driven largely by grants tied to post-Brexit energy projects. The jump high"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Skyfall AI Wants to Automate the Job of CEO",
+        "gist": "Sam Pasupalak, who sold his previous startup Maluuba to Microsoft for $160 million in 2017, is now building Skyfall AI, a startup training AI to run entire companies rather than just write code. The t"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "SpaceX's AI Pivot Draws Investor Skepticism",
+        "gist": "Investors are growing wary of Elon Musk's ambitions as SpaceX pours enormous sums into refashioning itself as an AI infrastructure company, on top of its rocket business. The spending spree comes as t"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "White House AI Safety Review Framework Skips Open-Source Models",
+        "gist": "The Trump administration's finalized framework for scrutinizing frontier AI models will only review closed models like those from Anthropic and OpenAI, exempting open-weight models from companies such"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Google's DeepMind Leadership Shake-up Confirmed",
+        "gist": "Demis Hassabis is stepping down from day-to-day CEO duties at DeepMind to become chairman and Alphabet's chief scientist, with Koray Kavukcuoglu taking over daily operations. Jeff Dean, Google's outgo"
+      },
+      {
+        "section": "Interesting",
+        "headline": "Berkshire's Greg Abel finally puts $20bn of Buffett's cash pile to work after a three-year selling streak",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Indonesia's biggest coal producer struggles to keep the lights on even as it exports fuel abroad",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Deadly Kashmir protests kill dozens in worst unrest in decades, testing Pakistan's military rulers",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Loafers are back: young office workers now consider sneakers uncool",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "An AI clone of a HeyGen founder handled thousands of calls and closed deals during his paternity leave",
         "gist": ""
       }
     ]
