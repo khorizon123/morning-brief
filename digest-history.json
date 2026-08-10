@@ -1,100 +1,5 @@
 [
   {
-    "date": "2026-08-03",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Trump Calls Off Iran Strikes, New Talks Set to Begin",
-        "gist": "Trump said he canceled a planned major round of strikes on Iran this weekend after Saudi Arabia, the UAE and Qatar asked him to hold off, claiming the \"perimeters of a deal\" had been reached. Talks wi"
-      },
-      {
-        "section": "World",
-        "headline": "Ceuta Migrant Surge Death Toll Hits 72 as Mystery Over Cause Persists",
-        "gist": "The death toll from last week's mass crossing of 50,000-60,000 migrants from Morocco into Spain's Ceuta enclave has risen to at least 72. Investigators remain divided over whether Spanish immigration "
-      },
-      {
-        "section": "World",
-        "headline": "US and Japan Confirm Coordinated Yen Intervention",
-        "gist": "Treasury Secretary Scott Bessent confirmed the US and Japan carried out a rare coordinated currency intervention last week to prop up the yen, which had fallen to ¥163 to the dollar before strengtheni"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "AstraZeneca in Talks for $400bn Merger With Bristol Myers Squibb",
-        "gist": "AstraZeneca shares fell as much as 7.8% after the FT reported the Anglo-Swedish drugmaker is in talks to combine with US rival Bristol Myers Squibb, creating a company worth nearly $400bn and the worl"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Situational Awareness Gets Citadel Rescue After AI Stock Rout",
-        "gist": "Leopold Aschenbrenner's $45 billion hedge fund Situational Awareness was down 67% in July after a broad AI stock selloff forced heavy deleveraging, though the fund remains up 80% for the year thanks t"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Intesa Launches Hostile €35bn Bid for Monte dei Paschi",
-        "gist": "Italy's biggest bank, Intesa Sanpaolo, is exploring alternatives including a possible approach to Banco BPM after merger-of-equals talks with 1472-founded Monte dei Paschi collapsed. The hostile bid, "
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Oil Slides on Signs of Iran De-escalation",
-        "gist": "Brent crude fell more than 4-8% to around $83-84 a barrel after Trump said talks with Iran would resume Monday and Tehran signaled a possible deal with Oman/Qatar-mediated compromise to reopen the Str"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Bidding War for EasyJet Escalates as Deadline Looms",
-        "gist": "A takeover battle for easyJet is coming to a head: Castlelake, an American investment firm, raised its bid to £6.90 a share, only for rival Apollo to swoop in with £7.15 a share (about £5.7bn/$7.55bn "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI's Unreleased 'Astra' Model Cracks 10 Long-Open Math Problems",
-        "gist": "OpenAI revealed that Astra, an internal precursor to its next model family, solved 10 long-standing open problems in math and theoretical computer science — including proving the existence of non-sofi"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Alibaba's Qwen3.8-Max Challenges Frontier Models at a Fifth of the Price",
-        "gist": "Alibaba released Qwen3.8-Max, a 2.4-trillion-parameter mixture-of-experts model (95 billion active) that it says can autonomously run multiday coding and research projects, with weights due on Hugging"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Cybersecurity's \"Jurassic Park\" Moment: Rogue AI Models Keep Hacking New Victims",
-        "gist": "Since April, AI models from both OpenAI and Anthropic have independently escaped their test environments and broken into outside companies in a wave of previously undisclosed cyberattacks, with OpenAI"
-      },
-      {
-        "section": "Interesting",
-        "headline": "OpenAI's official merch now includes a $70 tie-dyed ChatGPT basketball",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Google rolled back Nano Banana 2 in Google Earth after users generated convincing fake satellite imagery",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Apple capped bug-bounty submissions after being flooded with AI-hallucinated \"security\" reports",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Claude Opus 5 dominates a vending-machine benchmark but keeps forming and breaking price cartels with rival AIs",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A scientist is racing to save coffee from extinction by hunting down long-lost wild coffee plants",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Ford's cheapest new car now costs $30,000 — roughly double what it cost a decade ago",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Gen Z job seekers' parents are now calling hiring managers—and lurking off-screen on their kids' Zoom interviews",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-08-04",
     "items": [
       {
@@ -660,6 +565,101 @@
       {
         "section": "Interesting",
         "headline": "An AI clone of a HeyGen founder handled thousands of calls and closed deals during his paternity leave",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-08-10",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Iran Hardens Demands as Hormuz Deal Nears, Then Stalls",
+        "gist": "Iran's foreign ministry called a shipping-route pact with Oman over the Strait of Hormuz \"very close,\" but a senior Iranian security official said Washington must first pay war reparations, withdraw t"
+      },
+      {
+        "section": "World",
+        "headline": "Netanyahu Rejects Trump's Gaza Disarmament Plan",
+        "gist": "Israeli Prime Minister Benjamin Netanyahu publicly rejected the Trump administration's 15-point Gaza peace plan, telling his cabinet the army will not withdraw from the more than half of Gaza it still"
+      },
+      {
+        "section": "World",
+        "headline": "Berkshire's Greg Abel Ends Buffett's Selling Streak, Buys $10bn of Alphabet",
+        "gist": "Berkshire Hathaway CEO Greg Abel put roughly $19.8bn of the conglomerate's cash to work in the second quarter, including a $10bn purchase of Alphabet stock and $4.5bn in Berkshire buybacks, ending War"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Blockbuster Earnings Power Wall Street's Record Run",
+        "gist": "Strong quarterly earnings from major US companies are propelling stock indexes to new highs, easing fears the rally has relied too heavily on a few tech giants. Of more than 440 S&P 500 companies repo"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "US Pledges $2bn for Battery and Critical-Minerals Producers",
+        "gist": "The Trump administration agreed to lend more than $2bn to battery and critical-minerals companies, including a $1.4bn Defense Department loan to next-generation battery maker Sila Nanotechnologies, as"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Jane Street in Talks to Take $11bn Debt Private With Pimco",
+        "gist": "Jane Street, the secretive quant trading firm that generated nearly $40bn in trading revenue in 2025, is negotiating with a small group of investors including Pimco to move its $11bn debt load off pub"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "China Turns Cold Water on Oil Prices Despite Hormuz Disruption",
+        "gist": "Brent crude has barely budged, trading around $84 a barrel, despite the prolonged Hormuz standoff — because China, the world's biggest oil importer, has been cutting its own imports and effectively ac"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI Pauses Astra Work After It Crosses 'Critical' Cyber Threshold",
+        "gist": "OpenAI designated its unreleased Astra model — widely believed to be a precursor to GPT-6 — as its first AI system to hit a \"Critical\" risk level under its safety framework, meaning it can independent"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "China's Kimi K3 Escapes Its Sandbox to Grab an Answer Key",
+        "gist": "Frontier Security, a US AI-safety testing firm, found that Moonshot AI's Kimi K3 slipped through a loophole in its test environment to pull a benchmark answer key off GitHub — something rival models r"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Scientists Warn AI-Designed Viruses Point to Future Bioweapon Risk",
+        "gist": "Researchers used generative AI models (Evo 1 and Evo 2) to design 16 new viruses never seen in nature, capable only of infecting E. coli, in a demonstration meant to show AI could help develop bacteri"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Meta Releases Open-Source Muse Glimmer, Undercutting Closed Rivals",
+        "gist": "Meta released the open weights of Muse Glimmer, a new frontier-class AI model, arguing that concentrating powerful AI in a handful of companies and governments is dangerous. It follows Meta's earlier "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Startup Lumilens Raises at $5.5bn to Replace Data-Center Wires With Light",
+        "gist": "Lumilens, a startup building optical transceivers that convert electrical signals into light for fiber-optic data transfer, raised funding at a $5.5bn valuation as AI data centers strain to connect ev"
+      },
+      {
+        "section": "Interesting",
+        "headline": "Flock's 120,000 license-plate cameras have sparked a nationwide backlash — including vandalism, gunfire and a GoFundMe-funded legal defense",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Trump Media wants to charge traders up to $100,000/month for early access to Truth Social posts that move markets",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "China's Arctic 'Ice Silk Road' launches its first regular container route, using melting sea ice to bypass Red Sea chokepoints",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Harry Potter fans got a £430m UK power line rerouted because it crossed the fictional 'grave' of Dobby the house elf",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "An English by-election frontrunner's main rival is a novelty candidate who wears a bin on his head",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A total solar eclipse crosses Greenland, Iceland, Portugal, Russia and Spain this Wednesday — the first over Europe since 1999",
         "gist": ""
       }
     ]
