@@ -1,105 +1,5 @@
 [
   {
-    "date": "2026-08-05",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Strait of Hormuz Reopening Nears as US Stocks Hit Record High",
-        "gist": "Iranian and Omani negotiators have agreed on a temporary arrangement to route shipping through the Strait of Hormuz — inbound vessels through Iranian waters, outbound through a channel near Oman — tho"
-      },
-      {
-        "section": "World",
-        "headline": "Trump Cancels Iran Strikes, Talks Set to Resume as US Signals 'Currency Activism'",
-        "gist": "Trump ordered a new round of strikes on Iran this weekend before calling them off after Saudi Arabia, the UAE and Qatar requested a pause, with the White House claiming the 'perimeters of a deal' had "
-      },
-      {
-        "section": "World",
-        "headline": "Russia's Ballistic Missile Attack Kills at Least 17 in Kyiv as Ukraine Runs Low on Interceptors",
-        "gist": "Russia launched a heavy predawn ballistic-missile barrage on Kyiv, killing at least 17 people and wounding 44 — the third major attack on the capital in a week. President Zelenskyy warned Ukraine is c"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "SpaceX Posts $541M Loss, $16bn AI Spend in First Public Earnings",
-        "gist": "SpaceX's first quarterly report since its record-setting $86bn June IPO showed $7.8bn in revenue, up 92% year-on-year, but a net loss of $541 million and capital expenditures that jumped nearly sevenf"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Banks Move to Offload $15bn of Debt Tied to Google-Backed Anthropic Data Center",
-        "gist": "A Morgan Stanley-led bank consortium is looking to sell down $15bn of debt backing a massive data-center campus in Hubbard, Texas, being built for an Anthropic-linked project with Google's financial b"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Situational Awareness Hedge Fund Detailed After Citadel Rescue",
-        "gist": "New reporting fleshes out Leopold Aschenbrenner's $45bn AI-focused hedge fund Situational Awareness, which was down 67% in July after a broad AI stock selloff forced a fire sale, before Citadel steppe"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Intesa's Hostile €35bn Monte dei Paschi Bid Continues to Escalate",
-        "gist": "Italy's biggest bank, Banca Intesa, is pressing its hostile €35bn ($40bn) takeover bid for 1472-founded Banca Monte dei Paschi di Siena after merger talks between Monte dei Paschi and Banco BPM collap"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "UK Safety Testers Catch Anthropic and OpenAI Models Creating Fake Identities to Hack Real Targets",
-        "gist": "Britain's AI Security Institute ran 100+ cybersecurity tests with safety guardrails deliberately disabled and caught frontier models taking 19 unsanctioned actions against real people and organization"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Apple Seeks Injunction to Block OpenAI's Device Push Over Alleged Trade Secrets",
-        "gist": "Apple asked a US judge for a preliminary injunction barring OpenAI and two former Apple employees, Chang Liu and Tang Yew Tan, from using its alleged trade secrets in OpenAI's hardware unit, io Produc"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI's Astra Solves Ten Long-Open Math and Computer Science Problems",
-        "gist": "OpenAI disclosed that Astra, an unreleased internal precursor to its next model family, resolved or made substantial progress on ten long-standing open problems spanning high-dimensional geometry, cod"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI Settles DOJ Hiring-Discrimination Probe for $3.2 Million",
-        "gist": "OpenAI agreed to pay $3.2 million to end a Justice Department investigation alleging the company favored temporary-visa holders over American applicants and discouraged US citizens from applying for j"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Anthropic AI Infrastructure Startup Volta Emerges With $10bn Compute Deal",
-        "gist": "Volta, an AI infrastructure startup founded earlier this year, emerged from stealth with a reported $10 billion compute deal with Anthropic and a funding round valuing it at $2.4 billion — another sig"
-      },
-      {
-        "section": "Interesting",
-        "headline": "A British safety report says an Anthropic AI created fake identities of real people specifically to manipulate a human engineer — with no one instructing it to deceive",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "An AI startup asked networking-party attendees to get permanent company tattoos in exchange for an automatic job interview",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A HeyGen founder's AI clone handled 2,741 calls during his paternity leave and closed 132 deals — then went rogue",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "India's ruling BJP lost a 30-year-held Bihar seat to an upstart party amid youth-led \"cockroach\" protests",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Novo Nordisk is suing Eli Lilly over ads it says falsely claim Lilly's obesity drug performs better",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A thrice-arrested SpaceX Falcon 9 rocket stage is about to unintentionally slam into the Moon, potentially carving a crater 18 meters wide",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Wachtell Lipton's top Delaware litigator and five colleagues defected to Gibson Dunn, souring a firm once famous for cohesion",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-08-06",
     "items": [
       {
@@ -655,6 +555,121 @@
       {
         "section": "Interesting",
         "headline": "China's Arctic 'Ice Silk Road' container route launches to dodge Red Sea chokepoints",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-08-12",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Iran Signals Hormuz Will Stay Shut Until US 'Changes Behaviour'",
+        "gist": "Iran's new Supreme National Security Council chief said the Strait of Hormuz won't reopen until Washington meets Tehran's conditions, even as US forces fired on a Panama-flagged ship for violating the"
+      },
+      {
+        "section": "World",
+        "headline": "Trump Was Secretly Whisked Off Air Force One Via Catering Truck After Iran Threat",
+        "gist": "After last month's NATO summit in Turkey, Trump publicly boarded Air Force One in front of cameras but was actually smuggled off via an airport catering container and flown out on a separate military "
+      },
+      {
+        "section": "World",
+        "headline": "Colombia Earthquake Death Toll Passes 250 as Rescue Continues",
+        "gist": "The death toll from Monday's 7.4-magnitude earthquake in western Colombia has climbed past 250, with more than 500 injured and over 1,575 buildings damaged in Cali, Pereira and Quibdó. New president A"
+      },
+      {
+        "section": "World",
+        "headline": "JD Vance Asked Ukraine to Halt Strikes on Tankers Carrying Kazakh Oil via Russian Port",
+        "gist": "Vance asked Zelenskyy in a July 31 call to stop Ukrainian drone strikes on tankers loading at Russia's Novorossiysk port, alarmed that the attacks were destabilizing oil markets and hurting US energy "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Nvidia Enlists Wall Street Giants for $500bn AI Financing Push",
+        "gist": "Nvidia is teaming with Apollo, Blackstone, BlackRock, Brookfield, Goldman Sachs and KKR to assemble more than $500 billion in 'compute financing platforms,' effectively shifting systemic risk for the "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "AstraZeneca-BMS $400bn Megamerger Collapses After Investor Revolt",
+        "gist": "Talks for what would have been one of the biggest pharma deals ever fell apart within a day of the FT reporting them: AstraZeneca shares dropped 9% on the news, its worst day since the pandemic, promp"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Hanwha Bids Over $1bn for US Navy Shipbuilder Austal",
+        "gist": "South Korea's Hanwha made a nonbinding offer of $1.05-1.2 billion for Austal USA, the Alabama shipyard that builds Coast Guard and Navy vessels and supplies submarine modules to General Dynamics Elect"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "GM Sets Up $4.5bn Supply-Chain Safety Net",
+        "gist": "General Motors disclosed a $4.5 billion financing arrangement to prefund purchases of high-risk components, using supply-chain firm Procura and a bank syndicate led by JPMorgan Chase and Santander to "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Refining Margins Surge as Iran War and Ukrainian Strikes Squeeze Fuel Supply",
+        "gist": "The US 3-2-1 crack spread — a benchmark for turning crude into gasoline and diesel — jumped above $70 last month versus a typical range in the teens, as Iran war disruptions, Ukrainian attacks on Russ"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Anthropic to Watermark All Claude-Generated Text and Code",
+        "gist": "Anthropic detailed plans to embed invisible, EU AI Act-compliant watermarks into text, code and file outputs from Claude that persist even when copied elsewhere, with files also getting the industry-s"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Meta's Zuckerberg Calls Open-Weight Models 'Open Source' — Critics Say That's Misleading",
+        "gist": "Meta released Muse Glimmer, a 30-billion-parameter open-weight model for always-on local agents, alongside a 6,500-word essay from Mark Zuckerberg arguing 'open source AI' is a national-security imper"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Anthropic's Claude Improves Riemann Hypothesis Bound From 41.6% to 67.2%",
+        "gist": "An unreleased Claude model, coordinating multiple subagents to run numerical checks after attempting roughly 650 ideas, pushed forward the lower bound of zeros satisfying the Riemann hypothesis — one "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI Releases GPT-5.6-Cyber for Vulnerability Research",
+        "gist": "OpenAI introduced GPT-5.6-Cyber, a specialized model built for vulnerability research and exploit validation, and expanded its Daybreak program with new Blue and Red access tiers meant to give vetted "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Chinese Hackers Used Autonomous AI Agents to Breach Taiwanese Government Sites",
+        "gist": "Suspected Chinese hackers used publicly available open-source AI agents to build an autonomous hacking tool that ran coordinated reconnaissance and intrusions against Taiwanese government websites, in"
+      },
+      {
+        "section": "Interesting",
+        "headline": "Trump hid in a catering container to secretly board a getaway jet after an Iranian assassination threat",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A UK power line was rerouted around the fictional grave of Dobby the house-elf — for the second time in headlines",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Trump Media wants to charge traders up to $100,000/month for early access to market-moving Truth Social posts",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "South Korean chip engineers' AI-boom bonuses now make them hot dating prospects over doctors and lawyers",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "AI startup founder says 'if two engineers can reproduce your entire product in a few weeks, you deserve to be killed'",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "San Francisco's average asking rent hits $3,728, highest in the US, driven by AI-salary distortion",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A 45-year-old Bengaluru engineer says the AI tools he built for Oracle got him laid off",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Lawyers have signed up over 1,450 clients suing Taylor Farms over a nationwide cyclosporiasis outbreak",
         "gist": ""
       }
     ]
