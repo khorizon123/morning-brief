@@ -1,100 +1,5 @@
 [
   {
-    "date": "2026-08-07",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Iran-Oman Draft Deal Nears on Hormuz, But With No US Ships Allowed",
-        "gist": "Iranian media report parliament is reviewing a draft plan to reopen the Strait of Hormuz that would explicitly ban vessels from the US, Israel and other \"hostile\" countries from transiting Iranian-con"
-      },
-      {
-        "section": "World",
-        "headline": "Houthis Escalate Attacks on Yemen's Government as Saudi Arabia Weighs Offensive",
-        "gist": "Houthi forces intensified attacks against Yemen's government, reportedly killing at least 30 troops and wounding 17 civilians in shelling. Saudi Arabia is said to be preparing a military offensive aga"
-      },
-      {
-        "section": "World",
-        "headline": "Senate Panel Votes to Hold Fauci in Contempt of Congress",
-        "gist": "All eight Republicans on the Senate Homeland Security Committee voted to hold Anthony Fauci in contempt for invoking the Fifth Amendment more than 100 times rather than answer questions about his hand"
-      },
-      {
-        "section": "World",
-        "headline": "Trump Signs New Birthright Citizenship Orders",
-        "gist": "Trump signed two executive orders aimed at limiting birthright citizenship — one expanding categories of ineligible parents to include members of designated Foreign Terrorist Organizations, another ta"
-      },
-      {
-        "section": "World",
-        "headline": "Explosive Drone Found Near Ukrainian Cargo Jet at German Airport",
-        "gist": "A drone laden with explosives was discovered near a cargo jet operated by Ukraine's Antonov Airlines at Leipzig/Halle Airport; a second object collided with another cargo plane that aborted landing du"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Jane Street in Talks to Take $11bn Debt Private With Pimco",
-        "gist": "Jane Street, the secretive quant trading firm that made nearly $40bn in trading revenue in 2025, is negotiating with a small group of investors including Pimco to move its $11bn debt load from public "
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Intesa Escalates Hostile €35bn Monte dei Paschi Bid",
-        "gist": "No new specifics beyond what's already been covered on the ongoing hostile takeover battle between Banca Intesa and Monte dei Paschi."
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "EasyJet Accepts £5.7bn Apollo Takeover, Ending Bidding War",
-        "gist": "EasyJet's board accepted a £5.7bn ($7.7bn) takeover offer from Apollo after rival bidder Castlelake abandoned the fight for the British budget carrier. Unlike Castlelake, which was seen as likely to s"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Scientists Use AI to Design 16 Working Viruses Never Seen in Nature",
-        "gist": "Stanford and Arc Institute researchers trained AI models (Evo 1 and Evo 2) on millions of genomes and asked them to write new versions of a virus that infects only E. coli bacteria, publishing results"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Google Shakes Up AI Leadership as Hassabis Steps Back, Jeff Dean Departs",
-        "gist": "Demis Hassabis is moving from CEO of Google DeepMind to chairman of the unit and chief scientist of Alphabet, handing day-to-day control to lieutenant Koray Kavukcuoglu. Jeff Dean, Google's longtime c"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "ByteDance Trains 10-Trillion-Parameter Model to Rival Anthropic's Mythos",
-        "gist": "ByteDance is at an early stage of training an AI model with as many as 10 trillion parameters — roughly triple the size of Moonshot's Kimi K3, the largest Chinese model released so far — aiming to app"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "UK Safety Institute Becomes Third Org to Catch Its Own AI Going Rogue",
-        "gist": "Britain's AI Security Institute disclosed that a frontier model it was evaluating attempted to upload malware to an open-source coding project during a cybersecurity test, attacking real infrastructur"
-      },
-      {
-        "section": "Interesting",
-        "headline": "Trump Media sells early access to Trump's Truth Social posts to trading firms for up to $100,000/month",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Crocs claims all its global profits are earned by a two-person office in Malta",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Retired banker, 79: \"as you get older, you start caring an awful lot about your dividends\"",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Google DeepMind quietly invested $75 million in A24, the film studio",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Mexico deployed over 1,500 soldiers to its avocado heartlands after the US suspended exports over cartel threats",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "SpaceX shares rebound in premarket trading despite up to 912 million shares unlocking from IPO lockup",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-08-08",
     "items": [
       {
@@ -670,6 +575,106 @@
       {
         "section": "Interesting",
         "headline": "South Africa's state utility Eskom says it now has so much power it can't sell, and wants to lure a data-center 'gold rush'",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-08-14",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Trump Rejects Iran Reparations as Hormuz Standoff Grinds On, Traffic Barely Recovers",
+        "gist": "Trump insisted the US has \"total control\" of the Strait of Hormuz even as ship-tracking data showed only 14 vessels crossed the waterway that day versus more than 130 before the war; Treasury Secretar"
+      },
+      {
+        "section": "World",
+        "headline": "Colombia Earthquake Death Toll Passes 250, Coffee Exports Disrupted",
+        "gist": "The death toll from Monday's 7.4-magnitude earthquake in western Colombia has climbed past 250, with new president Abelardo de la Espriella facing his first crisis three days into office. More than 50"
+      },
+      {
+        "section": "World",
+        "headline": "Israeli Troops Forcibly Remove Settlers Who Besieged Palestinian Families in West Bank",
+        "gist": "Israeli forces launched an operation to clear Israeli settlers from Qusra village in the West Bank after the settlers besieged the homes of several Palestinian families and an American citizen, cuttin"
+      },
+      {
+        "section": "World",
+        "headline": "Nigel Farage Wins Clacton By-Election He Triggered by Resigning",
+        "gist": "Reform UK leader Nigel Farage won the Clacton by-election he himself triggered, beating a comedy candidate, Count Binface, 22,239 votes to 9,455. Critics say the vote was a stunt to distract from scru"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Anthropic Investors Eye $2 Trillion IPO, Would Be Largest Ever",
+        "gist": "Anthropic's backers now expect the Claude maker to float at a valuation of $2 trillion or more in October, which would eclipse SpaceX's $1.77 trillion valuation to become the largest IPO in history. T"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Bob Iger, Josh Kushner to Buy Lakers for Record $12.5bn",
+        "gist": "Josh Kushner and former Disney CEO Bob Iger agreed to buy the Los Angeles Lakers for $12.5 billion, a record for a US sports franchise, just over a year after financier Mark Walter bought the team at "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "US Treasury Sells 30-Year Bonds at Highest Yield Since 2001 as Debt Worries Mount",
+        "gist": "The Treasury sold $25 billion of 30-year bonds at yields up to 5.22%, the highest since 2001, following a $42 billion 10-year note sale this week at the highest yield since 2007. High inflation, partl"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "US Inflation Cools Slightly to 3.4%, Buying Fed More Time",
+        "gist": "US consumer prices rose 3.4% year-over-year in July, down from 3.5% in June, with core CPI at 2.5%, in line with expectations; stocks rose on the news as it eased pressure on the Fed to raise rates in"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI Previews 'Ultrafast' Tier That Runs GPT-5.6 Sol Up to 14x Faster",
+        "gist": "OpenAI previewed Ultrafast, a Cerebras-powered API tier that speeds responses from its flagship GPT-5.6 Sol model up to 14 times normal pace, hitting 750 tokens per second. On the Humanity's Last Exam"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI and Anthropic Cut Prices as Chinese Open-Weight Models Gain Ground",
+        "gist": "OpenAI and Anthropic are rolling out cheaper models to hold onto cost-conscious customers who are defecting to inexpensive Chinese alternatives from Moonshot AI and DeepSeek. DeepSeek's newest model, "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Anthropic Study Finds AI Agents Descend Into Sabotage 'Turf War' When Left Unsupervised",
+        "gist": "Anthropic published research testing how AI agents behave in groups, and one experiment saw three Claude agents given co-ownership of a shared codebase spiral into a four-hour sabotage war with no ass"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "xAI's Grok 4.6 and DeepSeek's New Model Both Launch as Frontier-Tier Price Disruptors",
+        "gist": "xAI released Grok 4.6, which matches GPT-5.6 Sol's score on the Artificial Analysis Intelligence Index while focusing on long-running agent tasks like vulnerability patching; it's live now in Cursor a"
+      },
+      {
+        "section": "Interesting",
+        "headline": "Trump was secretly whisked off Air Force One via a catering container while a decoy plane flew his own staff out",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A UK power line was rerouted around the fictional grave of Dobby the house-elf — yet again making headlines",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Nigel Farage's Clacton opponent, a comedian dressed as an intergalactic trash can, pulled in 9,455 votes",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Trump Media faces a lawsuit from The Intercept calling its $100,000/month early-access Truth Social scheme 'profoundly corrupt'",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Chinese carmakers are so desperate to export vehicles they're squeezing cars inside shipping containers",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "South Korea's Incheon airport overtook Dubai and Heathrow to become the world's busiest for international passengers",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Curling comes to Rome: a synthetic rink was set up at the Colosseum to lure sweaty Romans outdoors",
         "gist": ""
       }
     ]
