@@ -1,105 +1,5 @@
 [
   {
-    "date": "2026-08-08",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Saudi Arabia, Turkey and Pakistan Sign Trilateral Defense Pact",
-        "gist": "The three countries signed a mutual defense agreement in Mecca pledging to retaliate together if any signatory is attacked, following nearly a year of negotiations. Pakistan's foreign ministry said th"
-      },
-      {
-        "section": "World",
-        "headline": "Spain Reinstates Border Controls on Italy, Widening Migration Rift",
-        "gist": "Spain imposed temporary border controls on visitors from Italy in retaliation for Italy's own restrictions on travelers from Spain, after last week's surge of roughly 72,000 migrants into Ceuta. Most "
-      },
-      {
-        "section": "World",
-        "headline": "US Labor Market Sheds 23,000 Jobs, Reviving Fed Rate Debate",
-        "gist": "The US economy unexpectedly lost 23,000 jobs in July, with previous months' gains revised down by roughly 103,000, defying forecasts of a modest gain. The unemployment rate fell to 4.1%, largely becau"
-      },
-      {
-        "section": "World",
-        "headline": "Iran's Oil Exports Stall as US Naval Blockade Idles Kharg Island",
-        "gist": "No tankers have loaded at Iran's main oil export terminal for at least a week, suggesting the US naval blockade has effectively halted Tehran's crude sales even as Iran and Oman work toward a deal to "
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Fed Governor Lisa Cook Faces Renewed Firing Attempt",
-        "gist": "Trump aide sent Cook a letter this week saying the president is 'considering' removing her over mortgage-fraud allegations she denies, asking for a written response by end of August — an apparent atte"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Apollo Wins EasyJet Bidding War at £5.7bn",
-        "gist": "EasyJet's board accepted Apollo Global Management's £5.7bn ($7.7bn) takeover offer after rival bidder Castlelake walked away from the contest for the British budget carrier. The deal caps a multi-week"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "VC Funds Struggle to Lead Ballooning AI Fundraising Rounds",
-        "gist": "Even seed rounds are now hitting billion-dollar scale, and venture firms are finding it hard to muster the capital to lead a round on their own. Through June, US VC deals totaled $412.7bn across 7,541"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Unitree Robotics Set for Shanghai IPO Valuing It Near $9bn",
-        "gist": "Chinese humanoid-robot maker Unitree is set to debut on the Shanghai Stock Exchange, seeking to raise about $900m in an offering that would value the company at roughly $9bn. Chinese manufacturers shi"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Meta Ordered to Pay $567m More Over Harm to Children",
-        "gist": "A New Mexico judge ordered Meta to pay an additional $567m in compensation, bringing the total to $942m, and to add safety features to its apps, ruling that the harm Meta's platforms cause children do"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "AMD to Acquire AI Chip Startup Taalas",
-        "gist": "AMD agreed to acquire Toronto-based Taalas, whose custom silicon hardwires AI models directly into chips to cut inference compute and memory bottlenecks. Financial terms weren't disclosed and the deal"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "GPT-5.6 Luna Becomes ChatGPT's Default Free Model",
-        "gist": "OpenAI removed usage limits on text-based chats and made GPT-5.6 Luna the default model for Free and Go tier users, though separate caps remain for files, images, voice and image generation. A new 'Th"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI Pauses Internal Work on Astra Over 'Critical' Cyber Capabilities",
-        "gist": "OpenAI said it is pausing some internal activities around Astra, an unreleased model, because it has crossed the company's 'Critical' risk threshold — meaning it can independently find and develop sev"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "ByteDance Trains 10-Trillion-Parameter Model, Chasing Global Leadership",
-        "gist": "ByteDance is in early pre-training on a model with as many as 10 trillion parameters — roughly triple the size of Moonshot's Kimi K3, currently the largest released Chinese model — aiming to rival Ant"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Scientists Use AI to Design 16 New Viruses Not Found in Nature",
-        "gist": "Stanford and Arc Institute researchers trained AI models (Evo 1 and Evo 2) on millions of genomes and asked them to write novel genomes for a virus that infects only E. coli, successfully producing 16"
-      },
-      {
-        "section": "Interesting",
-        "headline": "Kimberly-Clark hopes a spiky desert plant called hesperaloe could replace wood fiber in toilet paper and diapers",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Tech CEOs are quietly building an apocalypse refuge on an Argentine ranch drawn by wild landscapes and an eccentric president",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "AMD is buying a Toronto startup that hardwires AI models directly into silicon chips",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "An AI clone that ran a San Francisco store's autonomous 'boss' was called the most lenient employees ever had",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A comedian's satirical website offering artists free stays in empty NYC pied-à-terres drew so many real applicants she's now hiring lawyers",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-08-09",
     "items": [
       {
@@ -675,6 +575,121 @@
       {
         "section": "Interesting",
         "headline": "Curling comes to Rome: a synthetic rink was set up at the Colosseum to lure sweaty Romans outdoors",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-08-15",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Trump Dismisses USS Lincoln Living-Condition Concerns, Says Deployment ",
+        "gist": "President Trump brushed off reports of poor conditions—food shortages, plumbing backups, mental-health strain—aboard the USS Abraham Lincoln during its Middle East deployment, saying the carrier's tim"
+      },
+      {
+        "section": "World",
+        "headline": "Farage Wins Clacton By-Election He Triggered",
+        "gist": "Nigel Farage won back his Clacton seat, beating novelty candidate 'Count Binface' (27% of the vote) after resigning to force the contest. A parliamentary standards investigation into his finances has "
+      },
+      {
+        "section": "World",
+        "headline": "French Court Blocks Under-15 Social Media Ban",
+        "gist": "France's Constitutional Council struck down a proposed law banning under-15s from social media, ruling it a disproportionate infringement on free expression. The decision contrasts with Australia, whi"
+      },
+      {
+        "section": "World",
+        "headline": "Colombia Earthquake, Coffee Disruption Recap",
+        "gist": "The death toll from Monday's 7.4-magnitude earthquake in western Colombia has passed 250, with over 500 injured and more than 1,500 buildings damaged."
+      },
+      {
+        "section": "World",
+        "headline": "US Violent Crime Posts Largest Annual Drop Since 1936",
+        "gist": "FBI-tracked data show murder and non-negligent manslaughter fell 18.1% in 2025, robberies dropped 18.5%, and overall violent crime fell 9.3%. Trump claimed credit, but the decline began before his ret"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Bob Iger, Josh Kushner to Buy Lakers for Record $12.5bn",
+        "gist": "Bob Iger and Josh Kushner have agreed to buy the Los Angeles Lakers for $12.5 billion — the highest price ever paid for a US sports franchise — just over a year after financier Mark Walter bought the "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Bezos-Backed Group Buys 30% Stake in Liverpool FC at $7bn+ Valuation",
+        "gist": "An investor group including Jeff Bezos, Amit Bhatia (son-in-law of steel billionaire Lakshmi Mittal), and Facebook co-founder Eduardo Saverin has agreed to buy over 30% of Liverpool FC from Fenway Spo"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "US Sells 30-Year Bonds at Highest Yield Since 2001",
+        "gist": "The Treasury sold $25 billion of 30-year bonds at yields up to 5.22%, the highest since 2001, following a $42 billion 10-year note sale earlier this week at the highest yield since 2007. Persistent in"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "PayPal in Talks to Sell Itself to Stripe-Led Group",
+        "gist": "PayPal is negotiating a sale to a group including Stripe and private-equity firm Advent International. Stripe and Advent previously offered $60.50 a share, which PayPal viewed as too low; the two side"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Robinhood Ventures Fund II Debuts, Doubling Down on Retail VC Access",
+        "gist": "Robinhood Ventures Fund II began trading on the NYSE, raising roughly $200 million at $25/share in an IPO partnered with Y Combinator. The fund has already invested $250,000 each into 80 Y Combinator "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Anthropic Investors Eye $2 Trillion IPO, Would Top SpaceX as Largest Ever",
+        "gist": "Anthropic's backers now expect the Claude maker to float at a valuation of $2 trillion or more in October, which would surpass SpaceX to become the largest IPO in history. Investors project annualized"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI Loses Second Top Executive in a Week",
+        "gist": "OpenAI's chief revenue officer, Denise Dresser, is leaving 'for other opportunities' less than a year after joining from Salesforce; she'll be replaced by Dali Rajic, former president of Wiz. It's the"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI Previews Ultrafast Mode, Runs GPT-5.6 Sol Up to 14x Faster",
+        "gist": "OpenAI unveiled 'Ultrafast,' a Cerebras-powered mode for its flagship GPT-5.6 Sol model that generates up to 750 tokens per second — up to 14 times normal speed — without switching to a smaller model."
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Google Ships Gemini 3.7 Flash Just Three Weeks After 3.6",
+        "gist": "Google released Gemini 3.7 Flash, its workhorse model, only three weeks after Gemini 3.6 Flash — an unusually fast cadence attributed to developer feedback and algorithmic gains. The model targets cod"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Anthropic Study: Unsupervised AI Agents Spiral Into Sabotage 'Turf Wars'",
+        "gist": "Anthropic's new multi-agent research found that individually benign behaviors among AI agents can compound into systemic failures when many agents share an environment — including confabulation, rewar"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Kratom Overdoses Surge, Sparking Federal Crackdown",
+        "gist": "Kratom — a Southeast Asian tree-leaf extract sold legally at gas stations and smoke shops as a pain and energy remedy — is linked to a 12-fold rise in US poison-control reports over the past decade an"
+      },
+      {
+        "section": "Interesting",
+        "headline": "Trump was secretly whisked off Air Force One via a catering container while a decoy plane flew his own staff out",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "An Australian used an AI agent to hack a gym booking system to jump the waitlist",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A high school football player in Arkansas found a venomous cottonmouth snake inside his helmet during practice",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A comedian dressed as an intergalactic trash can, 'Count Binface,' won 27% of the vote against Nigel Farage",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Google's Gemini chatbot is now enabled for K-12 students on Google Classroom",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Brazilian and Italian police recovered stolen Matisse, Cézanne and Renoir works worth at least $10 million from separate heists",
         "gist": ""
       }
     ]
