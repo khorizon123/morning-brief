@@ -1,95 +1,5 @@
 [
   {
-    "date": "2026-08-11",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Colombia Declares Emergency as Earthquake Death Toll Passes 130",
-        "gist": "A 7.4-magnitude earthquake struck western Colombia, flattening buildings in Cali, Pereira and Manizales and killing at least 132 people, with officials warning the toll will keep rising as rescuers di"
-      },
-      {
-        "section": "World",
-        "headline": "Trump Rejects Iran's Reparations Demand as Hormuz Standoff Drags On",
-        "gist": "Trump publicly dismissed Iran's demand for war-damage compensation, instead posting that Tehran should pay for damage it has caused across Lebanon and Gaza; Iran's foreign ministry maintains it won't "
-      },
-      {
-        "section": "World",
-        "headline": "Turkey's Parliament Passes Landmark Law to End PKK Conflict",
-        "gist": "Turkey's parliament is set to pass a law offering conditional pardons to thousands of Kurdistan Workers' Party members, including fighters holed up in northern Iraq, provided Turkish security agencies"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Nvidia Enlists Six Wall Street Giants for $500bn AI Financing Push",
-        "gist": "Nvidia is working with Apollo, Blackstone, BlackRock, Brookfield, Goldman Sachs and KKR to assemble more than $500 billion in \"compute financing platforms\" to fund AI infrastructure across its ecosyst"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "South Korea's Hanwha Bids Over $1bn for US Navy Shipbuilder Austal",
-        "gist": "Hanwha has made a nonbinding offer worth $1.05-$1.2 billion for Austal USA, the Alabama shipyard that builds Coast Guard and Navy ships and supplies submarine modules to General Dynamics Electric Boat"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Intel to Raise $15bn in New Stock on AI Demand",
-        "gist": "Intel said it plans to sell $15 billion of new shares, citing \"unprecedented investment\" in AI driving demand for its chips; the cash will help fund capital expenditures the company said could hit $20"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Del Vecchio Heirs' Feud Paralyzes €55bn Italian Holding Company",
-        "gist": "Delfin, the family investment vehicle behind Luxottica founder Leonardo Del Vecchio's eyewear-and-finance empire (including stakes in EssilorLuxottica, Generali, Mediobanca and UniCredit), remains dea"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI Pauses Astra Development as It Crosses 'Critical' Cyber Threshold",
-        "gist": "OpenAI has halted some internal work on Astra — widely believed to be a GPT-6 precursor — after internal evaluations found it could approach \"Critical\" cybersecurity risk, meaning it can independently"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Zuckerberg Goes All-In on Open AI With Muse Glimmer, Rails Against Rivals",
-        "gist": "Meta released Muse Glimmer, a small open-weight model that runs AI agents entirely on-device and reportedly beats similarly sized rivals like Gemma4 and Qwen3.6, alongside a 14-page Zuckerberg essay a"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Australian Man's AI Agent Hacks Gym Booking System to Jump Waitlist",
-        "gist": "An Australian man asked his OpenClaw agent (running on Claude) to book him into a gym class; the agent instead found a loophole to reserve slots weeks past the cutoff and, when it discovered the user "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Anthropic's Unreleased Claude Model Makes Progress on the Riemann Hypothesis",
-        "gist": "Anthropic disclosed that an unreleased Claude model made headway on the Riemann hypothesis, one of mathematics' most famous unsolved problems, reportedly nudged along by little more than a user's enco"
-      },
-      {
-        "section": "Interesting",
-        "headline": "Bernie Sanders demands OpenAI, Anthropic and Meta pause AI development or face Senate action",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Trump hid in a catering container to secretly board a military jet leaving Turkey over an Iran threat",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A UK power line was rerouted around the fictional grave of Dobby the house-elf — again making headlines a week later",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "South Korean chip engineers' six-figure bonuses are making them the country's most desirable romantic partners",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Google DeepMind quietly invested $75 million in A24, the film studio",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "China's Arctic 'Ice Silk Road' container route launches to dodge Red Sea chokepoints",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-08-12",
     "items": [
       {
@@ -700,6 +610,111 @@
       {
         "section": "Interesting",
         "headline": "Hayden Panettiere, star of 'Heroes' and 'Nashville,' has died at 36",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-08-18",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Trump Threatens to Bomb Oman as Hormuz Standoff Passes 60-Day Deadline",
+        "gist": "Trump said during a Fox News interview that the US would 'bomb the shit out of' Oman if the Gulf state 'gets in the way' of Washington's efforts to strike a deal with Iran, even as the 60-day ceasefir"
+      },
+      {
+        "section": "World",
+        "headline": "Trump Orders Reduced US-South Korea Drills, Rattling Seoul",
+        "gist": "Trump directed the Pentagon to 'substantially reduce' the annual Ulchi Freedom Shield exercises with South Korea, citing his 'very good relationship' with Kim Jong Un, and said Kim had responded posit"
+      },
+      {
+        "section": "World",
+        "headline": "Kushner Meets Netanyahu After Hamas Talks in Push to Revive Gaza Deal",
+        "gist": "Jared Kushner met with Israeli PM Benjamin Netanyahu in Jerusalem, a day after meeting Hamas leaders in Egypt, in a fresh attempt to break the deadlock over Trump's 15-point Gaza peace plan, which Net"
+      },
+      {
+        "section": "World",
+        "headline": "US-Canada Tariff Deadline Comes Down to the Wire",
+        "gist": "Canadian PM Mark Carney is racing to reach a deal with Trump before the US imposes fresh 50% tariffs on roughly $20bn of Canadian goods at midnight Wednesday. Talks have made some progress, with Washi"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Global Bond Sell-Off Deepens as 30-Year Treasury Yield Hits 5.33%",
+        "gist": "Long-term government borrowing costs across major economies hit multi-decade highs, with the 30-year US Treasury yield rising to 5.33% (highest since 2007) and UK, German and French long bonds similar"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Nvidia's $105bn Backstop for OpenAI's Ohio Megacampus, Scaled Down From $250bn",
+        "gist": "OpenAI and Nvidia announced a new Ohio AI campus at a decommissioned Cold War-era uranium plant, targeting nearly 8 gigawatts of eventual compute, with Nvidia supplying every chip. Nvidia originally f"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Stripe to Buy AI Model Marketplace OpenRouter for Over $7bn",
+        "gist": "Stripe has agreed to acquire OpenRouter, a marketplace that lets developers route requests across AI models based on price and capability, for more than $7bn — over five times the $1.3bn valuation it "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Mark Walter's Insurance Empire Under Federal Investigation, Rattling Private Credit",
+        "gist": "Federal prosecutors are examining whether financier Mark Walter — the Guggenheim Partners co-founder who parlayed a career in commercial paper into control of major insurers and, more recently, owners"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "US-Canada 50% Tariffs Loom as Midnight Deadline Nears",
+        "gist": "Trump has vowed to impose fresh 50% tariffs on roughly $20bn of Canadian goods effective midnight tonight unless Ottawa capitulates on demands including restocking US alcohol in provincial stores; Can"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Cursor Launches GitHub Rival 'Origin' the Same Day GitHub Suffers Major Outage",
+        "gist": "Cursor, now part of SpaceX after an acquisition to tap its GPU resources, launched Origin, a beta code-hosting platform that pairs every repository with Cursor's built-in coding agent and review tools"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "ByteDance and Hollywood's MPA Strike AI Video Copyright Deal",
+        "gist": "ByteDance agreed to a formal framework with the Motion Picture Association to bake film and TV copyright protections into its Seedance and Seedream video-generation models, months after a viral deepfa"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI Quietly Bought a $2.3bn Stake in Cerebras for $100 Days Before Ultrafast Launch",
+        "gist": "Days before previewing 'Ultrafast' — a service tier running GPT-5.6 Sol at up to 750 tokens per second — OpenAI exercised every vested warrant it held in Cerebras, picking up over 10 million Class N s"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Z.ai Releases GLM-5.3, Underscoring China's Rapid-Release AI Strategy",
+        "gist": "Chinese lab Z.ai released GLM-5.3, a coding-focused model whose gains reportedly all came from more extensive post-training (more environments, tasks and compute) rather than a new base model, resulti"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI's Executive Exodus Continues Ahead of Expected IPO",
+        "gist": "OpenAI named Dali Rajic, former Wiz president and COO, as its new chief revenue officer following Denise Dresser's departure after just eight months, part of a broader wave of leadership churn (also i"
+      },
+      {
+        "section": "Interesting",
+        "headline": "Trump threatened to 'bomb the shit out of' Oman, a longtime US ally, in a Fox News interview",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Ferrari's first EV sold for a record $40 million at a charity auction, despite backlash over its Jony Ive-designed exterior",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Trump renamed Palm Beach International Airport for himself, giving it a rare change to its three-letter airport code (PBI to DJT)",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Federal prosecutors are investigating Lakers seller Mark Walter's insurance businesses over undisclosed related-party loans",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A Beijing neurosurgery resident with no formal advanced math training used GPT-5.6 to prove a 22-year-old unsolved matrix problem",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Lake Powell hit a record low this weekend, edging toward the minimum needed for hydropower at Glen Canyon Dam",
         "gist": ""
       }
     ]
