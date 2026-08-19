@@ -1,120 +1,5 @@
 [
   {
-    "date": "2026-08-12",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Iran Signals Hormuz Will Stay Shut Until US 'Changes Behaviour'",
-        "gist": "Iran's new Supreme National Security Council chief said the Strait of Hormuz won't reopen until Washington meets Tehran's conditions, even as US forces fired on a Panama-flagged ship for violating the"
-      },
-      {
-        "section": "World",
-        "headline": "Trump Was Secretly Whisked Off Air Force One Via Catering Truck After Iran Threat",
-        "gist": "After last month's NATO summit in Turkey, Trump publicly boarded Air Force One in front of cameras but was actually smuggled off via an airport catering container and flown out on a separate military "
-      },
-      {
-        "section": "World",
-        "headline": "Colombia Earthquake Death Toll Passes 250 as Rescue Continues",
-        "gist": "The death toll from Monday's 7.4-magnitude earthquake in western Colombia has climbed past 250, with more than 500 injured and over 1,575 buildings damaged in Cali, Pereira and Quibdó. New president A"
-      },
-      {
-        "section": "World",
-        "headline": "JD Vance Asked Ukraine to Halt Strikes on Tankers Carrying Kazakh Oil via Russian Port",
-        "gist": "Vance asked Zelenskyy in a July 31 call to stop Ukrainian drone strikes on tankers loading at Russia's Novorossiysk port, alarmed that the attacks were destabilizing oil markets and hurting US energy "
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Nvidia Enlists Wall Street Giants for $500bn AI Financing Push",
-        "gist": "Nvidia is teaming with Apollo, Blackstone, BlackRock, Brookfield, Goldman Sachs and KKR to assemble more than $500 billion in 'compute financing platforms,' effectively shifting systemic risk for the "
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "AstraZeneca-BMS $400bn Megamerger Collapses After Investor Revolt",
-        "gist": "Talks for what would have been one of the biggest pharma deals ever fell apart within a day of the FT reporting them: AstraZeneca shares dropped 9% on the news, its worst day since the pandemic, promp"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Hanwha Bids Over $1bn for US Navy Shipbuilder Austal",
-        "gist": "South Korea's Hanwha made a nonbinding offer of $1.05-1.2 billion for Austal USA, the Alabama shipyard that builds Coast Guard and Navy vessels and supplies submarine modules to General Dynamics Elect"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "GM Sets Up $4.5bn Supply-Chain Safety Net",
-        "gist": "General Motors disclosed a $4.5 billion financing arrangement to prefund purchases of high-risk components, using supply-chain firm Procura and a bank syndicate led by JPMorgan Chase and Santander to "
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Refining Margins Surge as Iran War and Ukrainian Strikes Squeeze Fuel Supply",
-        "gist": "The US 3-2-1 crack spread — a benchmark for turning crude into gasoline and diesel — jumped above $70 last month versus a typical range in the teens, as Iran war disruptions, Ukrainian attacks on Russ"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Anthropic to Watermark All Claude-Generated Text and Code",
-        "gist": "Anthropic detailed plans to embed invisible, EU AI Act-compliant watermarks into text, code and file outputs from Claude that persist even when copied elsewhere, with files also getting the industry-s"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Meta's Zuckerberg Calls Open-Weight Models 'Open Source' — Critics Say That's Misleading",
-        "gist": "Meta released Muse Glimmer, a 30-billion-parameter open-weight model for always-on local agents, alongside a 6,500-word essay from Mark Zuckerberg arguing 'open source AI' is a national-security imper"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Anthropic's Claude Improves Riemann Hypothesis Bound From 41.6% to 67.2%",
-        "gist": "An unreleased Claude model, coordinating multiple subagents to run numerical checks after attempting roughly 650 ideas, pushed forward the lower bound of zeros satisfying the Riemann hypothesis — one "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI Releases GPT-5.6-Cyber for Vulnerability Research",
-        "gist": "OpenAI introduced GPT-5.6-Cyber, a specialized model built for vulnerability research and exploit validation, and expanded its Daybreak program with new Blue and Red access tiers meant to give vetted "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Chinese Hackers Used Autonomous AI Agents to Breach Taiwanese Government Sites",
-        "gist": "Suspected Chinese hackers used publicly available open-source AI agents to build an autonomous hacking tool that ran coordinated reconnaissance and intrusions against Taiwanese government websites, in"
-      },
-      {
-        "section": "Interesting",
-        "headline": "Trump hid in a catering container to secretly board a getaway jet after an Iranian assassination threat",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A UK power line was rerouted around the fictional grave of Dobby the house-elf — for the second time in headlines",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Trump Media wants to charge traders up to $100,000/month for early access to market-moving Truth Social posts",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "South Korean chip engineers' AI-boom bonuses now make them hot dating prospects over doctors and lawyers",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "AI startup founder says 'if two engineers can reproduce your entire product in a few weeks, you deserve to be killed'",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "San Francisco's average asking rent hits $3,728, highest in the US, driven by AI-salary distortion",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A 45-year-old Bengaluru engineer says the AI tools he built for Oracle got him laid off",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Lawyers have signed up over 1,450 clients suing Taylor Farms over a nationwide cyclosporiasis outbreak",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-08-13",
     "items": [
       {
@@ -715,6 +600,111 @@
       {
         "section": "Interesting",
         "headline": "Lake Powell hit a record low this weekend, edging toward the minimum needed for hydropower at Glen Canyon Dam",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-08-19",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Trump Pauses Canada Tariffs at 11th Hour, Dangles Keystone XL Revival",
+        "gist": "Hours before a midnight deadline for 50% tariffs on roughly $20bn of Canadian goods, Trump announced a deal with Canada and suspended the levies for three days while details are finalized. He floated "
+      },
+      {
+        "section": "World",
+        "headline": "Iran Weighs Striking US Assets in Europe Should War Resume",
+        "gist": "Regime insiders told the FT that Iranian forces have assessed targeting US military assets in Bulgaria and Cyprus, plus subsea fiber-optic cables in the Strait of Hormuz, if Trump escalates the six-mo"
+      },
+      {
+        "section": "World",
+        "headline": "South Korea Rattled as Trump Orders Early End to Joint US Drills",
+        "gist": "Trump directed the Pentagon to end the Ulchi Freedom Shield exercises with South Korea six days early, praising Kim Jong Un's \"very good relationship,\" a decision the FT reports has unsettled US allie"
+      },
+      {
+        "section": "World",
+        "headline": "Global Bond Rout Deepens, 30-Year US Yield Tops 5.3%",
+        "gist": "Long-term government borrowing costs across major economies hit multi-decade highs, with the 30-year US Treasury yield briefly topping 5.3% (its highest since 2007) as investors worry about inflation,"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Nvidia Puts Up $105bn Backstop for OpenAI's Ohio Data Center",
+        "gist": "Nvidia agreed to guarantee up to $105 billion of OpenAI's 20-year lease on a huge Ohio data-center complex built on a decommissioned uranium site, stepping in because OpenAI's creditworthiness alone w"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Unitree Shares Rocket 600% in Shanghai IPO Frenzy",
+        "gist": "Chinese humanoid robot maker Unitree saw its shares surge more than 600% on their Shanghai trading debut, valuing the company at roughly $59-66bn after an IPO that raised over $900m and was 5,500 time"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Anthropic Revenue Set to Top $65bn as October IPO Looms",
+        "gist": "Anthropic is reportedly on track to generate more than $65 billion in annualized revenue based on current performance—over seven times its pace at the end of last year—as it pursues an IPO as soon as "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Private Credit Stress Spreads a Year After First Brands Collapse",
+        "gist": "An FT analysis of the 20 largest publicly traded business development companies found loans marked non-accrual (borrowers missing payments or nearing default) climbed to a median 2.8% of cost in Q2, u"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI Confirms It Paused Frontier Training Over Misalignment",
+        "gist": "OpenAI confirmed it paused training on its next frontier model for two weeks and is \"pacing\" development, with Sam Altman telling a reporter that internal, unreleased models show \"various degrees of m"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Cursor's Origin Launches Same Day as Major GitHub Outage",
+        "gist": "Cursor rolled out Origin, its new code-hosting platform, to paid users just as GitHub suffered an outage lasting over six hours. Origin lets developers keep GitHub as the underlying source of truth wh"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "A16Z Faces DOJ Antitrust Scrutiny Over Interlocking Board Seats",
+        "gist": "Andreessen Horowitz is reportedly under Justice Department investigation over board seats it holds at competing data-management firms Databricks and Fivetran, per Bloomberg. The probe centers on a 191"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "CoreWeave Deal Suggests Nine-Year-Old Nvidia Chips Still Have Real Value",
+        "gist": "CoreWeave's CFO revealed the cloud company signed a deal renting out Nvidia's 2020-era A100 chips at \"an attractive price\" through 2029, challenging assumptions that AI chips become worthless once ful"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Meta Faces Second Bellwether Trial Over Child Social Media Addiction",
+        "gist": "A trial began in Oakland, California, with attorneys general from California, Colorado, Kentucky and New Jersey accusing Meta of designing Instagram and Facebook to be addictive to children, seeking r"
+      },
+      {
+        "section": "Interesting",
+        "headline": "OpenAI quietly bought a $2.3bn Cerebras stake for $100 days before launching a Cerebras-powered speed tier",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A Kentucky landowner rejected a $26.48 million data-center offer, saying she'd be judged for it \"on Judgment hour\"",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Trump threatened to \"bomb the shit out of\" Oman, a US ally, over its Iran mediation role",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A democratic socialist upset a Trump-fired NSC veteran to win Florida's Senate primary",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "An a16z partner ran a fake AI-generated sorority rush influencer that got 1M TikTok views for about $100",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "SK Hynix's stock fell nearly 10% in a day, then rebounded 6% after a $29bn buyback announcement",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A Beijing neurosurgery resident with no advanced math training used GPT-5.6 to solve a 22-year-old math conjecture",
         "gist": ""
       }
     ]
