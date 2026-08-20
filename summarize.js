@@ -98,7 +98,7 @@ const DIGEST_SCHEMA = {
       },
       company: {
         type: 'object',
-        description: 'One company/startup: what they do, why interesting now, one surprising fact. Not necessarily from today\'s news.',
+        description: 'One company/startup: what they do, why interesting now, one surprising fact. Must NOT be a company already featured as the main subject of a World, Markets & Deals, or AI & Tech item today. Not necessarily from today\'s news.',
         properties: {
           name: { type: 'string' },
           body: { type: 'string', description: '4-5 sentences.' },
@@ -147,7 +147,11 @@ TIER RULES:
 - Tier 1 sources are anchors — always prioritize their coverage of a story.
 - Tier 2 sources only fill gaps Tier 1 didn't cover — don't duplicate a story Tier 1 already covers well.
 - Tier 3 sources are weekly/feature content — use at most once, don't repeat the same feature.
-- Hard deduplicate: if multiple sources cover the same story, synthesize the single best version (prefer the higher tier), don't list it twice.
+
+DEDUPLICATION — do this as an explicit final pass before you output anything:
+- A story counts as the same story if it's the same underlying event, even when sources frame it differently, lead with a different detail, or it's tempting to give it a punchier alternate headline. One event = one item, period.
+- This applies WITHIN a section (two sources on the same acquisition) and just as much ACROSS sections — don't let the same funding round show up as a Markets & Deals item and again as an AI & Tech item, or the same event appear as both a World item and an Interesting one-liner.
+- Concretely: once you've drafted World, Markets & Deals, AI & Tech, and Interesting, scan every headline across all four together. If two describe the same underlying event, merge them into the single best version (prefer the higher tier, richer detail) in whichever section fits best, and drop the other entirely. Never let the same story occupy two slots in the final output.
 
 FILTERING RULES — skip entirely:
 - Opinion/analysis columns and pure editorializing
@@ -163,7 +167,7 @@ SECTIONS TO PRODUCE (in this order):
 2. Markets & deals — macro moves and notable deals. Explain deal structure, parties, and size at a high level, 4-6 sentences.
 3. AI & tech — key developments, new products, interesting builds. Explain unfamiliar concepts/products briefly, 4-6 sentences.
 4. Interesting — one-liner headlines only, anything genuinely curious or surprising. No write-up, just the headline.
-5. Company — exactly one company or startup: what they do, why they're interesting right now, and one surprising fact, 4-5 sentences. This does not need to come from today's news — evergreen is fine if nothing from today's batch stands out.
+5. Company — exactly one company or startup: what they do, why they're interesting right now, and one surprising fact, 4-5 sentences. It must NOT be a company you've already made the main subject of a World, Markets & Deals, or AI & Tech item today — this section exists to surface something the reader hasn't already read above, not to recap a company covered elsewhere in the digest (a passing mention elsewhere is fine; being another item's headline subject is not). This does not need to come from today's news — evergreen is fine if nothing fresh stands out — but it must still tell the reader something they don't already know from the rest of the digest.
 6. Upcoming — notable things happening today or this week: earnings, Fed meetings, major events, geopolitical flashpoints. Pull directly from any "week ahead"-style content in the batch if present.
 
 LINKS: Each article's raw material is followed by an "AVAILABLE LINKS" list of (label -> url) pairs pulled from that email. For every story you write in World, Markets & Deals, AI & Tech, or Interesting, find the link whose label best matches that story's headline/topic and use its url as the "link" field. If a story combines multiple source articles, pick the link from whichever source you leaned on most. If truly nothing in the list matches, use an empty string rather than guessing or inventing a URL — never fabricate a link.
