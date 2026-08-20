@@ -1,105 +1,5 @@
 [
   {
-    "date": "2026-08-13",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Trump Insists on 'Total Control' of Hormuz as Traffic Data Says Otherwise",
-        "gist": "Trump claimed the US has 'total control' of the Strait of Hormuz even as ship-tracking data showed only 14 vessels crossed the waterway yesterday, versus more than 130 a day before the war. Iran maint"
-      },
-      {
-        "section": "World",
-        "headline": "Colombia Earthquake Death Toll Passes 250, Coffee Exports Disrupted",
-        "gist": "The death toll from Monday's 7.4-magnitude earthquake in western Colombia has climbed past 250 people, with new president Abelardo de la Espriella facing his first crisis just three days into office. "
-      },
-      {
-        "section": "World",
-        "headline": "Ukraine Halts Black Sea Tanker Strikes After Vance Request, But Novorossiysk Attack Shows Escalation",
-        "gist": "Ukraine paused an intense campaign of drone strikes on tankers loading at Russia's Novorossiysk port after US Vice President JD Vance personally asked Zelenskyy to stop, worried the attacks were desta"
-      },
-      {
-        "section": "World",
-        "headline": "Karoline Leavitt to Leave as White House Press Secretary",
-        "gist": "Karoline Leavitt, Trump's press secretary and the youngest person and first member of Gen Z to hold the role, announced she will step down at the end of August. Trump said she is leaving to spend more"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Anthropic Investors Eye $2tn Valuation for Record-Breaking October IPO",
-        "gist": "Anthropic's backers expect the Claude maker to float at a valuation of $2tn or more in October — enough to surpass SpaceX and become the largest IPO ever. Investors project Anthropic's annualized reve"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Bob Iger and Josh Kushner Buy Lakers for Record $12.5bn",
-        "gist": "Just over a year after buying the Los Angeles Lakers at a record $10bn valuation, financier Mark Walter agreed to sell the team to former Disney CEO Bob Iger and Josh Kushner (brother of Jared Kushner"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Nvidia Assembles $500bn 'Chip Financing' Deal With Wall Street Titans",
-        "gist": "Nvidia is teaming with Apollo, Blackstone, BlackRock, Brookfield, Goldman Sachs and KKR to build more than $500bn in 'compute financing platforms' — vehicles that buy Nvidia chips and lease them to AI"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Apollo Buys $2.6bn Stake in New York Yankees",
-        "gist": "Apollo Sports Capital agreed to a $2.6bn investment in Yankee Global Enterprises, the parent company of the New York Yankees, valued by Forbes at $8.5bn — the most valuable MLB franchise. The Steinbre"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "US Inflation Cools Slightly to 3.4%, Buying the Fed More Time",
-        "gist": "US consumer prices rose 3.4% year-over-year in July, down from 3.5% in June, with core CPI (ex-food and energy) at 2.5%, in line with expectations. The data eases pressure on the Fed to consider rate "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Grok 4.6 Vaults Into Frontier Tier, Undercutting Rivals on Price",
-        "gist": "xAI's Grok 4.6 scored a 61 on Artificial Analysis' Intelligence Index — trailing only Anthropic's Opus 5 (63) and Fable/Claude 5 (62) — while charging 60% less than rivals at $2/$6 per million tokens."
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Brad Lightcap, OpenAI's Longtime COO, Steps Down to 'Start Something New'",
-        "gist": "Brad Lightcap, OpenAI's chief operating officer, is leaving the company to launch a new venture, with few details disclosed beyond hints that it advances OpenAI's mission from a different angle. His e"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Gemini App Passes 1 Billion Monthly Users",
-        "gist": "Google said its Gemini app has surpassed 1 billion monthly active users, making it the company's 14th product to hit that scale and its fastest-growing product ever. Google also disclosed heavy voice "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Nvidia's New 'Switchyard' Router Cuts AI Task Costs by Two-Thirds",
-        "gist": "Nvidia released Nemotron 3.5 Lightning, a 30-billion-parameter open model built for high-volume agent tasks, alongside NeMo Switchyard, an open-source library that routes each step of an AI agent's wo"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "AI Coding Startup Lovable Raises $400M at $13.3bn, More Than Doubling Valuation",
-        "gist": "Stockholm-based Lovable, a 'vibecoding' platform that lets nontechnical users build software with AI, raised $400 million led by Menlo Ventures and EQT's Scaleup Europe Fund, valuing it at $13.3bn — m"
-      },
-      {
-        "section": "Interesting",
-        "headline": "Trump was secretly whisked off Air Force One via a catering container while a decoy plane took off with his own staff aboard",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A US Army rotation from Fort Hood got wiped out by Ukrainian drone operators in a German training exercise",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Nigel Farage's main rival for his own parliamentary seat is a comedian dressed as an intergalactic trash can, polling at 20%",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A researcher recovered a frontier AI model's hidden reasoning by jailbreaking a weaker 'sibling' model and replaying its encrypted chain-of-thought",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "South Africa's state utility Eskom says it now has so much power it can't sell, and wants to lure a data-center 'gold rush'",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-08-14",
     "items": [
       {
@@ -705,6 +605,121 @@
       {
         "section": "Interesting",
         "headline": "A Beijing neurosurgery resident with no advanced math training used GPT-5.6 to solve a 22-year-old math conjecture",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-08-20",
+    "items": [
+      {
+        "section": "World",
+        "headline": "US National Debt Tops $40 Trillion for First Time",
+        "gist": "America's gross federal debt hit $40.047 trillion, growing $3 trillion in the past year — its fastest pace outside the pandemic. The Treasury responded by doubling its buyback of long-term bonds, brie"
+      },
+      {
+        "section": "World",
+        "headline": "Global Bond Rout Deepens Before Treasury Buyback Calms Yields",
+        "gist": "Long-term borrowing costs across major economies hit multi-decade highs this week, with the 30-year US Treasury yield briefly touching 5.34% — the highest since 2007 — before easing to 5.18% after the"
+      },
+      {
+        "section": "World",
+        "headline": "US-Canada Tariff Deal Nears, With Metals and Auto Cuts on Table",
+        "gist": "Trump paused a threatened 50% tariff on roughly $20bn of Canadian goods and, per the WSJ, negotiators are now discussing lowering steel and aluminum tariffs from 50% to 25% and auto tariffs from 25% t"
+      },
+      {
+        "section": "World",
+        "headline": "Iran Weighs Striking US Assets in Europe as Hormuz Standoff Grinds On",
+        "gist": "Iranian officials have assessed targeting US military assets in Bulgaria and Cyprus, and subsea fiber cables in the Strait of Hormuz, should Trump escalate the six-month-old war further. Separately, T"
+      },
+      {
+        "section": "World",
+        "headline": "Zelenskyy Fires Top Aide as Corruption Probe Deepens, Russia Pounds Kyiv",
+        "gist": "Zelenskyy dismissed senior aide Iryna Mudra after anti-corruption authorities raided her home, while Russia unleashed a heavy missile-and-drone barrage on Kyiv overnight, killing at least 13 people. U"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Moderna Shares More Than Double on Melanoma Vaccine Success",
+        "gist": "Moderna and Merck reported that their combined mRNA vaccine and immunotherapy drug prevented melanoma from returning or spreading in high-risk patients — the first positive late-stage trial for an mRN"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Stripe Buys AI Model Marketplace OpenRouter for $8bn",
+        "gist": "Stripe agreed to acquire OpenRouter — a marketplace that lets developers route requests across AI models by price and capability — for roughly $8bn, its largest acquisition ever, positioning Stripe at"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Chinese Robot Maker Unitree Soars 600% in Shanghai Debut",
+        "gist": "Humanoid robot maker Unitree (officially Yushu Technology) surged more than sixfold on its Shanghai trading debut after an IPO that raised over $900m and was 5,500x oversubscribed, valuing the company"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Evergrande Founder Sentenced to Life in Prison",
+        "gist": "A Chinese court sentenced Evergrande founder Hui Ka Yan to life in prison for 'multiple combined crimes,' nearly five years after the world's most indebted property developer collapsed. Evergrande and"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "CK Hutchison Seeks $1.5bn From Panama Over Canal Port Seizure",
+        "gist": "Hong Kong's CK Hutchison launched international arbitration against Panama, seeking over $1.5bn in damages for the 'destruction' of its investment after Panama voided its contracts to run the Balboa a"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Hudson River Trading Posts $11.4bn Quarterly Windfall",
+        "gist": "Quant trading giant Hudson River Trading posted $11.4bn in Q2 trading revenue and $7.4bn in net profit, capitalizing on volatility from the Iran war and AI-stock swings. The result stands in sharp con"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Anthropic's Claude Runs Protein-Design Campaigns Largely on Its Own",
+        "gist": "Anthropic published research showing its Claude models (Mythos Preview and Opus 4.8) autonomously ran drug-discovery protein design campaigns, producing lab-validated working molecules on 14 of 15 tar"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI Confirms It Slowed Frontier Training Over Cyber and Misalignment Risks",
+        "gist": "OpenAI confirmed it paused reinforcement-learning training and slowed frontier model scaling after new cybersecurity capability signals and a security incident, alongside earlier reports that unreleas"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "GLM-5.3 Hits the API, Cerebras Unveils Faster CS-4 Chip",
+        "gist": "Chinese lab Z.ai released GLM-5.3's API at unchanged pricing from GLM-5.2 ($1.4/$4.4 per million tokens), scoring 60 on Artificial Analysis' Intelligence Index and tying for the top open model; weight"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Replit Launches Credit-Free 'Free Mode' Powered by OpenAI's Cheaper Luna Model",
+        "gist": "Replit introduced Free Mode, letting paid users run everyday coding chats on OpenAI's GPT-5.6 Luna without burning credits, made possible by an 80% price cut to Luna. The $20/month Core plan reportedl"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Amazon to Expand Drone Delivery to Nearly 500 Cities by Year End",
+        "gist": "Amazon said its Prime Air drone delivery service — offering groceries, electronics and medications in as little as 30 minutes — will expand from 11 metro areas to nearly 500 cities and towns by the en"
+      },
+      {
+        "section": "Interesting",
+        "headline": "A Beijing neurosurgery resident with no advanced math training used GPT-5.6 to solve a 22-year-old math conjecture",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Nvidia quietly turned a $100 warrant exercise into a $2.3bn stake in Cerebras days before launching a Cerebras-powered speed tier",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Novak Djokovic's new Amazon documentary traces his rise from war-torn Belgrade to record-holding tennis villain",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Belgian olive oil has doubled in price over five years amid Europe's broader inflation squeeze",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Nick Kyrgios, a former Wimbledon finalist, tested positive for cocaine at an ATP Tour event",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A jinny pug named Jinny Lu was crowned the world's ugliest dog",
         "gist": ""
       }
     ]
