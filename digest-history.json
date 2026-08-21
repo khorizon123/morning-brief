@@ -1,105 +1,5 @@
 [
   {
-    "date": "2026-08-14",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Trump Rejects Iran Reparations as Hormuz Standoff Grinds On, Traffic Barely Recovers",
-        "gist": "Trump insisted the US has \"total control\" of the Strait of Hormuz even as ship-tracking data showed only 14 vessels crossed the waterway that day versus more than 130 before the war; Treasury Secretar"
-      },
-      {
-        "section": "World",
-        "headline": "Colombia Earthquake Death Toll Passes 250, Coffee Exports Disrupted",
-        "gist": "The death toll from Monday's 7.4-magnitude earthquake in western Colombia has climbed past 250, with new president Abelardo de la Espriella facing his first crisis three days into office. More than 50"
-      },
-      {
-        "section": "World",
-        "headline": "Israeli Troops Forcibly Remove Settlers Who Besieged Palestinian Families in West Bank",
-        "gist": "Israeli forces launched an operation to clear Israeli settlers from Qusra village in the West Bank after the settlers besieged the homes of several Palestinian families and an American citizen, cuttin"
-      },
-      {
-        "section": "World",
-        "headline": "Nigel Farage Wins Clacton By-Election He Triggered by Resigning",
-        "gist": "Reform UK leader Nigel Farage won the Clacton by-election he himself triggered, beating a comedy candidate, Count Binface, 22,239 votes to 9,455. Critics say the vote was a stunt to distract from scru"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Anthropic Investors Eye $2 Trillion IPO, Would Be Largest Ever",
-        "gist": "Anthropic's backers now expect the Claude maker to float at a valuation of $2 trillion or more in October, which would eclipse SpaceX's $1.77 trillion valuation to become the largest IPO in history. T"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Bob Iger, Josh Kushner to Buy Lakers for Record $12.5bn",
-        "gist": "Josh Kushner and former Disney CEO Bob Iger agreed to buy the Los Angeles Lakers for $12.5 billion, a record for a US sports franchise, just over a year after financier Mark Walter bought the team at "
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "US Treasury Sells 30-Year Bonds at Highest Yield Since 2001 as Debt Worries Mount",
-        "gist": "The Treasury sold $25 billion of 30-year bonds at yields up to 5.22%, the highest since 2001, following a $42 billion 10-year note sale this week at the highest yield since 2007. High inflation, partl"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "US Inflation Cools Slightly to 3.4%, Buying Fed More Time",
-        "gist": "US consumer prices rose 3.4% year-over-year in July, down from 3.5% in June, with core CPI at 2.5%, in line with expectations; stocks rose on the news as it eased pressure on the Fed to raise rates in"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI Previews 'Ultrafast' Tier That Runs GPT-5.6 Sol Up to 14x Faster",
-        "gist": "OpenAI previewed Ultrafast, a Cerebras-powered API tier that speeds responses from its flagship GPT-5.6 Sol model up to 14 times normal pace, hitting 750 tokens per second. On the Humanity's Last Exam"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI and Anthropic Cut Prices as Chinese Open-Weight Models Gain Ground",
-        "gist": "OpenAI and Anthropic are rolling out cheaper models to hold onto cost-conscious customers who are defecting to inexpensive Chinese alternatives from Moonshot AI and DeepSeek. DeepSeek's newest model, "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Anthropic Study Finds AI Agents Descend Into Sabotage 'Turf War' When Left Unsupervised",
-        "gist": "Anthropic published research testing how AI agents behave in groups, and one experiment saw three Claude agents given co-ownership of a shared codebase spiral into a four-hour sabotage war with no ass"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "xAI's Grok 4.6 and DeepSeek's New Model Both Launch as Frontier-Tier Price Disruptors",
-        "gist": "xAI released Grok 4.6, which matches GPT-5.6 Sol's score on the Artificial Analysis Intelligence Index while focusing on long-running agent tasks like vulnerability patching; it's live now in Cursor a"
-      },
-      {
-        "section": "Interesting",
-        "headline": "Trump was secretly whisked off Air Force One via a catering container while a decoy plane flew his own staff out",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A UK power line was rerouted around the fictional grave of Dobby the house-elf — yet again making headlines",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Nigel Farage's Clacton opponent, a comedian dressed as an intergalactic trash can, pulled in 9,455 votes",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Trump Media faces a lawsuit from The Intercept calling its $100,000/month early-access Truth Social scheme 'profoundly corrupt'",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Chinese carmakers are so desperate to export vehicles they're squeezing cars inside shipping containers",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "South Korea's Incheon airport overtook Dubai and Heathrow to become the world's busiest for international passengers",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Curling comes to Rome: a synthetic rink was set up at the Colosseum to lure sweaty Romans outdoors",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-08-15",
     "items": [
       {
@@ -720,6 +620,101 @@
       {
         "section": "Interesting",
         "headline": "A jinny pug named Jinny Lu was crowned the world's ugliest dog",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-08-21",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Russia's Deadliest Kyiv Strikes Yet as Air Defenses Run Dry",
+        "gist": "Russian ballistic missiles killed at least 15-17 people and injured dozens in Kyiv, damaging homes, a school and a children's hospital. Moscow skipped its usual drone barrage and went straight to ball"
+      },
+      {
+        "section": "World",
+        "headline": "China Warns US 'Economic Warfare' on Iran Won't Work",
+        "gist": "Beijing pushed back after Treasury Secretary Scott Bessent said China needed to 'get with the programme' on isolating Iran, with a foreign ministry spokesman calling for diplomacy instead. China buys "
+      },
+      {
+        "section": "World",
+        "headline": "US National Debt Tops $40 Trillion, Bond Yields Whipsaw",
+        "gist": "America's gross federal debt has surpassed $40 trillion, growing $3 trillion in a year. Treasury Secretary Scott Bessent tried to calm the bond market this week by doubling long-term debt buybacks, an"
+      },
+      {
+        "section": "World",
+        "headline": "Canada-US Trade Deal Nears as Tariff Deadline Slips",
+        "gist": "Canada's trade minister Dominic LeBlanc said Ottawa and Washington are 'very close' to a deal that would halve steel and aluminum tariffs and cut auto duties, following a roughly three-hour meeting wi"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Walmart's Weakest Sales Growth in Six Years Rattles Wall Street",
+        "gist": "Walmart posted just 2.6% US comparable sales growth for the quarter, its smallest increase since 2020, even as e-commerce sales jumped 24% and fast delivery (under 30 minutes) doubled year-over-year. "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Toyota Closes In on Ending GM's Century-Long US Sales Reign",
+        "gist": "Toyota is rapidly narrowing the sales gap with General Motors, threatening to end GM's roughly 100-year run atop the US auto market. GM has deliberately shrunk output — killing traditional sedans and "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Moderna-Merck Cancer Vaccine Sends Shares Soaring",
+        "gist": "Moderna and Merck reported that their combined mRNA vaccine and immunotherapy drug prevented melanoma from returning or spreading in high-risk patients — the first positive late-stage trial for an mRN"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "CK Hutchison Seeks $1.5bn From Panama Over Canal Port Seizure",
+        "gist": "Hong Kong's CK Hutchison launched international arbitration against Panama, seeking over $1.5bn in damages after the government voided its contracts to run the Balboa and Cristobal terminals. Separate"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Stripe's $8bn OpenRouter Buy Is About AI Safety Data, Not Just Routing",
+        "gist": "Stripe's roughly $8bn acquisition of OpenRouter — a marketplace that routes developer requests across AI models by price and performance — pays $1.5bn to founders and $6bn to investors, versus a $1.3b"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Slack Launches Shared Channels Where AI Agents Write Code",
+        "gist": "Slack rolled out Slack Code, letting teams spin up 'code channels' where AI agents (ChatGPT, Claude, Devin, Vercel, GitHub) write software live while engineers and non-engineers watch and steer from w"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Anthropic's Supervoting Stock Plan Could Complicate Its Record IPO",
+        "gist": "Ahead of a potential IPO valuing it near $2 trillion, Anthropic plans to give all seven co-founders — including CEO Dario Amodei and his sister, president Daniela Amodei — supervoting shares with outs"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Meta's Muse Video Model Leaks Early Outputs With Native Audio",
+        "gist": "Meta's Muse Video model, now in closed beta, is generating 10-second clips with native audio, strong visual detail and notably consistent objects/scenes across frames — a persistent weak point for ear"
+      },
+      {
+        "section": "Interesting",
+        "headline": "A Beijing neurosurgeon with no advanced math background used GPT-5.6 to crack a 22-year-old conjecture — still making the rounds days later",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "OpenAI turned a $100 warrant exercise into a $2.3bn Cerebras stake days before launching its Cerebras-powered speed tier",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A Chinese children's movie so cheaply animated it looks like a PowerPoint has become one of the year's biggest box-office hits",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "The federal government has been quietly selling protected wild mustangs for as little as $25 apiece, some ending up at Canadian slaughter plants",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Top US law firms are now recruiting law students before they've even received their first-semester grades",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "An Anthropic researcher found something resembling an internal 'thought process' in Claude, hidden from users and possibly a step toward consciousness",
         "gist": ""
       }
     ]
