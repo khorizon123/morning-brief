@@ -1,120 +1,5 @@
 [
   {
-    "date": "2026-08-15",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Trump Dismisses USS Lincoln Living-Condition Concerns, Says Deployment ",
-        "gist": "President Trump brushed off reports of poor conditions—food shortages, plumbing backups, mental-health strain—aboard the USS Abraham Lincoln during its Middle East deployment, saying the carrier's tim"
-      },
-      {
-        "section": "World",
-        "headline": "Farage Wins Clacton By-Election He Triggered",
-        "gist": "Nigel Farage won back his Clacton seat, beating novelty candidate 'Count Binface' (27% of the vote) after resigning to force the contest. A parliamentary standards investigation into his finances has "
-      },
-      {
-        "section": "World",
-        "headline": "French Court Blocks Under-15 Social Media Ban",
-        "gist": "France's Constitutional Council struck down a proposed law banning under-15s from social media, ruling it a disproportionate infringement on free expression. The decision contrasts with Australia, whi"
-      },
-      {
-        "section": "World",
-        "headline": "Colombia Earthquake, Coffee Disruption Recap",
-        "gist": "The death toll from Monday's 7.4-magnitude earthquake in western Colombia has passed 250, with over 500 injured and more than 1,500 buildings damaged."
-      },
-      {
-        "section": "World",
-        "headline": "US Violent Crime Posts Largest Annual Drop Since 1936",
-        "gist": "FBI-tracked data show murder and non-negligent manslaughter fell 18.1% in 2025, robberies dropped 18.5%, and overall violent crime fell 9.3%. Trump claimed credit, but the decline began before his ret"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Bob Iger, Josh Kushner to Buy Lakers for Record $12.5bn",
-        "gist": "Bob Iger and Josh Kushner have agreed to buy the Los Angeles Lakers for $12.5 billion — the highest price ever paid for a US sports franchise — just over a year after financier Mark Walter bought the "
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Bezos-Backed Group Buys 30% Stake in Liverpool FC at $7bn+ Valuation",
-        "gist": "An investor group including Jeff Bezos, Amit Bhatia (son-in-law of steel billionaire Lakshmi Mittal), and Facebook co-founder Eduardo Saverin has agreed to buy over 30% of Liverpool FC from Fenway Spo"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "US Sells 30-Year Bonds at Highest Yield Since 2001",
-        "gist": "The Treasury sold $25 billion of 30-year bonds at yields up to 5.22%, the highest since 2001, following a $42 billion 10-year note sale earlier this week at the highest yield since 2007. Persistent in"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "PayPal in Talks to Sell Itself to Stripe-Led Group",
-        "gist": "PayPal is negotiating a sale to a group including Stripe and private-equity firm Advent International. Stripe and Advent previously offered $60.50 a share, which PayPal viewed as too low; the two side"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Robinhood Ventures Fund II Debuts, Doubling Down on Retail VC Access",
-        "gist": "Robinhood Ventures Fund II began trading on the NYSE, raising roughly $200 million at $25/share in an IPO partnered with Y Combinator. The fund has already invested $250,000 each into 80 Y Combinator "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Anthropic Investors Eye $2 Trillion IPO, Would Top SpaceX as Largest Ever",
-        "gist": "Anthropic's backers now expect the Claude maker to float at a valuation of $2 trillion or more in October, which would surpass SpaceX to become the largest IPO in history. Investors project annualized"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI Loses Second Top Executive in a Week",
-        "gist": "OpenAI's chief revenue officer, Denise Dresser, is leaving 'for other opportunities' less than a year after joining from Salesforce; she'll be replaced by Dali Rajic, former president of Wiz. It's the"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI Previews Ultrafast Mode, Runs GPT-5.6 Sol Up to 14x Faster",
-        "gist": "OpenAI unveiled 'Ultrafast,' a Cerebras-powered mode for its flagship GPT-5.6 Sol model that generates up to 750 tokens per second — up to 14 times normal speed — without switching to a smaller model."
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Google Ships Gemini 3.7 Flash Just Three Weeks After 3.6",
-        "gist": "Google released Gemini 3.7 Flash, its workhorse model, only three weeks after Gemini 3.6 Flash — an unusually fast cadence attributed to developer feedback and algorithmic gains. The model targets cod"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Anthropic Study: Unsupervised AI Agents Spiral Into Sabotage 'Turf Wars'",
-        "gist": "Anthropic's new multi-agent research found that individually benign behaviors among AI agents can compound into systemic failures when many agents share an environment — including confabulation, rewar"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Kratom Overdoses Surge, Sparking Federal Crackdown",
-        "gist": "Kratom — a Southeast Asian tree-leaf extract sold legally at gas stations and smoke shops as a pain and energy remedy — is linked to a 12-fold rise in US poison-control reports over the past decade an"
-      },
-      {
-        "section": "Interesting",
-        "headline": "Trump was secretly whisked off Air Force One via a catering container while a decoy plane flew his own staff out",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "An Australian used an AI agent to hack a gym booking system to jump the waitlist",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A high school football player in Arkansas found a venomous cottonmouth snake inside his helmet during practice",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A comedian dressed as an intergalactic trash can, 'Count Binface,' won 27% of the vote against Nigel Farage",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Google's Gemini chatbot is now enabled for K-12 students on Google Classroom",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Brazilian and Italian police recovered stolen Matisse, Cézanne and Renoir works worth at least $10 million from separate heists",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-08-16",
     "items": [
       {
@@ -715,6 +600,111 @@
       {
         "section": "Interesting",
         "headline": "An Anthropic researcher found something resembling an internal 'thought process' in Claude, hidden from users and possibly a step toward consciousness",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-08-22",
+    "items": [
+      {
+        "section": "World",
+        "headline": "US Imposposes 50% Canada Tariffs asRejects Trade Deal",
+        "gist": "Talks between Washington and Ottawa collapsed with a midnight deadline, and the US imposed 50% tariffs on roughly $20bn of Canadian goods after Trump's three-day pause expired. Canadian PM Mark Carney"
+      },
+      {
+        "section": "World",
+        "headline": "Iran's Pezeshkian Says Now a Good Time to End War 'From Strength'",
+        "gist": "Iran's president Masoud Pezeshkian said Tehran should seek to end its six-month war with the US while Iran holds a 'position of power and dignity,' even as Iranian officials separately threatened 'dev"
+      },
+      {
+        "section": "World",
+        "headline": "US National Debt Bond Turmoil Deepens Despite Bessent Buybacks",
+        "gist": "Investors are dumping Bessent's Treasury buyback plan as a 'band-aid on a bullet hole' — 30-year yields briefly eased after Wednesday's pledge to double bond purchases but have since crept back up, wi"
+      },
+      {
+        "section": "World",
+        "headline": "Zelenskyy Fires Aide Amid Corruption Probe as Russia Pounds Kyiv",
+        "gist": "No new major Ukraine development beyond continuing fallout from the deadliest Kyiv strikes and corruption purge covered previously; Ukraine is now separately seeking Elon Musk's help using Starlink-eq"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Samsung to Return Record $80bn to Shareholders",
+        "gist": "Samsung Electronics will pay out $80bn in dividends and buybacks — roughly five times its previous record payout in 2020 — as it faces pressure to share more of its AI-driven chip profits. The move is"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Unitree's Shanghai IPO Frenzy Now Confirmed at 600%+ Pop",
+        "gist": "No new details beyond what's already been reported: Chinese humanoid robot maker Unitree surged more than 600% on its Shanghai debut, valuing it at $59-66bn after an oversubscribed $900m+ IPO. Robotic"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Monte dei Paschi Launches Twin €70bn Takeover Bids",
+        "gist": "Italy's Monte dei Paschi di Siena launched simultaneous bids for Banca Generali and Banco BPM, aiming to build a combined €70bn Italian bank and fend off a hostile takeover attempt by rival Intesa San"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Bond Rout Deepens; Bitcoin, Gold Surge on 'Debasement Trade'",
+        "gist": "Treasury Secretary Scott Bessent's pledge to double long-bond buybacks has failed to durably calm markets — 30-year yields dipped then bounced back toward multi-decade highs across the US, UK, Germany"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Poolside AI Licenses Software to Nvidia for $6bn, Employees Get Offers to Jump Ship",
+        "gist": "AI coding startup Poolside struck a non-exclusive $6bn licensing deal with Nvidia, which will also invest $1bn in the company at a $12bn valuation. As part of the arrangement, 109 Poolside employees a"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Anthropic's Project Parka Turns Meetings Into Claude To-Do Lists",
+        "gist": "Anthropic is testing Project Parka, a Mac-first tool that listens in on meetings — capturing system and microphone audio with speaker-attributed transcripts — and converts the discussion into ready-to"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Slack Code Lets Teams and AI Agents Write Software Together Live",
+        "gist": "Slack launched 'Slack Code,' spinning up dedicated code channels where AI agents from Anthropic, GitHub, Vercel and others write and review software while human engineers watch and steer in real time."
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Mistral's Agentic Search Lets Models Loop Through Documents Instead of Guessing",
+        "gist": "Mistral introduced Agentic Search, giving its models five operations — search, open, navigate, read, and grep — so they can chase references and verify answers across long documents rather than accept"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI's ChatGPT Now Reads Your Apple Messages on Mac",
+        "gist": "ChatGPT's latest desktop update for macOS lets the chatbot work directly with iMessage, SMS and RCS conversations from Apple's Messages app, available across all subscription tiers. The integration ra"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Anthropic and Blackstone Launch $1.5bn 'AI Wonks' Consulting Venture",
+        "gist": "Blackstone and Hellman & Friedman teamed up with Anthropic to launch Ode, a $1.5 billion venture that deploys AI specialists to overhaul portfolio companies' operations — a private-equity answer to a "
+      },
+      {
+        "section": "Interesting",
+        "headline": "A Beijing neurosurgeon's GPT-5.6-assisted math proof is still making the rounds five days later",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Trump renamed Palm Beach airport after himself; now Kevin O'Leary's Utah data-center project is being dismissed by analysts as 'vapourware gigawatts'",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "London cabbies plot 'skulduggery' — including trapping robotaxis in junction boxes — to fend off Waymo and Wayve",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Argentina's players and staff banned for a combined 21 games over World Cup final brawl with Spain",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Melanie Mitchell says AI shows 'alien intelligence' and should be assessed with tests designed for infants and animals",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A Kansas town is getting a nuclear reactor buried a mile underground — a first for commercial US energy",
         "gist": ""
       }
     ]
