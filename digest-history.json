@@ -1,90 +1,5 @@
 [
   {
-    "date": "2026-08-16",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Israeli Strikes Kill 11 in Lebanon, Two Months Into Truce",
-        "gist": "Israel's military struck targets in Lebanon, killing at least 11 people, describing the attack as a 'response to an action' by Hizbollah. The strikes come despite a ceasefire that has held, nominally,"
-      },
-      {
-        "section": "World",
-        "headline": "Colombia Earthquake Aftermath Reveals a Divided Country",
-        "gist": "New president Abelardo de la Espriella, three days into office when the 7.4-magnitude quake struck, is now confronting stark disparities in how wealthy and poor regions of Colombia are recovering from"
-      },
-      {
-        "section": "World",
-        "headline": "Leipzig Drone Attack Exposes Gaps in Europe's Hybrid-Warfare Defenses",
-        "gist": "A drone carrying plastic explosives nearly destroyed a large transport plane at Leipzig/Halle Airport this month. Germany has not formally blamed Russia, but the near-miss is being read across Europe "
-      },
-      {
-        "section": "World",
-        "headline": "Ukraine's Air Defenses Thin Out as Patriot Interceptors Run Low",
-        "gist": "Kyiv's stockpile of Patriot interceptor missiles is dwindling just as Russia gears up for a winter bombardment campaign, putting Ukraine's recent military momentum at risk."
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Bezos-Backed Group Buys 30%+ of Liverpool FC at $7bn-Plus Valuation",
-        "gist": "An investor group including Jeff Bezos, Amit Bhatia (son-in-law of steel billionaire Lakshmi Mittal) and Facebook co-founder Eduardo Saverin has agreed to buy over 30% of Liverpool FC from Fenway Spor"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "PayPal in Talks to Sell Itself to Stripe-Led Group",
-        "gist": "PayPal is negotiating a sale to a consortium including payments rival Stripe and private-equity firm Advent International, after rejecting an earlier joint offer of $60.50 a share as too low. A deal w"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "UK Housebuilder Profits Set to Fall 12% Amid 'Relentless Grind'",
-        "gist": "British housebuilders are bracing for a 12% drop in annual profits as sluggish demand forces developers to resort to bulk sales to offload unsold homes. The slump reflects persistently high mortgage r"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Meta's Muse Glimmer Push Continues, Zuckerberg Adds $1bn Local Fund",
-        "gist": "Meta released open weights for its new frontier-class model Muse Glimmer, positioning it as a cheaper, locally-runnable alternative to closed rivals from OpenAI and Anthropic. Alongside the launch, Me"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "China Poised to Lift Travel Ban on Manus AI Founders",
-        "gist": "China appears set to lift a travel restriction on Manus AI chief executive Xiao Hong, who plans to return to Singapore as the AI agent company nears resolution of a messy separation from Meta. Manus h"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Singapore Bets on Open AI Access to Retain Finance Talent",
-        "gist": "Singapore's government and financial firms are betting that easy, unrestricted access to the latest AI models — a byproduct of the city-state's close ties to both the US and China — can stop finance p"
-      },
-      {
-        "section": "Interesting",
-        "headline": "World's largest carmakers scramble to avert a looming motor oil crisis as Group III base oils run short",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "BlackBerry, a decade after killing off its phones, is now betting its future on car and security software",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Malaysia becomes a surprise winner of the AI data-center boom, emerging as a key Southeast Asian hub",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Democratic socialist candidates are winning primaries as more Americans make peace with the idea",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Businesses in cash-strapped Johannesburg are filling potholes and trucking in their own water as the city hits 'the brink'",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Britain now has more cheeses than France, thanks to an artisan revival",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-08-17",
     "items": [
       {
@@ -705,6 +620,66 @@
       {
         "section": "Interesting",
         "headline": "A Kansas town is getting a nuclear reactor buried a mile underground — a first for commercial US energy",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-08-23",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Canada Declares Trade 'War' With US as Carney Digs In",
+        "gist": "Prime Minister Mark Carney told Canadians the country is now 'at war' with the US over trade, accusing Trump of miscalculating by escalating the tariff fight, after talks collapsed and Washington impo"
+      },
+      {
+        "section": "World",
+        "headline": "Russia's Double-Tap Strike on Ukrainian Mall Kills at Least 16",
+        "gist": "Russian forces carried out a 'double-tap' attack — striking once, then again as responders arrived — on a shopping mall in Ukraine, killing at least 16 people. Zelenskyy called on allies to impose 're"
+      },
+      {
+        "section": "World",
+        "headline": "Israel's Syria Strike May Have Aimed to Provoke Turkey, US Envoy Suggests",
+        "gist": "Washington's ambassador to Ankara said Israel's strike on a Syrian air base could have been an 'aggressive pre-election' move designed to provoke conflict with Turkey ahead of October elections. The r"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "US Buyers Snap Up Europe's Asset Managers at Fastest Pace in Decades",
+        "gist": "American financial giants are acquiring European fund managers at the fastest rate in decades, as struggling local firms find themselves outgunned by larger US rivals racing to bulk up and expand glob"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Coffee Chain Blank Street Raises Funds From General Atlantic, Eyes Ice Cream",
+        "gist": "Blank Street, the six-year-old coffee chain, has raised new funding from private-equity firm General Atlantic at a valuation of roughly $650 million as it pushes to become a 'daily luxury brand' and e"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Klarna's Stock Crash Shows the Cost of Being a Small Fish",
+        "gist": "Klarna's stock has slumped as weak German consumer spending exposes the fintech's vulnerability as a mid-sized player squeezed between larger rivals and cost-conscious shoppers. The buy-now-pay-later "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Qatar Cuts Spending as Iran War Shrinks Its Economy",
+        "gist": "Qatar is cutting state spending at home and abroad as the six-month-old US-Iran conflict, which has choked shipping through the Strait of Hormuz, squeezes one of the Gulf's wealthiest economies. The r"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "A16Z Faces DOJ Antitrust Scrutiny Over Interlocking Boards",
+        "gist": "Andreessen Horowitz is reportedly under Justice Department investigation over board seats it holds at competing data-management firms Databricks and Fivetran. The probe centers on a decades-old antitr"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Harvard Business School Deploys AI Video Avatars of Its Professors",
+        "gist": "Harvard Business School has built AI-generated video avatars of instructors like venture capitalist Jeff Bussgang for a new $699 entrepreneurship bootcamp called HBS Foundry, letting far more founders"
+      },
+      {
+        "section": "Interesting",
+        "headline": "An AI version of the late actor Val Kilmer recently appeared in a historical drama, 'As Deep as the Grave'",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Britain's far right has developed a curious obsession with medieval knights at political rallies",
         "gist": ""
       }
     ]
