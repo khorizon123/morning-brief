@@ -1,105 +1,5 @@
 [
   {
-    "date": "2026-08-17",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Kushner Meets Hamas and Netanyahu in New Push to Revive Gaza Deal",
-        "gist": "Jared Kushner met with Hamas leaders in Egypt and was set to meet Netanyahu on Monday, a week after Israel publicly rejected Trump's 15-point Gaza peace plan. Israel now controls roughly 60% of the St"
-      },
-      {
-        "section": "World",
-        "headline": "Trump Orders Reduced Military Drills With South Korea, Citing Ties With Kim",
-        "gist": "Trump ordered the Pentagon to \"substantially reduce\" the Ulchi Freedom Shield exercises with South Korea, which began Monday with roughly 18,000 South Korean troops, citing his \"very good relationship"
-      },
-      {
-        "section": "World",
-        "headline": "US-Iran Talks Collapse Again as 60-Day Deadline Passes; Hormuz Traffic Still a Trickle",
-        "gist": "The US and Iran missed the 60-day deadline set under June's ceasefire to reach a broader deal. Shipping through the Strait of Hormuz slowed to just five vessels over the weekend versus 31 the prior we"
-      },
-      {
-        "section": "World",
-        "headline": "US Deportation Deals Create Overseas 'Indefinite Detention' Archipelago",
-        "gist": "The Trump administration is paying at least 35 countries — including Eswatini, South Sudan, Ghana and Moldova — to hold deportees from third countries, often with no legal recourse or charges. One cas"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Canada Braces for 50% US Tariffs as Trade War Threat Returns",
-        "gist": "The Trump administration is set to impose 50% tariffs on many Canadian imports (excluding energy, potash, fish and critical minerals) starting Wednesday, accusing Canadian provinces of blocking US alc"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Japan GDP Growth Badly Misses Expectations on Iran-War Energy Costs",
-        "gist": "Japan's economy grew just 1.1% annualized in Q2, well below the 2% analysts expected, as high energy prices from the Iran war, weak consumer spending and low investment weighed on output, partly offse"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "China's Industrial Output and Retail Sales Slow Further in July",
-        "gist": "Chinese industrial production grew 4.5% year-on-year in July, down from 5.3% in June, retail sales rose just 0.6% (versus 1% in June), and fixed-asset investment fell 6.7%, pressuring Beijing to aband"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Jane Street Posts ~$15bn Loss in July After Situational Awareness Blowup",
-        "gist": "Jane Street, the quant trading giant, suffered a roughly $15 billion loss in July after turmoil at AI-focused hedge fund Situational Awareness wrongfooted its positions. The firm is separately negotia"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "California Billionaires Pour Millions Into Fight Against Wealth Tax",
-        "gist": "Tech owner Chris Larsen and venture capitalist John Doerr are stepping up funding — nearly $40mn raised so far — to kill a proposed 5% wealth tax on rich Californians ahead of a ballot fight. It's par"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Nvidia's $500bn 'Compute Financing' Plan Draws Investor Skepticism",
-        "gist": "Nvidia unveiled its $500 billion Wall Street financing push (with Apollo, Blackstone, BlackRock, Brookfield, Goldman and KKR) to fund AI chip purchases at cheaper borrowing costs, but shares fell 3% o"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Beijing Neurosurgeon Cracks 22-Year-Old Math Problem Using GPT-5.6",
-        "gist": "Shanmu Jin, a Beijing neurosurgery resident with no formal advanced math training, proved Crouzeix's Conjecture — an unsolved matrix problem since 2004 — after a 16-hour autonomous session with OpenAI"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Dario Amodei Breaks Silence to Defend Anthropic's Safety Stance",
-        "gist": "Anthropic CEO Dario Amodei made a rare X appearance rejecting claims from investor Gavin Baker that his AI-safety warnings have \"backfired\" and are fueling anti-data-center backlash. Amodei argued tha"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "China's GLM-5.3 and Higgsfield's $5.4bn Raise Show AI Investment Still Roaring",
-        "gist": "China's Z AI released GLM-5.3, which it claims is the strongest open-source coding model with top cyber benchmark scores (weights due in two weeks). Separately, AI video startup Higgsfield raised $400"
-      },
-      {
-        "section": "Interesting",
-        "headline": "Kentucky 'country hicks' turned down $26 million from an AI data-center developer, dividing their town",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Belgian construction workers found $10 million in gold bars sealed under a defunct brewery",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Ukraine's top private defense company is run by a former furniture designer",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Membership at Miami's exclusive Indian Creek Country Club costs $1 million — and Jeff Bezos and Jared Kushner still can't get in",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "China's Mixue Bingcheng, the world's biggest fast-food chain by outlets, is now opening pubs and serving beer",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Hayden Panettiere, star of 'Heroes' and 'Nashville,' has died at 36",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-08-18",
     "items": [
       {
@@ -680,6 +580,96 @@
       {
         "section": "Interesting",
         "headline": "Britain's far right has developed a curious obsession with medieval knights at political rallies",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-08-24",
+    "items": [
+      {
+        "section": "World",
+        "headline": "US-Canada Trade War Ignites as Talks Collapse and 50% Tariffs Hit",
+        "gist": "Talks between Washington and Ottawa collapsed late Friday night, and the US imposed 50% tariffs on roughly $20bn of Canadian goods after a three-day pause expired. Canada's PM Mark Carney declared the"
+      },
+      {
+        "section": "World",
+        "headline": "Bessent Unveils 'Economic D-Day' Sanctions Push on Iran",
+        "gist": "Treasury Secretary Scott Bessent is announcing sweeping new sanctions targeting Iran's oil trade, calling it \"the single greatest financial offensive ever marshaled against an adversary.\" Without nami"
+      },
+      {
+        "section": "World",
+        "headline": "Wheat Crisis Deepens as Drone Strikes and Drought Hit World's Breadbaskets",
+        "gist": "Russia and Ukraine have stepped up attacks on each other's Black Sea grain terminals and ships, with Novorossiysk's grain terminals suspended after a drone strike and Odesa hit by Russian bombing. Mea"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Panama Canal Slashes Transit Slots as El Niño Threatens Drought Repeat",
+        "gist": "The Panama Canal Authority will limit daily transit slots starting September 4 — cutting Neopanamax slots to nine and Panamax slots to 25, tightening further to 23 by September 15 — as water levels dr"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Shein Prices Hong Kong IPO at $27bn, a Quarter of Its 2022 Peak",
+        "gist": "Shein began book-building for its long-delayed Hong Kong listing, seeking to raise HK$13.9bn (about $1.8bn) at a valuation near $27bn — down from the $98bn it commanded in 2022. Weak global growth, ta"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Samsung Announces Record $80bn Payout, Shares Slide 9% Anyway",
+        "gist": "Samsung Electronics unveiled dividends and buybacks worth up to 110trn won ($80bn) — roughly five times its previous record 2020 payout — aimed at distributing AI-boom profits and easing investor worr"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Nvidia Puts $6bn Into Poolside to Build American Open-Weight AI Rival",
+        "gist": "Nvidia struck a $6bn non-exclusive deal to license AI coding startup Poolside's model-development technology, bringing over 100 Poolside engineers onto its Nemotron team to build powerful open-weight "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Off-Balance-Sheet AI Debt Hits $3 Trillion Across Big Tech",
+        "gist": "A Wall Street Journal analysis found nine major tech companies — including Alphabet, Amazon, Meta and Microsoft — are carrying a combined $3 trillion in off-balance-sheet commitments mostly tied to AI"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Mystery Model 'Ox Alpha' Sparks Guessing Game Over Its Origins",
+        "gist": "An anonymous AI model called Ox Alpha appeared for free on OpenRouter with a 1M-token context window, multimodal input and frontier-level coding claims, immediately sending developers scrambling to id"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Data Centers Become a Political Liability for Big Tech",
+        "gist": "71% of Americans oppose a data center being built in their local area, according to a March Gallup poll — more than the 53% who'd oppose a nuclear plant nearby. Politicians who once championed data ce"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI's Revenue Growth Trails Anthropic as Losses Deepen",
+        "gist": "OpenAI told investors its revenue grew just 18% quarter-over-quarter while losses widened, disappointing shareholders hoping it would close the gap with Anthropic, whose annualized revenue is reported"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Lady Gaga's Outer Bio Keeps Human Skin Alive for AI-Driven Drug Discovery",
+        "gist": "Outer Bio, co-founded by Lady Gaga and fiancé Michael Polansky, emerged from stealth with Yuna, a platform that keeps real human skin alive on a 3D-printed scaffold for four weeks (versus about one we"
+      },
+      {
+        "section": "Interesting",
+        "headline": "China's Superman robot sprints faster than Usain Bolt's world record — then crashes into a wall",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "An 89-year-old German who thought 'influencer' was a form of influenza is now a TikTok star",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Diego Maradona's 1986 'Hand of God' match ball sold for $3.35 million",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Kentucky landowner's rejected $26.48 million data-center offer is still making headlines days later",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "AI-generated Val Kilmer appears in new historical drama",
         "gist": ""
       }
     ]
