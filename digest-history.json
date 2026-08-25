@@ -1,110 +1,5 @@
 [
   {
-    "date": "2026-08-18",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Trump Threatens to Bomb Oman as Hormuz Standoff Passes 60-Day Deadline",
-        "gist": "Trump said during a Fox News interview that the US would 'bomb the shit out of' Oman if the Gulf state 'gets in the way' of Washington's efforts to strike a deal with Iran, even as the 60-day ceasefir"
-      },
-      {
-        "section": "World",
-        "headline": "Trump Orders Reduced US-South Korea Drills, Rattling Seoul",
-        "gist": "Trump directed the Pentagon to 'substantially reduce' the annual Ulchi Freedom Shield exercises with South Korea, citing his 'very good relationship' with Kim Jong Un, and said Kim had responded posit"
-      },
-      {
-        "section": "World",
-        "headline": "Kushner Meets Netanyahu After Hamas Talks in Push to Revive Gaza Deal",
-        "gist": "Jared Kushner met with Israeli PM Benjamin Netanyahu in Jerusalem, a day after meeting Hamas leaders in Egypt, in a fresh attempt to break the deadlock over Trump's 15-point Gaza peace plan, which Net"
-      },
-      {
-        "section": "World",
-        "headline": "US-Canada Tariff Deadline Comes Down to the Wire",
-        "gist": "Canadian PM Mark Carney is racing to reach a deal with Trump before the US imposes fresh 50% tariffs on roughly $20bn of Canadian goods at midnight Wednesday. Talks have made some progress, with Washi"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Global Bond Sell-Off Deepens as 30-Year Treasury Yield Hits 5.33%",
-        "gist": "Long-term government borrowing costs across major economies hit multi-decade highs, with the 30-year US Treasury yield rising to 5.33% (highest since 2007) and UK, German and French long bonds similar"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Nvidia's $105bn Backstop for OpenAI's Ohio Megacampus, Scaled Down From $250bn",
-        "gist": "OpenAI and Nvidia announced a new Ohio AI campus at a decommissioned Cold War-era uranium plant, targeting nearly 8 gigawatts of eventual compute, with Nvidia supplying every chip. Nvidia originally f"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Stripe to Buy AI Model Marketplace OpenRouter for Over $7bn",
-        "gist": "Stripe has agreed to acquire OpenRouter, a marketplace that lets developers route requests across AI models based on price and capability, for more than $7bn — over five times the $1.3bn valuation it "
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Mark Walter's Insurance Empire Under Federal Investigation, Rattling Private Credit",
-        "gist": "Federal prosecutors are examining whether financier Mark Walter — the Guggenheim Partners co-founder who parlayed a career in commercial paper into control of major insurers and, more recently, owners"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "US-Canada 50% Tariffs Loom as Midnight Deadline Nears",
-        "gist": "Trump has vowed to impose fresh 50% tariffs on roughly $20bn of Canadian goods effective midnight tonight unless Ottawa capitulates on demands including restocking US alcohol in provincial stores; Can"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Cursor Launches GitHub Rival 'Origin' the Same Day GitHub Suffers Major Outage",
-        "gist": "Cursor, now part of SpaceX after an acquisition to tap its GPU resources, launched Origin, a beta code-hosting platform that pairs every repository with Cursor's built-in coding agent and review tools"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "ByteDance and Hollywood's MPA Strike AI Video Copyright Deal",
-        "gist": "ByteDance agreed to a formal framework with the Motion Picture Association to bake film and TV copyright protections into its Seedance and Seedream video-generation models, months after a viral deepfa"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI Quietly Bought a $2.3bn Stake in Cerebras for $100 Days Before Ultrafast Launch",
-        "gist": "Days before previewing 'Ultrafast' — a service tier running GPT-5.6 Sol at up to 750 tokens per second — OpenAI exercised every vested warrant it held in Cerebras, picking up over 10 million Class N s"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Z.ai Releases GLM-5.3, Underscoring China's Rapid-Release AI Strategy",
-        "gist": "Chinese lab Z.ai released GLM-5.3, a coding-focused model whose gains reportedly all came from more extensive post-training (more environments, tasks and compute) rather than a new base model, resulti"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI's Executive Exodus Continues Ahead of Expected IPO",
-        "gist": "OpenAI named Dali Rajic, former Wiz president and COO, as its new chief revenue officer following Denise Dresser's departure after just eight months, part of a broader wave of leadership churn (also i"
-      },
-      {
-        "section": "Interesting",
-        "headline": "Trump threatened to 'bomb the shit out of' Oman, a longtime US ally, in a Fox News interview",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Ferrari's first EV sold for a record $40 million at a charity auction, despite backlash over its Jony Ive-designed exterior",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Trump renamed Palm Beach International Airport for himself, giving it a rare change to its three-letter airport code (PBI to DJT)",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Federal prosecutors are investigating Lakers seller Mark Walter's insurance businesses over undisclosed related-party loans",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A Beijing neurosurgery resident with no formal advanced math training used GPT-5.6 to prove a 22-year-old unsolved matrix problem",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Lake Powell hit a record low this weekend, edging toward the minimum needed for hydropower at Glen Canyon Dam",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-08-19",
     "items": [
       {
@@ -670,6 +565,111 @@
       {
         "section": "Interesting",
         "headline": "AI-generated Val Kilmer appears in new historical drama",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-08-25",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Bessent's 'Economic D-Day' on Iran Turns Out to Be a Warning Shot",
+        "gist": "Treasury Secretary Scott Bessent unveiled sweeping new sanctions dubbed 'Operation Economic Outcast,' targeting more than 60 entities, vessels and individuals that help Iran move money, sell oil and p"
+      },
+      {
+        "section": "World",
+        "headline": "Trump Threatens 50% Tariffs on Canadian Autos From January as Trade War Deepens",
+        "gist": "Trump said the US will raise tariffs on Canadian cars, auto parts and steel to 50% starting January 1st, escalating beyond the 50% tariffs already imposed on roughly $20bn of Canadian goods after talk"
+      },
+      {
+        "section": "World",
+        "headline": "Supreme Court Lets Trump's Mail-In Voting Restrictions Proceed for Now",
+        "gist": "The Supreme Court issued an emergency order allowing Trump to move forward with a March executive order directing Homeland Security to compile state-by-state citizen lists and instructing the Postal S"
+      },
+      {
+        "section": "World",
+        "headline": "SEC Subpoenas Wall Street Banks Over Collapsed AI Hedge Fund",
+        "gist": "The SEC has reportedly subpoenaed several Wall Street banks over the implosion of Situational Awareness, an AI-focused hedge fund run by 24-year-old Leopold Aschenbrenner with no prior trading experie"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Gold Nears $4,700, Bitcoin Tops $80,000 as 'Debasement Trade' Resumes",
+        "gist": "Gold rallied to nearly $4,700 per troy ounce, its highest since May, while bitcoin climbed back above $80,000 as investors piled into anti-fiat 'debasement trades.' The move follows the Treasury's dec"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Unitree Shares Crash 45% From IPO Highs",
+        "gist": "Chinese humanoid robot maker Unitree's stock closed down 45% from the peak it hit after its Shanghai IPO on August 19th, which had briefly valued the company at $66bn. The stock's swoon comes as scrut"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "First Brands Forced Into Liquidation After Bankruptcy Court Rejects Restructuring",
+        "gist": "A US bankruptcy court rejected a proposed restructuring plan for First Brands Group, the auto-parts firm, forcing it into liquidation. First Brands filed for bankruptcy in September 2025 amid creditor"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Anthropic Targets $2 Trillion Valuation in What Could Be the Biggest-Ever IPO",
+        "gist": "Anthropic is reportedly aiming to raise more than $100bn in an initial public offering that could value the AI lab at $2 trillion, which would make it the world's seventh-largest company by market val"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Perplexity in Talks for Nvidia Investment at $30bn Valuation",
+        "gist": "Nvidia is reportedly discussing an equity investment in AI search startup Perplexity at a valuation as high as $30bn, alongside a possible tech-licensing deal, according to The Information. Perplexity"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "SpaceX and Nvidia Team Up to Put Data Centers in Orbit by Late 2027",
+        "gist": "SpaceX announced it will build its Starmind orbital data centers around Nvidia's Vera Rubin NVL72 rack — a cluster of 72 chips acting as one computer, each up to 25x more powerful than an older H100 —"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Thomson Reuters Builds Its Own AI Model to Cut Reliance on Anthropic",
+        "gist": "Thomson Reuters unveiled its first homegrown AI model, built by retooling Alibaba's open-source Qwen and training it on decades of proprietary legal and news content from Westlaw and Reuters. The two-"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Chinese State Hackers Doubling Attack Volume Using DeepSeek",
+        "gist": "China-linked hacking groups are carrying out more than twice as many attacks as before after integrating open-source models like DeepSeek into their toolkits, according to Taiwanese research firm Team"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "DeepSeek Releases Experimental Vision Model Rivaling Opus 4.8",
+        "gist": "DeepSeek launched V4-Flash-Vision-Exp, an experimental multimodal model adding image understanding — reading screenshots, analyzing diagrams, handling multiple image formats — to its text capabilities"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Hugging Face Explores Sale at $13bn Valuation",
+        "gist": "Hugging Face, the widely used repository for AI models and datasets, has reportedly worked with a bank to gauge buyer interest at a valuation of $13bn or more — nearly triple its 2023 valuation. The f"
+      },
+      {
+        "section": "Interesting",
+        "headline": "A robot beat Usain Bolt's 100m record at 9.39 seconds, then slammed into a padded wall",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Chicago's finances are backsliding into credit-downgrade territory just years after escaping junk status",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Wild beavers born in England for the first time in 500 years",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "An arbitrator ordered the Washington Post to reinstate columnist Karen Attiah, fired over Charlie Kirk posts",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "H-1B visa application fee proposed at $103,265, replacing a struck-down $100,000 fee",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A Kentucky landowner's rejected $26.48 million data-center offer is still making headlines days later",
         "gist": ""
       }
     ]
