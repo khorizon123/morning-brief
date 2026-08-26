@@ -1,110 +1,5 @@
 [
   {
-    "date": "2026-08-19",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Trump Pauses Canada Tariffs at 11th Hour, Dangles Keystone XL Revival",
-        "gist": "Hours before a midnight deadline for 50% tariffs on roughly $20bn of Canadian goods, Trump announced a deal with Canada and suspended the levies for three days while details are finalized. He floated "
-      },
-      {
-        "section": "World",
-        "headline": "Iran Weighs Striking US Assets in Europe Should War Resume",
-        "gist": "Regime insiders told the FT that Iranian forces have assessed targeting US military assets in Bulgaria and Cyprus, plus subsea fiber-optic cables in the Strait of Hormuz, if Trump escalates the six-mo"
-      },
-      {
-        "section": "World",
-        "headline": "South Korea Rattled as Trump Orders Early End to Joint US Drills",
-        "gist": "Trump directed the Pentagon to end the Ulchi Freedom Shield exercises with South Korea six days early, praising Kim Jong Un's \"very good relationship,\" a decision the FT reports has unsettled US allie"
-      },
-      {
-        "section": "World",
-        "headline": "Global Bond Rout Deepens, 30-Year US Yield Tops 5.3%",
-        "gist": "Long-term government borrowing costs across major economies hit multi-decade highs, with the 30-year US Treasury yield briefly topping 5.3% (its highest since 2007) as investors worry about inflation,"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Nvidia Puts Up $105bn Backstop for OpenAI's Ohio Data Center",
-        "gist": "Nvidia agreed to guarantee up to $105 billion of OpenAI's 20-year lease on a huge Ohio data-center complex built on a decommissioned uranium site, stepping in because OpenAI's creditworthiness alone w"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Unitree Shares Rocket 600% in Shanghai IPO Frenzy",
-        "gist": "Chinese humanoid robot maker Unitree saw its shares surge more than 600% on their Shanghai trading debut, valuing the company at roughly $59-66bn after an IPO that raised over $900m and was 5,500 time"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Anthropic Revenue Set to Top $65bn as October IPO Looms",
-        "gist": "Anthropic is reportedly on track to generate more than $65 billion in annualized revenue based on current performance—over seven times its pace at the end of last year—as it pursues an IPO as soon as "
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Private Credit Stress Spreads a Year After First Brands Collapse",
-        "gist": "An FT analysis of the 20 largest publicly traded business development companies found loans marked non-accrual (borrowers missing payments or nearing default) climbed to a median 2.8% of cost in Q2, u"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI Confirms It Paused Frontier Training Over Misalignment",
-        "gist": "OpenAI confirmed it paused training on its next frontier model for two weeks and is \"pacing\" development, with Sam Altman telling a reporter that internal, unreleased models show \"various degrees of m"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Cursor's Origin Launches Same Day as Major GitHub Outage",
-        "gist": "Cursor rolled out Origin, its new code-hosting platform, to paid users just as GitHub suffered an outage lasting over six hours. Origin lets developers keep GitHub as the underlying source of truth wh"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "A16Z Faces DOJ Antitrust Scrutiny Over Interlocking Board Seats",
-        "gist": "Andreessen Horowitz is reportedly under Justice Department investigation over board seats it holds at competing data-management firms Databricks and Fivetran, per Bloomberg. The probe centers on a 191"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "CoreWeave Deal Suggests Nine-Year-Old Nvidia Chips Still Have Real Value",
-        "gist": "CoreWeave's CFO revealed the cloud company signed a deal renting out Nvidia's 2020-era A100 chips at \"an attractive price\" through 2029, challenging assumptions that AI chips become worthless once ful"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Meta Faces Second Bellwether Trial Over Child Social Media Addiction",
-        "gist": "A trial began in Oakland, California, with attorneys general from California, Colorado, Kentucky and New Jersey accusing Meta of designing Instagram and Facebook to be addictive to children, seeking r"
-      },
-      {
-        "section": "Interesting",
-        "headline": "OpenAI quietly bought a $2.3bn Cerebras stake for $100 days before launching a Cerebras-powered speed tier",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A Kentucky landowner rejected a $26.48 million data-center offer, saying she'd be judged for it \"on Judgment hour\"",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Trump threatened to \"bomb the shit out of\" Oman, a US ally, over its Iran mediation role",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A democratic socialist upset a Trump-fired NSC veteran to win Florida's Senate primary",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "An a16z partner ran a fake AI-generated sorority rush influencer that got 1M TikTok views for about $100",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "SK Hynix's stock fell nearly 10% in a day, then rebounded 6% after a $29bn buyback announcement",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A Beijing neurosurgery resident with no advanced math training used GPT-5.6 to solve a 22-year-old math conjecture",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-08-20",
     "items": [
       {
@@ -670,6 +565,106 @@
       {
         "section": "Interesting",
         "headline": "A Kentucky landowner's rejected $26.48 million data-center offer is still making headlines days later",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-08-26",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Bessent's Bond Buyback Puts Treasury on Collision Course With Fed",
+        "gist": "Wall Street investors are warning that Scott Bessent's move to double Treasury purchases of long-term debt is pulling against the Fed's inflation fight, raising the stakes for new Fed chair Kevin Wars"
+      },
+      {
+        "section": "World",
+        "headline": "Canada Confirms $20bn Retaliatory Tariffs, Trump Renaming Lake Ontario",
+        "gist": "Canada detailed its retaliation against the US tariffs imposed last week, doubling tariffs on steel and aluminum to 50% and adding levies of 15-50% on goods like furniture, clothing, dairy and machine"
+      },
+      {
+        "section": "World",
+        "headline": "Iran and Oman Edge Toward Hormuz Shipping Deal as Oil Slides",
+        "gist": "Iran and Oman are again discussing a joint temporary navigational corridor through the Strait of Hormuz, sending Brent crude down to $86 a barrel from $88. China, which buys over 90% of Iranian oil, c"
+      },
+      {
+        "section": "World",
+        "headline": "CIA Director Ratcliffe Makes Unannounced Moscow Visit",
+        "gist": "CIA director John Ratcliffe spent about four hours in Moscow for talks whose purpose remains unclear, arriving via a US military-transport flight routed through Latvia; the Kremlin initially denied kn"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "SpaceX Commits $100bn to New Louisiana Launch Site",
+        "gist": "SpaceX will spend at least $100bn building a second Starship launch complex, dubbed \"Starbase, Louisiana,\" west of New Orleans, aiming to support thousands of annual rocket flights and create at least"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Anthropic Says Its Addressable Market Tops SpaceX's Ahead of IPO",
+        "gist": "Anthropic is expected to tell investors its total addressable market exceeds $30 trillion, topping the $28.5 trillion SpaceX cited before its own record IPO. The Claude maker could unveil IPO financia"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Nvidia Backs $6bn Poolside Licensing Deal to Build Open-Weight Rival",
+        "gist": "Nvidia is licensing AI coding startup Poolside's technology for $6bn while investing $1bn directly at a $12bn valuation, absorbing over 100 Poolside engineers into its Nemotron team to build an Americ"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Emerald AI Raises $150m to Make Data Centers Grid-Friendly",
+        "gist": "Emerald AI, a two-year-old startup whose software helps data centers flex their power draw to ease strain on electrical grids, raised $150 million at a $1.05 billion valuation led by Energize Capital "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI's First In-House Chip 'Jalapeño' Beats Nvidia on Speed and Efficiency",
+        "gist": "OpenAI published benchmarks for Jalapeño, its custom inference chip built with Broadcom, showing it beats Nvidia's flagship systems by answering up to 3.6x faster while drawing less power (700 watts v"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Mysterious 'Ox Alpha' Model Breaks OpenRouter Records",
+        "gist": "An anonymous AI model called Ox Alpha appeared for free on OpenRouter and OpenCode with a 1-million-token context window and frontier-level coding claims, processing 26 trillion tokens and drawing 327"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI and Google Both Battling AI Talent Exodus, With Different Stakes",
+        "gist": "At least a dozen high-profile OpenAI employees have left this year, including its chief revenue, operating, marketing and product officers, just as the company gears up for a potential trillion-dollar"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Nvidia's Groq 3 LPX Chip Hits Full Production With Record Inference Speeds",
+        "gist": "Nvidia's Groq 3 LPX AI inference accelerator, an extension of its Vera Rubin platform, is now in full production, delivering what the company calls the fastest token-generation speeds ever recorded an"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Startup Backed by Caltech Professor Bets on 'Physics AI' Over Text Prediction",
+        "gist": "Caltech professor Anima Anandkumar and engineer Benedikt Jenik launched Accelerated Understanding, training AI on \"neural operators\" that model how the physical world evolves through 3D space and time"
+      },
+      {
+        "section": "Interesting",
+        "headline": "Bill Gates calls for 'human reserved' jobs to be protected from AI takeover",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Four Russian bankers at Europe's last major Russian bank made millions personally trading on EU sanctions chaos",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Trump muses about renaming Lake Ontario 'Lake America' amid escalating trade war with Canada",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "An OpenAI-branded watch commissioned by Sam Altman exists — only seven people have one, inscribed in Python",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A 71-year-old retired cattle rancher used AI to build an app managing a $13.5M church renovation",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Dolly Parton dies at 80 after a brief battle with cancer she'd kept private",
         "gist": ""
       }
     ]
