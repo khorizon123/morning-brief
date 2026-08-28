@@ -1,100 +1,5 @@
 [
   {
-    "date": "2026-08-21",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Russia's Deadliest Kyiv Strikes Yet as Air Defenses Run Dry",
-        "gist": "Russian ballistic missiles killed at least 15-17 people and injured dozens in Kyiv, damaging homes, a school and a children's hospital. Moscow skipped its usual drone barrage and went straight to ball"
-      },
-      {
-        "section": "World",
-        "headline": "China Warns US 'Economic Warfare' on Iran Won't Work",
-        "gist": "Beijing pushed back after Treasury Secretary Scott Bessent said China needed to 'get with the programme' on isolating Iran, with a foreign ministry spokesman calling for diplomacy instead. China buys "
-      },
-      {
-        "section": "World",
-        "headline": "US National Debt Tops $40 Trillion, Bond Yields Whipsaw",
-        "gist": "America's gross federal debt has surpassed $40 trillion, growing $3 trillion in a year. Treasury Secretary Scott Bessent tried to calm the bond market this week by doubling long-term debt buybacks, an"
-      },
-      {
-        "section": "World",
-        "headline": "Canada-US Trade Deal Nears as Tariff Deadline Slips",
-        "gist": "Canada's trade minister Dominic LeBlanc said Ottawa and Washington are 'very close' to a deal that would halve steel and aluminum tariffs and cut auto duties, following a roughly three-hour meeting wi"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Walmart's Weakest Sales Growth in Six Years Rattles Wall Street",
-        "gist": "Walmart posted just 2.6% US comparable sales growth for the quarter, its smallest increase since 2020, even as e-commerce sales jumped 24% and fast delivery (under 30 minutes) doubled year-over-year. "
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Toyota Closes In on Ending GM's Century-Long US Sales Reign",
-        "gist": "Toyota is rapidly narrowing the sales gap with General Motors, threatening to end GM's roughly 100-year run atop the US auto market. GM has deliberately shrunk output — killing traditional sedans and "
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Moderna-Merck Cancer Vaccine Sends Shares Soaring",
-        "gist": "Moderna and Merck reported that their combined mRNA vaccine and immunotherapy drug prevented melanoma from returning or spreading in high-risk patients — the first positive late-stage trial for an mRN"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "CK Hutchison Seeks $1.5bn From Panama Over Canal Port Seizure",
-        "gist": "Hong Kong's CK Hutchison launched international arbitration against Panama, seeking over $1.5bn in damages after the government voided its contracts to run the Balboa and Cristobal terminals. Separate"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Stripe's $8bn OpenRouter Buy Is About AI Safety Data, Not Just Routing",
-        "gist": "Stripe's roughly $8bn acquisition of OpenRouter — a marketplace that routes developer requests across AI models by price and performance — pays $1.5bn to founders and $6bn to investors, versus a $1.3b"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Slack Launches Shared Channels Where AI Agents Write Code",
-        "gist": "Slack rolled out Slack Code, letting teams spin up 'code channels' where AI agents (ChatGPT, Claude, Devin, Vercel, GitHub) write software live while engineers and non-engineers watch and steer from w"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Anthropic's Supervoting Stock Plan Could Complicate Its Record IPO",
-        "gist": "Ahead of a potential IPO valuing it near $2 trillion, Anthropic plans to give all seven co-founders — including CEO Dario Amodei and his sister, president Daniela Amodei — supervoting shares with outs"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Meta's Muse Video Model Leaks Early Outputs With Native Audio",
-        "gist": "Meta's Muse Video model, now in closed beta, is generating 10-second clips with native audio, strong visual detail and notably consistent objects/scenes across frames — a persistent weak point for ear"
-      },
-      {
-        "section": "Interesting",
-        "headline": "A Beijing neurosurgeon with no advanced math background used GPT-5.6 to crack a 22-year-old conjecture — still making the rounds days later",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "OpenAI turned a $100 warrant exercise into a $2.3bn Cerebras stake days before launching its Cerebras-powered speed tier",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A Chinese children's movie so cheaply animated it looks like a PowerPoint has become one of the year's biggest box-office hits",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "The federal government has been quietly selling protected wild mustangs for as little as $25 apiece, some ending up at Canadian slaughter plants",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Top US law firms are now recruiting law students before they've even received their first-semester grades",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "An Anthropic researcher found something resembling an internal 'thought process' in Claude, hidden from users and possibly a step toward consciousness",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-08-22",
     "items": [
       {
@@ -630,6 +535,111 @@
       {
         "section": "Interesting",
         "headline": "Trump-endorsed candidates have won 251 of 260 races so far this cycle",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-08-28",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Nepal-Tibet Flood Toll Nears 500 as Second Torrent Threatens",
+        "gist": "China suspended rescue efforts after the lake formed by the initial glacial collapse began overflowing, threatening a fresh surge of debris down the same valleys. The death toll has climbed past 480, "
+      },
+      {
+        "section": "World",
+        "headline": "US-Canada Trade War Deepens as Trump Renames Lake Ontario 'Lake America'",
+        "gist": "Trump signed an executive order renaming Lake Ontario 'Lake America,' effective immediately for federal agencies, in a symbolic escalation of the trade fight with Ottawa. Prime Minister Mark Carney ca"
+      },
+      {
+        "section": "World",
+        "headline": "Anthropic Wins Court Ruling Against Pentagon Blacklist",
+        "gist": "A federal judge in California ruled that the Trump administration's Pentagon unlawfully retaliated against Anthropic by designating it a supply-chain risk — a label typically reserved for adversaries "
+      },
+      {
+        "section": "World",
+        "headline": "US Weighs Stake in Venezuela's Oil Fields as Caracas Mulls Leaving OPEC",
+        "gist": "The Trump administration has held talks about taking a 100-year lease on multiple Venezuelan oil fields, Bloomberg reported, while Venezuela is separately weighing an exit from OPEC — a move that coul"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Nvidia Adds $442bn in a Day, Second-Biggest One-Day Gain Ever",
+        "gist": "Nvidia shares jumped 8.7% Thursday after its quarterly results, adding $442bn in market value — the second-largest single-day gain in history, just behind Microsoft's $450bn pop in July. The chipmaker"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Cognition Raises at $46bn Valuation, Nearly Double Three Months Ago",
+        "gist": "Coding startup Cognition, maker of the autonomous coding agent Devin, is raising at a $46bn valuation — up from roughly half that just three months ago — with existing backers 8VC, Founders Fund and B"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Advent-Stripe $50bn PayPal Bid Falls Apart",
+        "gist": "Buyout firm Advent International and payments company Stripe have abandoned their attempt to acquire PayPal for more than $50bn, according to Bloomberg. No reason was given for the collapse of talks, "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Mubadala Buys Majority Stake in Freight Broker Arrive Logistics",
+        "gist": "Abu Dhabi's sovereign wealth fund Mubadala agreed to acquire a majority stake in Arrive Logistics, a freight brokerage that handles shipments for Home Depot, Molson Coors and Dollar General, to accele"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Owner Raises $240m to Bring AI Agents to Small Businesses",
+        "gist": "Owner, a startup that uses AI agents to build websites, apps and marketing plans for small businesses (and lets restaurants dodge DoorDash-style commissions), raised $240m at a $2.3bn valuation led by"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Anthropic's Model Hardware Standard Lets AI Agents Run Lab Equipment",
+        "gist": "Anthropic introduced the Model Hardware Standard, a research preview that lets AI agents look up, learn and directly operate physical machines — microscopes, robotic arms, assembly-line gear — without"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Ox Alpha Mystery Solved: It Was Z.ai's GLM-5.3-Flash",
+        "gist": "The anonymous model that stormed OpenRouter's leaderboards under the alias 'Ox Alpha' — logging double the traffic of second-place DeepSeek — turned out to be Z.ai's GLM-5.3-Flash, a 320-billion-param"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Nvidia Reportedly in Talks to Buy Hugging Face for $12.9bn",
+        "gist": "Nvidia is reportedly negotiating to acquire Hugging Face, the widely used open-source model and dataset repository, at a valuation of $12.9bn — a jump from the roughly $13bn figure the company had flo"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Anthropic Strikes $45bn Cloud Deal With UK's Nscale",
+        "gist": "Anthropic signed a roughly $45bn cloud-computing agreement with Nscale, a UK-based AI infrastructure firm, to rent about 460 megawatts of compute at a planned West Virginia data center. The facility, "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "UK Surgeons Use Live AI Assistant in Brain Surgery for First Time",
+        "gist": "University College London surgeons performed what they say is the first brain surgery assisted by a live AI system watching in real time through the surgical camera, flagging arteries and optic nerves"
+      },
+      {
+        "section": "Interesting",
+        "headline": "Nvidia's stock gain in a single day ($442bn) is now the second-biggest one-day market-cap jump ever recorded",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "UEFA is preparing a criminal complaint against FIFA's Gianni Infantino over an alleged 'fraudulently off-market' World Cup investment scheme involving Josh Kushner's Thrive Capital",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "An Abu Dhabi 'spy sheikh' owns 49% of the holding company behind the Trump family's new crypto bank",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A US congressman defended unwanted advances toward female staffers by arguing 'poetry is not sexual misconduct'",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "US pulpwood prices are at their lowest in nearly 40 years, with some growers now paying to have their trees hauled away",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Sam Altman commissioned an OpenAI watch with Python code inscribed inside it — only seven exist",
         "gist": ""
       }
     ]
