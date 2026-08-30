@@ -1,170 +1,5 @@
 [
   {
-    "date": "2026-08-22",
-    "items": [
-      {
-        "section": "World",
-        "headline": "US Imposposes 50% Canada Tariffs asRejects Trade Deal",
-        "gist": "Talks between Washington and Ottawa collapsed with a midnight deadline, and the US imposed 50% tariffs on roughly $20bn of Canadian goods after Trump's three-day pause expired. Canadian PM Mark Carney"
-      },
-      {
-        "section": "World",
-        "headline": "Iran's Pezeshkian Says Now a Good Time to End War 'From Strength'",
-        "gist": "Iran's president Masoud Pezeshkian said Tehran should seek to end its six-month war with the US while Iran holds a 'position of power and dignity,' even as Iranian officials separately threatened 'dev"
-      },
-      {
-        "section": "World",
-        "headline": "US National Debt Bond Turmoil Deepens Despite Bessent Buybacks",
-        "gist": "Investors are dumping Bessent's Treasury buyback plan as a 'band-aid on a bullet hole' — 30-year yields briefly eased after Wednesday's pledge to double bond purchases but have since crept back up, wi"
-      },
-      {
-        "section": "World",
-        "headline": "Zelenskyy Fires Aide Amid Corruption Probe as Russia Pounds Kyiv",
-        "gist": "No new major Ukraine development beyond continuing fallout from the deadliest Kyiv strikes and corruption purge covered previously; Ukraine is now separately seeking Elon Musk's help using Starlink-eq"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Samsung to Return Record $80bn to Shareholders",
-        "gist": "Samsung Electronics will pay out $80bn in dividends and buybacks — roughly five times its previous record payout in 2020 — as it faces pressure to share more of its AI-driven chip profits. The move is"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Unitree's Shanghai IPO Frenzy Now Confirmed at 600%+ Pop",
-        "gist": "No new details beyond what's already been reported: Chinese humanoid robot maker Unitree surged more than 600% on its Shanghai debut, valuing it at $59-66bn after an oversubscribed $900m+ IPO. Robotic"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Monte dei Paschi Launches Twin €70bn Takeover Bids",
-        "gist": "Italy's Monte dei Paschi di Siena launched simultaneous bids for Banca Generali and Banco BPM, aiming to build a combined €70bn Italian bank and fend off a hostile takeover attempt by rival Intesa San"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Bond Rout Deepens; Bitcoin, Gold Surge on 'Debasement Trade'",
-        "gist": "Treasury Secretary Scott Bessent's pledge to double long-bond buybacks has failed to durably calm markets — 30-year yields dipped then bounced back toward multi-decade highs across the US, UK, Germany"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Poolside AI Licenses Software to Nvidia for $6bn, Employees Get Offers to Jump Ship",
-        "gist": "AI coding startup Poolside struck a non-exclusive $6bn licensing deal with Nvidia, which will also invest $1bn in the company at a $12bn valuation. As part of the arrangement, 109 Poolside employees a"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Anthropic's Project Parka Turns Meetings Into Claude To-Do Lists",
-        "gist": "Anthropic is testing Project Parka, a Mac-first tool that listens in on meetings — capturing system and microphone audio with speaker-attributed transcripts — and converts the discussion into ready-to"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Slack Code Lets Teams and AI Agents Write Software Together Live",
-        "gist": "Slack launched 'Slack Code,' spinning up dedicated code channels where AI agents from Anthropic, GitHub, Vercel and others write and review software while human engineers watch and steer in real time."
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Mistral's Agentic Search Lets Models Loop Through Documents Instead of Guessing",
-        "gist": "Mistral introduced Agentic Search, giving its models five operations — search, open, navigate, read, and grep — so they can chase references and verify answers across long documents rather than accept"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI's ChatGPT Now Reads Your Apple Messages on Mac",
-        "gist": "ChatGPT's latest desktop update for macOS lets the chatbot work directly with iMessage, SMS and RCS conversations from Apple's Messages app, available across all subscription tiers. The integration ra"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Anthropic and Blackstone Launch $1.5bn 'AI Wonks' Consulting Venture",
-        "gist": "Blackstone and Hellman & Friedman teamed up with Anthropic to launch Ode, a $1.5 billion venture that deploys AI specialists to overhaul portfolio companies' operations — a private-equity answer to a "
-      },
-      {
-        "section": "Interesting",
-        "headline": "A Beijing neurosurgeon's GPT-5.6-assisted math proof is still making the rounds five days later",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Trump renamed Palm Beach airport after himself; now Kevin O'Leary's Utah data-center project is being dismissed by analysts as 'vapourware gigawatts'",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "London cabbies plot 'skulduggery' — including trapping robotaxis in junction boxes — to fend off Waymo and Wayve",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Argentina's players and staff banned for a combined 21 games over World Cup final brawl with Spain",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Melanie Mitchell says AI shows 'alien intelligence' and should be assessed with tests designed for infants and animals",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A Kansas town is getting a nuclear reactor buried a mile underground — a first for commercial US energy",
-        "gist": ""
-      }
-    ]
-  },
-  {
-    "date": "2026-08-23",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Canada Declares Trade 'War' With US as Carney Digs In",
-        "gist": "Prime Minister Mark Carney told Canadians the country is now 'at war' with the US over trade, accusing Trump of miscalculating by escalating the tariff fight, after talks collapsed and Washington impo"
-      },
-      {
-        "section": "World",
-        "headline": "Russia's Double-Tap Strike on Ukrainian Mall Kills at Least 16",
-        "gist": "Russian forces carried out a 'double-tap' attack — striking once, then again as responders arrived — on a shopping mall in Ukraine, killing at least 16 people. Zelenskyy called on allies to impose 're"
-      },
-      {
-        "section": "World",
-        "headline": "Israel's Syria Strike May Have Aimed to Provoke Turkey, US Envoy Suggests",
-        "gist": "Washington's ambassador to Ankara said Israel's strike on a Syrian air base could have been an 'aggressive pre-election' move designed to provoke conflict with Turkey ahead of October elections. The r"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "US Buyers Snap Up Europe's Asset Managers at Fastest Pace in Decades",
-        "gist": "American financial giants are acquiring European fund managers at the fastest rate in decades, as struggling local firms find themselves outgunned by larger US rivals racing to bulk up and expand glob"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Coffee Chain Blank Street Raises Funds From General Atlantic, Eyes Ice Cream",
-        "gist": "Blank Street, the six-year-old coffee chain, has raised new funding from private-equity firm General Atlantic at a valuation of roughly $650 million as it pushes to become a 'daily luxury brand' and e"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Klarna's Stock Crash Shows the Cost of Being a Small Fish",
-        "gist": "Klarna's stock has slumped as weak German consumer spending exposes the fintech's vulnerability as a mid-sized player squeezed between larger rivals and cost-conscious shoppers. The buy-now-pay-later "
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Qatar Cuts Spending as Iran War Shrinks Its Economy",
-        "gist": "Qatar is cutting state spending at home and abroad as the six-month-old US-Iran conflict, which has choked shipping through the Strait of Hormuz, squeezes one of the Gulf's wealthiest economies. The r"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "A16Z Faces DOJ Antitrust Scrutiny Over Interlocking Boards",
-        "gist": "Andreessen Horowitz is reportedly under Justice Department investigation over board seats it holds at competing data-management firms Databricks and Fivetran. The probe centers on a decades-old antitr"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Harvard Business School Deploys AI Video Avatars of Its Professors",
-        "gist": "Harvard Business School has built AI-generated video avatars of instructors like venture capitalist Jeff Bussgang for a new $699 entrepreneurship bootcamp called HBS Foundry, letting far more founders"
-      },
-      {
-        "section": "Interesting",
-        "headline": "An AI version of the late actor Val Kilmer recently appeared in a historical drama, 'As Deep as the Grave'",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Britain's far right has developed a curious obsession with medieval knights at political rallies",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-08-24",
     "items": [
       {
@@ -640,6 +475,66 @@
       {
         "section": "Interesting",
         "headline": "Sam Altman commissioned an OpenAI watch with Python code inscribed inside it — only seven exist",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-08-30",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Niger Coup Attempt Rattles Niamey",
+        "gist": "Mutinying soldiers launched attacks on Niger's capital Niamey and briefly seized the state television station, in what the government has called a coup attempt. Details on the ringleaders and the curr"
+      },
+      {
+        "section": "World",
+        "headline": "Venezuela Oil Deal Denounced by Both Sides of Caracas Politics",
+        "gist": "Trump confirmed the US will take control of 65bn barrels of Venezuela's oil reserves in a joint venture the administration says will lower American petrol prices. The deal is being blasted domesticall"
+      },
+      {
+        "section": "World",
+        "headline": "Rising Bond Yields Add Tens of Billions to G7 Debt Costs",
+        "gist": "Higher government borrowing costs since the start of the US-Iran conflict are piling tens of billions of dollars in additional financing costs onto the world's biggest developed economies, straining p"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Anglo American and Teck Face Glencore 'Hardball' on Merger Gains",
+        "gist": "Anglo American and Teck, promising investors $1.4bn in added annual profits from combined Chile copper mines, remain in tense negotiations with Glencore, a part-owner of the assets, over how those mer"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Nvidia Reportedly Nears $12.9bn Deal for Hugging Face",
+        "gist": "Nvidia is in talks to buy Hugging Face, the widely used repository for open-source AI models and datasets, at a valuation of roughly $12.9bn — up from the roughly $13bn figure floated when the company"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Sports Franchise Valuations Keep Rocketing Higher",
+        "gist": "The Lakers, sold in 1979 for about $68m, are now valued near $12.5bn after Bob Iger and Josh Kushner's group agreed to buy Mark Walter's stake — following Walter's own record $10bn purchase last year."
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Congressman Pitches Tax on AI Tokens to Fund Displaced Workers",
+        "gist": "Texas Rep. Greg Casar, who chairs the Congressional Progressive Caucus, has proposed taxing AI companies on whichever is higher — their token usage or revenue — with rates that rise if AI causes signi"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "AI Music Goes Mainstream, and Labels Are Split on What to Do About It",
+        "gist": "Suno, the AI music generator now valued at $5.4bn, says over 100 million people have used it to make songs, with about a dozen AI-assisted tracks reaching the Billboard charts and Deezer reporting AI "
+      },
+      {
+        "section": "Interesting",
+        "headline": "Milo Yiannopoulos, early Trump backer and mass-deportation champion, deported to the UK",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "James Cleverly quits UK shadow cabinet to run for London mayor against Andy Burnham",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Suno users produce an average of 42 AI songs per month — 2 million pay up to $30/month for it",
         "gist": ""
       }
     ]
