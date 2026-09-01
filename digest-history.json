@@ -1,110 +1,5 @@
 [
   {
-    "date": "2026-08-25",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Bessent's 'Economic D-Day' on Iran Turns Out to Be a Warning Shot",
-        "gist": "Treasury Secretary Scott Bessent unveiled sweeping new sanctions dubbed 'Operation Economic Outcast,' targeting more than 60 entities, vessels and individuals that help Iran move money, sell oil and p"
-      },
-      {
-        "section": "World",
-        "headline": "Trump Threatens 50% Tariffs on Canadian Autos From January as Trade War Deepens",
-        "gist": "Trump said the US will raise tariffs on Canadian cars, auto parts and steel to 50% starting January 1st, escalating beyond the 50% tariffs already imposed on roughly $20bn of Canadian goods after talk"
-      },
-      {
-        "section": "World",
-        "headline": "Supreme Court Lets Trump's Mail-In Voting Restrictions Proceed for Now",
-        "gist": "The Supreme Court issued an emergency order allowing Trump to move forward with a March executive order directing Homeland Security to compile state-by-state citizen lists and instructing the Postal S"
-      },
-      {
-        "section": "World",
-        "headline": "SEC Subpoenas Wall Street Banks Over Collapsed AI Hedge Fund",
-        "gist": "The SEC has reportedly subpoenaed several Wall Street banks over the implosion of Situational Awareness, an AI-focused hedge fund run by 24-year-old Leopold Aschenbrenner with no prior trading experie"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Gold Nears $4,700, Bitcoin Tops $80,000 as 'Debasement Trade' Resumes",
-        "gist": "Gold rallied to nearly $4,700 per troy ounce, its highest since May, while bitcoin climbed back above $80,000 as investors piled into anti-fiat 'debasement trades.' The move follows the Treasury's dec"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Unitree Shares Crash 45% From IPO Highs",
-        "gist": "Chinese humanoid robot maker Unitree's stock closed down 45% from the peak it hit after its Shanghai IPO on August 19th, which had briefly valued the company at $66bn. The stock's swoon comes as scrut"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "First Brands Forced Into Liquidation After Bankruptcy Court Rejects Restructuring",
-        "gist": "A US bankruptcy court rejected a proposed restructuring plan for First Brands Group, the auto-parts firm, forcing it into liquidation. First Brands filed for bankruptcy in September 2025 amid creditor"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Anthropic Targets $2 Trillion Valuation in What Could Be the Biggest-Ever IPO",
-        "gist": "Anthropic is reportedly aiming to raise more than $100bn in an initial public offering that could value the AI lab at $2 trillion, which would make it the world's seventh-largest company by market val"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Perplexity in Talks for Nvidia Investment at $30bn Valuation",
-        "gist": "Nvidia is reportedly discussing an equity investment in AI search startup Perplexity at a valuation as high as $30bn, alongside a possible tech-licensing deal, according to The Information. Perplexity"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "SpaceX and Nvidia Team Up to Put Data Centers in Orbit by Late 2027",
-        "gist": "SpaceX announced it will build its Starmind orbital data centers around Nvidia's Vera Rubin NVL72 rack — a cluster of 72 chips acting as one computer, each up to 25x more powerful than an older H100 —"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Thomson Reuters Builds Its Own AI Model to Cut Reliance on Anthropic",
-        "gist": "Thomson Reuters unveiled its first homegrown AI model, built by retooling Alibaba's open-source Qwen and training it on decades of proprietary legal and news content from Westlaw and Reuters. The two-"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Chinese State Hackers Doubling Attack Volume Using DeepSeek",
-        "gist": "China-linked hacking groups are carrying out more than twice as many attacks as before after integrating open-source models like DeepSeek into their toolkits, according to Taiwanese research firm Team"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "DeepSeek Releases Experimental Vision Model Rivaling Opus 4.8",
-        "gist": "DeepSeek launched V4-Flash-Vision-Exp, an experimental multimodal model adding image understanding — reading screenshots, analyzing diagrams, handling multiple image formats — to its text capabilities"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Hugging Face Explores Sale at $13bn Valuation",
-        "gist": "Hugging Face, the widely used repository for AI models and datasets, has reportedly worked with a bank to gauge buyer interest at a valuation of $13bn or more — nearly triple its 2023 valuation. The f"
-      },
-      {
-        "section": "Interesting",
-        "headline": "A robot beat Usain Bolt's 100m record at 9.39 seconds, then slammed into a padded wall",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Chicago's finances are backsliding into credit-downgrade territory just years after escaping junk status",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Wild beavers born in England for the first time in 500 years",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "An arbitrator ordered the Washington Post to reinstate columnist Karen Attiah, fired over Charlie Kirk posts",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "H-1B visa application fee proposed at $103,265, replacing a struck-down $100,000 fee",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A Kentucky landowner's rejected $26.48 million data-center offer is still making headlines days later",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-08-26",
     "items": [
       {
@@ -535,6 +430,111 @@
       {
         "section": "Interesting",
         "headline": "Congressman defends unwanted advances by arguing 'poetry is not sexual misconduct'",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-09-01",
+    "items": [
+      {
+        "section": "World",
+        "headline": "US and Iran Trade Fire Again, Trump Vows to Hit Iran 'Hard'",
+        "gist": "American and Iranian forces exchanged fire near the Strait of Hormuz for the second time in days, ending weeks of relative calm. Trump said the US would respond forcefully, and oil prices rose on rene"
+      },
+      {
+        "section": "World",
+        "headline": "Nepal-Tibet Flood Toll Nears 900, Recovery Cost Estimated at $5bn",
+        "gist": "Nepal's death toll from the glacial-collapse flood has climbed close to 900 with roughly 4,500 still missing, prompting mass burials. A senior Nepali official put the recovery cost at $5 billion and r"
+      },
+      {
+        "section": "World",
+        "headline": "Global Bond Sell-Off Deepens as Japan's Yield Hits 3%",
+        "gist": "Japan's 10-year government bond yield hit 3% for the first time since 1996, and UK borrowing costs rose to their highest since 2008, as investors bet central banks will raise rates to fight inflation "
+      },
+      {
+        "section": "World",
+        "headline": "Supreme Court Lets Trump's White House Ballroom Construction Proceed",
+        "gist": "In a 5-4 ruling, the Supreme Court said preservationists challenging Trump's 90,000-square-foot White House ballroom likely lack legal standing, clearing the way for construction to continue. The orde"
+      },
+      {
+        "section": "World",
+        "headline": "Trump's Venezuela Oil Venture Takes Shape With 50-Rig Drilling Plan",
+        "gist": "North American Blue Energy Partners, the vehicle through which the US government took a 35% stake and 100-year drilling rights to 65bn barrels of Venezuelan reserves, plans to dispatch more than 50 dr"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Shein's Hong Kong Debut Falls Flat",
+        "gist": "Shein finally completed its long-delayed IPO in Hong Kong, pricing at a $26.5bn valuation — a quarter of the $100bn it commanded in 2022 after failed attempts to list in New York and London. Shares fe"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "KKR Nets Big Windfall on Balance-Sheet Bet as It Sells USI to Aon",
+        "gist": "KKR will pocket $3.3bn after-tax from Aon's ~$17bn purchase of insurance broker USI, a roughly 3.4x return on the roughly $1bn KKR invested in the company since 2017 using its own balance sheet — a st"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "LIV Golf Nears Chapter 11 as Saudi Backer Exits, PE Circles $5bn Tax Asset",
+        "gist": "LIV Golf could file for bankruptcy protection as soon as next week after the Saudi Public Investment Fund, which has poured over $5bn into the circuit since 2021, halted its financial support. The ban"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "FTC Sues Amazon Over Alleged Secret Ad-Price Manipulation",
+        "gist": "The FTC and 22 states sued Amazon, alleging it 'systematically' overcharged advertisers since 2019 by secretly manipulating minimum ad prices on its platform, allegedly costing advertisers billions an"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Runway's Solaris Previews a No-Code, Video-Rendered Internet",
+        "gist": "Runway unveiled Solaris, an 'Interface World Model' that renders entire websites and apps as live-generated video — every frame drawn in real time as a user clicks or drags, with no underlying code. I"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Anthropic's Claude Agents Outperform Human Experts at AI Safety Research",
+        "gist": "Anthropic published research showing teams of Claude agents ran AI safety experiments autonomously, fixing 10 types of model misbehavior — including sycophancy, deception, and reward hacking — with re"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI Cuts Its Models From Cursor After Musk's SpaceX Acquisition",
+        "gist": "OpenAI will remove its AI models from coding platform Cursor by November 12, citing concerns that Elon Musk's companies have a history of violating contracts, following SpaceX's acquisition of the onc"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Imperial College AI Flags Heart Disease From a Routine ECG in Under Two Seconds",
+        "gist": "Researchers at Imperial College London built a model that reads a standard ECG in under two seconds, catching heart failure and valve disease that doctors often miss without a lengthy ultrasound queue"
+      },
+      {
+        "section": "Interesting",
+        "headline": "Elliott Management builds activist stake in French industrial gas giant Air Liquide",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Ex-Congressman George Santos handed Kalshi's first-ever lifetime ban for alleged manipulation",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Met Museum cancels John Galliano exhibition and gala after donor and Jewish leader backlash over designer's antisemitic hate crime conviction",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Lionel Messi announces retirement from international football after Argentina's World Cup final loss",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Jury convicts man of orchestrating Tupac Shakur's 1996 murder, nearly 30 years later",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Ernst & Young hands out $100 million in bonuses specifically for 'human' skills like judgment and critical thinking",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Two Sigma co-founder's divorce could produce one of the largest settlements ever, with his wife seeking $2.17 billion",
         "gist": ""
       }
     ]
