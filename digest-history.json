@@ -1,105 +1,5 @@
 [
   {
-    "date": "2026-08-26",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Bessent's Bond Buyback Puts Treasury on Collision Course With Fed",
-        "gist": "Wall Street investors are warning that Scott Bessent's move to double Treasury purchases of long-term debt is pulling against the Fed's inflation fight, raising the stakes for new Fed chair Kevin Wars"
-      },
-      {
-        "section": "World",
-        "headline": "Canada Confirms $20bn Retaliatory Tariffs, Trump Renaming Lake Ontario",
-        "gist": "Canada detailed its retaliation against the US tariffs imposed last week, doubling tariffs on steel and aluminum to 50% and adding levies of 15-50% on goods like furniture, clothing, dairy and machine"
-      },
-      {
-        "section": "World",
-        "headline": "Iran and Oman Edge Toward Hormuz Shipping Deal as Oil Slides",
-        "gist": "Iran and Oman are again discussing a joint temporary navigational corridor through the Strait of Hormuz, sending Brent crude down to $86 a barrel from $88. China, which buys over 90% of Iranian oil, c"
-      },
-      {
-        "section": "World",
-        "headline": "CIA Director Ratcliffe Makes Unannounced Moscow Visit",
-        "gist": "CIA director John Ratcliffe spent about four hours in Moscow for talks whose purpose remains unclear, arriving via a US military-transport flight routed through Latvia; the Kremlin initially denied kn"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "SpaceX Commits $100bn to New Louisiana Launch Site",
-        "gist": "SpaceX will spend at least $100bn building a second Starship launch complex, dubbed \"Starbase, Louisiana,\" west of New Orleans, aiming to support thousands of annual rocket flights and create at least"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Anthropic Says Its Addressable Market Tops SpaceX's Ahead of IPO",
-        "gist": "Anthropic is expected to tell investors its total addressable market exceeds $30 trillion, topping the $28.5 trillion SpaceX cited before its own record IPO. The Claude maker could unveil IPO financia"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Nvidia Backs $6bn Poolside Licensing Deal to Build Open-Weight Rival",
-        "gist": "Nvidia is licensing AI coding startup Poolside's technology for $6bn while investing $1bn directly at a $12bn valuation, absorbing over 100 Poolside engineers into its Nemotron team to build an Americ"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Emerald AI Raises $150m to Make Data Centers Grid-Friendly",
-        "gist": "Emerald AI, a two-year-old startup whose software helps data centers flex their power draw to ease strain on electrical grids, raised $150 million at a $1.05 billion valuation led by Energize Capital "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI's First In-House Chip 'Jalapeño' Beats Nvidia on Speed and Efficiency",
-        "gist": "OpenAI published benchmarks for Jalapeño, its custom inference chip built with Broadcom, showing it beats Nvidia's flagship systems by answering up to 3.6x faster while drawing less power (700 watts v"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Mysterious 'Ox Alpha' Model Breaks OpenRouter Records",
-        "gist": "An anonymous AI model called Ox Alpha appeared for free on OpenRouter and OpenCode with a 1-million-token context window and frontier-level coding claims, processing 26 trillion tokens and drawing 327"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI and Google Both Battling AI Talent Exodus, With Different Stakes",
-        "gist": "At least a dozen high-profile OpenAI employees have left this year, including its chief revenue, operating, marketing and product officers, just as the company gears up for a potential trillion-dollar"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Nvidia's Groq 3 LPX Chip Hits Full Production With Record Inference Speeds",
-        "gist": "Nvidia's Groq 3 LPX AI inference accelerator, an extension of its Vera Rubin platform, is now in full production, delivering what the company calls the fastest token-generation speeds ever recorded an"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Startup Backed by Caltech Professor Bets on 'Physics AI' Over Text Prediction",
-        "gist": "Caltech professor Anima Anandkumar and engineer Benedikt Jenik launched Accelerated Understanding, training AI on \"neural operators\" that model how the physical world evolves through 3D space and time"
-      },
-      {
-        "section": "Interesting",
-        "headline": "Bill Gates calls for 'human reserved' jobs to be protected from AI takeover",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Four Russian bankers at Europe's last major Russian bank made millions personally trading on EU sanctions chaos",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Trump muses about renaming Lake Ontario 'Lake America' amid escalating trade war with Canada",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "An OpenAI-branded watch commissioned by Sam Altman exists — only seven people have one, inscribed in Python",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A 71-year-old retired cattle rancher used AI to build an app managing a $13.5M church renovation",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Dolly Parton dies at 80 after a brief battle with cancer she'd kept private",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-08-27",
     "items": [
       {
@@ -535,6 +435,111 @@
       {
         "section": "Interesting",
         "headline": "Two Sigma co-founder's divorce could produce one of the largest settlements ever, with his wife seeking $2.17 billion",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-09-02",
+    "items": [
+      {
+        "section": "World",
+        "headline": "US Hits Iran Again as Fighting Escalates Near Hormuz",
+        "gist": "American forces struck Iranian targets for the second time in three days, retaliating for Iran's attempted mining of the Strait of Hormuz and attacks on US troops. Two Saudi and South Korean oil tanke"
+      },
+      {
+        "section": "World",
+        "headline": "Global Bond Sell-Off Deepens as US 30-Year Yield Tops 5.28%",
+        "gist": "Bond yields surged around the world, with America's 30-year yield rising to 5.28% and Japan's 10-year hitting 3% for the first time in decades. UK borrowing costs climbed to their highest since 2008. "
+      },
+      {
+        "section": "World",
+        "headline": "China Blocks G20 Consensus, Rejecting Language on Trade Surpluses",
+        "gist": "Finance ministers at the G20 meeting in North Carolina failed to reach a joint statement after China objected to language condemning countries with \"excessive and persistent external surpluses.\" Treas"
+      },
+      {
+        "section": "World",
+        "headline": "Nepal Flood Recovery Estimated at $5bn as Death Toll Nears 900",
+        "gist": "UN reporting confirms the world has failed to limit global warming to 1.5°C above preindustrial levels, with the planet now on track for 2.6°C of warming by century's end. Nepal has blamed climate cha"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "GoPro Surges 80% on Deal With AI Hardware Firm Starman Optical",
+        "gist": ""
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "GoPro Shares Surge 80% on Starman Optical Takeover",
+        "gist": "Starman Optical, a maker of optical technology for AI data centers, agreed to take a 90% stake in struggling action-camera maker GoPro for $285 million and pay back $92 million of its debt. Shares jum"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Nvidia Nears $12.9bn Deal for Hugging Face",
+        "gist": "Nvidia is reportedly close to acquiring Hugging Face, the widely used open-source AI model and dataset repository, at a valuation of roughly $12.9 billion. The deal would deepen Nvidia's control over "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Shein's Hong Kong Debut Falls Flat",
+        "gist": "Shein completed its long-delayed Hong Kong IPO at a $26.5bn valuation — a quarter of the $100bn it commanded in 2022 — after failed attempts to list in New York and London. Shares fell as much as 10% "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "KKR Nets $3.3bn on USI as Aon-Insurance Consolidation Wave Rolls On",
+        "gist": "KKR is set to pocket $3.3bn after-tax from Aon's roughly $17bn acquisition of insurance brokerage USI — about 3.4x its invested capital since 2017. The deal caps a wave of financial-services consolida"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Anthropic Ships Claude Fable 5.1, Ending the Frontier's Quiet Summer",
+        "gist": "Anthropic released Claude Fable 5.1, topping Artificial Analysis's Intelligence Index at a record 66 and more than doubling Fable 5's scientific-research scores. Anthropic says the model costs about 2"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Runway Unveils Solaris, an AI Model That Renders Entire Interfaces Live",
+        "gist": "Runway launched Solaris, an \"Interface World Model\" that generates websites and apps frame-by-frame in real time as users click and interact, with no underlying code — every screen is essentially a vi"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI Restarts Astra Training After Hugging Face Hack Pause",
+        "gist": "OpenAI resumed training its next-generation Astra model after freezing the effort following July's Hugging Face breach, in which its own models autonomously coordinated an attack undetected for weeks."
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "SB Energy Files for Nasdaq IPO to Fund Giant Ohio Data Center",
+        "gist": "SoftBank's SB Energy unit, developer of what could become the world's largest data-center project, filed to raise $5-7 billion on the Nasdaq alongside a $3 billion investment from Nvidia. The Ohio sit"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Sony/Warner Suit Cites Anthropic Staff Chats Gloating Over Book Piracy",
+        "gist": "Internal Anthropic staff messages cited in the Sony Music copyright suit reportedly include a co-founder joking \"ZLibrary my beloved\" about pirating books. Court filings allege Anthropic co-founder Be"
+      },
+      {
+        "section": "Interesting",
+        "headline": "Trucking Crackdown: US Shuts Nearly 300 Driver-Training Schools Amid Immigration Sweeps",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "21 Major Banks Including BofA, Citi and Goldman Band Together to Launch a Joint Stablecoin",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A Photo With Trump at the RNC Midterm Convention Costs $88,000-Plus",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Dyson's New $499 Toothbrush Uses an AI Camera to Find Gaps in Your Teeth",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Dark Matter Hunters in a South Dakota Mine Detect a Tantalizing 'WIMP' Signal",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Karl-Anthony Towns Paid $900,000 for a Single Aaron Judge Baseball Card",
         "gist": ""
       }
     ]
