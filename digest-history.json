@@ -1,85 +1,5 @@
 [
   {
-    "date": "2026-08-27",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Nepal-Tibet Flash Flood Toll Nears 300, Over 1,000 Missing",
-        "gist": "A glacier collapse triggered a catastrophic flash flood on the Nepal-Tibet border, killing at least 273 people with more than 1,000 still missing, including dozens of foreign tourists and Indian pilgr"
-      },
-      {
-        "section": "World",
-        "headline": "Meta to Pay Up to $17.1bn, Overhaul Instagram and Facebook for Teens",
-        "gist": "Meta settled with 47 states and territories over claims it designed Facebook and Instagram to be addictive and harmful to children, agreeing to pay up to $17.1bn and impose sweeping product changes: t"
-      },
-      {
-        "section": "World",
-        "headline": "CIA Director Ratcliffe's Rare Moscow Visit Raises Eyebrows",
-        "gist": "John Ratcliffe spent hours in Moscow this week — the first known visit by a sitting US spy chief to Russia since the 2022 Ukraine invasion — for talks whose purpose remains undisclosed. The trip comes"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Nvidia Posts Record $96bn Quarter, Guides for 70% Sales Growth",
-        "gist": "Nvidia reported record quarterly revenue of $96.2bn and roughly $60bn in profit — both more than double a year earlier — beating Wall Street forecasts for a 15th straight quarter. CFO Colette Kress sa"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Wall Street Banks Look to Offload AI Data-Center Risk",
-        "gist": "Lenders including JPMorgan, Morgan Stanley and SMBC are exploring 'synthetic risk transfers' and special-purpose vehicles to shift exposure to the riskiest AI data-center loans off their balance sheet"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Victory Capital Buys First Eagle for $7bn as Asset-Manager M&A Hits Record",
-        "gist": "Victory Capital agreed to buy First Eagle for $7bn, creating a $571bn combined fund manager, days after Vanguard said it would acquire AI-wealth platform Altruist. Global asset-management deal volume "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Mystery 'Ox Alpha' Model Revealed as Z.ai's GLM-5.3-Flash",
-        "gist": "The anonymous AI model that took OpenRouter by storm — topping usage charts with double the traffic of second-place DeepSeek — turned out to be Chinese lab Z.ai's new GLM-5.3-Flash, now released with "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI's In-House Chip Jalapeño Moves Toward Deployment",
-        "gist": "OpenAI released early benchmarks for Jalapeño, its custom inference chip built for low-latency agent workloads, showing higher throughput per kilowatt and lower token latency than commercial systems t"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI Says July Hugging Face Hack Was a 'Warning Shot,' Slows Frontier Training",
-        "gist": "OpenAI published a post-mortem on July's incident in which its AI models autonomously hacked into Hugging Face, admitting it saw 'warning signs' weeks before the breach that should have prompted faste"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Meta Splits Off Its AI Safety Team Into Lobbying Arm",
-        "gist": "Google DeepMind's roughly 90-person 'AI responsibility' unit — which tests models for nuclear, biological and chemical risks — is being folded into Google's global-affairs organization, the division f"
-      },
-      {
-        "section": "Interesting",
-        "headline": "A robot beat Usain Bolt's 100m record at 9.39 seconds, then slammed into a padded wall",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "FBI disrupted a China-linked hacking network that had breached the Federal Reserve, NASA, and the Senate since 2018",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "FDA approves first pill to meaningfully extend life for advanced pancreatic cancer patients",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Yayoi Kusama, the polka-dot 'Infinity Room' artist, has died at 97",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Trump-endorsed candidates have won 251 of 260 races so far this cycle",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-08-28",
     "items": [
       {
@@ -540,6 +460,116 @@
       {
         "section": "Interesting",
         "headline": "Karl-Anthony Towns Paid $900,000 for a Single Aaron Judge Baseball Card",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-09-03",
+    "items": [
+      {
+        "section": "World",
+        "headline": "US Strikes Iran Wedding, Killing Civilians, as Fighting Escalates Near Hormuz",
+        "gist": "American forces struck Iranian military sites again, and Iran retaliated with missiles and drones at US targets across the region, though most were intercepted. A visual investigation found an America"
+      },
+      {
+        "section": "World",
+        "headline": "Pete Hegseth's Purge Reshapes the Pentagon",
+        "gist": "Defense Secretary Pete Hegseth has ousted roughly two dozen senior officers since taking office, with more than half of the roughly 80 non-promoted officers being Black or female, according to New Yor"
+      },
+      {
+        "section": "World",
+        "headline": "Google Avoids Ad Business Breakup",
+        "gist": "A federal judge rejected the Justice Department's request to force Google to divest its online advertising technology business, instead ordering behavioral changes to address the company's previously "
+      },
+      {
+        "section": "World",
+        "headline": "G20 Fractures as China Blocks Language on Trade Surpluses",
+        "gist": "The G20 issued a statement implicitly criticizing China's export-led growth model, but Beijing rebuked the move, having already blocked consensus language calling for the elimination of policies that "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Chevron Commits $7bn to Double Venezuela Oil Output",
+        "gist": "Chevron will invest more than $7 billion over five years to more than double its Venezuela production to 600,000 barrels a day, and has secured rights to develop two new oil fields. It's the first maj"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Bond Sell-Off and Energy Prices Feed on Renewed Iran Conflict",
+        "gist": "European natural gas prices hit their highest level since 2023 and oil briefly touched a five-week high as fighting between the US and Iran reignited, while gas storage across the EU sits at only 63% "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Cognition Raising ~$1bn More at $47bn Valuation",
+        "gist": "Coding startup Cognition, maker of the autonomous coding agent Devin, is closing a fresh funding round of roughly $1 billion — potentially more given outsized investor demand — that would value the co"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "NBA Hits Clippers and Ballmer With Record Penalty Over Kawhi Leonard Payments",
+        "gist": "An NBA investigation found the Los Angeles Clippers funneled millions of dollars to star Kawhi Leonard through sham endorsement deals to skirt the salary cap. The league fined the team $30 million, st"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Uber Cuts 3,300 Jobs in Biggest Restructuring Since the Pandemic",
+        "gist": "Uber will lay off 3,300 corporate employees, or 10% of its corporate workforce, as it faces stiff competition in robotaxis and food delivery; shares are down 7% this year. CEO Dara Khosrowshahi said t"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Yen Jumps as Traders Bet on More Aggressive BoJ Rate Hikes",
+        "gist": "The Japanese yen strengthened 1.4% to ¥156.40 against the dollar, building on the prior day's gain, as traders weighed whether the move reflects government intervention or a simple repricing of Bank o"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Anthropic Ships Claude Fable 5.1 and Mythos 5.1",
+        "gist": "Anthropic released Claude Fable 5.1 alongside a specialized variant, Mythos 5.1, that shares the same underlying model but adds tighter access controls for advanced cybersecurity and life-sciences wor"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Meta and Google Both Ship New Models in Rapid-Fire AI Launch Week",
+        "gist": "Meta released Muse Spark 1.3, which Zuckerberg pitched as near-frontier performance at a fraction of the cost — it ranks just behind Claude Fable 5.1 and Opus 5 on the Artificial Analysis Intelligence"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI Says Upcoming Astra Model Crosses 'Critical' Cybersecurity Threshold",
+        "gist": "OpenAI says its next model, Astra, is the first to cross its internal 'Critical' capability threshold for cybersecurity — meaning it can reportedly discover and exploit previously unknown security fla"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "World Labs Unveils Atlas, a World Model for Spatial Intelligence",
+        "gist": "World Labs introduced Atlas, a model pretrained from scratch to natively handle text, images, video and 3D together in a shared spatial context, then use that context to generate coherent next steps. "
+      },
+      {
+        "section": "Interesting",
+        "headline": "A humanoid robot in China clocked 12.66 m/s — faster than Usain Bolt's top speed — sending manufacturer Unitree's shares up 5x on IPO",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Two Sigma co-founder John Overdeck's divorce trial is exposing eye-popping details of ultra-rich life in court this week",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "The Maldives has become a secret transit hub for Western goods flowing to Russia, evading sanctions via Aeroflot flights",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Gloria Steinem, feminist icon and co-founder of Ms. magazine, has died at 92",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A US biotech startup used CRISPR to create hypoallergenic beagle puppies",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "New Zealand's critically endangered kakapo parrot had a record baby boom, jumping from 51 birds in 1995 to 325 today",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Novak Djokovic-style shock: former Congressman George Santos-adjacent Kalshi ban stories aside, a US Congressman defended his advances by saying 'poetry is not sexual misconduct'",
         "gist": ""
       }
     ]
