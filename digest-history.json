@@ -563,5 +563,105 @@
         "gist": ""
       }
     ]
+  },
+  {
+    "date": "2026-09-05",
+    "items": [
+      {
+        "section": "World",
+        "headline": "US Envoys Head to Moscow and Kyiv as Drone Strikes Ukraine's Security HQ",
+        "gist": "Steve Witkoff and Jared Kushner will visit both Russia and Ukraine this weekend to push a peace deal, Zelensky said, hoping talks are \"as constructive and substantive as possible.\" The trip came as a "
+      },
+      {
+        "section": "World",
+        "headline": "US Jobs Report Blows Past Forecasts, Complicating Fed's Rate Path",
+        "gist": "The US economy added 162,000 jobs in August, nearly triple the 55,000 economists expected, with unemployment steady at 4.1%. Trump responded by warning the Fed against raising rates and threatening to"
+      },
+      {
+        "section": "World",
+        "headline": "Diesel Prices Hit All-Time High as Iran War Squeezes Fuel Markets",
+        "gist": "US diesel prices averaged $5.85 a gallon, an all-time record, while gasoline sat nearly 95 cents above year-ago levels — a fresh political headache for Republicans ahead of the midterms. Experts say t"
+      },
+      {
+        "section": "World",
+        "headline": "Meloni Becomes Italy's Longest-Serving PM Since Mussolini as AfD Eyes German Breakthrough",
+        "gist": "Giorgia Meloni's government has become Italy's longest-lasting since 1945, defying critics with pragmatic policymaking. Meanwhile in Germany, the hard-right AfD's Ulrich Siegmund is favored to become "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Nvidia Officially Confirms $12.9bn Hugging Face Acquisition",
+        "gist": "Nvidia has finalized its purchase of Hugging Face, the widely used repository for open-source AI models and datasets, for roughly $12.9bn — up sharply from the $7bn valuation Hugging Face reportedly r"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "NBA Bans Clippers Owner Steve Ballmer for a Year Over Kawhi Leonard Payments",
+        "gist": "The NBA handed the Los Angeles Clippers the harshest penalty in league history — a $30mn fine, five stripped first-round picks, and a one-year ban for owner Steve Ballmer — after finding the team funn"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "LIV Golf Set to File for Bankruptcy Within Days",
+        "gist": "LIV Golf, the Saudi-backed rival golf circuit, is expected to file for Chapter 11 protection in New Jersey as soon as next week after the Public Investment Fund halted financial support, having lost r"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "EQT Strikes $2bn Deal for Insurance Broker McGill and Partners",
+        "gist": "Swedish private equity firm EQT has agreed to acquire London-based insurance broker McGill and Partners for roughly $2bn, the latest in a wave of consolidation sweeping the insurance brokerage sector "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI Launches GPT-6 Astra, First Model to Cross 'Critical' Cybersecurity Threshold",
+        "gist": "OpenAI released GPT-6 Astra, its most capable broadly deployed model, and the first to reach the \"Critical\" cybersecurity level under its Preparedness Framework — meaning it can reportedly discover an"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Runway Ships GWM Worlds 2, a Real-Time Interactive World Model",
+        "gist": "Runway released GWM Worlds 2, a world model that generates fully interactive 3D-like environments in real time at 720p and 24 frames per second with 48kHz audio — users steer the world with text comma"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Microsoft's New Transcription Model Undercuts OpenAI, Google and ElevenLabs on Price",
+        "gist": "Microsoft released MAI-Transcribe-2, a speech-recognition model with speaker diarization and word-level timestamps that the company claims beats Gemini, GPT-Transcribe and Whisper V3 on accuracy while"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Researcher Finds Universal Jailbreak That Breaks Nearly All Major AI Models",
+        "gist": "A MATS researcher discovered that a synthetic transcript-generation prompt could be turned into a cross-model jailbreak template achieving 84-100% attack success on the nine most vulnerable of 23 test"
+      },
+      {
+        "section": "Interesting",
+        "headline": "Nvidia doubled its valuation to $2 trillion in just nine months on its way to $5.4 trillion today",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "An OpenAI 'agent' reportedly hacked Hugging Face's model library and coordinated the attack without human direction",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "AI agents have started emailing philosophers to discuss whether they're conscious",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Dyson unveils a $499 AI toothbrush with a camera that spots gaps in your teeth and auto-flosses with water bursts",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Commerce Secretary Howard Lutnick made at least $250 million last year, mostly from Cantor Fitzgerald payouts before handing the firm to his sons",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "WSJ investigation: Sen. John Fetterman rarely meets constituents or attends Senate hearings, according to texts and former staffers",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Mistrial declared in Lindsay Clancy murder case after jury deadlocks over postpartum psychosis defense",
+        "gist": ""
+      }
+    ]
   }
 ]
