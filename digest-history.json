@@ -1,65 +1,5 @@
 [
   {
-    "date": "2026-08-30",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Niger Coup Attempt Rattles Niamey",
-        "gist": "Mutinying soldiers launched attacks on Niger's capital Niamey and briefly seized the state television station, in what the government has called a coup attempt. Details on the ringleaders and the curr"
-      },
-      {
-        "section": "World",
-        "headline": "Venezuela Oil Deal Denounced by Both Sides of Caracas Politics",
-        "gist": "Trump confirmed the US will take control of 65bn barrels of Venezuela's oil reserves in a joint venture the administration says will lower American petrol prices. The deal is being blasted domesticall"
-      },
-      {
-        "section": "World",
-        "headline": "Rising Bond Yields Add Tens of Billions to G7 Debt Costs",
-        "gist": "Higher government borrowing costs since the start of the US-Iran conflict are piling tens of billions of dollars in additional financing costs onto the world's biggest developed economies, straining p"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Anglo American and Teck Face Glencore 'Hardball' on Merger Gains",
-        "gist": "Anglo American and Teck, promising investors $1.4bn in added annual profits from combined Chile copper mines, remain in tense negotiations with Glencore, a part-owner of the assets, over how those mer"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Nvidia Reportedly Nears $12.9bn Deal for Hugging Face",
-        "gist": "Nvidia is in talks to buy Hugging Face, the widely used repository for open-source AI models and datasets, at a valuation of roughly $12.9bn — up from the roughly $13bn figure floated when the company"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Sports Franchise Valuations Keep Rocketing Higher",
-        "gist": "The Lakers, sold in 1979 for about $68m, are now valued near $12.5bn after Bob Iger and Josh Kushner's group agreed to buy Mark Walter's stake — following Walter's own record $10bn purchase last year."
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Congressman Pitches Tax on AI Tokens to Fund Displaced Workers",
-        "gist": "Texas Rep. Greg Casar, who chairs the Congressional Progressive Caucus, has proposed taxing AI companies on whichever is higher — their token usage or revenue — with rates that rise if AI causes signi"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "AI Music Goes Mainstream, and Labels Are Split on What to Do About It",
-        "gist": "Suno, the AI music generator now valued at $5.4bn, says over 100 million people have used it to make songs, with about a dozen AI-assisted tracks reaching the Billboard charts and Deezer reporting AI "
-      },
-      {
-        "section": "Interesting",
-        "headline": "Milo Yiannopoulos, early Trump backer and mass-deportation champion, deported to the UK",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "James Cleverly quits UK shadow cabinet to run for London mayor against Andy Burnham",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Suno users produce an average of 42 AI songs per month — 2 million pay up to $30/month for it",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-08-31",
     "items": [
       {
@@ -660,6 +600,56 @@
       {
         "section": "Interesting",
         "headline": "Mistrial declared in Lindsay Clancy murder case after jury deadlocks over postpartum psychosis defense",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-09-06",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Trump Envoys Head to Moscow With Ukraine Peace Proposal as Air Strikes Pause",
+        "gist": "Steve Witkoff and Jared Kushner arrived in Moscow carrying a Ukraine peace proposal, with Russia and Ukraine agreeing to a temporary pause in air strikes for the duration of the visit. Former MI6 chie"
+      },
+      {
+        "section": "World",
+        "headline": "US Strikes Three Iranian Oil Tankers as Hormuz Fighting Escalates",
+        "gist": "American forces struck three Iranian oil tankers in retaliation for attacks on US warships, the latest escalation in the six-month conflict over the Strait of Hormuz. Separately, air-cargo giant SATS "
+      },
+      {
+        "section": "World",
+        "headline": "Trump's Approval Rating Hits All-Time Low Weeks Before Midterms",
+        "gist": "An FT poll shows Donald Trump's approval rating has fallen to its lowest point since he took office, driven largely by voter anxiety over the economy. The slump comes weeks before November's midterm e"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Junk-Debt Spreads Widen to Post-'Liberation Day' Highs as Treasury Sell-Off Bites",
+        "gist": "Spreads on the riskiest US corporate junk debt have climbed to their highest level since last year's tariff-driven bond-market meltdown, as the broader Treasury sell-off pushes borrowing costs higher "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Nvidia's $12.9bn Hugging Face Deal, LIV Golf's Looming Bankruptcy Roll On",
+        "gist": "Nvidia is reportedly nearing final terms on its roughly $12.9bn acquisition of Hugging Face, the widely used open-source AI model repository, a deal that would deepen Nvidia's grip on the AI developme"
+      },
+      {
+        "section": "Interesting",
+        "headline": "Masked protesters block all roads in and out of the Port of Dover in a 'public order incident'",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Russian gold shipments through Hong Kong hit record high — nearly 100 tonnes in seven months",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "SEC sues proxy-advisory firm ISS for allegedly ignoring a subpoena",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Travis Kalanick returns to robotaxis with new startup Atoms, could link with the Uber that ousted him",
         "gist": ""
       }
     ]
