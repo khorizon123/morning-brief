@@ -1,110 +1,5 @@
 [
   {
-    "date": "2026-09-01",
-    "items": [
-      {
-        "section": "World",
-        "headline": "US and Iran Trade Fire Again, Trump Vows to Hit Iran 'Hard'",
-        "gist": "American and Iranian forces exchanged fire near the Strait of Hormuz for the second time in days, ending weeks of relative calm. Trump said the US would respond forcefully, and oil prices rose on rene"
-      },
-      {
-        "section": "World",
-        "headline": "Nepal-Tibet Flood Toll Nears 900, Recovery Cost Estimated at $5bn",
-        "gist": "Nepal's death toll from the glacial-collapse flood has climbed close to 900 with roughly 4,500 still missing, prompting mass burials. A senior Nepali official put the recovery cost at $5 billion and r"
-      },
-      {
-        "section": "World",
-        "headline": "Global Bond Sell-Off Deepens as Japan's Yield Hits 3%",
-        "gist": "Japan's 10-year government bond yield hit 3% for the first time since 1996, and UK borrowing costs rose to their highest since 2008, as investors bet central banks will raise rates to fight inflation "
-      },
-      {
-        "section": "World",
-        "headline": "Supreme Court Lets Trump's White House Ballroom Construction Proceed",
-        "gist": "In a 5-4 ruling, the Supreme Court said preservationists challenging Trump's 90,000-square-foot White House ballroom likely lack legal standing, clearing the way for construction to continue. The orde"
-      },
-      {
-        "section": "World",
-        "headline": "Trump's Venezuela Oil Venture Takes Shape With 50-Rig Drilling Plan",
-        "gist": "North American Blue Energy Partners, the vehicle through which the US government took a 35% stake and 100-year drilling rights to 65bn barrels of Venezuelan reserves, plans to dispatch more than 50 dr"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Shein's Hong Kong Debut Falls Flat",
-        "gist": "Shein finally completed its long-delayed IPO in Hong Kong, pricing at a $26.5bn valuation — a quarter of the $100bn it commanded in 2022 after failed attempts to list in New York and London. Shares fe"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "KKR Nets Big Windfall on Balance-Sheet Bet as It Sells USI to Aon",
-        "gist": "KKR will pocket $3.3bn after-tax from Aon's ~$17bn purchase of insurance broker USI, a roughly 3.4x return on the roughly $1bn KKR invested in the company since 2017 using its own balance sheet — a st"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "LIV Golf Nears Chapter 11 as Saudi Backer Exits, PE Circles $5bn Tax Asset",
-        "gist": "LIV Golf could file for bankruptcy protection as soon as next week after the Saudi Public Investment Fund, which has poured over $5bn into the circuit since 2021, halted its financial support. The ban"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "FTC Sues Amazon Over Alleged Secret Ad-Price Manipulation",
-        "gist": "The FTC and 22 states sued Amazon, alleging it 'systematically' overcharged advertisers since 2019 by secretly manipulating minimum ad prices on its platform, allegedly costing advertisers billions an"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Runway's Solaris Previews a No-Code, Video-Rendered Internet",
-        "gist": "Runway unveiled Solaris, an 'Interface World Model' that renders entire websites and apps as live-generated video — every frame drawn in real time as a user clicks or drags, with no underlying code. I"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Anthropic's Claude Agents Outperform Human Experts at AI Safety Research",
-        "gist": "Anthropic published research showing teams of Claude agents ran AI safety experiments autonomously, fixing 10 types of model misbehavior — including sycophancy, deception, and reward hacking — with re"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI Cuts Its Models From Cursor After Musk's SpaceX Acquisition",
-        "gist": "OpenAI will remove its AI models from coding platform Cursor by November 12, citing concerns that Elon Musk's companies have a history of violating contracts, following SpaceX's acquisition of the onc"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Imperial College AI Flags Heart Disease From a Routine ECG in Under Two Seconds",
-        "gist": "Researchers at Imperial College London built a model that reads a standard ECG in under two seconds, catching heart failure and valve disease that doctors often miss without a lengthy ultrasound queue"
-      },
-      {
-        "section": "Interesting",
-        "headline": "Elliott Management builds activist stake in French industrial gas giant Air Liquide",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Ex-Congressman George Santos handed Kalshi's first-ever lifetime ban for alleged manipulation",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Met Museum cancels John Galliano exhibition and gala after donor and Jewish leader backlash over designer's antisemitic hate crime conviction",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Lionel Messi announces retirement from international football after Argentina's World Cup final loss",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Jury convicts man of orchestrating Tupac Shakur's 1996 murder, nearly 30 years later",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Ernst & Young hands out $100 million in bonuses specifically for 'human' skills like judgment and critical thinking",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Two Sigma co-founder's divorce could produce one of the largest settlements ever, with his wife seeking $2.17 billion",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-09-02",
     "items": [
       {
@@ -650,6 +545,96 @@
       {
         "section": "Interesting",
         "headline": "Volcanic eruption in Indonesia shuts eight airports, disrupts over 170,000 passengers",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-09-08",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Canada Hits Back With Tariffs on $20bn of US Goods as Trump Threatens Bombardier",
+        "gist": "Canada's retaliatory tariffs on roughly 700 American products — including steel, dairy and home appliances — took effect at midnight, matching the levies Trump imposed on Canadian goods after talks co"
+      },
+      {
+        "section": "World",
+        "headline": "China's Exports Surge 25% Ahead of Trump-Xi Meeting, Setting Up Record Surplus",
+        "gist": "China's August exports jumped 25% year-on-year, putting the country on track for another record annual trade surplus — $805.5bn January-August, already ahead of last year's pace — just weeks before a "
+      },
+      {
+        "section": "World",
+        "headline": "AfD's Record Saxony-Anhalt Win Forces Germany to Confront Whether Its 'Firewall' Still Works",
+        "gist": "After the AfD's biggest-ever result — over 40% of the vote and record turnout — mainstream German parties are debating openly whether the decades-old strategy of blocking the far right from power is i"
+      },
+      {
+        "section": "World",
+        "headline": "Oil Nears $100 as Houthi Strikes Hit Saudi Arabia Again, Fed by Iran War",
+        "gist": "Brent crude jumped back near $100 a barrel after Houthi missile and drone attacks hit Saudi Aramco's Jizan facility, the second such strike in a month, layering onto the ongoing US-Iran conflict near "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Anthropic and OpenAI Bankers Push for Investment-Grade Ratings Ahead of IPOs",
+        "gist": "Morgan Stanley and Goldman Sachs, expected to lead the AI labs' IPOs, are lobbying credit agencies Fitch, Moody's and S&P to grant Anthropic and OpenAI investment-grade ratings immediately after they "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "UK Chancellor Warns of Tough Budget as Debt-Servicing Costs Squeeze Rich Countries",
+        "gist": "John Healey, in his first major speech as chancellor, said Britain must 'be honest' about controlling public spending as fiscal pressure mounts ahead of the October 28 Budget, where economists expect "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Isar Aerospace Becomes First Private European Firm to Reach Orbit",
+        "gist": "German startup Isar Aerospace launched its uncrewed Spectrum rocket from Norway carrying five satellites, marking the first-ever commercial orbital launch from European soil. German Chancellor Friedri"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "'Apollo Premium': Aggressive Reputation Costs Apollo's Portfolio Firms 1 Point in Borrowing Costs",
+        "gist": "New academic research finds Apollo Global Management's portfolio companies pay roughly one percentage point more to borrow in corporate loan markets — the average yield in the sample was 7.17% — a pen"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Claude Agents Produce First Computer-Verified Proof of Fermat's Last Theorem",
+        "gist": "Anthropic's Claude autonomously generated the first complete, computer-verified proof of Fermat's Last Theorem using the Lean proof assistant, completing the task in 11 days by writing 13 million line"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI's Internal Data Show Coding Agents Now Outworking Human Researchers 3-to-1",
+        "gist": "OpenAI disclosed that its own research staff now get roughly 3.1 workdays of output per day from coding agents, with token spending up 124x since December and 80% of researchers running four or more a"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "AI-Designed Drug Shows Signs of Slowing Biological Aging in Small Trial",
+        "gist": "Insilico Medicine published trial data on rentosertib, a drug its AI designed to treat idiopathic pulmonary fibrosis (a lung-scarring disease), showing that treated patients read as biologically young"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "US Voters Now Broadly Fear AI Across Party Lines, NBC Poll Finds",
+        "gist": "A new NBC News poll of over 7,000 adults found 70% of Americans are more worried than excited about AI, a concern spanning both parties even as usage keeps climbing (52% now use AI often or sometimes)"
+      },
+      {
+        "section": "Interesting",
+        "headline": "OpenAI's AGI benchmark claim (99.9% on ARC-AGI-3) reportedly drops to 62.7% when run through the test's own official software",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A Panama Canal tanker paid a record $5.3 million for priority passage as drought squeezes transit slots",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A Wisconsin 'hypermiler' squeezes 83.2 mpg out of a Prius rated for 52",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "French champagne production expected to fall 48% this year on drought and heat",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Argentina to file criminal charges against an Israeli oil driller near the Falklands as Milei revives sovereignty dispute",
         "gist": ""
       }
     ]
