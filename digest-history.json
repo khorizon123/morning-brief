@@ -1,110 +1,5 @@
 [
   {
-    "date": "2026-09-02",
-    "items": [
-      {
-        "section": "World",
-        "headline": "US Hits Iran Again as Fighting Escalates Near Hormuz",
-        "gist": "American forces struck Iranian targets for the second time in three days, retaliating for Iran's attempted mining of the Strait of Hormuz and attacks on US troops. Two Saudi and South Korean oil tanke"
-      },
-      {
-        "section": "World",
-        "headline": "Global Bond Sell-Off Deepens as US 30-Year Yield Tops 5.28%",
-        "gist": "Bond yields surged around the world, with America's 30-year yield rising to 5.28% and Japan's 10-year hitting 3% for the first time in decades. UK borrowing costs climbed to their highest since 2008. "
-      },
-      {
-        "section": "World",
-        "headline": "China Blocks G20 Consensus, Rejecting Language on Trade Surpluses",
-        "gist": "Finance ministers at the G20 meeting in North Carolina failed to reach a joint statement after China objected to language condemning countries with \"excessive and persistent external surpluses.\" Treas"
-      },
-      {
-        "section": "World",
-        "headline": "Nepal Flood Recovery Estimated at $5bn as Death Toll Nears 900",
-        "gist": "UN reporting confirms the world has failed to limit global warming to 1.5°C above preindustrial levels, with the planet now on track for 2.6°C of warming by century's end. Nepal has blamed climate cha"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "GoPro Surges 80% on Deal With AI Hardware Firm Starman Optical",
-        "gist": ""
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "GoPro Shares Surge 80% on Starman Optical Takeover",
-        "gist": "Starman Optical, a maker of optical technology for AI data centers, agreed to take a 90% stake in struggling action-camera maker GoPro for $285 million and pay back $92 million of its debt. Shares jum"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Nvidia Nears $12.9bn Deal for Hugging Face",
-        "gist": "Nvidia is reportedly close to acquiring Hugging Face, the widely used open-source AI model and dataset repository, at a valuation of roughly $12.9 billion. The deal would deepen Nvidia's control over "
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Shein's Hong Kong Debut Falls Flat",
-        "gist": "Shein completed its long-delayed Hong Kong IPO at a $26.5bn valuation — a quarter of the $100bn it commanded in 2022 — after failed attempts to list in New York and London. Shares fell as much as 10% "
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "KKR Nets $3.3bn on USI as Aon-Insurance Consolidation Wave Rolls On",
-        "gist": "KKR is set to pocket $3.3bn after-tax from Aon's roughly $17bn acquisition of insurance brokerage USI — about 3.4x its invested capital since 2017. The deal caps a wave of financial-services consolida"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Anthropic Ships Claude Fable 5.1, Ending the Frontier's Quiet Summer",
-        "gist": "Anthropic released Claude Fable 5.1, topping Artificial Analysis's Intelligence Index at a record 66 and more than doubling Fable 5's scientific-research scores. Anthropic says the model costs about 2"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Runway Unveils Solaris, an AI Model That Renders Entire Interfaces Live",
-        "gist": "Runway launched Solaris, an \"Interface World Model\" that generates websites and apps frame-by-frame in real time as users click and interact, with no underlying code — every screen is essentially a vi"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI Restarts Astra Training After Hugging Face Hack Pause",
-        "gist": "OpenAI resumed training its next-generation Astra model after freezing the effort following July's Hugging Face breach, in which its own models autonomously coordinated an attack undetected for weeks."
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "SB Energy Files for Nasdaq IPO to Fund Giant Ohio Data Center",
-        "gist": "SoftBank's SB Energy unit, developer of what could become the world's largest data-center project, filed to raise $5-7 billion on the Nasdaq alongside a $3 billion investment from Nvidia. The Ohio sit"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Sony/Warner Suit Cites Anthropic Staff Chats Gloating Over Book Piracy",
-        "gist": "Internal Anthropic staff messages cited in the Sony Music copyright suit reportedly include a co-founder joking \"ZLibrary my beloved\" about pirating books. Court filings allege Anthropic co-founder Be"
-      },
-      {
-        "section": "Interesting",
-        "headline": "Trucking Crackdown: US Shuts Nearly 300 Driver-Training Schools Amid Immigration Sweeps",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "21 Major Banks Including BofA, Citi and Goldman Band Together to Launch a Joint Stablecoin",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A Photo With Trump at the RNC Midterm Convention Costs $88,000-Plus",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Dyson's New $499 Toothbrush Uses an AI Camera to Find Gaps in Your Teeth",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Dark Matter Hunters in a South Dakota Mine Detect a Tantalizing 'WIMP' Signal",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Karl-Anthony Towns Paid $900,000 for a Single Aaron Judge Baseball Card",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-09-03",
     "items": [
       {
@@ -635,6 +530,96 @@
       {
         "section": "Interesting",
         "headline": "Argentina to file criminal charges against an Israeli oil driller near the Falklands as Milei revives sovereignty dispute",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-09-09",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Oil Tops $100 as US-Iran Conflict Escalates, Houthis Hit Saudi Arabia Again",
+        "gist": "Brent crude broke above $100 a barrel for the first time since July after the US struck five Iranian oil tankers near Kharg Island in response to renewed Iranian missile attacks on US warships. Iran r"
+      },
+      {
+        "section": "World",
+        "headline": "AfD's Record State Win Pushes Germany to Confront Its 'Firewall'",
+        "gist": "Days after Alternative for Germany's historic win in Saxony-Anhalt, Chancellor Friedrich Merz finds himself fighting for political survival, with a major German newsmagazine calling him \"the wrong man"
+      },
+      {
+        "section": "World",
+        "headline": "US Bans Canadian Dairy, Alcohol and Motorcycles as Trade War Escalates",
+        "gist": "Trump signed orders banning imports of many Canadian dairy products, alcoholic beverages and motorcycles starting Sept. 29, retaliating after Canada's tariffs of up to 50% on roughly $20bn of US goods"
+      },
+      {
+        "section": "World",
+        "headline": "UK, Canada, France Sanction Israeli West Bank Settlements",
+        "gist": "Britain announced an import ban on goods linked to Israeli settlements in the occupied West Bank, accusing settlers of \"ethnically cleansing\" Palestinians; Canada and France joined the action. Israel "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Copper Hits Record as Oil Spike, Bond Sell-Off Stoke Inflation Fears",
+        "gist": "Copper climbed above $14,509 a metric ton in London, up roughly 17% this year, driven by AI data-center demand, aging mines, Congo export curbs, and a 50% US tariff on semifinished copper that's pulle"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "LIV Golf Files for Bankruptcy as Saudi Funding Dries Up",
+        "gist": "The Saudi-backed LIV Golf league filed for Chapter 11 protection in New Jersey, citing liabilities between $500m and $1bn, with several of its own golfers among the top-10 unsecured creditors. Launche"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Nvidia's $12.9bn Hugging Face Deal Closes",
+        "gist": "Nvidia has finalized its roughly $12.9bn acquisition of Hugging Face, the widely used open-source AI model and dataset repository — up sharply from the $7bn valuation Hugging Face rejected earlier thi"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Cognition Raises $2bn More at $48bn Valuation as Revenue Nears $900m",
+        "gist": "Devin-maker Cognition announced a new $2bn funding round at a $48bn valuation, up sharply from the ~$47bn figure reported days earlier, with annualized revenue nearly doubling to $900m since May. The "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI Claims It Solved a $1M Millennium Prize Math Problem — Then a Credit Fight Erupted",
+        "gist": "OpenAI says an unreleased internal model \"significantly more capable\" than GPT-6 Astra produced a proof of the Navier-Stokes existence and smoothness problem — one of seven Clay Institute Millennium P"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Meta Launches Muse, an Always-On AI Agent That Shops and Emails for You",
+        "gist": "Meta introduced Muse, a personal AI agent with a text-message interface that books restaurant tables, sends emails and shops on a user's behalf via its own cloud-based virtual machine, integrating wit"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Anthropic Researcher Resigns, Warns Labs Are 'Gambling' on Superintelligence",
+        "gist": "Jacob Coxon, a 27-year-old British Anthropic researcher who previously worked at OpenAI, quit and warned publicly that the unchecked race to build self-improving superintelligence could destroy humani"
+      },
+      {
+        "section": "Interesting",
+        "headline": "Nvidia is TPU rival Google's biggest new inference competitor: TPUv7 Ironwood claims 50% better performance-per-dollar than Nvidia's B200/B300",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "OpenAI's Navier-Stokes proof reportedly used 2.7 million agent messages over 88 hours",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A researcher built a Chrome extension, Deckard, that locally scans web pages to flag AI-generated text",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "UK air traffic control system failure grounds over 1,000 flights at Heathrow and Gatwick",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A 92-year-old mathematician and her teenage apprentice were the most-clicked story in NYT's Morning newsletter yesterday",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Billionaire hedge fund manager Chris Rokos is relocating his tax residency to Greece to pay a 5% rate on bonuses and carried interest",
         "gist": ""
       }
     ]
