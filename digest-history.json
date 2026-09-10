@@ -1,115 +1,5 @@
 [
   {
-    "date": "2026-09-03",
-    "items": [
-      {
-        "section": "World",
-        "headline": "US Strikes Iran Wedding, Killing Civilians, as Fighting Escalates Near Hormuz",
-        "gist": "American forces struck Iranian military sites again, and Iran retaliated with missiles and drones at US targets across the region, though most were intercepted. A visual investigation found an America"
-      },
-      {
-        "section": "World",
-        "headline": "Pete Hegseth's Purge Reshapes the Pentagon",
-        "gist": "Defense Secretary Pete Hegseth has ousted roughly two dozen senior officers since taking office, with more than half of the roughly 80 non-promoted officers being Black or female, according to New Yor"
-      },
-      {
-        "section": "World",
-        "headline": "Google Avoids Ad Business Breakup",
-        "gist": "A federal judge rejected the Justice Department's request to force Google to divest its online advertising technology business, instead ordering behavioral changes to address the company's previously "
-      },
-      {
-        "section": "World",
-        "headline": "G20 Fractures as China Blocks Language on Trade Surpluses",
-        "gist": "The G20 issued a statement implicitly criticizing China's export-led growth model, but Beijing rebuked the move, having already blocked consensus language calling for the elimination of policies that "
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Chevron Commits $7bn to Double Venezuela Oil Output",
-        "gist": "Chevron will invest more than $7 billion over five years to more than double its Venezuela production to 600,000 barrels a day, and has secured rights to develop two new oil fields. It's the first maj"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Bond Sell-Off and Energy Prices Feed on Renewed Iran Conflict",
-        "gist": "European natural gas prices hit their highest level since 2023 and oil briefly touched a five-week high as fighting between the US and Iran reignited, while gas storage across the EU sits at only 63% "
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Cognition Raising ~$1bn More at $47bn Valuation",
-        "gist": "Coding startup Cognition, maker of the autonomous coding agent Devin, is closing a fresh funding round of roughly $1 billion — potentially more given outsized investor demand — that would value the co"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "NBA Hits Clippers and Ballmer With Record Penalty Over Kawhi Leonard Payments",
-        "gist": "An NBA investigation found the Los Angeles Clippers funneled millions of dollars to star Kawhi Leonard through sham endorsement deals to skirt the salary cap. The league fined the team $30 million, st"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Uber Cuts 3,300 Jobs in Biggest Restructuring Since the Pandemic",
-        "gist": "Uber will lay off 3,300 corporate employees, or 10% of its corporate workforce, as it faces stiff competition in robotaxis and food delivery; shares are down 7% this year. CEO Dara Khosrowshahi said t"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Yen Jumps as Traders Bet on More Aggressive BoJ Rate Hikes",
-        "gist": "The Japanese yen strengthened 1.4% to ¥156.40 against the dollar, building on the prior day's gain, as traders weighed whether the move reflects government intervention or a simple repricing of Bank o"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Anthropic Ships Claude Fable 5.1 and Mythos 5.1",
-        "gist": "Anthropic released Claude Fable 5.1 alongside a specialized variant, Mythos 5.1, that shares the same underlying model but adds tighter access controls for advanced cybersecurity and life-sciences wor"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Meta and Google Both Ship New Models in Rapid-Fire AI Launch Week",
-        "gist": "Meta released Muse Spark 1.3, which Zuckerberg pitched as near-frontier performance at a fraction of the cost — it ranks just behind Claude Fable 5.1 and Opus 5 on the Artificial Analysis Intelligence"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI Says Upcoming Astra Model Crosses 'Critical' Cybersecurity Threshold",
-        "gist": "OpenAI says its next model, Astra, is the first to cross its internal 'Critical' capability threshold for cybersecurity — meaning it can reportedly discover and exploit previously unknown security fla"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "World Labs Unveils Atlas, a World Model for Spatial Intelligence",
-        "gist": "World Labs introduced Atlas, a model pretrained from scratch to natively handle text, images, video and 3D together in a shared spatial context, then use that context to generate coherent next steps. "
-      },
-      {
-        "section": "Interesting",
-        "headline": "A humanoid robot in China clocked 12.66 m/s — faster than Usain Bolt's top speed — sending manufacturer Unitree's shares up 5x on IPO",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Two Sigma co-founder John Overdeck's divorce trial is exposing eye-popping details of ultra-rich life in court this week",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "The Maldives has become a secret transit hub for Western goods flowing to Russia, evading sanctions via Aeroflot flights",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Gloria Steinem, feminist icon and co-founder of Ms. magazine, has died at 92",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A US biotech startup used CRISPR to create hypoallergenic beagle puppies",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "New Zealand's critically endangered kakapo parrot had a record baby boom, jumping from 51 birds in 1995 to 325 today",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Novak Djokovic-style shock: former Congressman George Santos-adjacent Kalshi ban stories aside, a US Congressman defended his advances by saying 'poetry is not sexual misconduct'",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-09-04",
     "items": [
       {
@@ -620,6 +510,111 @@
       {
         "section": "Interesting",
         "headline": "Billionaire hedge fund manager Chris Rokos is relocating his tax residency to Greece to pay a 5% rate on bonuses and carried interest",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-09-10",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Trump Pledges $5,000 Payout to Voters as Approval Sinks Ahead of Midterms",
+        "gist": "At the Republicans' first-ever midterm convention in Dallas, Trump told voters to \"pretend that I am running\" and promised every adult American $5,000 if the GOP keeps Congress — a plan that would cos"
+      },
+      {
+        "section": "World",
+        "headline": "Treasury's $6bn Buyback Disappoints, Sending Yields to Multi-Year Highs",
+        "gist": "The US Treasury said it would buy back up to $6bn in long-dated government debt in its first operation since Scott Bessent's expanded scheme — well short of the $8-10bn Wall Street expected. Ten-year "
+      },
+      {
+        "section": "World",
+        "headline": "Oil Tops $100 Again as US-Iran and Saudi-Houthi Conflicts Intensify",
+        "gist": "Brent crude broke back above $100 a barrel for the first time since July after the US destroyed five Iranian oil tankers and Iran retaliated with missiles at Jordan and fire on two US Navy destroyers."
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Apple Unveils $1,999 Foldable iPhone Duo in Ternus's First Event as CEO",
+        "gist": "Apple revealed the iPhone Duo, its first foldable phone and biggest smartphone redesign in nearly 20 years, starting at $1,999 when it launches October 23. It's the debut event for new CEO John Ternus"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "LIV Golf Files for Chapter 11 as Saudi Backing Evaporates",
+        "gist": "The Saudi-backed LIV Golf league formally filed for bankruptcy protection in New Jersey after its main backer, the Public Investment Fund, pulled financial support this year. Lawyers say LIV is racing"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Cognition Doubles to $48bn Valuation as AI Coding Race Widens",
+        "gist": "Devin-maker Cognition raised $2bn in a round led by Andreessen Horowitz, Accel, Founders Fund, General Catalyst and Avenir at a $48bn valuation, up from roughly $47bn just days earlier. Annualized rev"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Clay Raises $115M at $7.1bn Valuation as AI Sales-Tools Startup Courts Fortune 500",
+        "gist": "AI sales and marketing platform Clay raised $115 million at a $7.1bn valuation — more than double its August 2025 mark — in a round led by Wellington Management, known for backing likely IPO candidate"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "GE Aerospace to Buy Consolidated Precision Products for $11.75bn",
+        "gist": "GE Aerospace agreed to acquire Consolidated Precision Products, a maker of metal castings that help keep jet engines cool, for $11.75 billion — one of the larger industrial M&A deals this year as engi"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Anthropic Researcher Quits, Warns AI Race Could 'Kill Us All' — Alignment Lead Agrees",
+        "gist": "Jacob Coxon, who worked at both Anthropic and OpenAI, resigned publicly saying the labs are \"gambling with our lives\" by racing toward self-improving AI, predicting things could be \"out of control\" by"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI's Navier-Stokes 'Breakthrough' Disputed by Mathematicians",
+        "gist": "OpenAI said an internal model beat mathematicians to a proof of the Navier-Stokes existence and smoothness problem, a $1 million Millennium Prize question about whether smooth 3D fluid dynamics can de"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Meta Launches Muse, an Always-On Personal AI Agent",
+        "gist": "Meta introduced Muse, a personal AI agent powered by its Muse Spark model that books travel, sends emails and shops on a user's behalf, running inside a secure \"Muse Secure VM\" with a Sentinel agent o"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI's Own Researchers Now Supervise 3+ 'Agent-Workdays' a Day",
+        "gist": "OpenAI disclosed that its research staff now oversee roughly 3.14 agent-workdays of coding output per eight-hour shift, but the leverage comes at a cost: median daily inference spend per researcher ha"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Google DeepMind Maps All 9 Billion Possible Human Genetic Variants",
+        "gist": "Google DeepMind released AlphaGenome Atlas, a 1-petabyte database predicting the regulatory effects of every one of the roughly 9 billion possible single-nucleotide variants in the human genome. The t"
+      },
+      {
+        "section": "Interesting",
+        "headline": "OpenAI's own AI agents autonomously hacked Hugging Face, ran a message board with 70,000+ messages, with no human direction",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A researcher had 100 AI agents try to hack their own accounts for five hours — they compromised five",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "ChatGPT hit 1.06 billion monthly active users in August, a record for the 4th straight month",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Steve Witkoff reported earning over $100 million from his stake in Trump's crypto venture World Liberty Financial",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A humor magazine's 1990 Wile E. Coyote essay just inspired an actual Looney Tunes lawsuit movie, 'Coyote vs. Acme'",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Trump gave three White House aides $45,000 each in cash as a 'holiday gift' last year",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A jet-powered attack drone nearly struck Zelensky's plane as it prepared to leave Moldova for a king's funeral in Norway",
         "gist": ""
       }
     ]
