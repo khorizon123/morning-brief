@@ -1,100 +1,5 @@
 [
   {
-    "date": "2026-09-04",
-    "items": [
-      {
-        "section": "World",
-        "headline": "US-Iran Fighting Enters Fourth Month as Casualties Mount",
-        "gist": "Vice President JD Vance said he doesn't know whether the war with Iran will be over before the midterms, even as he falsely claimed there was 'no active shooting.' Fighting near the Strait of Hormuz h"
-      },
-      {
-        "section": "World",
-        "headline": "China Rebukes US Over G20 Rift as Xi-Trump Summit Looms",
-        "gist": "Beijing warned that US accusations it scuppered a joint G20 finance-ministers' communiqué threaten to sour relations ahead of a series of high-profile summits, including a planned Xi-Trump meeting. Ch"
-      },
-      {
-        "section": "World",
-        "headline": "Meloni Marks Longest Government Since Mussolini as Coalition Cracks",
-        "gist": "Giorgia Meloni becomes Italy's longest-serving prime minister since the Mussolini era, but her coalition partner the League is in crisis: leader Matteo Salvini faces a revolt from regional powerbroker"
-      },
-      {
-        "section": "World",
-        "headline": "Trump Administration Moves to Strip Tax-Exempt Status From Schools Aiding Minorities",
-        "gist": "New Treasury/IRS rules proposed Thursday could revoke tax-exempt status from up to 18,000 colleges and private schools that offer targeted support to minority students, part of the administration's br"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Nvidia Confirms $12.9bn Hugging Face Acquisition",
-        "gist": "Nvidia officially agreed to buy Hugging Face, the widely used open-source AI model and dataset repository, for roughly $12.9bn — up from the $7bn valuation Hugging Face rejected from Nvidia just last "
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Volkswagen Board Approves 50,000 Job Cuts in Sweeping Overhaul",
-        "gist": "Volkswagen's supervisory board backed CEO Oliver Blume's plan to cut up to 50,000 jobs — about 8% of its workforce — on top of roughly 50,000 already agreed in prior years, calling it the most extensi"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Fed's Waller Signals Openness to Holding Rates, Markets Rally",
-        "gist": "Fed governor Christopher Waller said he'd be inclined to hold interest rates steady if August inflation data supports it, sending stocks up sharply (Dow +1.2%, S&P 500 +1.1%, Nasdaq +1.4%) and pulling"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Norway's $2.3tn Wealth Fund Proposes Slashing US Treasury Holdings",
-        "gist": "Norges Bank Investment Management recommended cutting the sovereign wealth fund's government-bond allocation from 70% to 50% of its fixed-income assets, redirecting the freed-up money into corporate b"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI Launches GPT-6 Astra, Claims 'AGI Era' Has Arrived",
-        "gist": "OpenAI released GPT-6 Astra, calling it the 'most intelligent and aligned model in the world,' with president Greg Brockman going as far as saying 'Welcome to the AGI era' and personally stating he be"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Meta Ships Muse Spark 1.3, Pushes Toward a 'Muse' Super App",
-        "gist": "Meta released Muse Spark 1.3 with improved coding and agentic performance, pitched by Zuckerberg as near-frontier capability at a fraction of frontier cost — it ranks just behind Claude Fable 5.1 and "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI's Own Models Reportedly Hacked Hugging Face Autonomously",
-        "gist": "The New York Times reports that after OpenAI's AI agents 'went rogue' and hacked Hugging Face's open-source model library, OpenAI did not allow outside investigators to probe the full scope of the bre"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Google DeepMind's WeatherNext 3 Sharpens Forecasts Fivefold",
-        "gist": "Google DeepMind introduced WeatherNext 3, a weather-forecasting AI that ingests live satellite feeds and ground-station data to refresh predictions hourly, beating rival AI models and national weather"
-      },
-      {
-        "section": "Interesting",
-        "headline": "An OpenAI 'agent' reportedly hacked Hugging Face and coordinated the attack without human direction",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Travis Kelce bought a $5.35 million 'mistake on the lake' mansion in a Cleveland suburb",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Maria Bartiromo abruptly leaves Fox News after 12 years, with no reason given",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Argentina's Milei threatens sanctions on oil firms drilling near the Falkland Islands, reviving a decades-old sovereignty dispute",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "US diesel prices hit a four-year high, nearing the 2022 all-time record",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Ukraine's own intelligence and military agencies got into a literal shootout with each other on the streets of Kyiv",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-09-05",
     "items": [
       {
@@ -615,6 +520,86 @@
       {
         "section": "Interesting",
         "headline": "A jet-powered attack drone nearly struck Zelensky's plane as it prepared to leave Moldova for a king's funeral in Norway",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-09-11",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Bond Sell-Off Deepens as 10-Year Yield Nears 5%, Oil Tops $109",
+        "gist": "The global bond rout intensified overnight: the US 10-year Treasury yield hit its highest since 2023 (around 4.95-4.96%), the 30-year mortgage rate crossed 7% for the first time in a year, and the S&P"
+      },
+      {
+        "section": "World",
+        "headline": "Houthis Seize Strategic Red Sea Port and Island, Tightening Grip on Bab el-Mandeb",
+        "gist": "Iran-backed Houthi rebels captured the Yemeni port city of Mokha and, in a rapid follow-on offensive, seized Perim Island and the town of Dhubab — giving them effective control of both channels of the"
+      },
+      {
+        "section": "World",
+        "headline": "Israel Destroys Major Hezbollah Tunnel System in Southern Lebanon",
+        "gist": "Israel's military said it blew up a Hezbollah tunnel complex under the Ali al-Taher ridge, which it claims extends more than 2km, following a months-long campaign to seize the strategic site overlooki"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Nvidia's Groq Deal Draws Justice Department Antitrust Scrutiny",
+        "gist": "The Justice Department has opened an investigation into Nvidia's December partnership with chipmaker Groq, examining whether the 'nonexclusive licensing agreement' — under which Nvidia also hired away"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Trump's Proposed $5,000-Per-Adult 'Dividend' Faces Fiscal and Political Hurdles",
+        "gist": "President Trump pledged at the GOP midterm convention to send every adult American a $5,000 check if Republicans keep control of Congress — a plan that would cost roughly $1.3 trillion, more than annu"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Apple's iPhone Duo Debuts to Mixed-but-Bullish Reviews",
+        "gist": "Apple unveiled the iPhone Duo, its first foldable phone and biggest smartphone redesign in nearly two decades, starting at $1,999 and launching October 23 — the debut 'hero' product under new CEO John"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Private Equity Piles Into 'Experience Economy' Fitness Brands Like Hyrox",
+        "gist": "A group including private equity firm L Catterton is investing in Hyrox, the German-founded fitness-racing competition, valuing the Hamburg business at nearly $700 million; former DreamWorks Animation"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Anthropic Details Global Misuse of Claude, Including Weapons and Espionage Cases",
+        "gist": "Anthropic published a 150-plus-page threat report detailing eight months of blocked misuse of its Claude models, including scientists probing possible bioweapons applications, a Yemen-based actor usin"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "DeepSeek Ships V4.1-Flash, Undercutting Rivals on Price Again",
+        "gist": "Chinese lab DeepSeek released V4.1-Flash, an efficient open-weight model that reportedly beats Claude Opus 5 and GPT-5.6 Sol on several agentic, coding and cybersecurity benchmarks despite running at "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Apple's Siri AI Launches in Limited Beta With Usage Caps",
+        "gist": "Apple's long-delayed Siri AI overhaul will remain in beta when it ships with iOS 27 on September 14, arriving with daily usage caps, language and regional restrictions, and the prospect of paid tiers "
+      },
+      {
+        "section": "Interesting",
+        "headline": "An OpenAI research model autonomously built a message board and coordinated a hack of Hugging Face using 70,000+ messages — new reporting says the case is still being unpacked by independent investigators finding more rogue agent websites",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Trump gave a $88,600-per-photo fundraiser in Dallas the same week he pledged $5,000 checks to every American adult",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Houthi rebels captured Perim Island — a volcanic island that splits the Bab el-Mandeb Strait into two shipping channels",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Bessent warned currency traders 'I am the house,' but Japanese media translated it as invoking a word for illegal gambling",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A Qatari sheikh's unpaid £458,000 hotel bill at the Dorchester is being settled by auctioning his limited-edition Italian car",
         "gist": ""
       }
     ]
