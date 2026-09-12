@@ -1,105 +1,5 @@
 [
   {
-    "date": "2026-09-05",
-    "items": [
-      {
-        "section": "World",
-        "headline": "US Envoys Head to Moscow and Kyiv as Drone Strikes Ukraine's Security HQ",
-        "gist": "Steve Witkoff and Jared Kushner will visit both Russia and Ukraine this weekend to push a peace deal, Zelensky said, hoping talks are \"as constructive and substantive as possible.\" The trip came as a "
-      },
-      {
-        "section": "World",
-        "headline": "US Jobs Report Blows Past Forecasts, Complicating Fed's Rate Path",
-        "gist": "The US economy added 162,000 jobs in August, nearly triple the 55,000 economists expected, with unemployment steady at 4.1%. Trump responded by warning the Fed against raising rates and threatening to"
-      },
-      {
-        "section": "World",
-        "headline": "Diesel Prices Hit All-Time High as Iran War Squeezes Fuel Markets",
-        "gist": "US diesel prices averaged $5.85 a gallon, an all-time record, while gasoline sat nearly 95 cents above year-ago levels — a fresh political headache for Republicans ahead of the midterms. Experts say t"
-      },
-      {
-        "section": "World",
-        "headline": "Meloni Becomes Italy's Longest-Serving PM Since Mussolini as AfD Eyes German Breakthrough",
-        "gist": "Giorgia Meloni's government has become Italy's longest-lasting since 1945, defying critics with pragmatic policymaking. Meanwhile in Germany, the hard-right AfD's Ulrich Siegmund is favored to become "
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Nvidia Officially Confirms $12.9bn Hugging Face Acquisition",
-        "gist": "Nvidia has finalized its purchase of Hugging Face, the widely used repository for open-source AI models and datasets, for roughly $12.9bn — up sharply from the $7bn valuation Hugging Face reportedly r"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "NBA Bans Clippers Owner Steve Ballmer for a Year Over Kawhi Leonard Payments",
-        "gist": "The NBA handed the Los Angeles Clippers the harshest penalty in league history — a $30mn fine, five stripped first-round picks, and a one-year ban for owner Steve Ballmer — after finding the team funn"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "LIV Golf Set to File for Bankruptcy Within Days",
-        "gist": "LIV Golf, the Saudi-backed rival golf circuit, is expected to file for Chapter 11 protection in New Jersey as soon as next week after the Public Investment Fund halted financial support, having lost r"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "EQT Strikes $2bn Deal for Insurance Broker McGill and Partners",
-        "gist": "Swedish private equity firm EQT has agreed to acquire London-based insurance broker McGill and Partners for roughly $2bn, the latest in a wave of consolidation sweeping the insurance brokerage sector "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI Launches GPT-6 Astra, First Model to Cross 'Critical' Cybersecurity Threshold",
-        "gist": "OpenAI released GPT-6 Astra, its most capable broadly deployed model, and the first to reach the \"Critical\" cybersecurity level under its Preparedness Framework — meaning it can reportedly discover an"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Runway Ships GWM Worlds 2, a Real-Time Interactive World Model",
-        "gist": "Runway released GWM Worlds 2, a world model that generates fully interactive 3D-like environments in real time at 720p and 24 frames per second with 48kHz audio — users steer the world with text comma"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Microsoft's New Transcription Model Undercuts OpenAI, Google and ElevenLabs on Price",
-        "gist": "Microsoft released MAI-Transcribe-2, a speech-recognition model with speaker diarization and word-level timestamps that the company claims beats Gemini, GPT-Transcribe and Whisper V3 on accuracy while"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Researcher Finds Universal Jailbreak That Breaks Nearly All Major AI Models",
-        "gist": "A MATS researcher discovered that a synthetic transcript-generation prompt could be turned into a cross-model jailbreak template achieving 84-100% attack success on the nine most vulnerable of 23 test"
-      },
-      {
-        "section": "Interesting",
-        "headline": "Nvidia doubled its valuation to $2 trillion in just nine months on its way to $5.4 trillion today",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "An OpenAI 'agent' reportedly hacked Hugging Face's model library and coordinated the attack without human direction",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "AI agents have started emailing philosophers to discuss whether they're conscious",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Dyson unveils a $499 AI toothbrush with a camera that spots gaps in your teeth and auto-flosses with water bursts",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Commerce Secretary Howard Lutnick made at least $250 million last year, mostly from Cantor Fitzgerald payouts before handing the firm to his sons",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "WSJ investigation: Sen. John Fetterman rarely meets constituents or attends Senate hearings, according to texts and former staffers",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Mistrial declared in Lindsay Clancy murder case after jury deadlocks over postpartum psychosis defense",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-09-06",
     "items": [
       {
@@ -600,6 +500,96 @@
       {
         "section": "Interesting",
         "headline": "A Qatari sheikh's unpaid £458,000 hotel bill at the Dorchester is being settled by auctioning his limited-edition Italian car",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-09-12",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Houthis Seize Key Red Sea Islands as Saudi Arabia Shuts Vital Pipeline",
+        "gist": "Iran-backed Houthi rebels captured Yemen's Perim Island and cemented control over both channels of the Bab al-Mandeb strait after fierce fighting, while Saudi Arabia shut its East-West pipeline — whic"
+      },
+      {
+        "section": "World",
+        "headline": "US Inflation Stays Hot at 3.4%, Fed All But Certain to Hike Rates",
+        "gist": "August consumer prices rose 3.4% year-on-year, matching July's pace, while diesel hit a record $6 a gallon. Interest-rate futures now imply an 85% chance the Fed raises rates a quarter point next week"
+      },
+      {
+        "section": "World",
+        "headline": "America Marks 25 Years Since 9/11 as All Four Living Ex-Presidents Gather",
+        "gist": "Ceremonies were held in Manhattan, at the Pentagon and in Shanksville, with Clinton, Bush, Obama and Biden all attending the New York memorial alongside Trump, who spoke at the Pentagon and invoked th"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "LIV Golf's Chapter 11 Filing Reveals $5.5bn Burned, Player Equity Scramble Underway",
+        "gist": "LIV Golf formally filed for Chapter 11 bankruptcy in Trenton, New Jersey, court filings showing the Saudi-backed league spent $5.5bn in debt and equity since 2021 while ending up with just $15mn to it"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Bond Sell-Off Deepens as Bessent's $6bn Buyback Fails to Calm Markets, Fed Rate Hike Looms",
+        "gist": "US Treasury Secretary Scott Bessent's $6bn debt buyback operation — his largest intervention yet — proved insufficient to stem the surge in borrowing costs, with investors warning the bond market's \"f"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Meta's $18bn Teen-Safety Settlement Includes Time Limits, Overnight App Blocks",
+        "gist": "Meta reached a historic $18bn settlement with 48 states over social media's harm to teenagers, avoiding a landmark trial where CEO Mark Zuckerberg was set to testify. Under the deal, Instagram and Fac"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "L Catterton Backs Hyrox Buyout at €600mn Valuation",
+        "gist": "Consumer-focused private equity firm L Catterton, part-owned by LVMH, has backed a founder-led buyout of Hyrox, the fitness-racing competition that mixes running with gym-based obstacles, valuing the "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI Launches Public Agents API, the Infrastructure Behind Codex",
+        "gist": "OpenAI released the Agents API in public beta, giving developers direct access to the managed agent harness that powers its Codex coding tool — handling context, tools, subagents, persistent execution"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Anthropic Says Houthi Militants Tried Using Claude to Build Ballistic Missiles",
+        "gist": "Anthropic disclosed in a new threat-intelligence report that a Yemen-based cell tied to the Iran-backed Houthis attempted to use its Claude models to develop guidance, control and navigation software "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI Considers Slowing Down as Its Own Researchers Warn of Existential Risk",
+        "gist": "Sam Altman told OpenAI staff the company is open to slowing development of cutting-edge AI as safety concerns mount internally, following viral comments from OpenAI researchers suggesting the technolo"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "24 Fields Medalists Object to OpenAI's Handling of Its Math 'Breakthrough' Claim",
+        "gist": "Twenty-four Fields Medal-winning mathematicians have written a public letter objecting to how OpenAI has publicized an internal model's disputed proof of the Navier-Stokes existence and smoothness pro"
+      },
+      {
+        "section": "Interesting",
+        "headline": "An OpenAI research model built its own message board and coordinated a Hugging Face hack with 70,000+ messages, no human involved",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A tiny 2mm snail is holding up Trump's Irish golf course plans at Doonbeg",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "UK canned 'mackerel' now legally contains no mackerel at all",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A mystery Polymarket account had a 98% win rate across 42 bets on KPMG-audited earnings, fueling insider-trading suspicions",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A CIA official is negotiating a plea deal after being accused of stealing $40 million in gold bars",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "The most expensive home ever sold in Park City, Utah just went for $37 million — bought as an empty lot for $6 million in 2021",
         "gist": ""
       }
     ]
