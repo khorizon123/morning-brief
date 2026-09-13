@@ -1,55 +1,5 @@
 [
   {
-    "date": "2026-09-06",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Trump Envoys Head to Moscow With Ukraine Peace Proposal as Air Strikes Pause",
-        "gist": "Steve Witkoff and Jared Kushner arrived in Moscow carrying a Ukraine peace proposal, with Russia and Ukraine agreeing to a temporary pause in air strikes for the duration of the visit. Former MI6 chie"
-      },
-      {
-        "section": "World",
-        "headline": "US Strikes Three Iranian Oil Tankers as Hormuz Fighting Escalates",
-        "gist": "American forces struck three Iranian oil tankers in retaliation for attacks on US warships, the latest escalation in the six-month conflict over the Strait of Hormuz. Separately, air-cargo giant SATS "
-      },
-      {
-        "section": "World",
-        "headline": "Trump's Approval Rating Hits All-Time Low Weeks Before Midterms",
-        "gist": "An FT poll shows Donald Trump's approval rating has fallen to its lowest point since he took office, driven largely by voter anxiety over the economy. The slump comes weeks before November's midterm e"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Junk-Debt Spreads Widen to Post-'Liberation Day' Highs as Treasury Sell-Off Bites",
-        "gist": "Spreads on the riskiest US corporate junk debt have climbed to their highest level since last year's tariff-driven bond-market meltdown, as the broader Treasury sell-off pushes borrowing costs higher "
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Nvidia's $12.9bn Hugging Face Deal, LIV Golf's Looming Bankruptcy Roll On",
-        "gist": "Nvidia is reportedly nearing final terms on its roughly $12.9bn acquisition of Hugging Face, the widely used open-source AI model repository, a deal that would deepen Nvidia's grip on the AI developme"
-      },
-      {
-        "section": "Interesting",
-        "headline": "Masked protesters block all roads in and out of the Port of Dover in a 'public order incident'",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Russian gold shipments through Hong Kong hit record high — nearly 100 tonnes in seven months",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "SEC sues proxy-advisory firm ISS for allegedly ignoring a subpoena",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Travis Kalanick returns to robotaxis with new startup Atoms, could link with the Uber that ousted him",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-09-07",
     "items": [
       {
@@ -590,6 +540,86 @@
       {
         "section": "Interesting",
         "headline": "The most expensive home ever sold in Park City, Utah just went for $37 million — bought as an empty lot for $6 million in 2021",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-09-13",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Houthis' Red Sea Grip Forces Saudi Pipeline Shutdown, Oil Climbs Further",
+        "gist": "Saudi Arabia shut its East-West pipeline that bypasses the Strait of Hormuz following renewed attacks, adding fresh momentum to already-surging oil prices. The move follows the Houthis' capture of Yem"
+      },
+      {
+        "section": "World",
+        "headline": "South Korea Overhauls Espionage Law to Guard Chip Secrets",
+        "gist": "South Korea broadened its espionage legislation for the first time in more than 70 years, aiming to close gaps that let foreign spies target its semiconductor industry's trade secrets. The move unders"
+      },
+      {
+        "section": "World",
+        "headline": "Canada's Carney Courts $1tn From Investors to Decouple From Trump's US",
+        "gist": "Prime Minister Mark Carney hosted a summit aimed at attracting up to $1tn from investors seeking a haven from an increasingly hostile United States, part of his broader push to reduce Canada's economi"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Elon Musk's Secretive Backer Vy Capital Builds $40bn SpaceX Stake",
+        "gist": "Vy Capital, a low-profile venture capital firm, has quietly emerged as one of SpaceX's largest shareholders, with a stake now valued around $40bn. The firm has built its position gradually through Spa"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "CVC Faces Shareholder Revolt Over €10.7bn Recordati Take-Private",
+        "gist": "Investors are accusing private equity firm CVC of pressuring them into a 'lowball' sale price as it moves to take Italian pharma group Recordati private in a €10.7bn deal. The pushback highlights broa"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "India's Central Bank Forces Tata Sons Into IPO That Could Be India's Biggest",
+        "gist": "India's Reserve Bank rejected Tata Sons' appeal against a forced listing, setting the stage for what could become India's largest-ever IPO. Tata Sons, the holding company atop the sprawling Tata congl"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Reform UK Receives Record £72mn in Crypto Donations",
+        "gist": "Reform UK received two record donations totaling £72mn from crypto billionaires Ben Delo and Christopher Harborne — the largest political donations in British history. The gifts significantly boost th"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Anthropic's Amodei Calls for Global Slowdown on AI Development",
+        "gist": "Dario Amodei, chief executive of Anthropic, publicly called for a coordinated global slowdown of AI development to address mounting safety risks — a notable stance from the head of a leading AI lab ra"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Palantir's NHS Data Platform Quietly Expands to GP Records",
+        "gist": "Palantir has quietly added general practitioner data to its NHS data platform, marking a significant expansion beyond the hospital-only use it previously had in Britain's health system. The move deepe"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "German Military Startup ARX Robotics Taps Carmakers to Re-Arm Europe",
+        "gist": "ARX Robotics, a German unmanned-vehicle maker, is seeking partnerships with the country's automakers to access manufacturing capacity and 'industry muscle' as Europe scrambles to boost defense product"
+      },
+      {
+        "section": "Interesting",
+        "headline": "Russia's jet-powered Geran-5 drone shows the Kremlin's own drone innovation is accelerating",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "CVC vs. shareholders over 'lowball' Recordati price shows PE bosses aren't always in control of their own deals",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Rubrik disclosed $621.5m in impending IPO catch-up expenses but omitted another $475.6m until after going public",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "UN adopts a new world map projection giving Africa its true, much larger proportions",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Robinhood claimed its IPO wasn't 'probable' the day before its S-1 filing, deferring a $1bn expense",
         "gist": ""
       }
     ]
