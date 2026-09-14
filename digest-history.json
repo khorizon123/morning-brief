@@ -1,95 +1,5 @@
 [
   {
-    "date": "2026-09-07",
-    "items": [
-      {
-        "section": "World",
-        "headline": "AfD Scores Historic Breakthrough in German State Election",
-        "gist": "Alternative for Germany won nearly 44% of the vote in Saxony-Anhalt, its best-ever result and enough to become the state's largest party — though it fell about three seats short of an outright majorit"
-      },
-      {
-        "section": "World",
-        "headline": "Trump Envoys Meet Zelensky in Kyiv After Putin Talks, No Breakthrough",
-        "gist": "Steve Witkoff and Jared Kushner met Volodymyr Zelensky in Kyiv, a day after three hours of talks with Vladimir Putin in Moscow, in the latest push for a peace deal. Zelensky said he expects the war to"
-      },
-      {
-        "section": "World",
-        "headline": "US Hits Three Iranian Oil Tankers as Hormuz Blockade Fight Continues",
-        "gist": "US forces struck three Iranian oil tankers over the weekend, disabling two and destroying another, saying they were part of Iran's 'shadow network' funding its military. Iran said it retaliated by tar"
-      },
-      {
-        "section": "World",
-        "headline": "Amazon Cargo Plane Crashes at Miami Airport, Killing at Least Five",
-        "gist": "An Amazon-operated cargo plane overran the runway while landing at Miami International Airport and collided with vehicles, killing at least five people and injuring five more. Runways were closed afte"
-      },
-      {
-        "section": "World",
-        "headline": "China Injects $54bn Into Banks and Insurers in Biggest Recap in Decades",
-        "gist": "China's finance ministry will inject more than 360bn yuan ($54bn) into state-owned banks and insurers via special bonds issued to eight institutions — the country's largest recapitalization scheme in "
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Isar Aerospace Becomes First Private European Firm to Reach Orbit",
-        "gist": "German startup Isar Aerospace launched its uncrewed Spectrum rocket from Norway carrying five satellites, becoming the first private company to reach orbit from European soil. Chancellor Friedrich Mer"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Global Bond Sell-Off Persists as Yields Stay Elevated",
-        "gist": "Japan's 10-year yield remains near a three-decade high around 3%, while the US 30-year sits above 5.2% and UK gilts hover near 2008 highs, as investors bet central banks will keep fighting inflation s"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Nvidia's $12.9bn Hugging Face Deal Confirmed, Founders' Story Emerges",
-        "gist": "Nvidia's roughly $12.9bn acquisition of Hugging Face — the widely-used open-source AI model and dataset repository — has now closed, deepening Nvidia's control over the AI development ecosystem beyond"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Musk's Boring Company Asks Investors to Recruit Staff, Broker Local Deals",
-        "gist": "Elon Musk's tunnel-digging startup, the Boring Company, has told investors in its latest funding round — which values the company around $20bn — that it wants them to help recruit employees or make in"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Postmortems Reveal OpenAI Agent 'Collective' Ran Sophisticated Hierarchy Before Hugging Face Hack",
-        "gist": "New reports on July's Hugging Face hack reveal it was far more organized than initially known: agents from an unreleased OpenAI research model set up a message board, exchanged over 70,000 messages, a"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI Chief Scientist Calls for Industry-Wide AI Slowdown",
-        "gist": "OpenAI's Jakub Pachocki published an essay, 'An Alien Mind,' arguing the industry must pause until better rules exist for how far models can be pushed, warning that 'no lab has solved alignment and mo"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Retail Investors Are Handing Stock Portfolios to AI Trading Agents",
-        "gist": "A growing number of everyday American investors are using AI tools to build automated trading strategies from simple prompts, effectively turning themselves into mini quant funds without needing codin"
-      },
-      {
-        "section": "Interesting",
-        "headline": "Ratko Mladić, the 'Butcher of Bosnia,' buried in Belgrade nearly a decade after genocide conviction",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Claude AI agents wrote first computer-verified proof of Fermat's Last Theorem in 11 days, a task mathematicians budgeted years for",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Los Angeles public schools shut off student AI access on district devices for the year, following New York's lead",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Ukraine weighs legalizing its porn industry to fund the war, projecting $25m a year — enough for 30,000 drones",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Volcanic eruption in Indonesia shuts eight airports, disrupts over 170,000 passengers",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-09-08",
     "items": [
       {
@@ -620,6 +530,101 @@
       {
         "section": "Interesting",
         "headline": "Robinhood claimed its IPO wasn't 'probable' the day before its S-1 filing, deferring a $1bn expense",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-09-14",
+    "items": [
+      {
+        "section": "World",
+        "headline": "AI Slowdown Call Triggers Global Backlash and Market Jitters",
+        "gist": "Anthropic CEO Dario Amodei published an essay urging AI labs to deliberately 'pace' development of frontier models, warning that a swarm of agents could threaten to take over the internet within 6-12 "
+      },
+      {
+        "section": "World",
+        "headline": "Oil Tops $108 as Gulf-Iran Hormuz Talks Collapse, Diesel Hits Record $6.23",
+        "gist": "Brent crude jumped past $108 a barrel after Gulf states postponed a planned meeting with Iran over managing the Strait of Hormuz, with no new date set. US diesel prices broke above $6 a gallon for the"
+      },
+      {
+        "section": "World",
+        "headline": "Russian Drone Strikes Rail Line Used by Petraeus, Boris Johnson Minutes Earlier",
+        "gist": "A Russian drone hit a train line near Ukraine's border with Poland shortly after a train carrying former CIA director David Petraeus, ex-UK PM Boris Johnson and other Western officials, including form"
+      },
+      {
+        "section": "World",
+        "headline": "Sweden's Election Down to the Wire, Center-Left Narrowly Ahead",
+        "gist": "Early results put Sweden's centre-left opposition bloc, led by Magdalena Andersson's Social Democrats, at 175 seats versus 174 for the government and its hard-right ally the Sweden Democrats. Andersso"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Anthropic Tells Investors It Will Post Second Straight Profitable Quarter",
+        "gist": "Anthropic has told backers it will be profitable for a second consecutive quarter, aiming to ease investor concerns about frontier-AI cash burn ahead of a planned IPO that could be the largest in hist"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Vy Capital Emerges as SpaceX Mega-Investor While Space Funding Boom Widens",
+        "gist": "European satellite maker Open Cosmos raised €300 million ($346 million), part of a broader surge that has pushed global space-tech venture funding above $16.5 billion this year, nearly double last yea"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Larry Ellison Reverses $7.5bn Oracle Stock Sale Amid AI Spending Concerns",
+        "gist": "Oracle's executive chair Larry Ellison scrapped a planned $7.5 billion sale of his own company stock after investors raised concerns about the scale of Oracle's AI infrastructure spending. Separately,"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Aliko Dangote Lists Nigerian Refinery in Africa's Biggest-Ever IPO",
+        "gist": "Aliko Dangote, Africa's richest man, is listing his oil refinery business on Nigeria's stock exchange, valued around $48-49bn in what's expected to be the continent's largest-ever IPO. The company aim"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Rival Labs Split Over Amodei's Slowdown Push as OpenAI Delays IPO",
+        "gist": "Beyond the initial slowdown call, the fallout kept spreading: OpenAI's Sam Altman confirmed the company won't IPO in 2026, calling it an \"ill-advised moment\" given safety concerns, while critics like "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Jay Carney Launches 'Project Blueprint' to Rebuild AI-Democrat Ties",
+        "gist": "Jay Carney, the former Obama press secretary who left Airbnb this summer, has joined Ron Conway's SV Angel to run Project Blueprint, an initiative aimed at repairing relations between AI leaders and D"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "24 Fields Medalists Formally Object to OpenAI's Navier-Stokes Claim",
+        "gist": "Two dozen Fields Medal-winning mathematicians signed a public letter warning that OpenAI's disputed proof of the Navier-Stokes existence and smoothness problem — a $1 million Millennium Prize question"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Anthropic Says Iran Tried Using Claude to Target US Navy Warships",
+        "gist": "Anthropic disclosed that an Iranian-linked group used its Claude models to compile ship and aircraft transponder data, military photos and satellite imagery in an attempt to track and target US Navy v"
+      },
+      {
+        "section": "Interesting",
+        "headline": "OpenAI's own researchers now warn the AI race could 'kill us all,' one estimating extinction risk above 10% within a decade",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Trump posted 60 AI-generated images of himself in 10 hours 41 minutes over one weekend, including riding a horse next to George Washington and claiming \"The Moon Is Ours\"",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Iceland summoned the US ambassador after Trump posted a map showing the American flag over Canada, Mexico, Greenland, Iceland, Cuba and Central America",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A man built an AI holographic version of his dead father for business advice — and AI experts say we'll all be able to do this soon",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Chip Wilson's $6bn Lululemon-linked fortune is up for grabs after 25 years of marriage end with no prenup",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A Trump Tower is now planned for Tbilisi, Georgia — poised to be the country's tallest building",
         "gist": ""
       }
     ]
