@@ -1,95 +1,5 @@
 [
   {
-    "date": "2026-09-09",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Oil Tops $100 as US-Iran Conflict Escalates, Houthis Hit Saudi Arabia Again",
-        "gist": "Brent crude broke above $100 a barrel for the first time since July after the US struck five Iranian oil tankers near Kharg Island in response to renewed Iranian missile attacks on US warships. Iran r"
-      },
-      {
-        "section": "World",
-        "headline": "AfD's Record State Win Pushes Germany to Confront Its 'Firewall'",
-        "gist": "Days after Alternative for Germany's historic win in Saxony-Anhalt, Chancellor Friedrich Merz finds himself fighting for political survival, with a major German newsmagazine calling him \"the wrong man"
-      },
-      {
-        "section": "World",
-        "headline": "US Bans Canadian Dairy, Alcohol and Motorcycles as Trade War Escalates",
-        "gist": "Trump signed orders banning imports of many Canadian dairy products, alcoholic beverages and motorcycles starting Sept. 29, retaliating after Canada's tariffs of up to 50% on roughly $20bn of US goods"
-      },
-      {
-        "section": "World",
-        "headline": "UK, Canada, France Sanction Israeli West Bank Settlements",
-        "gist": "Britain announced an import ban on goods linked to Israeli settlements in the occupied West Bank, accusing settlers of \"ethnically cleansing\" Palestinians; Canada and France joined the action. Israel "
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Copper Hits Record as Oil Spike, Bond Sell-Off Stoke Inflation Fears",
-        "gist": "Copper climbed above $14,509 a metric ton in London, up roughly 17% this year, driven by AI data-center demand, aging mines, Congo export curbs, and a 50% US tariff on semifinished copper that's pulle"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "LIV Golf Files for Bankruptcy as Saudi Funding Dries Up",
-        "gist": "The Saudi-backed LIV Golf league filed for Chapter 11 protection in New Jersey, citing liabilities between $500m and $1bn, with several of its own golfers among the top-10 unsecured creditors. Launche"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Nvidia's $12.9bn Hugging Face Deal Closes",
-        "gist": "Nvidia has finalized its roughly $12.9bn acquisition of Hugging Face, the widely used open-source AI model and dataset repository — up sharply from the $7bn valuation Hugging Face rejected earlier thi"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Cognition Raises $2bn More at $48bn Valuation as Revenue Nears $900m",
-        "gist": "Devin-maker Cognition announced a new $2bn funding round at a $48bn valuation, up sharply from the ~$47bn figure reported days earlier, with annualized revenue nearly doubling to $900m since May. The "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI Claims It Solved a $1M Millennium Prize Math Problem — Then a Credit Fight Erupted",
-        "gist": "OpenAI says an unreleased internal model \"significantly more capable\" than GPT-6 Astra produced a proof of the Navier-Stokes existence and smoothness problem — one of seven Clay Institute Millennium P"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Meta Launches Muse, an Always-On AI Agent That Shops and Emails for You",
-        "gist": "Meta introduced Muse, a personal AI agent with a text-message interface that books restaurant tables, sends emails and shops on a user's behalf via its own cloud-based virtual machine, integrating wit"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Anthropic Researcher Resigns, Warns Labs Are 'Gambling' on Superintelligence",
-        "gist": "Jacob Coxon, a 27-year-old British Anthropic researcher who previously worked at OpenAI, quit and warned publicly that the unchecked race to build self-improving superintelligence could destroy humani"
-      },
-      {
-        "section": "Interesting",
-        "headline": "Nvidia is TPU rival Google's biggest new inference competitor: TPUv7 Ironwood claims 50% better performance-per-dollar than Nvidia's B200/B300",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "OpenAI's Navier-Stokes proof reportedly used 2.7 million agent messages over 88 hours",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A researcher built a Chrome extension, Deckard, that locally scans web pages to flag AI-generated text",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "UK air traffic control system failure grounds over 1,000 flights at Heathrow and Gatwick",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A 92-year-old mathematician and her teenage apprentice were the most-clicked story in NYT's Morning newsletter yesterday",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Billionaire hedge fund manager Chris Rokos is relocating his tax residency to Greece to pay a 5% rate on bonuses and carried interest",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-09-10",
     "items": [
       {
@@ -615,6 +525,126 @@
       {
         "section": "Interesting",
         "headline": "Combined value of professionally authenticated Pokémon cards now estimated at $9bn, with individual cards fetching over $1mn",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-09-16",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Fed Set to Raise Rates as Treasury Yields Hit 19-Year High",
+        "gist": "The Federal Reserve concludes its two-day meeting today with markets pricing in over 90% odds of a quarter-point hike, even as Trump publicly attacks the Fed and the justices he appointed. The 10-year"
+      },
+      {
+        "section": "World",
+        "headline": "Trump Threatens Kennedy Center Renovation Over Naming Dispute",
+        "gist": "A federal judge ruled Trump's name cannot be inscribed on the Kennedy Center facade without Congressional approval, prompting Trump to threaten blocking a $257 million renovation unless the appeals co"
+      },
+      {
+        "section": "World",
+        "headline": "Senate Blocks Landmark Crypto Bill Amid Trump Ethics Concerns",
+        "gist": "The Senate voted down the Clarity Act, a business-friendly crypto regulatory framework, after Democrats demanded stronger limits on Trump's own crypto profits — he reported earning over $1bn from cryp"
+      },
+      {
+        "section": "World",
+        "headline": "Iran War Has Cost US $38bn So Far, CBO Estimates",
+        "gist": "The Congressional Budget Office says the conflict with Iran has cost the Pentagon $38 billion since it began, with an additional $2-3bn a month projected going forward, not counting damaged base repai"
+      },
+      {
+        "section": "World",
+        "headline": "US Charges Five in Alleged Russian 'Assassination Network'",
+        "gist": "The Justice Department indicted five people it says were part of a Kremlin-backed operation conducting surveillance and plotting murder-for-hire attacks against dissidents on American soil and in Lith"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "OpenAI Explores Fresh Round at $1.2tn Valuation Ahead of IPO",
+        "gist": "OpenAI has held early talks with investors about raising another private funding round valuing the company at $1.2 trillion, capitalizing on the reception of its latest model before a planned public l"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Michael Dell's Family Office Wins Baldwin Group Bidding War",
+        "gist": "DFO Management, Michael Dell's family office, along with holding company Sequence Holdings, agreed to acquire insurance broker The Baldwin Group for $7.7 billion, outbidding private equity giants incl"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Brookfield to Buy Reliance Worldwide for $2.9bn",
+        "gist": "Brookfield Asset Management agreed to acquire Reliance Worldwide, an Australian plumbing-supplies manufacturer, in an all-cash deal valuing the company at $2.9 billion — the latest in a run of infrast"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "US Senate Kills Crypto Clarity Act as Bitcoin Slides",
+        "gist": "The Senate's failure to advance the Clarity Act — the crypto industry's top legislative priority — sent Bitcoin down nearly 2% as traders had bet on the bill clearing a 60-vote procedural threshold. D"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Vodafone Set to Lose €1.1bn as Drahi Sells German JV Stake to SocGen",
+        "gist": "Vodafone will miss out on up to €1.1bn in deferred payments and earnout potential after Patrick Drahi's Geodesia Holding sold its 50% stake in German broadband joint venture OXG to Société Générale, w"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI Buys Camera-AI Startup Glass Imaging for $300M+",
+        "gist": "OpenAI has quietly acquired Glass Imaging, a startup founded by former Apple engineers behind Portrait Mode that uses AI to sharpen phone photography, valuing the company at over $300 million. It's th"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Apple's Siri Overhaul Secretly Built to Let ChatGPT or Claude Take Over",
+        "gist": "Private iOS 27 and macOS code shows Apple built Siri with a 'Model Delegation' framework so Claude or GPT-5.6 can act as the underlying brain, handling natural-language requests before handing tasks l"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Nvidia's Huang Rejects AI Slowdown Push, Says Market Forces Suffice",
+        "gist": "Nvidia CEO Jensen Huang argued America doesn't need new AI regulations, saying market forces already push labs toward safety — directly at odds with the coordinated slowdown Anthropic and other lab le"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Anthropic Preps 'Claude Money' for Personal Finance",
+        "gist": "Anthropic is developing Claude Money, a feature letting users link bank accounts so Claude can answer questions about spending and financial plans directly, without manual statement uploads. Details o"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Companies Pull Back From Anthropic's Claude Over Data Retention Fears",
+        "gist": "Palantir, Booz Allen Hamilton and Nvidia are restricting use of Fable, Anthropic's newest Claude model, because it retains user data for 30 days by default for 'safety monitoring.' StackBlitz's CEO sa"
+      },
+      {
+        "section": "Interesting",
+        "headline": "OpenAI in early talks to raise new round at $1.2 trillion valuation, up from $852bn in March",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Chinese researchers publish roadmap for AI 'recursive self-improvement,' with under 6% of surveyed papers reaching the most advanced tier",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "TypeSafe launches Jev, an AI that 'can't hallucinate' because it only picks from preset options — 238x cheaper than Claude Fable 5.1",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "UN adopts new world map projection giving Africa its true, larger proportions",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Sam Altman confirms OpenAI won't IPO in 2026, calling it 'ill-advised' amid safety concerns",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "CIO of Palantir blames the effective altruism movement, and Sam Bankman-Fried's ties to it, for the AI-doom panic",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Global average PISA scores hit their worst level since testing began in 2000, with a typical 15-year-old now reading like a 14-year-old did a decade ago",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "American median household income hit a record $87,460 in 2025, before the Iran war's inflation hit",
         "gist": ""
       }
     ]
