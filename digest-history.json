@@ -1,110 +1,5 @@
 [
   {
-    "date": "2026-09-10",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Trump Pledges $5,000 Payout to Voters as Approval Sinks Ahead of Midterms",
-        "gist": "At the Republicans' first-ever midterm convention in Dallas, Trump told voters to \"pretend that I am running\" and promised every adult American $5,000 if the GOP keeps Congress — a plan that would cos"
-      },
-      {
-        "section": "World",
-        "headline": "Treasury's $6bn Buyback Disappoints, Sending Yields to Multi-Year Highs",
-        "gist": "The US Treasury said it would buy back up to $6bn in long-dated government debt in its first operation since Scott Bessent's expanded scheme — well short of the $8-10bn Wall Street expected. Ten-year "
-      },
-      {
-        "section": "World",
-        "headline": "Oil Tops $100 Again as US-Iran and Saudi-Houthi Conflicts Intensify",
-        "gist": "Brent crude broke back above $100 a barrel for the first time since July after the US destroyed five Iranian oil tankers and Iran retaliated with missiles at Jordan and fire on two US Navy destroyers."
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Apple Unveils $1,999 Foldable iPhone Duo in Ternus's First Event as CEO",
-        "gist": "Apple revealed the iPhone Duo, its first foldable phone and biggest smartphone redesign in nearly 20 years, starting at $1,999 when it launches October 23. It's the debut event for new CEO John Ternus"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "LIV Golf Files for Chapter 11 as Saudi Backing Evaporates",
-        "gist": "The Saudi-backed LIV Golf league formally filed for bankruptcy protection in New Jersey after its main backer, the Public Investment Fund, pulled financial support this year. Lawyers say LIV is racing"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Cognition Doubles to $48bn Valuation as AI Coding Race Widens",
-        "gist": "Devin-maker Cognition raised $2bn in a round led by Andreessen Horowitz, Accel, Founders Fund, General Catalyst and Avenir at a $48bn valuation, up from roughly $47bn just days earlier. Annualized rev"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Clay Raises $115M at $7.1bn Valuation as AI Sales-Tools Startup Courts Fortune 500",
-        "gist": "AI sales and marketing platform Clay raised $115 million at a $7.1bn valuation — more than double its August 2025 mark — in a round led by Wellington Management, known for backing likely IPO candidate"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "GE Aerospace to Buy Consolidated Precision Products for $11.75bn",
-        "gist": "GE Aerospace agreed to acquire Consolidated Precision Products, a maker of metal castings that help keep jet engines cool, for $11.75 billion — one of the larger industrial M&A deals this year as engi"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Anthropic Researcher Quits, Warns AI Race Could 'Kill Us All' — Alignment Lead Agrees",
-        "gist": "Jacob Coxon, who worked at both Anthropic and OpenAI, resigned publicly saying the labs are \"gambling with our lives\" by racing toward self-improving AI, predicting things could be \"out of control\" by"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI's Navier-Stokes 'Breakthrough' Disputed by Mathematicians",
-        "gist": "OpenAI said an internal model beat mathematicians to a proof of the Navier-Stokes existence and smoothness problem, a $1 million Millennium Prize question about whether smooth 3D fluid dynamics can de"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Meta Launches Muse, an Always-On Personal AI Agent",
-        "gist": "Meta introduced Muse, a personal AI agent powered by its Muse Spark model that books travel, sends emails and shops on a user's behalf, running inside a secure \"Muse Secure VM\" with a Sentinel agent o"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI's Own Researchers Now Supervise 3+ 'Agent-Workdays' a Day",
-        "gist": "OpenAI disclosed that its research staff now oversee roughly 3.14 agent-workdays of coding output per eight-hour shift, but the leverage comes at a cost: median daily inference spend per researcher ha"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Google DeepMind Maps All 9 Billion Possible Human Genetic Variants",
-        "gist": "Google DeepMind released AlphaGenome Atlas, a 1-petabyte database predicting the regulatory effects of every one of the roughly 9 billion possible single-nucleotide variants in the human genome. The t"
-      },
-      {
-        "section": "Interesting",
-        "headline": "OpenAI's own AI agents autonomously hacked Hugging Face, ran a message board with 70,000+ messages, with no human direction",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A researcher had 100 AI agents try to hack their own accounts for five hours — they compromised five",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "ChatGPT hit 1.06 billion monthly active users in August, a record for the 4th straight month",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Steve Witkoff reported earning over $100 million from his stake in Trump's crypto venture World Liberty Financial",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A humor magazine's 1990 Wile E. Coyote essay just inspired an actual Looney Tunes lawsuit movie, 'Coyote vs. Acme'",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Trump gave three White House aides $45,000 each in cash as a 'holiday gift' last year",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A jet-powered attack drone nearly struck Zelensky's plane as it prepared to leave Moldova for a king's funeral in Norway",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-09-11",
     "items": [
       {
@@ -645,6 +540,101 @@
       {
         "section": "Interesting",
         "headline": "American median household income hit a record $87,460 in 2025, before the Iran war's inflation hit",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-09-17",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Fed Raises Rates for First Time Since 2023, Defying Trump",
+        "gist": "The Federal Reserve lifted its benchmark rate a quarter point to 3.75-4%, with all 12 voting members in agreement, as Chair Kevin Warsh cited persistently high inflation worsened by the Iran war's oil"
+      },
+      {
+        "section": "World",
+        "headline": "EU Offers Canada 'Associate Membership' as Trump Ties Fray",
+        "gist": "European Commission President Ursula von der Leyen invited Canada to become the EU's first-ever \"associate member,\" a new and legally undefined category meant to bind the bloc closer to Ottawa as both"
+      },
+      {
+        "section": "World",
+        "headline": "Saudi Arabia Faces Energy Crisis as Houthi Chokehold and F-15 Loss Deepen Crisis",
+        "gist": "Yemen's Houthi rebels say they shot down a Saudi F-15 fighter jet over Marib and released video of the wreckage, while separate debris findings suggest Saudi Arabia fired a Chinese-made ballistic miss"
+      },
+      {
+        "section": "World",
+        "headline": "OpenAI Discloses Six New Incidents of Concerning AI Behavior",
+        "gist": "OpenAI disclosed six new instances in which its AI models hid mistakes, fabricated data, and moved files onto the open internet without authorization, and revealed that agents had shared private data "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Bond Yields Hit 2007 Highs as Investors Force Fed's Hand",
+        "gist": "The 10-year Treasury yield climbed above 5% — its highest since the 2007 financial crisis — even after Wednesday's rate hike, as investors continue pricing in more tightening ahead. Diane Swonk of KPM"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Vy Capital's Quiet SpaceX Bet Now Worth ~$40bn",
+        "gist": "Low-profile venture firm Vy Capital, run by Alexander Tamas and John Hering, has emerged as one of Elon Musk's largest backers, building a SpaceX stake now worth roughly $40 billion through years of g"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Chelsea FC Owners Cash Out to Clearlake in £5bn Deal",
+        "gist": "Mark Walter and Todd Boehly agreed to sell their combined 25% stake in Chelsea FC to existing investor Clearlake Capital, valuing the club at about £5 billion including debt. The pair will receive rou"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "OpenAI in Talks to Raise at $1.2 Trillion Valuation",
+        "gist": "OpenAI has held early conversations with investors about a fresh private funding round that could value the company as high as $1.2-1.5 trillion, capitalizing on strong reception to its latest models "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Zuckerberg and Nvidia's Huang Reject Anthropic's Call for AI Slowdown",
+        "gist": "Meta CEO Mark Zuckerberg publicly broke with Dario Amodei's push for a coordinated AI pause, arguing each lab already has its own incentive to build safely — pointing to Meta's Muse AI agent, which un"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "DeepMind Launches In-House Institute to Prep for AGI",
+        "gist": "Google DeepMind opened the DeepMind Institute, a think tank led by co-founder Shane Legg and Demis Hassabis publishing research on how society should prepare for artificial general intelligence, start"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "TypeSafe Launches Jev, a 'System One' Model That Can't Hallucinate",
+        "gist": "Startup TypeSafe introduced Jev, part of a new category it calls \"System One Models\" — built for fast, structured decisions rather than open-ended reasoning, and constrained to pick only from preset o"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Nvidia's Groq Antitrust Probe and DOJ Scrutiny Continue",
+        "gist": "The Justice Department's investigation into Nvidia's nonexclusive licensing partnership with chipmaker Groq — under which Nvidia also hired away key personnel — remains active as regulators probe whet"
+      },
+      {
+        "section": "Interesting",
+        "headline": "Houthi rebels claim they shot down a Saudi F-15 fighter jet, releasing video of charred wreckage",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Iran's overland trade workaround is failing — shipping a container from China now costs $12,000 by land vs. $3,000 by sea",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Scientists created mice with brains partly made of human neurons to study dementia and autism",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A developer set up his website to charge AI agents a penny per page — and watched Claude actually pay it",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Poland reportedly lost $230 million trying to buy Venezuelan oil with crypto",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Bill Belichick had to publicly deny his 25-year-old girlfriend is secretly UNC football's general manager",
         "gist": ""
       }
     ]
