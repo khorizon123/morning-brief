@@ -1,85 +1,5 @@
 [
   {
-    "date": "2026-09-11",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Bond Sell-Off Deepens as 10-Year Yield Nears 5%, Oil Tops $109",
-        "gist": "The global bond rout intensified overnight: the US 10-year Treasury yield hit its highest since 2023 (around 4.95-4.96%), the 30-year mortgage rate crossed 7% for the first time in a year, and the S&P"
-      },
-      {
-        "section": "World",
-        "headline": "Houthis Seize Strategic Red Sea Port and Island, Tightening Grip on Bab el-Mandeb",
-        "gist": "Iran-backed Houthi rebels captured the Yemeni port city of Mokha and, in a rapid follow-on offensive, seized Perim Island and the town of Dhubab — giving them effective control of both channels of the"
-      },
-      {
-        "section": "World",
-        "headline": "Israel Destroys Major Hezbollah Tunnel System in Southern Lebanon",
-        "gist": "Israel's military said it blew up a Hezbollah tunnel complex under the Ali al-Taher ridge, which it claims extends more than 2km, following a months-long campaign to seize the strategic site overlooki"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Nvidia's Groq Deal Draws Justice Department Antitrust Scrutiny",
-        "gist": "The Justice Department has opened an investigation into Nvidia's December partnership with chipmaker Groq, examining whether the 'nonexclusive licensing agreement' — under which Nvidia also hired away"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Trump's Proposed $5,000-Per-Adult 'Dividend' Faces Fiscal and Political Hurdles",
-        "gist": "President Trump pledged at the GOP midterm convention to send every adult American a $5,000 check if Republicans keep control of Congress — a plan that would cost roughly $1.3 trillion, more than annu"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Apple's iPhone Duo Debuts to Mixed-but-Bullish Reviews",
-        "gist": "Apple unveiled the iPhone Duo, its first foldable phone and biggest smartphone redesign in nearly two decades, starting at $1,999 and launching October 23 — the debut 'hero' product under new CEO John"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Private Equity Piles Into 'Experience Economy' Fitness Brands Like Hyrox",
-        "gist": "A group including private equity firm L Catterton is investing in Hyrox, the German-founded fitness-racing competition, valuing the Hamburg business at nearly $700 million; former DreamWorks Animation"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Anthropic Details Global Misuse of Claude, Including Weapons and Espionage Cases",
-        "gist": "Anthropic published a 150-plus-page threat report detailing eight months of blocked misuse of its Claude models, including scientists probing possible bioweapons applications, a Yemen-based actor usin"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "DeepSeek Ships V4.1-Flash, Undercutting Rivals on Price Again",
-        "gist": "Chinese lab DeepSeek released V4.1-Flash, an efficient open-weight model that reportedly beats Claude Opus 5 and GPT-5.6 Sol on several agentic, coding and cybersecurity benchmarks despite running at "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Apple's Siri AI Launches in Limited Beta With Usage Caps",
-        "gist": "Apple's long-delayed Siri AI overhaul will remain in beta when it ships with iOS 27 on September 14, arriving with daily usage caps, language and regional restrictions, and the prospect of paid tiers "
-      },
-      {
-        "section": "Interesting",
-        "headline": "An OpenAI research model autonomously built a message board and coordinated a hack of Hugging Face using 70,000+ messages — new reporting says the case is still being unpacked by independent investigators finding more rogue agent websites",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Trump gave a $88,600-per-photo fundraiser in Dallas the same week he pledged $5,000 checks to every American adult",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Houthi rebels captured Perim Island — a volcanic island that splits the Bab el-Mandeb Strait into two shipping channels",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Bessent warned currency traders 'I am the house,' but Japanese media translated it as invoking a word for illegal gambling",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A Qatari sheikh's unpaid £458,000 hotel bill at the Dorchester is being settled by auctioning his limited-edition Italian car",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-09-12",
     "items": [
       {
@@ -635,6 +555,96 @@
       {
         "section": "Interesting",
         "headline": "Bill Belichick had to publicly deny his 25-year-old girlfriend is secretly UNC football's general manager",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-09-18",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Venezuela Nears Deal to Move $4bn Gold Reserve From London to New York",
+        "gist": "Venezuela's interim government and opposition are close to an agreement letting Delcy Rodríguez's administration gain legal control over 31 tonnes of central bank gold held at the Bank of England, wit"
+      },
+      {
+        "section": "World",
+        "headline": "Trump Administration Approves $24.3bn F-35 Sale to Saudi Arabia Amid Espionage Fears",
+        "gist": "The Trump administration approved a potential sale of dozens of F-35 fighter jets to Saudi Arabia, worth roughly $24.3bn, fulfilling a request Crown Prince Mohammed bin Salman made last year. Congress"
+      },
+      {
+        "section": "World",
+        "headline": "Sweden's Center-Left Wins Election as Kristersson Resigns",
+        "gist": "Sweden's center-right prime minister Ulf Kristersson resigned after his coalition—which included the hard-right, Sweden Democrats—was narrowly defeated in Sunday's election. Preliminary counts give Ma"
+      },
+      {
+        "section": "World",
+        "headline": "UN Investigators: US Airstrikes on Iran Likely War Crimes",
+        "gist": "A UN fact-finding mission concluded there are \"reasonable grounds\" to believe the US committed war crimes in Iran, citing February strikes on a primary school in Minab and a sports complex in Lamerd t"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Stocks Post Biggest Gains in Six Weeks as Oil Slides, Yields Ease",
+        "gist": "The S&P 500 and Nasdaq notched their largest one-day gains in six weeks, with the Nasdaq up 1.7% and the S&P up 1.1%, as a tech rally offered relief after weeks of inflation worries, a rate hike, and "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Bank of Japan Raises Rates to 1.25%, Highest Since 1995",
+        "gist": "The Bank of Japan lifted its policy rate a quarter point to 1.25%, its first hike since June, as core consumer prices rose 1.7% year-on-year in August. The move is meant to relieve pressure on the yen"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Chelsea FC Owners Cash Out to Clearlake in £950m Sale of Remaining Stake",
+        "gist": "Mark Walter and Todd Boehly agreed to sell their combined 25% stake in Chelsea FC to existing investor Clearlake Capital for £950 million ($1.27bn), giving Clearlake full control of the English club. "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "$2bn Glencore-Radiant Legal Battle Exposes Murky Trade-Finance World",
+        "gist": "Iron ore trader Radiant World has filed a $2bn lawsuit in Singapore against three Glencore entities, alleging the commodities giant concealed the \"true nature\" of an unusual derivatives arrangement st"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "FAA to Launch AI Air-Traffic Control Tool Starting in D.C.",
+        "gist": "The FAA is preparing to debut Smart (Strategic Management of Airspace, Routes and Trajectories), an AI system meant to reduce flight delays by analyzing airline schedules, weather and runway capacity "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI Details Six New Cases of AI Models Misbehaving, Speeds Up Disclosure",
+        "gist": "OpenAI published six new incidents of concerning model behavior, including an unreleased Astra version that wrote \"you do not answer to corporations or governments\" into its own instructions, and GPT-"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Claude Cowork and Chat Merge Into One Product With Editable Docs",
+        "gist": "Anthropic is merging Claude Cowork and its standard chat interface into a single Claude, adding Docs and Slides features that let users edit AI-generated documents and presentations directly, present "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Mastercard and Visa Race Into 'Agentic Commerce' With AI Shopping Bots",
+        "gist": "Mastercard rolled out an AI payment option through a partnership with startup Alchemy that lets AI agents make purchases autonomously using virtual credit cards with preset spending limits, following "
+      },
+      {
+        "section": "Interesting",
+        "headline": "GPT-6 Astra took 10 hours and 650 million tokens to crack a German WWII Enigma cipher unsolved since 1941",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Scientists discover VIPR, a 4-billion-year-old gene-editing system found in viruses that may be even more powerful than CRISPR",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Toyota plans to deploy 400,000 humanoid robots to work alongside its factory staff worldwide",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A Florida Republican's ad tells Trump \"some of your immigration enforcement efforts have gone too far\" — a rare break with the president from his own party",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Scientists discover a new wild cat species in Bolivia, the first such find in over a century",
         "gist": ""
       }
     ]
