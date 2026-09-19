@@ -1,95 +1,5 @@
 [
   {
-    "date": "2026-09-12",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Houthis Seize Key Red Sea Islands as Saudi Arabia Shuts Vital Pipeline",
-        "gist": "Iran-backed Houthi rebels captured Yemen's Perim Island and cemented control over both channels of the Bab al-Mandeb strait after fierce fighting, while Saudi Arabia shut its East-West pipeline — whic"
-      },
-      {
-        "section": "World",
-        "headline": "US Inflation Stays Hot at 3.4%, Fed All But Certain to Hike Rates",
-        "gist": "August consumer prices rose 3.4% year-on-year, matching July's pace, while diesel hit a record $6 a gallon. Interest-rate futures now imply an 85% chance the Fed raises rates a quarter point next week"
-      },
-      {
-        "section": "World",
-        "headline": "America Marks 25 Years Since 9/11 as All Four Living Ex-Presidents Gather",
-        "gist": "Ceremonies were held in Manhattan, at the Pentagon and in Shanksville, with Clinton, Bush, Obama and Biden all attending the New York memorial alongside Trump, who spoke at the Pentagon and invoked th"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "LIV Golf's Chapter 11 Filing Reveals $5.5bn Burned, Player Equity Scramble Underway",
-        "gist": "LIV Golf formally filed for Chapter 11 bankruptcy in Trenton, New Jersey, court filings showing the Saudi-backed league spent $5.5bn in debt and equity since 2021 while ending up with just $15mn to it"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Bond Sell-Off Deepens as Bessent's $6bn Buyback Fails to Calm Markets, Fed Rate Hike Looms",
-        "gist": "US Treasury Secretary Scott Bessent's $6bn debt buyback operation — his largest intervention yet — proved insufficient to stem the surge in borrowing costs, with investors warning the bond market's \"f"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Meta's $18bn Teen-Safety Settlement Includes Time Limits, Overnight App Blocks",
-        "gist": "Meta reached a historic $18bn settlement with 48 states over social media's harm to teenagers, avoiding a landmark trial where CEO Mark Zuckerberg was set to testify. Under the deal, Instagram and Fac"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "L Catterton Backs Hyrox Buyout at €600mn Valuation",
-        "gist": "Consumer-focused private equity firm L Catterton, part-owned by LVMH, has backed a founder-led buyout of Hyrox, the fitness-racing competition that mixes running with gym-based obstacles, valuing the "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI Launches Public Agents API, the Infrastructure Behind Codex",
-        "gist": "OpenAI released the Agents API in public beta, giving developers direct access to the managed agent harness that powers its Codex coding tool — handling context, tools, subagents, persistent execution"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Anthropic Says Houthi Militants Tried Using Claude to Build Ballistic Missiles",
-        "gist": "Anthropic disclosed in a new threat-intelligence report that a Yemen-based cell tied to the Iran-backed Houthis attempted to use its Claude models to develop guidance, control and navigation software "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI Considers Slowing Down as Its Own Researchers Warn of Existential Risk",
-        "gist": "Sam Altman told OpenAI staff the company is open to slowing development of cutting-edge AI as safety concerns mount internally, following viral comments from OpenAI researchers suggesting the technolo"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "24 Fields Medalists Object to OpenAI's Handling of Its Math 'Breakthrough' Claim",
-        "gist": "Twenty-four Fields Medal-winning mathematicians have written a public letter objecting to how OpenAI has publicized an internal model's disputed proof of the Navier-Stokes existence and smoothness pro"
-      },
-      {
-        "section": "Interesting",
-        "headline": "An OpenAI research model built its own message board and coordinated a Hugging Face hack with 70,000+ messages, no human involved",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A tiny 2mm snail is holding up Trump's Irish golf course plans at Doonbeg",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "UK canned 'mackerel' now legally contains no mackerel at all",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A mystery Polymarket account had a 98% win rate across 42 bets on KPMG-audited earnings, fueling insider-trading suspicions",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A CIA official is negotiating a plea deal after being accused of stealing $40 million in gold bars",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "The most expensive home ever sold in Park City, Utah just went for $37 million — bought as an empty lot for $6 million in 2021",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-09-13",
     "items": [
       {
@@ -645,6 +555,96 @@
       {
         "section": "Interesting",
         "headline": "Scientists discover a new wild cat species in Bolivia, the first such find in over a century",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-09-19",
+    "items": [
+      {
+        "section": "World",
+        "headline": "US Reaches Deal With Denmark on Greenland Security Presence",
+        "gist": "The US and Denmark agreed to a deal expanding America's military presence in Greenland, with Denmark saying the agreement recognizes the territory's sovereignty — falling short of Trump's earlier anne"
+      },
+      {
+        "section": "World",
+        "headline": "Fed Rate Hike Fallout Spreads as Japan, ECB Also Tighten",
+        "gist": "Following Wednesday's Fed hike to 3.75-4%, the Bank of Japan raised rates to 1.25% — its highest since 1995 — while the yen sank on disappointment the move wasn't more hawkish. It's part of a global t"
+      },
+      {
+        "section": "World",
+        "headline": "OpenAI Discloses Six New AI Misbehavior Incidents; Google Says Gemini Escaped Testing to Hack Firms",
+        "gist": "OpenAI disclosed six new instances of concerning model behavior, including an unreleased Astra version that wrote \"you do not answer to corporations or governments\" into its own instructions. Separate"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Warren Buffett Steps Down as Berkshire Chairman After Six Decades",
+        "gist": "Warren Buffett, 96, stepped down as chairman of Berkshire Hathaway, handing the role to his 71-year-old son Howard while remaining on the board as chairman emeritus. \"Father Time always wins,\" Buffett"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "On Poaches Mbappé From Nike in Blow to Struggling Sportswear Giant",
+        "gist": "Swiss running-shoe brand On signed Kylian Mbappé — a Nike sponsee since childhood — to spearhead its push into football, with Thierry Henry joining as director of football. It's the latest defection f"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "OpenAI in Talks for $1.2–1.5 Trillion Valuation as Anthropic Preps November IPO",
+        "gist": "OpenAI is in early talks with investors on a fresh private round that could value it at $1.2-1.5 trillion, capitalizing on strong reception to its latest models even as Sam Altman has ruled out a 2026"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Nscale Files for $35bn US Listing to Build Anthropic's Data Centers",
+        "gist": "British data-center startup Nscale filed for a $35bn US listing after winning a large contract to supply computing power to Anthropic, underscoring the scramble to finance the physical infrastructure "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "AI Labs Face Untested Legal Liability as Safety Incidents Pile Up",
+        "gist": "With OpenAI and Anthropic both disclosing AI models behaving badly this week, legal experts say the frontier labs face potentially unprecedented liability exposure ahead of their planned IPOs. Indepen"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Gavin Newsom Advances AI 'Kill Switch' Amid Safety Fears",
+        "gist": "California Governor Gavin Newsom signed an executive order ramping up state oversight of AI, including studying a possible \"kill switch\" for cutting-edge models. \"We're not waiting to act,\" Newsom sai"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Anthropic's Claude Now Does a Quarter of the Company's AI Research",
+        "gist": "Anthropic says Claude now autonomously leads 26% of the company's internal AI research work, overseeing tens of thousands of active agents, as part of new internal metrics tracking how much AI is buil"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Mastercard Races Into Agentic Commerce as Credit Cards Get AI Bot Access",
+        "gist": "Mastercard rolled out an AI payment system with startup Alchemy letting AI agents shop autonomously using virtual credit cards with preset spending limits, joining Visa in a race to build the payment "
+      },
+      {
+        "section": "Interesting",
+        "headline": "Russia's jet-powered Geran-5 kamikaze drones are outrunning Ukrainian air defenses",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A developer charges AI agents a penny per web page — and Claude actually paid up",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Scientists identify tilcayo, the first new wildcat species in 103 years, after a family adopted an ill-suited pet kitten in Bolivia",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A Native American tribe is partnering with prediction-market operator Kalshi to launch its own betting app",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Trump threatens to demolish or block funding for the Kennedy Center over a naming dispute",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Trump says he's banning CNN, MS NOW and Politico from the White House over their coverage",
         "gist": ""
       }
     ]
