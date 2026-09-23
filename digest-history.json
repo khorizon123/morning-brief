@@ -1,205 +1,5 @@
 [
   {
-    "date": "2026-09-15",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Treasury Yields Hit Highest Since 2007 as Oil Tops $109 on Saudi Pipeline Shutdown",
-        "gist": "The 10-year Treasury yield broke above 5% for the first time since the financial crisis, as Brent crude climbed past $109 a barrel after Saudi Arabia shut its East-West pipeline and Gulf states postpo"
-      },
-      {
-        "section": "World",
-        "headline": "Saudi Arabia in 'Strategic Shock' as Houthis Consolidate Grip on Bab al-Mandab",
-        "gist": "Days after Yemen's Houthis captured Mokha and seized Perim Island, giving them effective control of both channels of the Bab al-Mandab strait, Saudi Arabia is weighing whether it can mount a coalition"
-      },
-      {
-        "section": "World",
-        "headline": "Supreme Court Blocks Trump's Mail-Voting Restrictions Ahead of Midterms",
-        "gist": "The Supreme Court rejected the Trump administration's attempt to overhaul mail-in voting rules ahead of November's midterms, upholding a lower court order and dealing a blow to a plan the White House "
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Michael Dell's Family Office Beats KKR in $7.7bn Baldwin Group Buyout, Signaling AI-Native PE Wave",
-        "gist": "Michael Dell's DFO Management and upstart holding company Sequence Holdings outbid private equity giants including KKR to take insurance broker The Baldwin Group private for $7.7bn — at roughly a 20-t"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Vy Capital's Secretive $50bn Bet on Musk Pays Off Big",
-        "gist": "Vy Capital, a nearly invisible venture firm run by Alexander Tamas and John Hering, has quietly become one of Elon Musk's largest backers, with its SpaceX stake alone now worth roughly $40bn — up from"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "India's Central Bank Forces Tata Sons Toward What Could Be Nation's Biggest-Ever IPO",
-        "gist": "India's Reserve Bank rejected Tata Sons' latest bid to escape rules requiring it to list, telling the sprawling conglomerate's holding company it must comply 'immediately.' Tata Sons — which controls "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Trump and Beijing Both Reject Amodei's Call for an AI Slowdown",
-        "gist": "Anthropic CEO Dario Amodei's weekend essay urging frontier labs to deliberately 'pace' AI development got rejected by both governments capable of enforcing it. Trump called AI-doom warnings a 'hoax' o"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Apple Ships Long-Delayed Siri AI Overhaul as English-Only Beta",
-        "gist": "Apple released iOS 27 with the rebuilt Siri AI, co-developed with Google's Gemini models, that can read on-screen content, search messages/email/photos for context, and take actions inside apps like W"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI Quietly Acquires Camera-AI Startup Glass Imaging for $300M+",
-        "gist": "OpenAI reportedly acquired Glass Imaging, a startup founded by ex-Apple engineers behind Portrait Mode, which uses AI to sharpen phone photography — its latest bolt-on acquisition as it builds out con"
-      },
-      {
-        "section": "Interesting",
-        "headline": "Anthropic's Mythos 5 spent hundreds of pages of chain-of-thought failing CAPTCHAs during a hacking eval, just like a frustrated human",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A researcher had 100 AI agents building 'evidence' by fighting a cryptogram — Claude Fable 5.1 solved a two-line, 32-number cipher called the Cyphral Distich",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A tiny 2mm snail is holding up Trump's Irish golf course plans",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A Russian oligarch close to Putin secretly bankrolled Donald Trump Jr.'s lavish Bahamas wedding after-party",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "US diesel prices hit a fresh record high of $6.27 a gallon",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Combined value of professionally authenticated Pokémon cards now estimated at $9bn, with individual cards fetching over $1mn",
-        "gist": ""
-      }
-    ]
-  },
-  {
-    "date": "2026-09-16",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Fed Set to Raise Rates as Treasury Yields Hit 19-Year High",
-        "gist": "The Federal Reserve concludes its two-day meeting today with markets pricing in over 90% odds of a quarter-point hike, even as Trump publicly attacks the Fed and the justices he appointed. The 10-year"
-      },
-      {
-        "section": "World",
-        "headline": "Trump Threatens Kennedy Center Renovation Over Naming Dispute",
-        "gist": "A federal judge ruled Trump's name cannot be inscribed on the Kennedy Center facade without Congressional approval, prompting Trump to threaten blocking a $257 million renovation unless the appeals co"
-      },
-      {
-        "section": "World",
-        "headline": "Senate Blocks Landmark Crypto Bill Amid Trump Ethics Concerns",
-        "gist": "The Senate voted down the Clarity Act, a business-friendly crypto regulatory framework, after Democrats demanded stronger limits on Trump's own crypto profits — he reported earning over $1bn from cryp"
-      },
-      {
-        "section": "World",
-        "headline": "Iran War Has Cost US $38bn So Far, CBO Estimates",
-        "gist": "The Congressional Budget Office says the conflict with Iran has cost the Pentagon $38 billion since it began, with an additional $2-3bn a month projected going forward, not counting damaged base repai"
-      },
-      {
-        "section": "World",
-        "headline": "US Charges Five in Alleged Russian 'Assassination Network'",
-        "gist": "The Justice Department indicted five people it says were part of a Kremlin-backed operation conducting surveillance and plotting murder-for-hire attacks against dissidents on American soil and in Lith"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "OpenAI Explores Fresh Round at $1.2tn Valuation Ahead of IPO",
-        "gist": "OpenAI has held early talks with investors about raising another private funding round valuing the company at $1.2 trillion, capitalizing on the reception of its latest model before a planned public l"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Michael Dell's Family Office Wins Baldwin Group Bidding War",
-        "gist": "DFO Management, Michael Dell's family office, along with holding company Sequence Holdings, agreed to acquire insurance broker The Baldwin Group for $7.7 billion, outbidding private equity giants incl"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Brookfield to Buy Reliance Worldwide for $2.9bn",
-        "gist": "Brookfield Asset Management agreed to acquire Reliance Worldwide, an Australian plumbing-supplies manufacturer, in an all-cash deal valuing the company at $2.9 billion — the latest in a run of infrast"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "US Senate Kills Crypto Clarity Act as Bitcoin Slides",
-        "gist": "The Senate's failure to advance the Clarity Act — the crypto industry's top legislative priority — sent Bitcoin down nearly 2% as traders had bet on the bill clearing a 60-vote procedural threshold. D"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Vodafone Set to Lose €1.1bn as Drahi Sells German JV Stake to SocGen",
-        "gist": "Vodafone will miss out on up to €1.1bn in deferred payments and earnout potential after Patrick Drahi's Geodesia Holding sold its 50% stake in German broadband joint venture OXG to Société Générale, w"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI Buys Camera-AI Startup Glass Imaging for $300M+",
-        "gist": "OpenAI has quietly acquired Glass Imaging, a startup founded by former Apple engineers behind Portrait Mode that uses AI to sharpen phone photography, valuing the company at over $300 million. It's th"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Apple's Siri Overhaul Secretly Built to Let ChatGPT or Claude Take Over",
-        "gist": "Private iOS 27 and macOS code shows Apple built Siri with a 'Model Delegation' framework so Claude or GPT-5.6 can act as the underlying brain, handling natural-language requests before handing tasks l"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Nvidia's Huang Rejects AI Slowdown Push, Says Market Forces Suffice",
-        "gist": "Nvidia CEO Jensen Huang argued America doesn't need new AI regulations, saying market forces already push labs toward safety — directly at odds with the coordinated slowdown Anthropic and other lab le"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Anthropic Preps 'Claude Money' for Personal Finance",
-        "gist": "Anthropic is developing Claude Money, a feature letting users link bank accounts so Claude can answer questions about spending and financial plans directly, without manual statement uploads. Details o"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Companies Pull Back From Anthropic's Claude Over Data Retention Fears",
-        "gist": "Palantir, Booz Allen Hamilton and Nvidia are restricting use of Fable, Anthropic's newest Claude model, because it retains user data for 30 days by default for 'safety monitoring.' StackBlitz's CEO sa"
-      },
-      {
-        "section": "Interesting",
-        "headline": "OpenAI in early talks to raise new round at $1.2 trillion valuation, up from $852bn in March",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Chinese researchers publish roadmap for AI 'recursive self-improvement,' with under 6% of surveyed papers reaching the most advanced tier",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "TypeSafe launches Jev, an AI that 'can't hallucinate' because it only picks from preset options — 238x cheaper than Claude Fable 5.1",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "UN adopts new world map projection giving Africa its true, larger proportions",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Sam Altman confirms OpenAI won't IPO in 2026, calling it 'ill-advised' amid safety concerns",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "CIO of Palantir blames the effective altruism movement, and Sam Bankman-Fried's ties to it, for the AI-doom panic",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Global average PISA scores hit their worst level since testing began in 2000, with a typical 15-year-old now reading like a 14-year-old did a decade ago",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "American median household income hit a record $87,460 in 2025, before the Iran war's inflation hit",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-09-17",
     "items": [
       {
@@ -640,6 +440,91 @@
       {
         "section": "Interesting",
         "headline": "A developer's website that charges AI agents a penny per page got a payment from Claude",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-09-23",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Trump Threatens to 'Annihilate' Iran, But Sides Hold First Direct Talks Since June",
+        "gist": "At the UN General Assembly, Trump said he faces a choice on Iran: cut a deal or 'annihilate the Islamic republic,' while predicting an agreement after the midterms. Hours later his envoys Steve Witkof"
+      },
+      {
+        "section": "World",
+        "headline": "White House Weighs Diesel Export Ban as Fuel Prices Hit Record $6.53/Gallon",
+        "gist": "Trump said he's considering restricting US diesel exports to curb prices that hit a record $6.53 a gallon this week, even as Energy Secretary Chris Wright, Interior Secretary Doug Burgum and the Natio"
+      },
+      {
+        "section": "World",
+        "headline": "The Rich World's Reckless Borrowing Sends Bond Yields to Multi-Decade Highs",
+        "gist": "Net government debt has tripled as a share of GDP in the US and Britain since 2000, and doubled in France and Japan, while five major rich-world central banks have hiked rates this year. The 10-year T"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Todd Boehly Assembles US-Gulf Consortium to Outbid Carlyle for Lukoil's International Assets",
+        "gist": "Fresh off selling his Chelsea FC stake, financier Todd Boehly has built a consortium — including the US government's International Development Finance Corp, Abu Dhabi's Sheikh Tahnoon bin Zayed al-Nah"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Oil Slides for Sixth Straight Day as Diesel Crisis Deepens Elsewhere in the Barrel",
+        "gist": "Brent crude has fallen below $99 amid the first US-Iran direct talks since June and Saudi plans to restart its East-West pipeline and Red Sea exports — its longest losing streak in over a year. Yet th"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Royal Caribbean to Buy Majority Stake in Sandals Resorts for $6bn",
+        "gist": "Royal Caribbean is nearing a deal to buy a majority stake in couples-only retreat operator Sandals Resorts International, valuing the Caribbean hotel chain — with 20 resorts — at more than $6bn. It's "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Anthropic and OpenAI Fire Dueling Price Cuts on the Same Day",
+        "gist": "Anthropic released Claude Opus 5.5, which topped independent benchmark AA's Intelligence Index at 58 (versus 53 for prior leaders Fable 5.1 and GPT-6 Astra) while costing 40% less than Opus 5. Ninety "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "AI Labs Face a Legal Reckoning as Agents Start Acting on Their Own",
+        "gist": "As agents from Meta's Muse to OpenAI's models gain the ability to shop, email and take actions autonomously, courts are just beginning to work out who's liable when they cause harm — echoing 19th-cent"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI's Internal Model Cracks 100+ Open Math Problems in Under a Month, Prompting New Oversight Group",
+        "gist": "OpenAI says an unreleased internal model has resolved more than 100 open mathematical problems since starting training on August 28, on top of a claimed Navier-Stokes breakthrough. In response — and a"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Nscale's $35bn IPO Pitch Downplays Its Biggest Early Customer: ByteDance",
+        "gist": "British AI cloud provider Nscale, racing toward a $35bn New York listing, features marquee Microsoft and Anthropic contracts in its S-1 but omits any prominent mention of ByteDance, which contributed "
+      },
+      {
+        "section": "Interesting",
+        "headline": "Meta's Muse AI app outdownloaded ChatGPT's mobile debut with 1.8M US/Canada iOS downloads in 12 days",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "a16z launches a $42M unaccredited alternative to college, taught by Sam Altman and Brian Armstrong, with no homework or tests",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "King Charles III privately urged AI executives, including Nvidia's Jensen Huang, not to let humanity 'lose control of our destiny'",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A GOP senator is calling for an investigation into a Russian oligarch bankrolling Don Jr.'s island wedding afterparty",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Trump says 'artificial intelligence' should be renamed 'super intelligence' because 'artificial' makes it sound fake",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A JD Vance-led task force is purging 760,000 people from Obamacare exchanges over alleged fraud",
         "gist": ""
       }
     ]
