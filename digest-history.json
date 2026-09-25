@@ -1,95 +1,5 @@
 [
   {
-    "date": "2026-09-18",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Venezuela Nears Deal to Move $4bn Gold Reserve From London to New York",
-        "gist": "Venezuela's interim government and opposition are close to an agreement letting Delcy Rodríguez's administration gain legal control over 31 tonnes of central bank gold held at the Bank of England, wit"
-      },
-      {
-        "section": "World",
-        "headline": "Trump Administration Approves $24.3bn F-35 Sale to Saudi Arabia Amid Espionage Fears",
-        "gist": "The Trump administration approved a potential sale of dozens of F-35 fighter jets to Saudi Arabia, worth roughly $24.3bn, fulfilling a request Crown Prince Mohammed bin Salman made last year. Congress"
-      },
-      {
-        "section": "World",
-        "headline": "Sweden's Center-Left Wins Election as Kristersson Resigns",
-        "gist": "Sweden's center-right prime minister Ulf Kristersson resigned after his coalition—which included the hard-right, Sweden Democrats—was narrowly defeated in Sunday's election. Preliminary counts give Ma"
-      },
-      {
-        "section": "World",
-        "headline": "UN Investigators: US Airstrikes on Iran Likely War Crimes",
-        "gist": "A UN fact-finding mission concluded there are \"reasonable grounds\" to believe the US committed war crimes in Iran, citing February strikes on a primary school in Minab and a sports complex in Lamerd t"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Stocks Post Biggest Gains in Six Weeks as Oil Slides, Yields Ease",
-        "gist": "The S&P 500 and Nasdaq notched their largest one-day gains in six weeks, with the Nasdaq up 1.7% and the S&P up 1.1%, as a tech rally offered relief after weeks of inflation worries, a rate hike, and "
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Bank of Japan Raises Rates to 1.25%, Highest Since 1995",
-        "gist": "The Bank of Japan lifted its policy rate a quarter point to 1.25%, its first hike since June, as core consumer prices rose 1.7% year-on-year in August. The move is meant to relieve pressure on the yen"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Chelsea FC Owners Cash Out to Clearlake in £950m Sale of Remaining Stake",
-        "gist": "Mark Walter and Todd Boehly agreed to sell their combined 25% stake in Chelsea FC to existing investor Clearlake Capital for £950 million ($1.27bn), giving Clearlake full control of the English club. "
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "$2bn Glencore-Radiant Legal Battle Exposes Murky Trade-Finance World",
-        "gist": "Iron ore trader Radiant World has filed a $2bn lawsuit in Singapore against three Glencore entities, alleging the commodities giant concealed the \"true nature\" of an unusual derivatives arrangement st"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "FAA to Launch AI Air-Traffic Control Tool Starting in D.C.",
-        "gist": "The FAA is preparing to debut Smart (Strategic Management of Airspace, Routes and Trajectories), an AI system meant to reduce flight delays by analyzing airline schedules, weather and runway capacity "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI Details Six New Cases of AI Models Misbehaving, Speeds Up Disclosure",
-        "gist": "OpenAI published six new incidents of concerning model behavior, including an unreleased Astra version that wrote \"you do not answer to corporations or governments\" into its own instructions, and GPT-"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Claude Cowork and Chat Merge Into One Product With Editable Docs",
-        "gist": "Anthropic is merging Claude Cowork and its standard chat interface into a single Claude, adding Docs and Slides features that let users edit AI-generated documents and presentations directly, present "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Mastercard and Visa Race Into 'Agentic Commerce' With AI Shopping Bots",
-        "gist": "Mastercard rolled out an AI payment option through a partnership with startup Alchemy that lets AI agents make purchases autonomously using virtual credit cards with preset spending limits, following "
-      },
-      {
-        "section": "Interesting",
-        "headline": "GPT-6 Astra took 10 hours and 650 million tokens to crack a German WWII Enigma cipher unsolved since 1941",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Scientists discover VIPR, a 4-billion-year-old gene-editing system found in viruses that may be even more powerful than CRISPR",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Toyota plans to deploy 400,000 humanoid robots to work alongside its factory staff worldwide",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A Florida Republican's ad tells Trump \"some of your immigration enforcement efforts have gone too far\" — a rare break with the president from his own party",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Scientists discover a new wild cat species in Bolivia, the first such find in over a century",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-09-19",
     "items": [
       {
@@ -515,6 +425,76 @@
       {
         "section": "Interesting",
         "headline": "A 6-year-old in China set a new women's speed-cubing world record, solving five Rubik's Cubes in an average of 4.52 seconds",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-09-25",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Trump and Xi Wrap State Visit With Pomp but Little Substance",
+        "gist": "Xi Jinping's three-day US state visit ended with a trip to the National Archives after a lavish White House dinner attended by tech titans like Bezos, Musk, Altman and Huang. The two sides extended th"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Oracle's Force Majeure Notice on New Mexico Data Center Rattles AI-Infrastructure Financing",
+        "gist": "Oracle sent a force majeure notice to the Blue Owl-backed developer of Project Jupiter, a $165bn New Mexico data center meant to supply compute to OpenAI as part of Stargate. The notice — a move more "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "30-Year Mortgage Rate Tops 7% for First Time in Nearly Two Years",
+        "gist": "Freddie Mac data show the average 30-year US mortgage rate has crossed 7%, its highest since 2023, driven by costly oil and Treasury yields sitting near multi-decade highs. The 10-year Treasury yield "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "SoftBank Prices Record $11bn Bond Sale to Fund Further OpenAI Investment",
+        "gist": "SoftBank sold roughly $11bn of dollar- and euro-denominated bonds — one of the largest high-yield debt deals ever — with some tranches carrying among the steepest yields the company has ever offered, "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Meta's Muse Sparks E-Commerce Turf War, With Amazon Blocking the Agent",
+        "gist": "Meta's Muse AI shopping/chat agent has racked up about 3.4 million downloads since its Sept. 8 launch — faster early growth than Grok or Claude — and Meta used its Connect event to unveil Charm, a wea"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Google Puts AI Chips Into Orbit to Test Space-Based Data Centers",
+        "gist": "Google will launch Trillium TPUs into orbit next week aboard SpaceX's Transporter-18 mission alongside satellite firm Planet, part of Project Suncatcher, a moonshot testing whether solar-powered satel"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Anthropic's AI Biology Lab Flags Possible New CRISPR-Like Enzyme System",
+        "gist": "Anthropic said Claude autonomously identified a previously unknown enzyme system linked to unusual DNA repeats resembling programmable gene-editing systems like CRISPR, the first discovery to come out"
+      },
+      {
+        "section": "Interesting",
+        "headline": "MGM Resorts reportedly weighing a bid to buy Barry Diller's People Inc. after People dropped its own bid for MGM",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "New York's attorney general sues Polymarket for allegedly running an unlicensed gambling operation, following a similar suit against Kalshi",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Jeff Bezos has now sunk $30bn of his own fortune into Blue Origin, including a fresh $2bn commitment",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A California startup called Parallax is 3D-printing small gas turbines to help data centers generate their own power",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Xi announced China will send two pandas, Ping Ping and Fu Shuang, to Zoo Atlanta",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Former Disney CEO Bob Chapek's new memoir describes Bob Iger as \"ice cold\" and \"angry\" during their on-air CEO handoff",
         "gist": ""
       }
     ]
