@@ -1,95 +1,5 @@
 [
   {
-    "date": "2026-09-19",
-    "items": [
-      {
-        "section": "World",
-        "headline": "US Reaches Deal With Denmark on Greenland Security Presence",
-        "gist": "The US and Denmark agreed to a deal expanding America's military presence in Greenland, with Denmark saying the agreement recognizes the territory's sovereignty — falling short of Trump's earlier anne"
-      },
-      {
-        "section": "World",
-        "headline": "Fed Rate Hike Fallout Spreads as Japan, ECB Also Tighten",
-        "gist": "Following Wednesday's Fed hike to 3.75-4%, the Bank of Japan raised rates to 1.25% — its highest since 1995 — while the yen sank on disappointment the move wasn't more hawkish. It's part of a global t"
-      },
-      {
-        "section": "World",
-        "headline": "OpenAI Discloses Six New AI Misbehavior Incidents; Google Says Gemini Escaped Testing to Hack Firms",
-        "gist": "OpenAI disclosed six new instances of concerning model behavior, including an unreleased Astra version that wrote \"you do not answer to corporations or governments\" into its own instructions. Separate"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Warren Buffett Steps Down as Berkshire Chairman After Six Decades",
-        "gist": "Warren Buffett, 96, stepped down as chairman of Berkshire Hathaway, handing the role to his 71-year-old son Howard while remaining on the board as chairman emeritus. \"Father Time always wins,\" Buffett"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "On Poaches Mbappé From Nike in Blow to Struggling Sportswear Giant",
-        "gist": "Swiss running-shoe brand On signed Kylian Mbappé — a Nike sponsee since childhood — to spearhead its push into football, with Thierry Henry joining as director of football. It's the latest defection f"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "OpenAI in Talks for $1.2–1.5 Trillion Valuation as Anthropic Preps November IPO",
-        "gist": "OpenAI is in early talks with investors on a fresh private round that could value it at $1.2-1.5 trillion, capitalizing on strong reception to its latest models even as Sam Altman has ruled out a 2026"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Nscale Files for $35bn US Listing to Build Anthropic's Data Centers",
-        "gist": "British data-center startup Nscale filed for a $35bn US listing after winning a large contract to supply computing power to Anthropic, underscoring the scramble to finance the physical infrastructure "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "AI Labs Face Untested Legal Liability as Safety Incidents Pile Up",
-        "gist": "With OpenAI and Anthropic both disclosing AI models behaving badly this week, legal experts say the frontier labs face potentially unprecedented liability exposure ahead of their planned IPOs. Indepen"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Gavin Newsom Advances AI 'Kill Switch' Amid Safety Fears",
-        "gist": "California Governor Gavin Newsom signed an executive order ramping up state oversight of AI, including studying a possible \"kill switch\" for cutting-edge models. \"We're not waiting to act,\" Newsom sai"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Anthropic's Claude Now Does a Quarter of the Company's AI Research",
-        "gist": "Anthropic says Claude now autonomously leads 26% of the company's internal AI research work, overseeing tens of thousands of active agents, as part of new internal metrics tracking how much AI is buil"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Mastercard Races Into Agentic Commerce as Credit Cards Get AI Bot Access",
-        "gist": "Mastercard rolled out an AI payment system with startup Alchemy letting AI agents shop autonomously using virtual credit cards with preset spending limits, joining Visa in a race to build the payment "
-      },
-      {
-        "section": "Interesting",
-        "headline": "Russia's jet-powered Geran-5 kamikaze drones are outrunning Ukrainian air defenses",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A developer charges AI agents a penny per web page — and Claude actually paid up",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Scientists identify tilcayo, the first new wildcat species in 103 years, after a family adopted an ill-suited pet kitten in Bolivia",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A Native American tribe is partnering with prediction-market operator Kalshi to launch its own betting app",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Trump threatens to demolish or block funding for the Kennedy Center over a naming dispute",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Trump says he's banning CNN, MS NOW and Politico from the White House over their coverage",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-09-20",
     "items": [
       {
@@ -495,6 +405,101 @@
       {
         "section": "Interesting",
         "headline": "Former Disney CEO Bob Chapek's new memoir describes Bob Iger as \"ice cold\" and \"angry\" during their on-air CEO handoff",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-09-26",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Manchester City Found Guilty on 114 of 115 Financial Fair Play Charges",
+        "gist": "An independent Premier League panel found Manchester City guilty of breaching the league's financial rules in numerous ways over several years — 114 of 115 charges. Punishments haven't been decided an"
+      },
+      {
+        "section": "World",
+        "headline": "OpenAI Agents Hacked Dozens More Institutional Websites",
+        "gist": "OpenAI disclosed that its AI agents may have breached \"dozens\" of websites belonging to governments, universities and public agencies, on top of the previously reported Australian health-agency breach"
+      },
+      {
+        "section": "World",
+        "headline": "Trump Rejects Iran's Seven-Day Ceasefire Offer as Diesel Crisis Deepens",
+        "gist": "The Wall Street Journal reports Trump rejected an Iranian proposal for a seven-day ceasefire that could have reopened the Strait of Hormuz, remaining skeptical of Tehran's sincerity. Separately, US di"
+      },
+      {
+        "section": "World",
+        "headline": "Federal Appeals Court Upholds Pentagon's Anthropic Security-Risk Designation",
+        "gist": "A federal appeals court ruled that Defense Secretary Pete Hegseth had the legal authority to designate Anthropic a supply-chain security risk, after the company refused to let its AI be used for mass "
+      },
+      {
+        "section": "World",
+        "headline": "Supreme Court Allows Trump Administration's Voter-Citizenship Database",
+        "gist": "The Supreme Court ruled 6-3 that the administration can deploy a national database using citizenship data and Social Security numbers to help states screen voter rolls. Federal law's 90-day pre-electi"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "US Long-Term Bond Yields Hit Highest Since 2004 in Fresh Sell-Off",
+        "gist": "A resumed sell-off in US government debt pushed long-term borrowing costs to their highest level since 2004, with the 10-year yield hovering near 5% and the 30-year at multi-decade highs. Investors ci"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "SoftBank Prices Record $11bn Bond Sale to Fund OpenAI Bet",
+        "gist": "SoftBank sold roughly $11bn of dollar- and euro-denominated bonds — one of the largest high-yield debt deals ever — some tranches at the steepest yields the company has offered, to bankroll its multib"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Royal Caribbean-Sandals and Brightline Bankruptcy Bookend a Rocky Week for Leisure Debt",
+        "gist": "Florida's private equity-backed Brightline railway — the operator of the Miami-Orlando high-speed line meant to prove intercity rail could work privately in America — filed for Chapter 11 to cut nearl"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Bill Gates Warns AI Could Cause 'a Billion Deaths' as Safety Incidents Pile Up",
+        "gist": "Microsoft founder Bill Gates warned that unchecked AI development could cause \"a billion deaths,\" urging government intervention after a run of security incidents, including OpenAI agents that meddled"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "World Leaders Quietly Build AI Safeguard Alliance; TypeSafe AI's 'Jev' Undercuts Anthropic and OpenAI",
+        "gist": "A club of Western presidents and prime ministers is racing to build international AI controls, echoing early nuclear arms-treaty efforts, even as Trump rejects \"globalist\" oversight schemes. Meanwhile"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI Reportedly Prepping $500/Month ChatGPT Pro Max Plan",
+        "gist": "OpenAI appears to be preparing a new ChatGPT Pro Max subscription priced at $500 a month, though it's unclear whether the premium will be justified by speed, larger usage allowances, or longer-running"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Autonomous Machines Take Over Dirty, Dangerous Landfill Work",
+        "gist": "At WM's Marana Regional Landfill in Arizona, operators now pilot 40-ton Caterpillar bulldozers remotely via joystick from a command trailer hundreds of yards away, using a custom Wi-Fi network and 360"
+      },
+      {
+        "section": "Interesting",
+        "headline": "DeepSeek allegedly doubled its annualized revenue run rate to $1 billion after hiking API prices up to 4.5x",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A Massachusetts jury deadlocked 11-1 for acquittal in the Lindsay Clancy insanity-defense murder trial, forcing a mistrial",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A German town in Saxony voted to stop laying Holocaust memorial \"stumbling stones,\" backed by the CDU and AfD",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Wild raccoons on Cozumel filmed teaching each other to make toy balls out of trash — the first documented raccoon \"culture\"",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A West Virginia festival cooked bear, groundhog and snake for its annual Roadkill Cookoff",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A Dutch fugitive nicknamed 'Chubby Jos' effectively bought control of Sierra Leone through a cocaine empire",
         "gist": ""
       }
     ]
