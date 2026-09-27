@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-09-20",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Saudi Arabia Sounds Air-Raid Alerts as Houthi Assault on Capital Intensifies",
-        "gist": "Saudi authorities issued air-raid warnings in Riyadh for the first time since Yemen's Houthis reignited the conflict, as missile and drone attacks intensify. The Houthis have effectively taken control"
-      },
-      {
-        "section": "World",
-        "headline": "Russia Escalates Air Campaign to Cripple Ukraine's Economy",
-        "gist": "Russia has launched a new phase of drone and missile strikes targeting warehouses, steel plants, ports and railways across Ukraine, aiming to deprive Kyiv of more than $1.5bn in tax revenue. The campa"
-      },
-      {
-        "section": "World",
-        "headline": "Israel's Occupied-Territory Businesses Brace for New European Sanctions",
-        "gist": "Businesses operating in Israel's occupied Palestinian territories are bracing for a fresh wave of sanctions from the UK, France and other European governments targeting the settler economy. The measur"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Chinese Owners Launch €2.5bn Sale of Luxembourg's Oldest Bank",
-        "gist": "Legend Holdings, the Chinese conglomerate behind Lenovo, has launched a sale of its 90% stake in Banque Internationale à Luxembourg, the Grand Duchy's oldest lender, with initial bids for the roughly "
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Bond Yields Stay Pinned at 5% as Analysts Debate What's Really Driving the Surge",
-        "gist": "The 10-year Treasury yield remains near 5%, its highest since 2007, even after the Fed's rate hike this week, as economists spar over the cause. Explanations range from a strong economy and heavy fede"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "The Gulf Cargo Trade That Vanished",
-        "gist": "The Strait of Hormuz once served as a transit hub for goods ranging from helium to corn, and businesses have been scrambling to find alternative routes since Gulf shipping was disrupted. Rerouting has"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "AI Data-Center Demand Is Squeezing Singapore's Office Market",
-        "gist": "Anthropic and OpenAI are taking up growing amounts of office space in Singapore, adding pressure to a prime property market that was already tight. The influx reflects both companies' push to build ou"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "AI Chatbots Underperform Badly in Non-English Languages",
-        "gist": "Top AI models, including major chatbots used for everything from casual queries to health advice, deliver noticeably worse answers in languages other than English, according to new research. The gap i"
-      },
-      {
-        "section": "Interesting",
-        "headline": "South Africa's ANC failed to register 181 local election candidates ahead of the November 4 polls",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Nobel economists back California's ballot measure for a billionaire tax",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Australia touts its 'almost limitless' renewable space as a secret weapon in the global AI compute race",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Meta launches fresh legal challenge against UK's Online Safety Act, targeting regulator Ofcom",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "World's loveliest-sounding language named — and researchers say the winner is 'probably not one you would guess'",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Guaraní has become a trendy hipster language among young people in Paraguay",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-09-21",
     "items": [
       {
@@ -500,6 +425,81 @@
       {
         "section": "Interesting",
         "headline": "A Dutch fugitive nicknamed 'Chubby Jos' effectively bought control of Sierra Leone through a cocaine empire",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-09-27",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Nor'easter Batters Northeast as Trump Rejects Iran's Ceasefire Bid, Diesel Crisis Deepens",
+        "gist": "A powerful nor'easter is bringing heavy winds, rain and flooding across the Northeast US, knocking out power and washing an 1884 shipwreck fragment ashore off Nantucket. Separately, President Trump re"
+      },
+      {
+        "section": "World",
+        "headline": "Swiss Voters to Decide Fate of Centuries-Old Neutrality",
+        "gist": "Switzerland holds a referendum on whether to bar the country from cooperating with military alliances unless directly attacked, a vote that could upend one of Europe's oldest foreign-policy traditions"
+      },
+      {
+        "section": "World",
+        "headline": "Colombia's Hardline Leader Faces Gang Backlash, Turning Tourist Hub Into 'Ghost Town'",
+        "gist": "Violence has surged in Colombia since new president Abelardo de la Espriella abandoned his predecessor's 'total peace' strategy with armed groups, turning a onetime tourist hotspot into what locals de"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Foreign Capital Pours Into US Stocks at Record Pace as Bond Appetite Fades",
+        "gist": "Overseas investors bought a record $940bn of US equities in the year to July, coinciding with strong S&P 500 gains, even as demand for US government debt weakens amid a historic bond sell-off. The div"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Armani Kicks Off Stake Sale Talks With LVMH, L'Oréal",
+        "gist": "Fashion house Armani is opening talks with LVMH, L'Oréal and EssilorLuxottica over a potential stake sale, following the late founder Giorgio Armani's wishes for the company's future ownership structu"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Value of Old Supertankers Soars Past New Builds as Shipping Market Goes 'Bananas'",
+        "gist": "Freight rates have surged so sharply that used, older supertankers are now fetching higher prices than newly built vessels — an inversion driven by how quickly a ship can be delivered to buyers amid t"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Monzo in Talks With Nubank Over Sale",
+        "gist": "UK fintech Monzo is in talks with Brazil's Nubank about a potential acquisition, while also discussing selling a significant stake to private equity. The negotiations underscore consolidation pressure"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Big Dreams and Tiny Revenue Are the New Norm for AI IPOs",
+        "gist": "The chasm between AI companies' sky-high valuations and their actual revenue is becoming the defining feature of the next wave of AI listings. Investors are increasingly willing to underwrite firms wh"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Australia's Data-Center Boom: AI Bosses Look Abroad After US Backlash",
+        "gist": "Chastened by growing public backlash in America, AI companies are increasingly looking to Australia to build huge new data centers, drawn by its vast land and abundant renewable energy. The country's "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Amazon Wades Into India's Fast-Delivery Battle: 'DoorDash on Steroids'",
+        "gist": "Amazon has entered India's cutthroat quick-commerce market, joining local and foreign rivals in a bruising, cash-intensive race to dominate ultra-fast delivery. The category has become a proving groun"
+      },
+      {
+        "section": "Interesting",
+        "headline": "A tree-branch-wielding woman met her match in a spatula-armed man at an In-N-Out drive-through standoff",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Backyard ultramarathons force runners to loop the same course hourly until only one remains standing",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Pakistan authorities build Tetris-like shipping-container maze in Islamabad to block opposition protesters",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "87-year-old woman's eviction after 70 years sparks housing-crisis protests across Spain",
         "gist": ""
       }
     ]
