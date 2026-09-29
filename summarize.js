@@ -38,7 +38,7 @@ const DIGEST_SCHEMA = {
             narrative: { type: 'string', description: 'The core news, 2-4 sentences.' },
             context: { type: 'string', description: 'Background for a reader without deep geopolitical knowledge. Will be italicized. 1-3 sentences.' },
             sourceName: { type: 'string' },
-            link: { type: 'string', description: 'The article URL from the AVAILABLE LINKS list for this article. Empty string if none apply.' },
+            link: { type: 'string', description: 'The link ID (e.g. "L12") from the AVAILABLE LINKS list for this article. Empty string if none apply.' },
             isRecap: IS_RECAP_FIELD,
             recapNote: RECAP_NOTE_FIELD,
           },
@@ -55,7 +55,7 @@ const DIGEST_SCHEMA = {
             headline: { type: 'string' },
             body: { type: 'string', description: '4-6 sentences.' },
             sourceName: { type: 'string' },
-            link: { type: 'string', description: 'The article URL from the AVAILABLE LINKS list for this article. Empty string if none apply.' },
+            link: { type: 'string', description: 'The link ID (e.g. "L12") from the AVAILABLE LINKS list for this article. Empty string if none apply.' },
             isRecap: IS_RECAP_FIELD,
             recapNote: RECAP_NOTE_FIELD,
           },
@@ -72,7 +72,7 @@ const DIGEST_SCHEMA = {
             headline: { type: 'string' },
             body: { type: 'string', description: '4-6 sentences.' },
             sourceName: { type: 'string' },
-            link: { type: 'string', description: 'The article URL from the AVAILABLE LINKS list for this article. Empty string if none apply.' },
+            link: { type: 'string', description: 'The link ID (e.g. "L12") from the AVAILABLE LINKS list for this article. Empty string if none apply.' },
             isRecap: IS_RECAP_FIELD,
             recapNote: RECAP_NOTE_FIELD,
           },
@@ -88,7 +88,7 @@ const DIGEST_SCHEMA = {
           properties: {
             headline: { type: 'string' },
             sourceName: { type: 'string' },
-            link: { type: 'string', description: 'The article URL from the AVAILABLE LINKS list for this article. Empty string if none apply.' },
+            link: { type: 'string', description: 'The link ID (e.g. "L12") from the AVAILABLE LINKS list for this article. Empty string if none apply.' },
             isRecap: IS_RECAP_FIELD,
             recapNote: RECAP_NOTE_FIELD,
           },
@@ -125,11 +125,65 @@ const DIGEST_SCHEMA = {
   },
 };
 
-function buildPrompt(batch, historyContext) {
+// Newsletter links are opaque tracking redirects averaging ~400 characters
+// each -- on a typical day they were ~2/3 of the whole prompt, yet the model
+// only ever used them as a lookup key for the ~20 stories it actually wrote.
+// So the prompt shows each link as a short ID plus its label and host, and
+// the model returns the ID; resolveLinks() swaps the real URL back in.
+function assignLinkIds(batch) {
+  const idsByItem = [];
+  const urlById = new Map();
+  let n = 0;
+  for (const item of batch) {
+    idsByItem.push((item.links || []).map(l => {
+      const id = `L${++n}`;
+      urlById.set(id, l.url);
+      return id;
+    }));
+  }
+  return { idsByItem, urlById };
+}
+
+function hostOf(url) {
+  try {
+    return new URL(url).hostname.replace(/^www\./, '');
+  } catch {
+    return '';
+  }
+}
+
+// Replaces each item's link ID with the real URL. Anything that isn't a known
+// ID (or, if the model echoed a URL anyway, a known URL) becomes '' -- never a
+// fabricated or mangled link.
+function resolveLinks(digest, urlById) {
+  const knownUrls = new Set(urlById.values());
+  let unresolved = 0;
+  for (const section of ['world', 'marketsAndDeals', 'aiAndTech', 'interesting']) {
+    for (const item of digest[section]) {
+      const raw = (item.link || '').trim();
+      if (!raw) { item.link = ''; continue; }
+      const id = raw.replace(/[\[\]\s]/g, '').toUpperCase();
+      if (urlById.has(id)) item.link = urlById.get(id);
+      else if (knownUrls.has(raw)) item.link = raw;
+      else { item.link = ''; unresolved++; }
+    }
+  }
+  if (unresolved) console.log(`Dropped ${unresolved} link(s) that did not match any available link ID.`);
+  return digest;
+}
+
+const LINKS_INSTRUCTION_IDS = 'LINKS: Each article\'s raw material is followed by an "AVAILABLE LINKS" list of [ID] "label" entries pulled from that email. For every story you write in World, Markets & Deals, AI & Tech, or Interesting, find the link whose label best matches that story\'s headline/topic and use its ID (e.g. "L12", exactly as listed, no brackets) as the "link" field. If a story combines multiple source articles, pick the link from whichever source you leaned on most. If truly nothing in the list matches, use an empty string rather than guessing or inventing an ID — never fabricate a link.';
+const LINKS_INSTRUCTION_URLS = 'LINKS: Each article\'s raw material is followed by an "AVAILABLE LINKS" list of (label -> url) pairs pulled from that email. For every story you write in World, Markets & Deals, AI & Tech, or Interesting, find the link whose label best matches that story\'s headline/topic and use its url as the "link" field. If a story combines multiple source articles, pick the link from whichever source you leaned on most. If truly nothing in the list matches, use an empty string rather than guessing or inventing a URL — never fabricate a link.';
+
+function buildPrompt(batch, historyContext, idsByItem) {
   const bySource = batch
     .map((item, i) => {
       const linkList = (item.links || [])
-        .map(l => `  - "${l.label}" -> ${l.url}`)
+        .map((l, j) => {
+          if (!idsByItem) return `  - "${l.label}" -> ${l.url}`; // original full-URL format
+          const host = hostOf(l.url);
+          return `  - [${idsByItem[i][j]}] "${l.label}"${host ? ` (${host})` : ''}`;
+        })
         .join('\n');
       return (
         `--- ARTICLE ${i + 1} ---\n` +
@@ -170,7 +224,7 @@ SECTIONS TO PRODUCE (in this order):
 5. Company — exactly one company or startup: what they do, why they're interesting right now, and one surprising fact, 4-5 sentences. It must NOT be a company you've already made the main subject of a World, Markets & Deals, or AI & Tech item today — this section exists to surface something the reader hasn't already read above, not to recap a company covered elsewhere in the digest (a passing mention elsewhere is fine; being another item's headline subject is not). This does not need to come from today's news — evergreen is fine if nothing fresh stands out — but it must still tell the reader something they don't already know from the rest of the digest.
 6. Upcoming — notable things happening today or this week: earnings, Fed meetings, major events, geopolitical flashpoints. Pull directly from any "week ahead"-style content in the batch if present.
 
-LINKS: Each article's raw material is followed by an "AVAILABLE LINKS" list of (label -> url) pairs pulled from that email. For every story you write in World, Markets & Deals, AI & Tech, or Interesting, find the link whose label best matches that story's headline/topic and use its url as the "link" field. If a story combines multiple source articles, pick the link from whichever source you leaned on most. If truly nothing in the list matches, use an empty string rather than guessing or inventing a URL — never fabricate a link.
+${idsByItem ? LINKS_INSTRUCTION_IDS : LINKS_INSTRUCTION_URLS}
 
 Only include genuinely substantive items — it's fine for a section to be shorter than usual if the source material doesn't support more, but do not pad with filler or invented stories.
 
@@ -202,7 +256,15 @@ function normalizeField(value, fieldName, expectedType) {
   return result;
 }
 
-async function generateDigestOnce(batch, historyContext, attempt) {
+const ID_LINK_DESC = 'The link ID (e.g. "L12") from the AVAILABLE LINKS list for this article. Empty string if none apply.';
+const URL_LINK_DESC = 'The article URL from the AVAILABLE LINKS list for this article. Empty string if none apply.';
+
+function schemaFor(useIds) {
+  if (useIds) return DIGEST_SCHEMA;
+  return JSON.parse(JSON.stringify(DIGEST_SCHEMA).split(JSON.stringify(ID_LINK_DESC).slice(1, -1)).join(JSON.stringify(URL_LINK_DESC).slice(1, -1)));
+}
+
+async function generateDigestOnce(batch, historyContext, attempt, idsByItem) {
   // The retry loop below re-sends this exact prompt (same batch, same history
   // context, word-for-word) up to twice more on a degenerate/malformed first
   // attempt -- see 2026-07-27, where attempts 1 and 2 failed in ~20s/~10s each
@@ -228,14 +290,14 @@ async function generateDigestOnce(batch, historyContext, attempt) {
     // thinking/output tokens than the task needs. Revisit if digest quality
     // regresses (e.g. more isRecap misclassifications or thinner narrative).
     output_config: { effort: 'medium' },
-    tools: [DIGEST_SCHEMA],
+    tools: [schemaFor(!!idsByItem)],
     tool_choice: { type: 'tool', name: 'output_digest' },
     messages: [{
       role: 'user',
       content: [
         {
           type: 'text',
-          text: buildPrompt(batch, historyContext),
+          text: buildPrompt(batch, historyContext, idsByItem),
           ...(cacheable ? { cache_control: { type: 'ephemeral' } } : {}),
         },
       ],
@@ -244,7 +306,7 @@ async function generateDigestOnce(batch, historyContext, attempt) {
 
   const message = await stream.finalMessage();
   const { input_tokens, cache_creation_input_tokens, cache_read_input_tokens } = message.usage;
-  console.log(`Usage: input=${input_tokens} cache_write=${cache_creation_input_tokens} cache_read=${cache_read_input_tokens}`);
+  console.log(`Usage: input=${input_tokens} cache_write=${cache_creation_input_tokens} cache_read=${cache_read_input_tokens} output=${message.usage.output_tokens} stop=${message.stop_reason}`);
 
   if (message.stop_reason === 'max_tokens') {
     throw new Error('Claude response was truncated (hit max_tokens) — digest is incomplete.');
@@ -264,7 +326,7 @@ async function generateDigestOnce(batch, historyContext, attempt) {
   };
 }
 
-const MAX_DIGEST_ATTEMPTS = 3;
+const MAX_DIGEST_ATTEMPTS = 2;
 
 // On 2026-07-21 and 2026-07-24, Claude returned a schema-valid digest (no
 // retry, no max_tokens truncation) that was nonetheless junk: World and
@@ -301,14 +363,18 @@ function isDegenerate(digest) {
 // email batch, at most a couple extra Claude calls -- far cheaper than a
 // full duplicate pipeline run.
 async function generateDigest(batch, historyContext = '') {
+  // Attempt 1 uses short link IDs (~70% fewer input tokens). If it fails for any
+  // reason, attempt 2 falls back to the original full-URL prompt that ran
+  // reliably before, so this change can never cost a digest.
+  const { idsByItem, urlById } = assignLinkIds(batch);
   let lastErr;
   for (let attempt = 1; attempt <= MAX_DIGEST_ATTEMPTS; attempt++) {
     try {
-      const digest = await generateDigestOnce(batch, historyContext, attempt);
+      const digest = await generateDigestOnce(batch, historyContext, attempt, attempt === 1 ? idsByItem : null);
       if (isDegenerate(digest)) {
         throw new Error('Digest looks degenerate (empty sections after Markets, or a stub company) -- likely a truncated generation.');
       }
-      return digest;
+      return resolveLinks(digest, urlById);
     } catch (err) {
       lastErr = err;
       console.log(`Digest generation attempt ${attempt}/${MAX_DIGEST_ATTEMPTS} failed: ${err.message}`);
@@ -317,4 +383,4 @@ async function generateDigest(batch, historyContext = '') {
   throw lastErr;
 }
 
-module.exports = { generateDigest };
+module.exports = { generateDigest, buildPrompt, assignLinkIds, resolveLinks, schemaFor, DIGEST_SCHEMA };
