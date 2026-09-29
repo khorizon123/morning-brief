@@ -31,8 +31,12 @@ function isWithinTargetWindow(timezone) {
     hour12: false,
   }).format(new Date());
   const hour = parseInt(hourStr, 10) % 24;
-  const diff = Math.min((hour - TARGET_HOUR + 24) % 24, (TARGET_HOUR - hour + 24) % 24);
-  return diff <= 1;
+  // Catch-up window: 6am through 1pm. On 2026-08-29, 09-22, 09-28 and 09-29
+  // GitHub silently dropped EVERY scheduled run between ~6am and ~9am Central
+  // (the peak-load hours) and only resumed hours later, so a 3-hour window
+  // wasn't enough. Any run that lands later in the morning now sends the
+  // brief (late beats never); alreadySentToday() still prevents duplicates.
+  return hour >= TARGET_HOUR - 1 && hour <= 13;
 }
 
 // The workflow now checks twice an hour for redundancy (see daily-brief.yml),
