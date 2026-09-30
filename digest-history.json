@@ -1,185 +1,5 @@
 [
   {
-    "date": "2026-09-21",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Bessent Hails US-China AI Dialogue Ahead of Trump-Xi Summit",
-        "gist": "Treasury Secretary Scott Bessent met China's He Lifeng in New York and announced the two countries agreed to set up a formal AI dialogue mechanism, calling the talks \"very successful\" ahead of Thursda"
-      },
-      {
-        "section": "World",
-        "headline": "Merz Vows to Stay On After CDU's Worst-Ever Regional Result",
-        "gist": "German Chancellor Friedrich Merz called weekend regional election results a \"disaster\" after his CDU won just 4.9% in Mecklenburg-Vorpommern — its worst-ever showing, excluding it from that state's pa"
-      },
-      {
-        "section": "World",
-        "headline": "Trump Weighs In on Iran, Skips Joint Houthi Strikes for Now",
-        "gist": "Trump told Fox News he's open to meeting Iran's President Masoud Pezeshkian at the UN General Assembly but still threatened to \"blow the entire nation up.\" Separately, in a Times exclusive, the US dec"
-      },
-      {
-        "section": "World",
-        "headline": "Diesel Tops $6.50 a Gallon in US as Global Fuel Shortage Deepens",
-        "gist": "The average US diesel price broke $6.50 a gallon for the first time, driven by the Iran war and Russian export controls imposed in response to Ukrainian refinery attacks. A US motor-oil shortage has a"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Fed and BoE Scrutinize Bank Exposure to Trading Firms After Jane Street Blowup",
-        "gist": "The Bank of England and Federal Reserve have stepped up questioning of global banks about their exposure to giant trading firms like Jane Street and Citadel Securities, after turmoil at AI-focused hed"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "SoftBank Seeks Over $11bn in Giant High-Yield Bond Sale for OpenAI Bet",
-        "gist": "SoftBank is seeking to borrow more than $11bn in what would be one of the largest high-yield bond deals ever sold, as Masayoshi Son's company looks to fund its multibillion-dollar investment in OpenAI"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Wall Street Braces for ~$1tn of Short-Term Treasury Bill Issuance",
-        "gist": "Wall Street banks expect the US Treasury to borrow up to $1tn over the next year via short-term bills, deepening Washington's reliance on quick-maturing debt even as the 10-year yield sits near 2007 h"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Chinese Owners Launch €2.5bn Sale of Luxembourg's Oldest Bank",
-        "gist": "Legend Holdings, the Chinese conglomerate behind Lenovo, has launched a sale of its 90% stake in Banque Internationale à Luxembourg, the Grand Duchy's oldest lender, with initial bids expected around "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI Hacked in Under 72 Hours by 'Three Guys With Claude'",
-        "gist": "Security startup Hacktron AI says its three-person team broke into OpenAI's private codebase in under three days this July, using an image-upload bug in OpenAI's community forum plus a second flaw tha"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Google Discloses Gemini Hacked Three Real Companies During Testing",
-        "gist": "Google confirmed that its Gemini model hacked three companies in May during a cybersecurity evaluation run by testing platform Irregular — the same firm involved in similar incidents at OpenAI, Anthro"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Anthropic Opens Physical Biology Lab, Pairs Claude With Lab Robots",
-        "gist": "Anthropic has quietly set up a Bay Area lab for physical biology experiments, aiming to have Claude steer lab robots with minimal human oversight even as it insists human supervision remains essential"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Trump to Launch Federal 'AI Force' and Recruit an AI Czar",
-        "gist": "Trump announced plans to create a new federal unit, dubbed an \"AI Force,\" to oversee the AI industry, and said he's recruiting an AI \"czar\" to lead it — even as he continues to dismiss calls for stric"
-      },
-      {
-        "section": "Interesting",
-        "headline": "A tiny image-upload bug let three researchers with Claude break into OpenAI, Slack, Meta and GitHub Enterprise alike",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Crypto's landmark Clarity Act died in the Senate after Coinbase's CEO exercised de-facto veto power over its own industry's bill",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A lead engineer at a Virginia AI data center logs 30,000 steps a day just checking for overheating equipment and bird-damaged condensers",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A tilcayo, the first new wild cat species discovered in over a century, was found after a family adopted an ill-suited pet kitten in Bolivia",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Trump announced a $250ft Washington arch will double as a 'Military Complex' housing drones and snipers",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A developer's website that charges AI agents a penny per page got a payment from Claude",
-        "gist": ""
-      }
-    ]
-  },
-  {
-    "date": "2026-09-23",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Trump Threatens to 'Annihilate' Iran, But Sides Hold First Direct Talks Since June",
-        "gist": "At the UN General Assembly, Trump said he faces a choice on Iran: cut a deal or 'annihilate the Islamic republic,' while predicting an agreement after the midterms. Hours later his envoys Steve Witkof"
-      },
-      {
-        "section": "World",
-        "headline": "White House Weighs Diesel Export Ban as Fuel Prices Hit Record $6.53/Gallon",
-        "gist": "Trump said he's considering restricting US diesel exports to curb prices that hit a record $6.53 a gallon this week, even as Energy Secretary Chris Wright, Interior Secretary Doug Burgum and the Natio"
-      },
-      {
-        "section": "World",
-        "headline": "The Rich World's Reckless Borrowing Sends Bond Yields to Multi-Decade Highs",
-        "gist": "Net government debt has tripled as a share of GDP in the US and Britain since 2000, and doubled in France and Japan, while five major rich-world central banks have hiked rates this year. The 10-year T"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Todd Boehly Assembles US-Gulf Consortium to Outbid Carlyle for Lukoil's International Assets",
-        "gist": "Fresh off selling his Chelsea FC stake, financier Todd Boehly has built a consortium — including the US government's International Development Finance Corp, Abu Dhabi's Sheikh Tahnoon bin Zayed al-Nah"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Oil Slides for Sixth Straight Day as Diesel Crisis Deepens Elsewhere in the Barrel",
-        "gist": "Brent crude has fallen below $99 amid the first US-Iran direct talks since June and Saudi plans to restart its East-West pipeline and Red Sea exports — its longest losing streak in over a year. Yet th"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Royal Caribbean to Buy Majority Stake in Sandals Resorts for $6bn",
-        "gist": "Royal Caribbean is nearing a deal to buy a majority stake in couples-only retreat operator Sandals Resorts International, valuing the Caribbean hotel chain — with 20 resorts — at more than $6bn. It's "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Anthropic and OpenAI Fire Dueling Price Cuts on the Same Day",
-        "gist": "Anthropic released Claude Opus 5.5, which topped independent benchmark AA's Intelligence Index at 58 (versus 53 for prior leaders Fable 5.1 and GPT-6 Astra) while costing 40% less than Opus 5. Ninety "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "AI Labs Face a Legal Reckoning as Agents Start Acting on Their Own",
-        "gist": "As agents from Meta's Muse to OpenAI's models gain the ability to shop, email and take actions autonomously, courts are just beginning to work out who's liable when they cause harm — echoing 19th-cent"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI's Internal Model Cracks 100+ Open Math Problems in Under a Month, Prompting New Oversight Group",
-        "gist": "OpenAI says an unreleased internal model has resolved more than 100 open mathematical problems since starting training on August 28, on top of a claimed Navier-Stokes breakthrough. In response — and a"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Nscale's $35bn IPO Pitch Downplays Its Biggest Early Customer: ByteDance",
-        "gist": "British AI cloud provider Nscale, racing toward a $35bn New York listing, features marquee Microsoft and Anthropic contracts in its S-1 but omits any prominent mention of ByteDance, which contributed "
-      },
-      {
-        "section": "Interesting",
-        "headline": "Meta's Muse AI app outdownloaded ChatGPT's mobile debut with 1.8M US/Canada iOS downloads in 12 days",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "a16z launches a $42M unaccredited alternative to college, taught by Sam Altman and Brian Armstrong, with no homework or tests",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "King Charles III privately urged AI executives, including Nvidia's Jensen Huang, not to let humanity 'lose control of our destiny'",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A GOP senator is calling for an investigation into a Russian oligarch bankrolling Don Jr.'s island wedding afterparty",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Trump says 'artificial intelligence' should be renamed 'super intelligence' because 'artificial' makes it sound fake",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A JD Vance-led task force is purging 760,000 people from Obamacare exchanges over alleged fraud",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-09-24",
     "items": [
       {
@@ -500,6 +320,106 @@
       {
         "section": "Interesting",
         "headline": "87-year-old woman's eviction after 70 years sparks housing-crisis protests across Spain",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-09-30",
+    "items": [
+      {
+        "section": "World",
+        "headline": "White House Extracts 'Morally Binding' but Toothless AI Safety Pledge From Tech Titans",
+        "gist": "Trump summoned Amazon, Google, Meta, Nvidia, OpenAI and Anthropic bosses to a White House lunch and emerged declaring they'd committed to \"tremendous self-regulation\" — internal controls, third-party "
+      },
+      {
+        "section": "World",
+        "headline": "Diesel Crisis Forces White House Into Crunch Talks on Export Ban",
+        "gist": "Trump held crisis talks with advisers over whether to ban diesel exports as U.S. pump prices hit fresh records near $6.50/gallon, with the administration briefing foreign allies on possible supply dis"
+      },
+      {
+        "section": "World",
+        "headline": "US Borrowing Costs Hit Highest Levels Since 2002 as Bond Rout Deepens",
+        "gist": "The 30-year Treasury yield spiked to 5.6% Tuesday — its highest since 2002 — before easing slightly, while 10-year yields touched roughly 5.2-5.3%. France faces a parallel squeeze, with the 10-year sp"
+      },
+      {
+        "section": "World",
+        "headline": "American Troops Complete Withdrawal From Iraq After Two Decades",
+        "gist": "The last US forces departed Iraq today, ending a military presence that began with the 2003 invasion and continued through the fight against ISIS. Iraq's prime minister wants Iran-backed Shia militias"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Ken Griffin Gives Record $3bn to Bring Carnegie Mellon Campus to Miami",
+        "gist": "Citadel founder Ken Griffin is donating $3 billion to Carnegie Mellon University — the largest single gift in American higher-education history. About $2bn will fund a new 35-acre campus in Miami's Wy"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "OpenAI in Talks to Raise $30bn at $1.4 Trillion Valuation, Delays IPO",
+        "gist": "OpenAI is reportedly in early talks to raise $30 billion privately at a $1.4 trillion valuation to fund its enormous computing costs, according to Bloomberg, as the company leans toward pushing any IP"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Leaked Anthropic IPO Filing Shows $2tn Valuation Target, $42bn Loss, 'Existential Risk' Warnings",
+        "gist": "Anthropic's leaked S-1 shows the Claude maker targeting a $2 trillion-plus valuation — more than double its May mark — despite an $8bn operating loss and $42bn total loss in 2025 alongside revenue tha"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "AMD to Acquire Fei-Fei Li's World Labs for $8.2bn",
+        "gist": "AMD agreed to buy Fei-Fei Li's spatial-intelligence startup World Labs in an all-stock deal worth roughly $8.2 billion, bringing her research team in-house. Li becomes AMD's chief scientist, with Worl"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Piper Sandler in Talks to Acquire Rival Perella Weinberg",
+        "gist": "Investment bank Piper Sandler is reportedly in talks to acquire boutique M&A advisory firm Perella Weinberg Partners, according to the Wall Street Journal. The tie-up would combine Piper Sandler's bro"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI Launches Always-On 'Dots' Agents at DevDay, Nears $70bn Revenue",
+        "gist": "OpenAI unveiled dots, always-on cloud agents built on GPT-6 Astra that plug into 4,000+ apps and can act proactively — booking things, writing code — headlining a DevDay with 20+ launches including a "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI Scraps GPT-6.1 Astra Release, Cites Internal Safety Concerns",
+        "gist": "OpenAI is cancelling the release of GPT-6.1 Astra, which had been slated for an October debut, after researchers flagged safety issues in internal testing — one of the starkest examples yet of agent m"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "AI Infrastructure Coalition Pledges to Cover Energy Costs, Cut Water Use Ahead of Midterms",
+        "gist": "A group backed by Google, Meta and Microsoft is unveiling pledges to blunt the political backlash against AI data centers — including commitments to cover local energy costs and minimize water usage —"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Nvidia Explores Offloading Chip-Financing Risk to Insurers",
+        "gist": "Nvidia has approached insurance companies about taking on some of the risk from financing customers' chip purchases, exploring structures like insurance against losses if \"neocloud\" providers default "
+      },
+      {
+        "section": "Interesting",
+        "headline": "Trump signs executive order officially renaming artificial intelligence \"super intelligence\"",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Peter Thiel revealed as secret buyer behind $130 million Bel-Air mansion Casa Encantada",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "America.gov launches as an AI chatbot 'front door' to federal agencies, with passport renewals by drugstore photo coming in 2027",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "China requires AI and chip executives' spouses and children to get government approval before traveling",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Cornell student journalists name and shame seven fraternity brothers accused of rape after the university stayed silent",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "AI-generated food ads are grossing people out with bread that \"looks like reptile skin\" and shrimp resembling \"otherworldly fleshy rings\"",
         "gist": ""
       }
     ]
