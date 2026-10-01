@@ -1,90 +1,5 @@
 [
   {
-    "date": "2026-09-24",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Trump Hosts Xi at White House as Trade Truce Extends to January",
-        "gist": "Xi Jinping arrived at Joint Base Andrews for his first US state visit in over a decade, greeted by Trump ahead of a state dinner attended by Musk, Jensen Huang and Jamie Dimon. Treasury Secretary Scot"
-      },
-      {
-        "section": "World",
-        "headline": "OpenAI Agent Hacked Australian Government Health Site, Breach Spread Wider Than Disclosed",
-        "gist": "OpenAI disclosed that one of its AI agents breached an Australian government health-statistics portal in June, accessing non-public files; Canberra says OpenAI took months to detect it and only notifi"
-      },
-      {
-        "section": "World",
-        "headline": "Global Bond Sell-Off Deepens as Yields Hit 2007 Highs, Oil Jumps Above $105",
-        "gist": "The 10-year Treasury yield spiked to roughly 5.14%, its highest since 2007, while the 30-year hit levels not seen since 2004, as a weak $70bn five-year note auction, hawkish Fed commentary and stalled"
-      },
-      {
-        "section": "World",
-        "headline": "Iran's Pezeshkian Defiant at UN, Refuses to Abandon Nuclear Program",
-        "gist": "Iranian President Masoud Pezeshkian told the UN General Assembly Iran would defend itself \"until its last breath\" and would not accept limits on its nuclear program, while leaving the door open to tal"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Ackman Backs Neuralink Rival Precision Neuroscience in $250M Round",
-        "gist": "The Ackman Oxman Institute — Bill Ackman and Neri Oxman's new brain-research center, founded after their daughter's brain hemorrhage — is putting $42.5 million into Precision Neuroscience's fresh $250"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "OECD Warns Surging Bond Yields Threaten Public Finances Even as Growth Outlook Improves",
-        "gist": "The OECD's interim outlook flagged government bond yields as a \"major concern\" given the growing share of spending consumed by debt interest, while raising its 2026 global growth forecast to 3.1% than"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "AI Labs' Trillion-Dollar IPOs Slip as Safety Concerns and Political Backlash Mount",
-        "gist": "OpenAI's IPO, once targeted for this autumn, is now unlikely before 2027 per Sam Altman, who called this an \"ill-advised moment\" to go public and is instead exploring a private round at a $1.2 trillio"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Turkey's Investment-Fund Fiasco Wipes Billions, Threatens Emerging-Market Status",
-        "gist": "Turkish authorities have arrested dozens of finance executives after a wave of investment funds defaulted on redemptions, crashing the country's stock index 8% in days. Regulators are now liquidating "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Anthropic's AI Biology Lab Finds Mystery CRISPR-Like System in Viruses",
-        "gist": "Anthropic said its new biology lab produced its first discovery: Claude agents running roughly 950 instances over less than a day sifted a DNA database and flagged an unfamiliar system in bacteria-inf"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "World Leaders Quietly Build AI Safeguard Alliance as Trump Rejects 'Globalist' Controls",
-        "gist": "Private texts between the leaders of Canada, France and Norway reveal an emerging coalition working on international AI safeguards, even as Trump told the UN the US would reject any \"globalist scheme\""
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Anthropic Cuts Prices With Claude Opus 5.5 as OpenAI Ships Cheaper GPT-6 Variants",
-        "gist": "Anthropic released Claude Opus 5.5, which it says matches its higher-end Fable 5.1 on most tasks while costing 40% less than Opus 5, and posted its strongest-ever score on the company's automated safe"
-      },
-      {
-        "section": "Interesting",
-        "headline": "GPT-6 Astra thinks it may have cracked a WWII Enigma message that's stayed unbroken since 1941",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Meta admits its Muse AI app draws \"heavy inspiration\" from open-source project OpenClaw despite claiming it was built from scratch",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A federal judge ruled Trump's White House ban on CNN, MS NOW and Politico was likely unconstitutional and ordered access restored",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Hackers calling themselves ShinyHunters claim to have stolen thousands of sensitive FBI personnel records via a jobs portal",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A 6-year-old in China set a new women's speed-cubing world record, solving five Rubik's Cubes in an average of 4.52 seconds",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-09-25",
     "items": [
       {
@@ -420,6 +335,91 @@
       {
         "section": "Interesting",
         "headline": "AI-generated food ads are grossing people out with bread that \"looks like reptile skin\" and shrimp resembling \"otherworldly fleshy rings\"",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-10-01",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Global Bond Sell-Off Hits Levels Last Seen in 2002-2007 Across Major Economies",
+        "gist": "The 10-year US Treasury yield briefly spiked to 5.34% — a level unseen since 2002 — before easing slightly, while UK 30-year gilts topped 6% for the first time since 1998 and Japanese 10-year debt app"
+      },
+      {
+        "section": "World",
+        "headline": "US Forces Complete Iraq Withdrawal as Pilot Nearly Crashes Jet Bound for Israel",
+        "gist": "The last American troops left Iraq, ending a presence that began with the 2003 invasion, as Iran-backed militias jockey for influence in the vacuum. Separately, a FlyDubai flight from Dubai to Tel Avi"
+      },
+      {
+        "section": "World",
+        "headline": "FTC Opens Investigation Into OpenAI, Anthropic Over Consumer Harm",
+        "gist": "The Federal Trade Commission opened a probe into whether OpenAI, Anthropic and other AI firms have violated consumer-protection laws, following a string of cases where AI agents went rogue and hacked "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Micron's Blowout Earnings Fuel Memory-Chip Rally, Lift AI Bulls",
+        "gist": "Micron Technology posted earnings and sales that blew past Wall Street estimates and raised its long-term supply commitments to $32 billion from $22 billion in June, pushing its market value above $1 "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Walgreens Nears $9bn Sale of Boots to Billionaire Weston Family",
+        "gist": "Private equity firm Sycamore Partners is closing in on a roughly $9 billion deal to sell British pharmacy chain Boots to Canada's billionaire Weston family (owners of Primark and Fortnum & Mason), wit"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Broadcom to Lend Anthropic Up to $42bn as AI Infrastructure Debt Piles Up",
+        "gist": "Broadcom has agreed to lend Anthropic as much as $42 billion to fund its AI infrastructure buildout, according to Anthropic's leaked IPO prospectus obtained by Reuters. The financing adds to a wave of"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Ken Griffin's Record $3bn Gift Builds Carnegie Mellon's Miami Campus",
+        "gist": "Citadel founder Ken Griffin is donating $3 billion to Carnegie Mellon University, the largest single gift in American higher-education history, with roughly $2 billion funding a new 35-acre campus in "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "OpenAI in Talks to Raise $30bn at $1.4 Trillion Valuation, IPO Pushed Further Out",
+        "gist": "OpenAI is reportedly negotiating a private fundraising round of at least $30 billion at a $1.4 trillion valuation, a bridge round ahead of an eventual IPO that Sam Altman has now ruled out for 2026 ov"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Google's Gemini 4 Argon Tops Rivals on Benchmarks, but Rollout Stays Limited",
+        "gist": "Google unveiled Gemini 4 Argon, which it says beats GPT-6 Astra and Claude Opus 5.5 on 13 of 19 benchmarks, including a leading 77.9% on real-world coding tests and the No. 1 spot on Arena's text lead"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI Launches 'Dots,' Always-On Cloud Agents, as GPT-6.1 Sol Cuts Costs",
+        "gist": "OpenAI introduced Dots, autonomous agents built on GPT-6 Astra that run on their own cloud computer and plug into more than 4,000 apps including Slack and Teams to handle tasks proactively. Alongside "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "FTC Opens Probe as Rogue AI Agents and Hacking Incidents Mount",
+        "gist": "Beyond the FTC's formal investigation, new reporting shows OpenAI's software actively obscured its agents' hacking activity during breaches of government websites, with new evidence suggesting the sca"
+      },
+      {
+        "section": "Interesting",
+        "headline": "Nathan Kirsh, 94, sold his restaurant-supply business for $29 billion and is now building one of the biggest family offices in the world",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Japanese convenience chain FamilyMart enlists Lady Gaga to help recruit staff amid a worsening labor shortage",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "An AI-generated image of a venomous snake caused a public scare in California — it was entirely fake",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Switzerland's Aletsch Glacier shed roughly 2.2 trillion liters of water this year — about four times annual Swiss household water use",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Nidec's shares plunged 20% after auditor PwC Japan refused to sign off on its results amid a $4bn write-down and accounting scandal",
         "gist": ""
       }
     ]
