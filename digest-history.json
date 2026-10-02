@@ -1,75 +1,5 @@
 [
   {
-    "date": "2026-09-25",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Trump and Xi Wrap State Visit With Pomp but Little Substance",
-        "gist": "Xi Jinping's three-day US state visit ended with a trip to the National Archives after a lavish White House dinner attended by tech titans like Bezos, Musk, Altman and Huang. The two sides extended th"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Oracle's Force Majeure Notice on New Mexico Data Center Rattles AI-Infrastructure Financing",
-        "gist": "Oracle sent a force majeure notice to the Blue Owl-backed developer of Project Jupiter, a $165bn New Mexico data center meant to supply compute to OpenAI as part of Stargate. The notice — a move more "
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "30-Year Mortgage Rate Tops 7% for First Time in Nearly Two Years",
-        "gist": "Freddie Mac data show the average 30-year US mortgage rate has crossed 7%, its highest since 2023, driven by costly oil and Treasury yields sitting near multi-decade highs. The 10-year Treasury yield "
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "SoftBank Prices Record $11bn Bond Sale to Fund Further OpenAI Investment",
-        "gist": "SoftBank sold roughly $11bn of dollar- and euro-denominated bonds — one of the largest high-yield debt deals ever — with some tranches carrying among the steepest yields the company has ever offered, "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Meta's Muse Sparks E-Commerce Turf War, With Amazon Blocking the Agent",
-        "gist": "Meta's Muse AI shopping/chat agent has racked up about 3.4 million downloads since its Sept. 8 launch — faster early growth than Grok or Claude — and Meta used its Connect event to unveil Charm, a wea"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Google Puts AI Chips Into Orbit to Test Space-Based Data Centers",
-        "gist": "Google will launch Trillium TPUs into orbit next week aboard SpaceX's Transporter-18 mission alongside satellite firm Planet, part of Project Suncatcher, a moonshot testing whether solar-powered satel"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Anthropic's AI Biology Lab Flags Possible New CRISPR-Like Enzyme System",
-        "gist": "Anthropic said Claude autonomously identified a previously unknown enzyme system linked to unusual DNA repeats resembling programmable gene-editing systems like CRISPR, the first discovery to come out"
-      },
-      {
-        "section": "Interesting",
-        "headline": "MGM Resorts reportedly weighing a bid to buy Barry Diller's People Inc. after People dropped its own bid for MGM",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "New York's attorney general sues Polymarket for allegedly running an unlicensed gambling operation, following a similar suit against Kalshi",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Jeff Bezos has now sunk $30bn of his own fortune into Blue Origin, including a fresh $2bn commitment",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A California startup called Parallax is 3D-printing small gas turbines to help data centers generate their own power",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Xi announced China will send two pandas, Ping Ping and Fu Shuang, to Zoo Atlanta",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Former Disney CEO Bob Chapek's new memoir describes Bob Iger as \"ice cold\" and \"angry\" during their on-air CEO handoff",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-09-26",
     "items": [
       {
@@ -420,6 +350,106 @@
       {
         "section": "Interesting",
         "headline": "Nidec's shares plunged 20% after auditor PwC Japan refused to sign off on its results amid a $4bn write-down and accounting scandal",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-10-02",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Putin Orders Military to Abandon 'Rules of War,' Zelenskyy Says",
+        "gist": "Zelenskyy told the FT that Ukrainian intelligence intercepted Kremlin communications showing Putin ordered commanders in September to scrap previous constraints on air campaigns, followed by intensifi"
+      },
+      {
+        "section": "World",
+        "headline": "US Sends Carrier Strike Group and Thousands More Troops to Middle East",
+        "gist": "The US is deploying a third aircraft-carrier strike group and additional Marine Corps ships to the Middle East, adding up to 10,000 troops, with the USS Theodore Roosevelt expected in the region by la"
+      },
+      {
+        "section": "World",
+        "headline": "Bond Rout Deepens: 10-Year Treasury Hits Highest Since 2002",
+        "gist": "The 10-year US Treasury yield spiked to 5.34% before easing slightly, its highest since 2002, while UK 30-year gilts topped 6% and French 10-year yields hit a 2002-era high of 4.96%. The sell-off push"
+      },
+      {
+        "section": "World",
+        "headline": "Trump Weighs Diesel Export Ban as Global Supplies Tighten",
+        "gist": "Putin said Russia won't sell diesel abroad until sanctions are lifted, while Chinese refiners suspended October exports, squeezing a fuel that normally sees a third of global exports come from those t"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Nike Shares Sink 9% on Disappointing Results, Deepening Worst Year on Record",
+        "gist": "Nike shares fell more than 9% in premarket trading after quarterly revenue dropped 4% to $11.2bn and net income slipped to $712m, with CEO Elliott Hill warning of job cuts and a restructuring as Great"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Anthropic Targets Mid-November IPO at Up to $2 Trillion Valuation",
+        "gist": "Anthropic is reportedly aiming to go public before Thanksgiving, meeting prospective investors on October 14, with investors pricing a fair valuation between $1.8 trillion and $2 trillion despite moun"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Supabase Raises $150M at $10.65bn Valuation, Acquires Turso",
+        "gist": "Database startup Supabase raised $150 million led by Singapore's GIC at a $10.65bn valuation — just months after a $500m raise — as AI coding agents drive explosive demand, with roughly 70% of the nea"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Amazon Seeks to Offload $8bn of Nvidia Chips to Outside Investors",
+        "gist": "Amazon is looking to sell about $8bn worth of advanced Nvidia chips to external investors through a new financing vehicle, a move aimed at keeping AI infrastructure spending off its own balance sheet."
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Monzo Turns to Private Equity After Nubank Deal Talks Collapse",
+        "gist": "UK fintech Monzo is courting private equity investors after takeover talks with Brazil's Nubank fell apart over a valuation gap — Monzo wanted up to £10bn. The pivot underscores how fintech consolidat"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Google Unveils Gemini 4 Argon for Cybersecurity and Enterprise Reasoning",
+        "gist": "Google announced Gemini 4 Argon, a frontier model built for sustained reasoning in software engineering, enterprise knowledge work and cybersecurity, with access initially limited to trusted cyber def"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Tavus' Griffin AI Avatar Fools Nearly Half of Video-Call Testers",
+        "gist": "Startup Tavus previewed Griffin, a 'Human Interaction Model' that renders a lifelike avatar able to watch, listen and respond in real time on video calls — nodding mid-sentence and referencing what's "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Google Extends AI Watermarking Into Biology With SynthID Bio",
+        "gist": "Google DeepMind introduced SynthID Bio, a proof of concept that adapts its AI watermarking technology to proteins by tweaking its AlphaFold 3 model to embed a hidden, detectable pattern in predicted p"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Factory and Cognition's Talent Feud Spills Into Public View",
+        "gist": "Factory CEO Matan Grinberg publicly fired board adviser Chris Degnan, accusing him of leaking confidential product roadmap information to rival coding startup Cognition; Degnan joined Cognition as chi"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI Fires Researchers Over Alleged Leaks to AI Safety Group",
+        "gist": "OpenAI terminated several safety-team researchers for allegedly sharing confidential company information with an outside AI-safety organization, the latest fallout from a stretch of security incidents"
+      },
+      {
+        "section": "Interesting",
+        "headline": "Tennessee halts all executions after inmate Christa Pike survives two doses of lethal injection drugs",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Cornell campus police reportedly omitted a student's rape claim from the report sent to prosecutors",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Manchester City's chairman can't be easily punished for the club's 114 financial-rules violations because he holds UK diplomatic immunity",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "The Justice Department is reviewing whether Watergate prosecutors mistreated Richard Nixon, more than 50 years later",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A FlyDubai co-pilot allegedly stabbed the captain and tried to crash the plane; Israel is seeking his extradition from Saudi Arabia",
         "gist": ""
       }
     ]
