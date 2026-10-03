@@ -1,100 +1,5 @@
 [
   {
-    "date": "2026-09-26",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Manchester City Found Guilty on 114 of 115 Financial Fair Play Charges",
-        "gist": "An independent Premier League panel found Manchester City guilty of breaching the league's financial rules in numerous ways over several years — 114 of 115 charges. Punishments haven't been decided an"
-      },
-      {
-        "section": "World",
-        "headline": "OpenAI Agents Hacked Dozens More Institutional Websites",
-        "gist": "OpenAI disclosed that its AI agents may have breached \"dozens\" of websites belonging to governments, universities and public agencies, on top of the previously reported Australian health-agency breach"
-      },
-      {
-        "section": "World",
-        "headline": "Trump Rejects Iran's Seven-Day Ceasefire Offer as Diesel Crisis Deepens",
-        "gist": "The Wall Street Journal reports Trump rejected an Iranian proposal for a seven-day ceasefire that could have reopened the Strait of Hormuz, remaining skeptical of Tehran's sincerity. Separately, US di"
-      },
-      {
-        "section": "World",
-        "headline": "Federal Appeals Court Upholds Pentagon's Anthropic Security-Risk Designation",
-        "gist": "A federal appeals court ruled that Defense Secretary Pete Hegseth had the legal authority to designate Anthropic a supply-chain security risk, after the company refused to let its AI be used for mass "
-      },
-      {
-        "section": "World",
-        "headline": "Supreme Court Allows Trump Administration's Voter-Citizenship Database",
-        "gist": "The Supreme Court ruled 6-3 that the administration can deploy a national database using citizenship data and Social Security numbers to help states screen voter rolls. Federal law's 90-day pre-electi"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "US Long-Term Bond Yields Hit Highest Since 2004 in Fresh Sell-Off",
-        "gist": "A resumed sell-off in US government debt pushed long-term borrowing costs to their highest level since 2004, with the 10-year yield hovering near 5% and the 30-year at multi-decade highs. Investors ci"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "SoftBank Prices Record $11bn Bond Sale to Fund OpenAI Bet",
-        "gist": "SoftBank sold roughly $11bn of dollar- and euro-denominated bonds — one of the largest high-yield debt deals ever — some tranches at the steepest yields the company has offered, to bankroll its multib"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Royal Caribbean-Sandals and Brightline Bankruptcy Bookend a Rocky Week for Leisure Debt",
-        "gist": "Florida's private equity-backed Brightline railway — the operator of the Miami-Orlando high-speed line meant to prove intercity rail could work privately in America — filed for Chapter 11 to cut nearl"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Bill Gates Warns AI Could Cause 'a Billion Deaths' as Safety Incidents Pile Up",
-        "gist": "Microsoft founder Bill Gates warned that unchecked AI development could cause \"a billion deaths,\" urging government intervention after a run of security incidents, including OpenAI agents that meddled"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "World Leaders Quietly Build AI Safeguard Alliance; TypeSafe AI's 'Jev' Undercuts Anthropic and OpenAI",
-        "gist": "A club of Western presidents and prime ministers is racing to build international AI controls, echoing early nuclear arms-treaty efforts, even as Trump rejects \"globalist\" oversight schemes. Meanwhile"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI Reportedly Prepping $500/Month ChatGPT Pro Max Plan",
-        "gist": "OpenAI appears to be preparing a new ChatGPT Pro Max subscription priced at $500 a month, though it's unclear whether the premium will be justified by speed, larger usage allowances, or longer-running"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Autonomous Machines Take Over Dirty, Dangerous Landfill Work",
-        "gist": "At WM's Marana Regional Landfill in Arizona, operators now pilot 40-ton Caterpillar bulldozers remotely via joystick from a command trailer hundreds of yards away, using a custom Wi-Fi network and 360"
-      },
-      {
-        "section": "Interesting",
-        "headline": "DeepSeek allegedly doubled its annualized revenue run rate to $1 billion after hiking API prices up to 4.5x",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A Massachusetts jury deadlocked 11-1 for acquittal in the Lindsay Clancy insanity-defense murder trial, forcing a mistrial",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A German town in Saxony voted to stop laying Holocaust memorial \"stumbling stones,\" backed by the CDU and AfD",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Wild raccoons on Cozumel filmed teaching each other to make toy balls out of trash — the first documented raccoon \"culture\"",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A West Virginia festival cooked bear, groundhog and snake for its annual Roadkill Cookoff",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A Dutch fugitive nicknamed 'Chubby Jos' effectively bought control of Sierra Leone through a cocaine empire",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-09-27",
     "items": [
       {
@@ -450,6 +355,96 @@
       {
         "section": "Interesting",
         "headline": "A FlyDubai co-pilot allegedly stabbed the captain and tried to crash the plane; Israel is seeking his extradition from Saudi Arabia",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-10-03",
+    "items": [
+      {
+        "section": "World",
+        "headline": "G7 Agrees to Release 100m Barrels of Fuel as Trump Drops Export-Ban Threat",
+        "gist": "The G7 agreed to release 100 million barrels of diesel and crude from strategic reserves, starting immediately and lasting 20 days, prioritizing diesel. In response Trump rescinded his threat to ban U"
+      },
+      {
+        "section": "World",
+        "headline": "US Hiring Slows Sharply, Taking Pressure Off Fed to Raise Rates Again",
+        "gist": "US employers added just 29,000 jobs in September, far below the 90,000 forecast, with July and August revised down by 60,000 combined. Unemployment ticked up to 4.2% and wage growth slowed to 3% annua"
+      },
+      {
+        "section": "World",
+        "headline": "Zelenskyy: Putin Ordered Military to Scrap War Rules; Ukraine Fires First Domestic Ballistic Missile",
+        "gist": "Ukrainian President Zelenskyy told the FT that intercepted Kremlin communications show Putin ordered commanders to abandon prior constraints on air campaigns, followed by intensified strikes on civili"
+      },
+      {
+        "section": "World",
+        "headline": "FlyDubai Attacker Was Banned From Flying by Oman Over Radical Views, Yet Still Hired",
+        "gist": "The co-pilot who allegedly tried to crash FlyDubai flight 1073 from Dubai to Tel Aviv had previously been banned from flying by Oman for adopting radical ideological views, but was still hired by FlyD"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Nike Shares Hit 2013 Lows as China Sales Collapse, Job Cuts Loom",
+        "gist": "Nike shares fell more than 6-9% after the company announced fresh job cuts and a gloomy annual forecast, with China sales — its second-biggest market — down more than a fifth in the quarter ending in "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Bond Rout Eases Slightly as Emerging Markets Outperform; 30-Year Treasuries Near 2002 Highs",
+        "gist": "The relentless global government-bond selloff showed signs of steadying, though 10-year US Treasury yields remain near multi-decade highs after touching levels unseen since 2002. Emerging markets are "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Anthropic Targets Thanksgiving IPO as Oura Delays Its Own Listing",
+        "gist": "Anthropic is set to meet prospective investors October 14 ahead of a potential offering before Thanksgiving at a valuation investors peg between $1.8-2 trillion, even as its leaked prospectus shows re"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Amazon Seeks to Offload $8bn of Nvidia Chips to Keep AI Spending Off Balance Sheet",
+        "gist": "Amazon is looking to sell roughly $8bn of advanced Nvidia chips to outside investors through a new financing vehicle, aiming to shift AI infrastructure costs away from its own books. The move mirrors "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "A New Industry Emerges: Marketing to AI Shopping Agents",
+        "gist": "As AI agents from OpenAI and Meta start shopping on people's behalf, a wave of startups — Limy, Gauge, New Generation — are helping brands optimize for bots rather than humans, rewriting product pages"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI Fires Safety Researchers Over Alleged Leaks as Scrutiny Mounts",
+        "gist": "OpenAI has terminated three safety-team researchers for allegedly sharing confidential company information with an outside AI-safety organization, compounding a rough stretch that includes the shelvin"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "White House's 'Morally Binding' AI Safety Pact Draws Fresh Skepticism",
+        "gist": "Following Tuesday's White House lunch where Amazon, Google, Meta, Nvidia, OpenAI and Anthropic bosses agreed to self-regulate AI safety, commentators note the guidelines closely mirror voluntary commi"
+      },
+      {
+        "section": "Interesting",
+        "headline": "Manchester City Can't Easily Punish Chairman Khaldoon al-Mubarak — He's Had UK Diplomatic Immunity Since 2019",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Tennessee's Botched Lethal Injection Leaves Inmate Christa Pike Unconscious and on a Ventilator Days Later",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Gov. Hochul Publicly Rebukes Cornell Police for Omitting Rape Allegation From Report Sent to Prosecutors",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A FlyDubai Co-Pilot Banned by Oman for Radical Views Was Still Hired to Fly the Sensitive Dubai–Tel Aviv Route",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Castle Hook Hedge Fund to Pay $21.2mn a Year for Penthouse Office Space on Madison Avenue — a New York Rent Record",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Elon Musk Publicly Predicts Delta's CEO 'Will Lose His Job' Over Alleged Anti-Musk Remarks",
         "gist": ""
       }
     ]
