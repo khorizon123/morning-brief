@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-09-27",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Nor'easter Batters Northeast as Trump Rejects Iran's Ceasefire Bid, Diesel Crisis Deepens",
-        "gist": "A powerful nor'easter is bringing heavy winds, rain and flooding across the Northeast US, knocking out power and washing an 1884 shipwreck fragment ashore off Nantucket. Separately, President Trump re"
-      },
-      {
-        "section": "World",
-        "headline": "Swiss Voters to Decide Fate of Centuries-Old Neutrality",
-        "gist": "Switzerland holds a referendum on whether to bar the country from cooperating with military alliances unless directly attacked, a vote that could upend one of Europe's oldest foreign-policy traditions"
-      },
-      {
-        "section": "World",
-        "headline": "Colombia's Hardline Leader Faces Gang Backlash, Turning Tourist Hub Into 'Ghost Town'",
-        "gist": "Violence has surged in Colombia since new president Abelardo de la Espriella abandoned his predecessor's 'total peace' strategy with armed groups, turning a onetime tourist hotspot into what locals de"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Foreign Capital Pours Into US Stocks at Record Pace as Bond Appetite Fades",
-        "gist": "Overseas investors bought a record $940bn of US equities in the year to July, coinciding with strong S&P 500 gains, even as demand for US government debt weakens amid a historic bond sell-off. The div"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Armani Kicks Off Stake Sale Talks With LVMH, L'Oréal",
-        "gist": "Fashion house Armani is opening talks with LVMH, L'Oréal and EssilorLuxottica over a potential stake sale, following the late founder Giorgio Armani's wishes for the company's future ownership structu"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Value of Old Supertankers Soars Past New Builds as Shipping Market Goes 'Bananas'",
-        "gist": "Freight rates have surged so sharply that used, older supertankers are now fetching higher prices than newly built vessels — an inversion driven by how quickly a ship can be delivered to buyers amid t"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Monzo in Talks With Nubank Over Sale",
-        "gist": "UK fintech Monzo is in talks with Brazil's Nubank about a potential acquisition, while also discussing selling a significant stake to private equity. The negotiations underscore consolidation pressure"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Big Dreams and Tiny Revenue Are the New Norm for AI IPOs",
-        "gist": "The chasm between AI companies' sky-high valuations and their actual revenue is becoming the defining feature of the next wave of AI listings. Investors are increasingly willing to underwrite firms wh"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Australia's Data-Center Boom: AI Bosses Look Abroad After US Backlash",
-        "gist": "Chastened by growing public backlash in America, AI companies are increasingly looking to Australia to build huge new data centers, drawn by its vast land and abundant renewable energy. The country's "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Amazon Wades Into India's Fast-Delivery Battle: 'DoorDash on Steroids'",
-        "gist": "Amazon has entered India's cutthroat quick-commerce market, joining local and foreign rivals in a bruising, cash-intensive race to dominate ultra-fast delivery. The category has become a proving groun"
-      },
-      {
-        "section": "Interesting",
-        "headline": "A tree-branch-wielding woman met her match in a spatula-armed man at an In-N-Out drive-through standoff",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Backyard ultramarathons force runners to loop the same course hourly until only one remains standing",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Pakistan authorities build Tetris-like shipping-container maze in Islamabad to block opposition protesters",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "87-year-old woman's eviction after 70 years sparks housing-crisis protests across Spain",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-09-30",
     "items": [
       {
@@ -445,6 +370,81 @@
       {
         "section": "Interesting",
         "headline": "Elon Musk Publicly Predicts Delta's CEO 'Will Lose His Job' Over Alleged Anti-Musk Remarks",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-10-04",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Wall Street's IPO Fervor Cools as Anthropic Delay Spooks Market",
+        "gist": "Several planned listings have been paused in recent weeks, with the delay in Anthropic's public debut sending a chill through broader markets. Bankers say tepid demand and valuation worries are making"
+      },
+      {
+        "section": "World",
+        "headline": "Global Bond Sell-Off Shows Mixed, Unsettled Picture",
+        "gist": "The FT's latest chart analysis of the global bond rout finds no single culprit — a mix of fiscal worries, inflation expectations and shifting central bank credibility are all cited factors keeping yie"
+      },
+      {
+        "section": "World",
+        "headline": "Israeli Settlers Rush to Expand West Bank Footprint Before Election",
+        "gist": "Jewish settlers are accelerating expansion into the occupied West Bank, aiming to establish facts on the ground that a new Israeli government would struggle to reverse after the coming election."
+      },
+      {
+        "section": "World",
+        "headline": "Two Iranian Migrants Charged Over Alleged Plot Against Jewish Targets in Manchester",
+        "gist": "UK counter-terrorism police have charged two Iranian men who arrived via small boat with plotting an attack on Jewish targets in Manchester, saying they may have been directed from Tehran."
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "China Shutters a Record 670+ Banks to Shore Up Financial System",
+        "gist": "China closed more than 670 lenders last year, a record pace, as regulators push consolidation among the country's thousands of small rural and city banks. Fitch warns these smaller institutions remain"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "SoftBank's AI Ambitions Outgrow Its Own Balance Sheet",
+        "gist": "Masayoshi Son's AI spending plans have become so large that SoftBank is turning to outside partners to share the load: DigitalBridge CEO Marc Ganzi says his data-center investment firm will act as Sof"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Japanese and Korean Shipbuilders Turn to Robots to Counter China",
+        "gist": "Shipbuilders in Japan and South Korea are investing heavily in automated 'smart shipyards' as Beijing's dominance of global shipbuilding — now roughly half of all tonnage — alarms Washington and allie"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Scientists Warn 'Mirror Life' Research Could Be Catastrophic",
+        "gist": "Many biological molecules are chiral, existing in one of two mirror-image forms, and a growing number of scientists are exploring whether a cell — likely a bacterium — could be built with its biochemi"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Google Faces £1.2bn UK Lawsuit Over Play Store Fees",
+        "gist": "Google is set to defend a £1.2 billion lawsuit in the UK alleging it charged developers 'excessive' fees on its Play Store app marketplace. The case is the latest in a string of efforts by regulators "
+      },
+      {
+        "section": "Interesting",
+        "headline": "A whale helped sink a yacht in the South Pacific, leaving the crew stranded 18 hours",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Superpowers are racing to put nuclear reactors on the moon",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A food safety inspector's surprise raids in India have made him an unlikely social media star",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "60,000 Polish number plates on Italian cars exposed a national tax-evasion scheme",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Temu's UK sales more than doubled to $171mn by exploiting a customs duty loophole",
         "gist": ""
       }
     ]
