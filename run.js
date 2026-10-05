@@ -41,10 +41,11 @@ function isWithinTargetWindow(timezone) {
 
 // The workflow now checks twice an hour for redundancy (see daily-brief.yml),
 // so both checks could land inside the target hour. Guard against sending
-// twice by checking whether today's audio commit has already happened.
+// twice by checking whether today's digest-history commit has already happened
+// (history is committed even when audio generation fails).
 function alreadySentToday(timezone) {
   try {
-    const lastCommitIso = execSync(`git log -1 --format=%cI -- ${AUDIO_PATH}`).toString().trim();
+    const lastCommitIso = execSync(`git log -1 --format=%cI -- ${HISTORY_PATH}`).toString().trim();
     if (!lastCommitIso) return false;
     const dateFmt = new Intl.DateTimeFormat('en-CA', { timeZone: timezone });
     return dateFmt.format(new Date(lastCommitIso)) === dateFmt.format(new Date());
@@ -78,28 +79,35 @@ async function sendEmail(html, date) {
 
 const MAX_REASONABLE_AUDIO_BYTES = 40 * 1024 * 1024; // ~40MB is generous for a 15-min voice MP3
 
+// buffer may be null when audio generation failed: we still commit the digest
+// history (which is what alreadySentToday() keys off) so retries don't resend,
+// but skip the mp3/player page and return null so the email omits the button.
 function pushAudio(buffer, date, digest, clippers) {
-  if (buffer.length > MAX_REASONABLE_AUDIO_BYTES) {
-    throw new Error(
-      `Audio buffer is ${(buffer.length / 1024 / 1024).toFixed(1)}MB, far beyond what a 10-15 minute ` +
-      `digest should produce. Aborting before writing/committing -- this usually means a digest field ` +
-      `was mis-shaped and got read character-by-character. Not pushing.`
-    );
+  const files = [HISTORY_PATH];
+  if (buffer) {
+    if (buffer.length > MAX_REASONABLE_AUDIO_BYTES) {
+      throw new Error(
+        `Audio buffer is ${(buffer.length / 1024 / 1024).toFixed(1)}MB, far beyond what a 10-15 minute ` +
+        `digest should produce. Aborting before writing/committing -- this usually means a digest field ` +
+        `was mis-shaped and got read character-by-character. Not pushing.`
+      );
+    }
+    fs.mkdirSync(path.dirname(AUDIO_PATH), { recursive: true });
+    fs.writeFileSync(AUDIO_PATH, buffer);
+
+    const webPageHtml = renderWebPage({ date, digest, audioFileName: path.basename(AUDIO_PATH), clippers });
+    fs.writeFileSync(PLAYER_PATH, webPageHtml, 'utf8');
+    files.push(AUDIO_PATH, PLAYER_PATH);
   }
-  fs.mkdirSync(path.dirname(AUDIO_PATH), { recursive: true });
-  fs.writeFileSync(AUDIO_PATH, buffer);
 
-  const webPageHtml = renderWebPage({ date, digest, audioFileName: path.basename(AUDIO_PATH), clippers });
-  fs.writeFileSync(PLAYER_PATH, webPageHtml, 'utf8');
-
-  execSync(`git add ${AUDIO_PATH} ${PLAYER_PATH} ${HISTORY_PATH}`);
+  execSync(`git add ${files.join(' ')}`);
   try {
-    execSync(`git commit -m "Update daily audio ${new Date().toISOString().slice(0, 10)}"`);
+    execSync(`git commit -m "Update daily ${buffer ? 'audio' : 'digest (no audio)'} ${new Date().toISOString().slice(0, 10)}"`);
     execSync('git push');
   } catch (err) {
     console.log('Nothing to commit or push failed:', err.message.split('\n')[0]);
   }
-  return `${PAGES_URL}/${PLAYER_PATH}`;
+  return buffer ? `${PAGES_URL}/${PLAYER_PATH}` : null;
 }
 
 async function main() {
@@ -149,11 +157,16 @@ async function main() {
   saveHistory(appendToHistory(history, dateIso, digest));
 
   console.log('Generating audio...');
-  const audioBuffer = await generateAudio(digest, clippers);
+  let audioBuffer = null;
+  try {
+    audioBuffer = await generateAudio(digest, clippers);
+  } catch (err) {
+    console.error(`Audio generation failed -- sending the digest without audio: ${err.message}`);
+  }
 
-  console.log('Pushing audio to GitHub...');
+  console.log('Pushing to GitHub...');
   const audioUrl = pushAudio(audioBuffer, date, digest, clippers);
-  console.log('Audio player URL:', audioUrl);
+  console.log('Audio player URL:', audioUrl || '(none -- no audio today)');
 
   const html = renderEmailHtml({
     date,

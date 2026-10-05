@@ -181,11 +181,11 @@ function renderEmailHtml({ date, digest, audioUrl, clippers }) {
       <tr>
         <td class="mb-header-title" style="padding-top:6px;font-family:${SERIF};font-size:30px;font-weight:bold;color:#ffffff;">Morning Brief</td>
       </tr>
-      <tr>
+      ${audioUrl ? `<tr>
         <td style="padding-top:16px;">
-          <a href="${escapeAttr(audioUrl || '#')}" style="display:inline-block;background:#ffffff;color:${COLORS.headerFrom};text-decoration:none;padding:10px 20px;border-radius:24px;font-family:${SANS};font-size:14px;font-weight:bold;">&#9654; Listen to today's brief</a>
+          <a href="${escapeAttr(audioUrl)}" style="display:inline-block;background:#ffffff;color:${COLORS.headerFrom};text-decoration:none;padding:10px 20px;border-radius:24px;font-family:${SANS};font-size:14px;font-weight:bold;">&#9654; Listen to today's brief</a>
         </td>
-      </tr>
+      </tr>` : ''}
       ${renderClippersLine(clippers)}
     </table>
   </div>
