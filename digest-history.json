@@ -448,5 +448,110 @@
         "gist": ""
       }
     ]
+  },
+  {
+    "date": "2026-10-06",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Bond Rout Deepens Further, Now Spreading to Corporate Credit",
+        "gist": "The 10-year Treasury yield hit 5.34% and the 30-year touched 5.70% — the highest since 2002 — while Japan's 30-year bond hit a record 4.24% and the euro slid to a 17-month low of $1.11. The selloff is"
+      },
+      {
+        "section": "World",
+        "headline": "Brazil Markets Soar as Bolsonaro Family Nears Comeback",
+        "gist": "Flávio Bolsonaro topped the first round of Brazil's presidential election with 47% of the vote, two points ahead of incumbent Lula, sending Brazilian stocks to their best day since 2020 along with gai"
+      },
+      {
+        "section": "World",
+        "headline": "Le Pen Pledges Spending Cuts as France's Bond Crisis Deepens",
+        "gist": "French far-right frontrunner Marine Le Pen proposed a 'golden rule' capping national debt at 60% of GDP and narrowing the deficit by 0.5 points a year, aiming to calm markets ahead of her fourth presi"
+      },
+      {
+        "section": "World",
+        "headline": "US Abruptly Pulls Bombers From UK Base Over Suspected Iranian Drone Plot",
+        "gist": "The US withdrew a dozen B-1 bombers from RAF Fairford over the weekend after intelligence pointed to a multi-pronged Iranian plot to attack aircraft and kill American personnel, officials said. The mo"
+      },
+      {
+        "section": "World",
+        "headline": "Saudi Arabia, Turkey and Pakistan Activate Mutual Defense Pact",
+        "gist": "The three countries triggered a pact agreed in August, aiming for 'rapid deployment' of Turkish and Pakistani forces to Saudi Arabia amid escalating Houthi attacks. Separately, Saudi-backed Yemeni gov"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "C.H. Robinson to Buy Rival RXO for $5.8bn",
+        "gist": "America's largest freight broker is acquiring smaller rival RXO in a stock-and-cash deal expected to generate $300 million in annual savings within two years and create a logistics company valued at o"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Schneider Electric Buys PTC for $23.7bn in Year's Biggest Europe-to-US Deal",
+        "gist": "French industrial conglomerate Schneider Electric agreed to acquire US engineering-software maker PTC for $23.7 billion, its largest-ever acquisition and the biggest Europe-to-US deal since 2021. The "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "BT Buys Distressed TalkTalk, Wiping Out Most Creditors",
+        "gist": "BT struck an eleventh-hour, pre-pack administration deal to acquire broadband provider TalkTalk, gaining 1.5 million customers but leaving the majority of TalkTalk's roughly £1.5 billion in creditors "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Wall Street Banks' Profits Surge 51% on AI-Fueled Deal Boom",
+        "gist": "Wall Street bank profits hit $45.9 billion in the first half of 2026, up 51% year-over-year and on pace to exceed $90 billion for the full year, per New York State Comptroller Tom DiNapoli. The boom i"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "OpenAI Draws UAE Sovereign Funds Into $30bn Funding Round",
+        "gist": "OpenAI is in talks with multiple UAE investment funds, which have discussed forming a syndicate to put up to $10 billion into its planned $30 billion raise at a $1.4 trillion valuation. The University"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Reflection AI Launches Beam, America's Answer to Chinese Open-Weight Models",
+        "gist": "Nvidia-backed startup Reflection AI, founded by ex-DeepMind researchers and valued at $25 billion, released Beam — its first public model and the first serious US open-weight contender to Chinese labs"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "A Global Data-Center Power Crunch Is Coming",
+        "gist": "Morgan Stanley estimates global data-center demand will hit 56 gigawatts next year against just 51 gigawatts of new supply — a gap that widens to 86 vs. 68 gigawatts by 2028, enough shortfall to power"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Chinese AI Tool Used to Hack South Korean Banks, Stealing 68,000 Records",
+        "gist": "Hackers using a Chinese AI agent tool breached South Korea's largest banks and stole personal data on 68,000 people, the latest in a string of AI-agent-driven cyberattacks following OpenAI agent hacks"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI Rolls Out Invisible Text Watermarks — But Only in the EU",
+        "gist": "OpenAI introduced textGrain, a hidden watermarking method for ChatGPT and Codex outputs that subtly alters word choice so AI-generated text can be detected, rolling out in the EU to satisfy AI Act tra"
+      },
+      {
+        "section": "Interesting",
+        "headline": "Nvidia's $20bn Groq Chip-Licensing Deal Hit With Shareholder Lawsuit Alleging Stockholders Were Shortchanged",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Elon Musk Becomes a Trillionaire Again After SpaceX and Tesla Shares Surge $65bn in a Day",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Jeffrey Archer, Best-Selling Novelist and Scandal-Prone Tory MP, Dies at 86",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Russia Scrambles to Deny Rumors a Siberian Lab Worker Died of Plague",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A Mysterious Non-Terrorist 'Terrorist Plot': Five Men Arrested Near RAF Fairford in Vans With Gas But No Explosives, Then Released on Bail",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Manchester City Chairman's UK Diplomatic Immunity Shields Him From Punishment Over 114 Club Rule Violations",
+        "gist": ""
+      }
+    ]
   }
 ]
