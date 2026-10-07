@@ -1,105 +1,5 @@
 [
   {
-    "date": "2026-09-30",
-    "items": [
-      {
-        "section": "World",
-        "headline": "White House Extracts 'Morally Binding' but Toothless AI Safety Pledge From Tech Titans",
-        "gist": "Trump summoned Amazon, Google, Meta, Nvidia, OpenAI and Anthropic bosses to a White House lunch and emerged declaring they'd committed to \"tremendous self-regulation\" — internal controls, third-party "
-      },
-      {
-        "section": "World",
-        "headline": "Diesel Crisis Forces White House Into Crunch Talks on Export Ban",
-        "gist": "Trump held crisis talks with advisers over whether to ban diesel exports as U.S. pump prices hit fresh records near $6.50/gallon, with the administration briefing foreign allies on possible supply dis"
-      },
-      {
-        "section": "World",
-        "headline": "US Borrowing Costs Hit Highest Levels Since 2002 as Bond Rout Deepens",
-        "gist": "The 30-year Treasury yield spiked to 5.6% Tuesday — its highest since 2002 — before easing slightly, while 10-year yields touched roughly 5.2-5.3%. France faces a parallel squeeze, with the 10-year sp"
-      },
-      {
-        "section": "World",
-        "headline": "American Troops Complete Withdrawal From Iraq After Two Decades",
-        "gist": "The last US forces departed Iraq today, ending a military presence that began with the 2003 invasion and continued through the fight against ISIS. Iraq's prime minister wants Iran-backed Shia militias"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Ken Griffin Gives Record $3bn to Bring Carnegie Mellon Campus to Miami",
-        "gist": "Citadel founder Ken Griffin is donating $3 billion to Carnegie Mellon University — the largest single gift in American higher-education history. About $2bn will fund a new 35-acre campus in Miami's Wy"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "OpenAI in Talks to Raise $30bn at $1.4 Trillion Valuation, Delays IPO",
-        "gist": "OpenAI is reportedly in early talks to raise $30 billion privately at a $1.4 trillion valuation to fund its enormous computing costs, according to Bloomberg, as the company leans toward pushing any IP"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Leaked Anthropic IPO Filing Shows $2tn Valuation Target, $42bn Loss, 'Existential Risk' Warnings",
-        "gist": "Anthropic's leaked S-1 shows the Claude maker targeting a $2 trillion-plus valuation — more than double its May mark — despite an $8bn operating loss and $42bn total loss in 2025 alongside revenue tha"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "AMD to Acquire Fei-Fei Li's World Labs for $8.2bn",
-        "gist": "AMD agreed to buy Fei-Fei Li's spatial-intelligence startup World Labs in an all-stock deal worth roughly $8.2 billion, bringing her research team in-house. Li becomes AMD's chief scientist, with Worl"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Piper Sandler in Talks to Acquire Rival Perella Weinberg",
-        "gist": "Investment bank Piper Sandler is reportedly in talks to acquire boutique M&A advisory firm Perella Weinberg Partners, according to the Wall Street Journal. The tie-up would combine Piper Sandler's bro"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI Launches Always-On 'Dots' Agents at DevDay, Nears $70bn Revenue",
-        "gist": "OpenAI unveiled dots, always-on cloud agents built on GPT-6 Astra that plug into 4,000+ apps and can act proactively — booking things, writing code — headlining a DevDay with 20+ launches including a "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI Scraps GPT-6.1 Astra Release, Cites Internal Safety Concerns",
-        "gist": "OpenAI is cancelling the release of GPT-6.1 Astra, which had been slated for an October debut, after researchers flagged safety issues in internal testing — one of the starkest examples yet of agent m"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "AI Infrastructure Coalition Pledges to Cover Energy Costs, Cut Water Use Ahead of Midterms",
-        "gist": "A group backed by Google, Meta and Microsoft is unveiling pledges to blunt the political backlash against AI data centers — including commitments to cover local energy costs and minimize water usage —"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Nvidia Explores Offloading Chip-Financing Risk to Insurers",
-        "gist": "Nvidia has approached insurance companies about taking on some of the risk from financing customers' chip purchases, exploring structures like insurance against losses if \"neocloud\" providers default "
-      },
-      {
-        "section": "Interesting",
-        "headline": "Trump signs executive order officially renaming artificial intelligence \"super intelligence\"",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Peter Thiel revealed as secret buyer behind $130 million Bel-Air mansion Casa Encantada",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "America.gov launches as an AI chatbot 'front door' to federal agencies, with passport renewals by drugstore photo coming in 2027",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "China requires AI and chip executives' spouses and children to get government approval before traveling",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Cornell student journalists name and shame seven fraternity brothers accused of rape after the university stayed silent",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "AI-generated food ads are grossing people out with bread that \"looks like reptile skin\" and shrimp resembling \"otherworldly fleshy rings\"",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-10-01",
     "items": [
       {
@@ -550,6 +450,101 @@
       {
         "section": "Interesting",
         "headline": "Manchester City Chairman's UK Diplomatic Immunity Shields Him From Punishment Over 114 Club Rule Violations",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-10-07",
+    "items": [
+      {
+        "section": "World",
+        "headline": "France's Crisis Deepens as 250,000+ Protest, Le Pen Leads Polls",
+        "gist": "Student-led protests over crumbling schools spread to more than 40 French cities, drawing an estimated 250,000-450,000 people, with roughly 6,000 arrests since unrest began in September. The anger has"
+      },
+      {
+        "section": "World",
+        "headline": "US Presses Russia Over Mysterious Plague Lab Death",
+        "gist": "The State Department warned Moscow it has failed to meet international health-disclosure obligations after a researcher died at a Siberian anti-plague institute, reportedly after breaking a test tube "
+      },
+      {
+        "section": "World",
+        "headline": "Bond Rout Grinds On, 30-Year Treasury Near 2002 Highs",
+        "gist": "The 10-year Treasury yield pushed above 5.3%, with the 30-year near multi-decade highs, as massive AI infrastructure borrowing — including SpaceX's reported $40bn financing push — adds to pressure on "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "SpaceX Seeks $40bn Financing Deal to Buy Nvidia Chips",
+        "gist": "SpaceX is looking to raise roughly $40 billion — about $10bn in bank loans and $30bn in investment-grade debt — in a financing effort led by Apollo Global Management, to fund a massive purchase of Nvi"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Tishman Speyer Buys Chrysler Building for $235 Million",
+        "gist": "Tishman Speyer and partners are acquiring Manhattan's Art Deco landmark the Chrysler Building for $235 million, striking a new ground-lease arrangement with Cooper Union, which owns the land beneath i"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "McKesson, CD&R Take Option Care Health Private for $5.8bn",
+        "gist": "Drug distributor McKesson is teaming with private equity firm Clayton, Dubilier & Rice to take Option Care Health, the largest independent US infusion-services provider, private in a $5.8 billion deal"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "China to Impose 20% Tax on Offshore Trust Income From Oct 22",
+        "gist": "Beijing will begin collecting a 20% tax on dividends and interest from offshore trusts this month, explicitly targeting wealthy Chinese nationals who have sheltered assets abroad — a move described as"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "US Trade Deficit Hits 17-Month High on AI-Driven Chip Imports",
+        "gist": "America's trade gap widened 14% in August to roughly $106 billion, the widest since March 2025, as imports of semiconductors, computers and components surged $234 billion over the first eight months o"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI Floods Mathematicians With 700+ Papers From Internal Model",
+        "gist": "OpenAI released 722 math papers — grouped into 372 result families — generated by an unreleased internal frontier model, including a claimed proof of the \"quasi-Riemann hypothesis,\" a weaker cousin of"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Mistral Large 4 and Reflection's Beam Challenge Chinese Open Models",
+        "gist": "France's Mistral released Large 4 (\"Le Chonk\"), a 1-trillion-parameter open model it says leads every non-Chinese open system by a wide margin — though China's Kimi K3 still beats it on coding benchma"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Meta and Sierra Launch Open Standard for Personal AI Agents",
+        "gist": "Meta, Sierra and other industry partners introduced the Personal Agent Protocol, an open standard meant to govern how personal AI agents authenticate themselves and access company websites and APIs on"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Hark Launches Proactive AI Assistant a Year Ahead of Its Hardware",
+        "gist": "Figure AI founder Brett Adcock's new startup Hark released Hark Pro, a personal assistant that remembers user preferences, proactively flags tasks, and can research, shop, book and build things autono"
+      },
+      {
+        "section": "Interesting",
+        "headline": "S&P 500 hits record high even as bond yields near 2002 levels and oil tops $101/barrel",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Jaguar unveils $172,000, 1,000-horsepower electric saloon as a last-ditch bet on relevance",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Oil tanker captains now earn $100,000/month plus $50,000-per-trip bonuses to risk the Strait of Hormuz",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Former German intelligence chief arrested on suspicion of treason and leaking secrets to a foreign spy agency",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Former CIA officer who hid gold bars at home admits to $145 million real-estate scam using a fake secret government program",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "American troops in Okinawa banned from alcohol for a month after a Marine is charged with murder",
         "gist": ""
       }
     ]
