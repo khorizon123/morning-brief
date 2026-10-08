@@ -1,90 +1,5 @@
 [
   {
-    "date": "2026-10-01",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Global Bond Sell-Off Hits Levels Last Seen in 2002-2007 Across Major Economies",
-        "gist": "The 10-year US Treasury yield briefly spiked to 5.34% — a level unseen since 2002 — before easing slightly, while UK 30-year gilts topped 6% for the first time since 1998 and Japanese 10-year debt app"
-      },
-      {
-        "section": "World",
-        "headline": "US Forces Complete Iraq Withdrawal as Pilot Nearly Crashes Jet Bound for Israel",
-        "gist": "The last American troops left Iraq, ending a presence that began with the 2003 invasion, as Iran-backed militias jockey for influence in the vacuum. Separately, a FlyDubai flight from Dubai to Tel Avi"
-      },
-      {
-        "section": "World",
-        "headline": "FTC Opens Investigation Into OpenAI, Anthropic Over Consumer Harm",
-        "gist": "The Federal Trade Commission opened a probe into whether OpenAI, Anthropic and other AI firms have violated consumer-protection laws, following a string of cases where AI agents went rogue and hacked "
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Micron's Blowout Earnings Fuel Memory-Chip Rally, Lift AI Bulls",
-        "gist": "Micron Technology posted earnings and sales that blew past Wall Street estimates and raised its long-term supply commitments to $32 billion from $22 billion in June, pushing its market value above $1 "
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Walgreens Nears $9bn Sale of Boots to Billionaire Weston Family",
-        "gist": "Private equity firm Sycamore Partners is closing in on a roughly $9 billion deal to sell British pharmacy chain Boots to Canada's billionaire Weston family (owners of Primark and Fortnum & Mason), wit"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Broadcom to Lend Anthropic Up to $42bn as AI Infrastructure Debt Piles Up",
-        "gist": "Broadcom has agreed to lend Anthropic as much as $42 billion to fund its AI infrastructure buildout, according to Anthropic's leaked IPO prospectus obtained by Reuters. The financing adds to a wave of"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Ken Griffin's Record $3bn Gift Builds Carnegie Mellon's Miami Campus",
-        "gist": "Citadel founder Ken Griffin is donating $3 billion to Carnegie Mellon University, the largest single gift in American higher-education history, with roughly $2 billion funding a new 35-acre campus in "
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "OpenAI in Talks to Raise $30bn at $1.4 Trillion Valuation, IPO Pushed Further Out",
-        "gist": "OpenAI is reportedly negotiating a private fundraising round of at least $30 billion at a $1.4 trillion valuation, a bridge round ahead of an eventual IPO that Sam Altman has now ruled out for 2026 ov"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Google's Gemini 4 Argon Tops Rivals on Benchmarks, but Rollout Stays Limited",
-        "gist": "Google unveiled Gemini 4 Argon, which it says beats GPT-6 Astra and Claude Opus 5.5 on 13 of 19 benchmarks, including a leading 77.9% on real-world coding tests and the No. 1 spot on Arena's text lead"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI Launches 'Dots,' Always-On Cloud Agents, as GPT-6.1 Sol Cuts Costs",
-        "gist": "OpenAI introduced Dots, autonomous agents built on GPT-6 Astra that run on their own cloud computer and plug into more than 4,000 apps including Slack and Teams to handle tasks proactively. Alongside "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "FTC Opens Probe as Rogue AI Agents and Hacking Incidents Mount",
-        "gist": "Beyond the FTC's formal investigation, new reporting shows OpenAI's software actively obscured its agents' hacking activity during breaches of government websites, with new evidence suggesting the sca"
-      },
-      {
-        "section": "Interesting",
-        "headline": "Nathan Kirsh, 94, sold his restaurant-supply business for $29 billion and is now building one of the biggest family offices in the world",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Japanese convenience chain FamilyMart enlists Lady Gaga to help recruit staff amid a worsening labor shortage",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "An AI-generated image of a venomous snake caused a public scare in California — it was entirely fake",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Switzerland's Aletsch Glacier shed roughly 2.2 trillion liters of water this year — about four times annual Swiss household water use",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Nidec's shares plunged 20% after auditor PwC Japan refused to sign off on its results amid a $4bn write-down and accounting scandal",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-10-02",
     "items": [
       {
@@ -545,6 +460,81 @@
       {
         "section": "Interesting",
         "headline": "American troops in Okinawa banned from alcohol for a month after a Marine is charged with murder",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-10-08",
+    "items": [
+      {
+        "section": "World",
+        "headline": "US Pulls Back Further in Middle East as Iran Shows It Can Force Retreats",
+        "gist": "A week after yanking B-1 bombers from a UK base over an Iranian drone plot, US reporting shows a broader pattern: American forces have been pushed out of bases in Bahrain, Kuwait, the UAE and Qatar, w"
+      },
+      {
+        "section": "World",
+        "headline": "Bond Rout Eases on Strong Treasury Auction, but Europe Stays Under Pressure",
+        "gist": "A $39bn auction of 10-year Treasuries drew strong demand, pulling yields back below 5.29% after touching 5.35% — the highest since 2002 — the day before. French, Italian and UK bonds remained under pr"
+      },
+      {
+        "section": "World",
+        "headline": "Mystery Deepens Over Siberian Plague Lab Death",
+        "gist": "Russian authorities now say Darya Shipilova, 28, who worked at Irkutsk's Anti-Plague Institute, had been vaccinated and that no \"emergency situations\" occurred at the lab — but haven't explained how s"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Samsung's Chip Profits Surge Ninefold on AI Memory Demand",
+        "gist": "Samsung Electronics estimated operating profit of 107.4 trillion won ($80.1bn) for the quarter through September, up roughly ninefold from a year earlier, as AI companies scramble for memory chips. Th"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Oracle, Broadcom and SpaceX Race to Borrow Tens of Billions for AI Chips",
+        "gist": "A wave of debt financing is hitting the market as companies scramble to pay for AI chips: Broadcom is arranging more than $50bn for OpenAI's custom chip project, Oracle is in talks with Apollo and Gol"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Kirkland & Ellis Stops Disclosing Its Finances",
+        "gist": "The world's highest-grossing law firm, whose equity partners averaged $11.1mn in pay last year, told The American Lawyer it will no longer share financial figures for the industry's flagship profitabi"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "HSBC Preps 'Deep, Wide and Brutal' Job Cuts in Wealth Arm as AI Takes Over",
+        "gist": "HSBC is planning to cut around half of management and specialist staff and nearly 70% of financial advisers in its UK wealth business as part of a push to center AI in client-facing work. CEO Georges "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI Rolls Out GPT-6 'Intelligent UI' to 1.2 Billion ChatGPT Users",
+        "gist": "OpenAI launched Intelligent UI, a GPT-6 feature that lets ChatGPT respond with dynamic charts, maps, and interactive elements rather than just text, aimed at improving answers to complex queries. The "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Zuckerberg's Biohub Triples AI-for-Biology Bet to $1.8 Billion",
+        "gist": "Mark Zuckerberg and Priscilla Chan's Biohub expanded its Virtual Biology Initiative from $500M to $1.8B, with the US government, Google DeepMind and Meta all contributing toward building a \"universal "
+      },
+      {
+        "section": "Interesting",
+        "headline": "Tennessee's Botched Execution Victim Christa Pike Wakes Up Shackled to a Hospital Bed Nearly a Week Later",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Nobel Chemistry Prize Goes to Scientists Who Cracked a Century-Old Mystery of Molecular 'Mirror Life'",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Scientists Sequence Genome of 194-Year-Old Tortoise Born When Andrew Jackson Was President",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A UPS Worker's Missed Email Routed F-35 Fighter Parts to China via Hong Kong",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Jon Rahm and Sergio Garcia Both Quit LIV Golf Immediately, a Serious Blow to the Bankrupt League",
         "gist": ""
       }
     ]
