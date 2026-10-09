@@ -1,105 +1,5 @@
 [
   {
-    "date": "2026-10-02",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Putin Orders Military to Abandon 'Rules of War,' Zelenskyy Says",
-        "gist": "Zelenskyy told the FT that Ukrainian intelligence intercepted Kremlin communications showing Putin ordered commanders in September to scrap previous constraints on air campaigns, followed by intensifi"
-      },
-      {
-        "section": "World",
-        "headline": "US Sends Carrier Strike Group and Thousands More Troops to Middle East",
-        "gist": "The US is deploying a third aircraft-carrier strike group and additional Marine Corps ships to the Middle East, adding up to 10,000 troops, with the USS Theodore Roosevelt expected in the region by la"
-      },
-      {
-        "section": "World",
-        "headline": "Bond Rout Deepens: 10-Year Treasury Hits Highest Since 2002",
-        "gist": "The 10-year US Treasury yield spiked to 5.34% before easing slightly, its highest since 2002, while UK 30-year gilts topped 6% and French 10-year yields hit a 2002-era high of 4.96%. The sell-off push"
-      },
-      {
-        "section": "World",
-        "headline": "Trump Weighs Diesel Export Ban as Global Supplies Tighten",
-        "gist": "Putin said Russia won't sell diesel abroad until sanctions are lifted, while Chinese refiners suspended October exports, squeezing a fuel that normally sees a third of global exports come from those t"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Nike Shares Sink 9% on Disappointing Results, Deepening Worst Year on Record",
-        "gist": "Nike shares fell more than 9% in premarket trading after quarterly revenue dropped 4% to $11.2bn and net income slipped to $712m, with CEO Elliott Hill warning of job cuts and a restructuring as Great"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Anthropic Targets Mid-November IPO at Up to $2 Trillion Valuation",
-        "gist": "Anthropic is reportedly aiming to go public before Thanksgiving, meeting prospective investors on October 14, with investors pricing a fair valuation between $1.8 trillion and $2 trillion despite moun"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Supabase Raises $150M at $10.65bn Valuation, Acquires Turso",
-        "gist": "Database startup Supabase raised $150 million led by Singapore's GIC at a $10.65bn valuation — just months after a $500m raise — as AI coding agents drive explosive demand, with roughly 70% of the nea"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Amazon Seeks to Offload $8bn of Nvidia Chips to Outside Investors",
-        "gist": "Amazon is looking to sell about $8bn worth of advanced Nvidia chips to external investors through a new financing vehicle, a move aimed at keeping AI infrastructure spending off its own balance sheet."
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Monzo Turns to Private Equity After Nubank Deal Talks Collapse",
-        "gist": "UK fintech Monzo is courting private equity investors after takeover talks with Brazil's Nubank fell apart over a valuation gap — Monzo wanted up to £10bn. The pivot underscores how fintech consolidat"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Google Unveils Gemini 4 Argon for Cybersecurity and Enterprise Reasoning",
-        "gist": "Google announced Gemini 4 Argon, a frontier model built for sustained reasoning in software engineering, enterprise knowledge work and cybersecurity, with access initially limited to trusted cyber def"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Tavus' Griffin AI Avatar Fools Nearly Half of Video-Call Testers",
-        "gist": "Startup Tavus previewed Griffin, a 'Human Interaction Model' that renders a lifelike avatar able to watch, listen and respond in real time on video calls — nodding mid-sentence and referencing what's "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Google Extends AI Watermarking Into Biology With SynthID Bio",
-        "gist": "Google DeepMind introduced SynthID Bio, a proof of concept that adapts its AI watermarking technology to proteins by tweaking its AlphaFold 3 model to embed a hidden, detectable pattern in predicted p"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Factory and Cognition's Talent Feud Spills Into Public View",
-        "gist": "Factory CEO Matan Grinberg publicly fired board adviser Chris Degnan, accusing him of leaking confidential product roadmap information to rival coding startup Cognition; Degnan joined Cognition as chi"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI Fires Researchers Over Alleged Leaks to AI Safety Group",
-        "gist": "OpenAI terminated several safety-team researchers for allegedly sharing confidential company information with an outside AI-safety organization, the latest fallout from a stretch of security incidents"
-      },
-      {
-        "section": "Interesting",
-        "headline": "Tennessee halts all executions after inmate Christa Pike survives two doses of lethal injection drugs",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Cornell campus police reportedly omitted a student's rape claim from the report sent to prosecutors",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Manchester City's chairman can't be easily punished for the club's 114 financial-rules violations because he holds UK diplomatic immunity",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "The Justice Department is reviewing whether Watergate prosecutors mistreated Richard Nixon, more than 50 years later",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A FlyDubai co-pilot allegedly stabbed the captain and tried to crash the plane; Israel is seeking his extradition from Saudi Arabia",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-10-03",
     "items": [
       {
@@ -535,6 +435,121 @@
       {
         "section": "Interesting",
         "headline": "Jon Rahm and Sergio Garcia Both Quit LIV Golf Immediately, a Serious Blow to the Bankrupt League",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-10-09",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Oil Prices Jump as Houthi Attacks Hit Riyadh Airport and Gulf Tankers",
+        "gist": "Brent crude traded near $103 after tankers were struck near Qatar and the UAE, and Iran-backed Houthi rebels claimed deadly strikes on Riyadh's international airport that caused scores of flight cance"
+      },
+      {
+        "section": "World",
+        "headline": "Trump Suspends Microsoft, Adobe From Green-Card Sponsorship Over Visa 'Fraud'",
+        "gist": "The Trump administration's antifraud task force, led by VP JD Vance, suspended Microsoft, Adobe and several tech recruiting firms from sponsoring H-1B visa holders for green cards, accusing them of re"
+      },
+      {
+        "section": "World",
+        "headline": "US Budget Deficit Hits Nearly $2 Trillion, Highest Since 2021",
+        "gist": "The Congressional Budget Office said the federal deficit for the fiscal year ending September 30 reached $1.993 trillion, up 12% from 2025 in nominal terms. The gap continues to widen even as the bond"
+      },
+      {
+        "section": "World",
+        "headline": "Bond Rout Keeps Grinding: Pimco Warns 10-Year Could Hit 6%",
+        "gist": "Pimco's chief investment officer Dan Ivascyn warned that benchmark US yields risk climbing toward 6% — a level unseen in 26 years — citing high oil prices, inflation and America's swelling public debt"
+      },
+      {
+        "section": "World",
+        "headline": "Manchester City Financial Scandal Raises Questions on Gulf Ownership of British Football",
+        "gist": "An independent commission found Manchester City broke more than 100 Premier League financial rules, inflating sponsorship income from UAE-linked companies to fund world-class talent it couldn't otherw"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "OpenAI's Revenue Growth Revealed to Be Far Slower Than Claimed, Rattling AI Stocks",
+        "gist": "OpenAI's annualized revenue hit about $50 billion at the end of September, up from $28 billion in June — but that's roughly $20 billion below the $70 billion figure the company had given investors, wh"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Starbucks Explored Takeover of Chipotle in Potential Biggest-Ever Restaurant Merger",
+        "gist": "Starbucks worked with advisers in recent months on a possible bid for Chipotle, whose $41 billion market value would make a combination the largest-ever restaurant-sector merger, creating a company wi"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "SpaceX Strikes $8bn Spectrum Deal, Fueling Musk's Trillion-Dollar Ambitions",
+        "gist": "SpaceX agreed to buy roughly $8 billion of wireless spectrum licenses from Grain Management to build out mobile coverage for Starlink, sending shares of T-Mobile, Verizon and AT&T tumbling in after-ho"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "SoftBank Seeks $100bn From Gulf Investors to Supercharge AI Buyout Fund",
+        "gist": "Masayoshi Son has held talks with senior UAE figures about raising up to $100 billion to set up a fund that buys companies and uses AI to overhaul their operations. It's the latest sign that even Soft"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Nvidia-Backed Firmus Pulls $5bn IPO, Citing Market Volatility",
+        "gist": "Australian data-center operator Firmus withdrew plans to list in Sydney at a roughly $30 billion valuation, blaming \"recent market volatility,\" and may instead raise about $3 billion privately. The pu"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Goldman Sachs to Hand Top Executives Over $500m in Special Bonuses",
+        "gist": "About 20 Goldman Sachs leaders are set to split more than $500 million in equity awards under a \"Shareholder Value Creation Award,\" with CEO David Solomon alone expected to collect roughly $100 millio"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Fired OpenAI Safety Researchers Go Public, Warn of 'Chilling' Culture Shift",
+        "gist": "Three researchers OpenAI fired for allegedly mishandling sensitive information — Tomek Korbak, Jasmine Wang and Mikita Balesni — published an open letter denying wrongdoing and warning the firings blu"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Ex-Anthropic Researcher Claims High Confidence China Has Spies Inside Top AI Labs",
+        "gist": "Jacob Coxon, a former Anthropic researcher turned critic of industry safety practices, said on the PBD Podcast he's \"90 percent\" certain China has planted spies inside both Anthropic and OpenAI. Both "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Anthropic Bars Users From 'Sustained and Needless' Cruelty Toward Claude",
+        "gist": "Anthropic's updated usage policy, taking effect November 12, prohibits users from subjecting Claude to extreme, repeated, purposeless abuse — the company's first rule explicitly protecting the AI itse"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "SoftBank-Backed Scramble for AI Capital Intensifies as Spending Outpaces Balance Sheets",
+        "gist": "Beyond SoftBank's $100bn Gulf ask, Oracle and Broadcom are separately arranging tens of billions in financing — Broadcom alone over $50bn for OpenAI's custom chip project — as AI infrastructure costs "
+      },
+      {
+        "section": "Interesting",
+        "headline": "Pentagon Will Livestream Firing-Squad Execution of Fort Hood Shooter — America's First Firing-Squad Execution Since WWII",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A Whistleblower Math Breakthrough: Former NFL Lineman Solves Decades-Old Math Problem",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Fish Farming, Meant to Save Wild Fish Stocks, Is Making Overfishing Worse — and Linked to Labor Abuse and Pollution Worldwide",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Americans Blame Trump for Cost of Living: Average Gas Tops $4.36/Gallon, Up From Under $3 Before Iran War",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "US Marines in Okinawa Face 30-Day Alcohol Ban After Murder Arrest Sparks Local Fury",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "An Arizona Congressional Candidate Says She Was Raped While Fixing Campaign Signs",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Nobel Peace Prize Goes to South African Human Rights Lawyer Navi Pillay, Who Led UN Gaza Genocide Inquiry",
         "gist": ""
       }
     ]
