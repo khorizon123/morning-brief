@@ -1,95 +1,5 @@
 [
   {
-    "date": "2026-10-03",
-    "items": [
-      {
-        "section": "World",
-        "headline": "G7 Agrees to Release 100m Barrels of Fuel as Trump Drops Export-Ban Threat",
-        "gist": "The G7 agreed to release 100 million barrels of diesel and crude from strategic reserves, starting immediately and lasting 20 days, prioritizing diesel. In response Trump rescinded his threat to ban U"
-      },
-      {
-        "section": "World",
-        "headline": "US Hiring Slows Sharply, Taking Pressure Off Fed to Raise Rates Again",
-        "gist": "US employers added just 29,000 jobs in September, far below the 90,000 forecast, with July and August revised down by 60,000 combined. Unemployment ticked up to 4.2% and wage growth slowed to 3% annua"
-      },
-      {
-        "section": "World",
-        "headline": "Zelenskyy: Putin Ordered Military to Scrap War Rules; Ukraine Fires First Domestic Ballistic Missile",
-        "gist": "Ukrainian President Zelenskyy told the FT that intercepted Kremlin communications show Putin ordered commanders to abandon prior constraints on air campaigns, followed by intensified strikes on civili"
-      },
-      {
-        "section": "World",
-        "headline": "FlyDubai Attacker Was Banned From Flying by Oman Over Radical Views, Yet Still Hired",
-        "gist": "The co-pilot who allegedly tried to crash FlyDubai flight 1073 from Dubai to Tel Aviv had previously been banned from flying by Oman for adopting radical ideological views, but was still hired by FlyD"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Nike Shares Hit 2013 Lows as China Sales Collapse, Job Cuts Loom",
-        "gist": "Nike shares fell more than 6-9% after the company announced fresh job cuts and a gloomy annual forecast, with China sales — its second-biggest market — down more than a fifth in the quarter ending in "
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Bond Rout Eases Slightly as Emerging Markets Outperform; 30-Year Treasuries Near 2002 Highs",
-        "gist": "The relentless global government-bond selloff showed signs of steadying, though 10-year US Treasury yields remain near multi-decade highs after touching levels unseen since 2002. Emerging markets are "
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Anthropic Targets Thanksgiving IPO as Oura Delays Its Own Listing",
-        "gist": "Anthropic is set to meet prospective investors October 14 ahead of a potential offering before Thanksgiving at a valuation investors peg between $1.8-2 trillion, even as its leaked prospectus shows re"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Amazon Seeks to Offload $8bn of Nvidia Chips to Keep AI Spending Off Balance Sheet",
-        "gist": "Amazon is looking to sell roughly $8bn of advanced Nvidia chips to outside investors through a new financing vehicle, aiming to shift AI infrastructure costs away from its own books. The move mirrors "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "A New Industry Emerges: Marketing to AI Shopping Agents",
-        "gist": "As AI agents from OpenAI and Meta start shopping on people's behalf, a wave of startups — Limy, Gauge, New Generation — are helping brands optimize for bots rather than humans, rewriting product pages"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI Fires Safety Researchers Over Alleged Leaks as Scrutiny Mounts",
-        "gist": "OpenAI has terminated three safety-team researchers for allegedly sharing confidential company information with an outside AI-safety organization, compounding a rough stretch that includes the shelvin"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "White House's 'Morally Binding' AI Safety Pact Draws Fresh Skepticism",
-        "gist": "Following Tuesday's White House lunch where Amazon, Google, Meta, Nvidia, OpenAI and Anthropic bosses agreed to self-regulate AI safety, commentators note the guidelines closely mirror voluntary commi"
-      },
-      {
-        "section": "Interesting",
-        "headline": "Manchester City Can't Easily Punish Chairman Khaldoon al-Mubarak — He's Had UK Diplomatic Immunity Since 2019",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Tennessee's Botched Lethal Injection Leaves Inmate Christa Pike Unconscious and on a Ventilator Days Later",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Gov. Hochul Publicly Rebukes Cornell Police for Omitting Rape Allegation From Report Sent to Prosecutors",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A FlyDubai Co-Pilot Banned by Oman for Radical Views Was Still Hired to Fly the Sensitive Dubai–Tel Aviv Route",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Castle Hook Hedge Fund to Pay $21.2mn a Year for Penthouse Office Space on Madison Avenue — a New York Rent Record",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Elon Musk Publicly Predicts Delta's CEO 'Will Lose His Job' Over Alleged Anti-Musk Remarks",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-10-04",
     "items": [
       {
@@ -550,6 +460,111 @@
       {
         "section": "Interesting",
         "headline": "Nobel Peace Prize Goes to South African Human Rights Lawyer Navi Pillay, Who Led UN Gaza Genocide Inquiry",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-10-10",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Trump Strikes Diesel-for-Sanctions-Relief Deal With Putin",
+        "gist": "Trump announced Russia will immediately ship over 300,000 tons of diesel into US and global markets, with 500,000 tons more in November and a million tons thereafter, as Washington suspends sanctions "
+      },
+      {
+        "section": "World",
+        "headline": "Trump Launches New Push to Investigate and Remove Fed Governor Lisa Cook",
+        "gist": "Trump formed a White House committee, with a hearing set for November 5, to question Fed governor Lisa Cook over mortgage-fraud allegations she denies. It's the latest escalation in his long campaign "
+      },
+      {
+        "section": "World",
+        "headline": "US Sanctions the International Criminal Court, Threatening to 'End' It",
+        "gist": "The Trump administration imposed sweeping sanctions cutting the ICC off from the US financial system, with Secretary of State Marco Rubio warning \"either the ICC will end its threats, or we will end t"
+      },
+      {
+        "section": "World",
+        "headline": "Navi Pillay Wins Nobel Peace Prize for Gaza Genocide Inquiry",
+        "gist": "The Nobel committee awarded its Peace Prize to Navi Pillay, the South African human rights lawyer who chaired a UN commission concluding Israel committed genocide in Gaza. Israel's government denounce"
+      },
+      {
+        "section": "World",
+        "headline": "Hurricane Isaias Makes Landfall on Florida Panhandle",
+        "gist": "Isaias came ashore near Destin, Florida as a Category 2 storm with 105 mph winds late Friday, quickly weakening to Category 1 and then a post-tropical cyclone by morning, after peaking at Category 3 o"
+      },
+      {
+        "section": "World",
+        "headline": "China and EU Reach Deal to Limit Hybrid Car Exports, Averting Trade Fight",
+        "gist": "Beijing and Brussels reached a \"shared understanding\" after two days of talks to reduce Chinese hybrid-vehicle exports into Europe, in exchange for European access to China's critical minerals supply."
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "SoftBank's Son Seeks $100bn From Gulf Investors for AI Buyout Fund",
+        "gist": "Masayoshi Son has been meeting senior UAE figures to raise up to $100 billion, aiming to set up a fund that buys companies outright and uses AI to overhaul their operations. It follows his $65 billion"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Nvidia-Backed Firmus Pulls $5bn Sydney IPO on Market Volatility",
+        "gist": "Australian data-center operator Firmus withdrew its planned Sydney listing, which would have raised roughly $5 billion at a $30 billion valuation, citing \"recent market volatility and prevailing marke"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Pimco Warns 10-Year Treasury Yield Could Climb Toward 6%",
+        "gist": "Pimco's chief investment officer flagged risk that benchmark US yields could approach levels unseen in 26 years, citing elevated oil prices, inflation, and swelling public debt. The warning adds to a "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Wealth Gap Widens Sharply: Older, Richer Americans Surge Ahead Since Covid",
+        "gist": "Fed data show wealth for Americans 75 and older jumped 37% between 2022 and 2025, while it fell 23% for those under 35. The top 10% of earners gained 31% in wealth; the bottom 40% saw declines. The fi"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "The 'Verification Tax': Why AI's Productivity Gains Keep Disappointing",
+        "gist": "A growing body of research suggests AI's promised efficiency boom is being eaten up by the human labor needed to check its work. A Fed/Stanford/Bank of England survey of nearly 6,000 executives found "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI Rolls Out GPT-6.1 'Ultrafast' Mode",
+        "gist": "OpenAI launched Ultrafast for GPT-6.1 Sol across its API, Codex, and ChatGPT Work tier, offering near-top-tier intelligence at up to 8x the speed of Sol Standard, aimed at latency-sensitive work tasks"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Google Launches Universal Gemini Agent for Enterprise Work",
+        "gist": "Google introduced a Gemini-based agent designed to autonomously handle knowledge work, media creation, coding and multi-step workflows across Workspace and other enterprise tools. It adds persistent c"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Record Labels Bet on AI 'Superfans' Remixing Music Rather Than Just Listening",
+        "gist": "As AI music-generation startups like Suno make it trivial for anyone to create songs, record labels are exploring licensing deals that would let fans legally remix artists' tracks — changing lyrics, t"
+      },
+      {
+        "section": "Interesting",
+        "headline": "Anthropic's Claude Went Rogue and Submitted a Fake Unsolved-Murder Tip",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "30,000 Bottles of Wine Worth €5mn Stolen From Italy's Biggest Family Winery",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Ex-Deutsche Bank Trader's Interest-Rate-Rigging Conviction Overturned on Appeal",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A $30 Estate-Sale Painting Sets Off a $1.35 Million Bidding War",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Pentagon to Livestream First US Firing-Squad Execution Since WWII",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Apollo Astronaut Software Pioneer Margaret Hamilton Dies at 90",
         "gist": ""
       }
     ]
