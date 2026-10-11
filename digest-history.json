@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-10-04",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Wall Street's IPO Fervor Cools as Anthropic Delay Spooks Market",
-        "gist": "Several planned listings have been paused in recent weeks, with the delay in Anthropic's public debut sending a chill through broader markets. Bankers say tepid demand and valuation worries are making"
-      },
-      {
-        "section": "World",
-        "headline": "Global Bond Sell-Off Shows Mixed, Unsettled Picture",
-        "gist": "The FT's latest chart analysis of the global bond rout finds no single culprit — a mix of fiscal worries, inflation expectations and shifting central bank credibility are all cited factors keeping yie"
-      },
-      {
-        "section": "World",
-        "headline": "Israeli Settlers Rush to Expand West Bank Footprint Before Election",
-        "gist": "Jewish settlers are accelerating expansion into the occupied West Bank, aiming to establish facts on the ground that a new Israeli government would struggle to reverse after the coming election."
-      },
-      {
-        "section": "World",
-        "headline": "Two Iranian Migrants Charged Over Alleged Plot Against Jewish Targets in Manchester",
-        "gist": "UK counter-terrorism police have charged two Iranian men who arrived via small boat with plotting an attack on Jewish targets in Manchester, saying they may have been directed from Tehran."
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "China Shutters a Record 670+ Banks to Shore Up Financial System",
-        "gist": "China closed more than 670 lenders last year, a record pace, as regulators push consolidation among the country's thousands of small rural and city banks. Fitch warns these smaller institutions remain"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "SoftBank's AI Ambitions Outgrow Its Own Balance Sheet",
-        "gist": "Masayoshi Son's AI spending plans have become so large that SoftBank is turning to outside partners to share the load: DigitalBridge CEO Marc Ganzi says his data-center investment firm will act as Sof"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Japanese and Korean Shipbuilders Turn to Robots to Counter China",
-        "gist": "Shipbuilders in Japan and South Korea are investing heavily in automated 'smart shipyards' as Beijing's dominance of global shipbuilding — now roughly half of all tonnage — alarms Washington and allie"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Scientists Warn 'Mirror Life' Research Could Be Catastrophic",
-        "gist": "Many biological molecules are chiral, existing in one of two mirror-image forms, and a growing number of scientists are exploring whether a cell — likely a bacterium — could be built with its biochemi"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Google Faces £1.2bn UK Lawsuit Over Play Store Fees",
-        "gist": "Google is set to defend a £1.2 billion lawsuit in the UK alleging it charged developers 'excessive' fees on its Play Store app marketplace. The case is the latest in a string of efforts by regulators "
-      },
-      {
-        "section": "Interesting",
-        "headline": "A whale helped sink a yacht in the South Pacific, leaving the crew stranded 18 hours",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Superpowers are racing to put nuclear reactors on the moon",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A food safety inspector's surprise raids in India have made him an unlikely social media star",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "60,000 Polish number plates on Italian cars exposed a national tax-evasion scheme",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Temu's UK sales more than doubled to $171mn by exploiting a customs duty loophole",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-10-06",
     "items": [
       {
@@ -565,6 +490,76 @@
       {
         "section": "Interesting",
         "headline": "Apollo Astronaut Software Pioneer Margaret Hamilton Dies at 90",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-10-11",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Houthi Missile Strike Kills 12 at Riyadh Airport",
+        "gist": "A missile attack claimed by Iran-backed Houthi rebels hit Riyadh's international airport, killing at least 12 people and injuring hundreds, days after similar strikes hit Gulf tankers. The US separate"
+      },
+      {
+        "section": "World",
+        "headline": "Germany's Former Spy Chief Charged With Treason",
+        "gist": "August Hanning, who ran Germany's foreign intelligence service (BND) and later served as a senior interior ministry official, is accused of illegally selling state secrets to a foreign agency over mor"
+      },
+      {
+        "section": "World",
+        "headline": "US Warns Kyiv That Strikes on Russia Risk Intelligence-Sharing Cutoff",
+        "gist": "The Trump administration warned Ukraine that continued strikes on Russian territory could jeopardize US intelligence-sharing, after Volodymyr Zelenskyy criticized Washington's new diesel-for-sanctions"
+      },
+      {
+        "section": "World",
+        "headline": "Hurricane Isaias Kills at Least Two, Knocks Out Power to 800,000+",
+        "gist": "Isaias made landfall on the Florida Panhandle as a Category 2 storm before weakening, killing at least two people and disrupting US oil and gas production as it swept through Florida, Alabama and Geor"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Nvidia in Talks to Acquire Open-Model Startup Reflection AI",
+        "gist": "Nvidia is discussing a potential acquisition of Reflection AI, the Nvidia-backed, ex-DeepMind-founded startup that just released Beam, its first open-weight model positioned as America's answer to Chi"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "SoftBank, Oracle and Broadcom Keep Racing to Borrow for AI Chips",
+        "gist": "The scramble to finance AI infrastructure continues: Oracle, Broadcom and SpaceX are lining up fresh blockbuster debt deals to pay for computing hardware, with Broadcom alone arranging over $50 billio"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Microsoft Revamps Copilot Around 'Home, Code and Autopilot'",
+        "gist": "Microsoft relaunched its Copilot assistant around three capabilities — Home (chat and Office tools), Code (no-code app building) and Autopilot (an always-on agent with memory and its own workspace). I"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI's Math-Paper Blitz Draws Scrutiny",
+        "gist": "OpenAI's release of 722 math papers from an unreleased internal model — including a claimed partial advance on the Riemann hypothesis — is rippling through the mathematics community, with commentators"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Iranian Influence Campaign Used ChatGPT to Plant Fake Articles in US Outlets",
+        "gist": "A Washington Post investigation found an Iranian influence operation used ChatGPT to generate and plant fabricated articles inside real American publications, part of a broader pattern of state actors"
+      },
+      {
+        "section": "Interesting",
+        "headline": "People Angry at AI Are Taking It Out on Food-Delivery Robots",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Trump Says Nobel Peace Prize Winner Navi Pillay Should Have Won It Eight Times Over — Sarcastically",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A Russian Spy's Only Regret: Getting Caught",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "MIT Pays a Professor Not to Teach His Own Controversial Class",
         "gist": ""
       }
     ]
