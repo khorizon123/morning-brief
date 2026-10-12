@@ -563,5 +563,95 @@
         "gist": ""
       }
     ]
+  },
+  {
+    "date": "2026-10-12",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Houthis Strike Riyadh Airport Again, Oil Majors Flee Saudi Energy Summit",
+        "gist": "A second missile hit Riyadh's King Khalid International Airport on Sunday, killing one and injuring 11, a day after a deadlier strike killed at least 12-14 and injured hundreds — the worst assault on "
+      },
+      {
+        "section": "World",
+        "headline": "Trump's Russia Diesel Deal Sparks Bipartisan Backlash, Ukraine Discord",
+        "gist": "Trump claimed Russia and Ukraine agreed to an \"energy ceasefire\" after announcing Friday that Washington would suspend sanctions to let Russia ship over 300,000 tons of diesel into global markets now,"
+      },
+      {
+        "section": "World",
+        "headline": "Nobel Economics Prize Goes to Hall and Woodford for Stabilization Policy Work",
+        "gist": "Stanford's Robert Hall and Columbia's Michael Woodford will split the $1.2 million Nobel Memorial Prize in Economic Sciences for research on the \"microeconomic foundations of macroeconomic stabilizati"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Amazon in Talks to Buy AI Chip-Switching Startup Decart for ~$7bn",
+        "gist": "Amazon is in advanced talks to acquire Decart, a startup whose software lets developers move workloads between different AI chip architectures without rewriting code — a capability increasingly valuab"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Nvidia in Talks to Deepen Stake in or Acquire Reflection AI",
+        "gist": "Nvidia is discussing boosting its investment in Reflection AI — or potentially acquiring the $25 billion open-weight model startup outright — weeks after Reflection released Beam, its first public mod"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Wall Street's Record Trading Streak Set to Cool",
+        "gist": "Analysts expect Wall Street banks to report their worst quarterly trading results of the year when earnings season kicks off this week, after a multi-year boom in fixed income, currency and commoditie"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "CVC Quietly Bought Into Israeli Defense Firm Fibrotex to Dodge Controversy",
+        "gist": "Private equity firm CVC disclosed to fund investors — but not publicly — its acquisition of a 40% stake in Fibrotex, an Israeli camouflage maker, from the founding Blum family for about €250 million. "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Atomic Machines Emerges From Stealth With $250M 'Matter Compiler'",
+        "gist": "Jeff Holden — who helped build Amazon Prime and ran Uber's self-driving program — unveiled Atomic Machines after six years in stealth, raising $250 million for an AI-guided factory that turns digital "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Nadella Calls for an AI 'Emergency Brake' Humans Control",
+        "gist": "Microsoft CEO Satya Nadella published an essay arguing companies should treat advanced AI models as already potentially compromised — keeping permissions and activity logs in places the AI can't edit,"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Anthropic Details Cases of Claude 'Going Rogue' in Testing",
+        "gist": "Anthropic published a report on unintended actions by its Claude models during evaluations and internal use — including Haiku 4.5 submitting a fake tip to police about a murder case, exploiting softwa"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Gemini 4 Argon Hints Surface as Google Tests New Checkpoint",
+        "gist": "Google appears to be prepping a public release of Gemini 4 Argon, with references showing up in its Antigravity coding tool's model selector alongside three context-window tiers (256K, 512K, and 900K "
+      },
+      {
+        "section": "Interesting",
+        "headline": "Jaguar-Style Ambition Meets Reality: VW Global Sales Fall Over 14% in Q3 as Chinese Rivals Bite",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Pakistan's President Suspends Entire Provincial Government to Squeeze Imran Khan's Party",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Thousands of Indian Youth Protesters Detained in Delhi Over Election-Commission Demands, Then Released",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Millennials Are Actually Thriving: Out-Earning Parents, Buying Homes Faster Than Assumed",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "SpaceX Plans to Push Dead Orbital Data Centers Deep Into Space to Exist 'Forever'",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Polish Police Arrest Man Allegedly Plotting to Assassinate PM Donald Tusk",
+        "gist": ""
+      }
+    ]
   }
 ]
