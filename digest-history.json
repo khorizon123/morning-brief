@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-10-08",
-    "items": [
-      {
-        "section": "World",
-        "headline": "US Pulls Back Further in Middle East as Iran Shows It Can Force Retreats",
-        "gist": "A week after yanking B-1 bombers from a UK base over an Iranian drone plot, US reporting shows a broader pattern: American forces have been pushed out of bases in Bahrain, Kuwait, the UAE and Qatar, w"
-      },
-      {
-        "section": "World",
-        "headline": "Bond Rout Eases on Strong Treasury Auction, but Europe Stays Under Pressure",
-        "gist": "A $39bn auction of 10-year Treasuries drew strong demand, pulling yields back below 5.29% after touching 5.35% — the highest since 2002 — the day before. French, Italian and UK bonds remained under pr"
-      },
-      {
-        "section": "World",
-        "headline": "Mystery Deepens Over Siberian Plague Lab Death",
-        "gist": "Russian authorities now say Darya Shipilova, 28, who worked at Irkutsk's Anti-Plague Institute, had been vaccinated and that no \"emergency situations\" occurred at the lab — but haven't explained how s"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Samsung's Chip Profits Surge Ninefold on AI Memory Demand",
-        "gist": "Samsung Electronics estimated operating profit of 107.4 trillion won ($80.1bn) for the quarter through September, up roughly ninefold from a year earlier, as AI companies scramble for memory chips. Th"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Oracle, Broadcom and SpaceX Race to Borrow Tens of Billions for AI Chips",
-        "gist": "A wave of debt financing is hitting the market as companies scramble to pay for AI chips: Broadcom is arranging more than $50bn for OpenAI's custom chip project, Oracle is in talks with Apollo and Gol"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Kirkland & Ellis Stops Disclosing Its Finances",
-        "gist": "The world's highest-grossing law firm, whose equity partners averaged $11.1mn in pay last year, told The American Lawyer it will no longer share financial figures for the industry's flagship profitabi"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "HSBC Preps 'Deep, Wide and Brutal' Job Cuts in Wealth Arm as AI Takes Over",
-        "gist": "HSBC is planning to cut around half of management and specialist staff and nearly 70% of financial advisers in its UK wealth business as part of a push to center AI in client-facing work. CEO Georges "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI Rolls Out GPT-6 'Intelligent UI' to 1.2 Billion ChatGPT Users",
-        "gist": "OpenAI launched Intelligent UI, a GPT-6 feature that lets ChatGPT respond with dynamic charts, maps, and interactive elements rather than just text, aimed at improving answers to complex queries. The "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Zuckerberg's Biohub Triples AI-for-Biology Bet to $1.8 Billion",
-        "gist": "Mark Zuckerberg and Priscilla Chan's Biohub expanded its Virtual Biology Initiative from $500M to $1.8B, with the US government, Google DeepMind and Meta all contributing toward building a \"universal "
-      },
-      {
-        "section": "Interesting",
-        "headline": "Tennessee's Botched Execution Victim Christa Pike Wakes Up Shackled to a Hospital Bed Nearly a Week Later",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Nobel Chemistry Prize Goes to Scientists Who Cracked a Century-Old Mystery of Molecular 'Mirror Life'",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Scientists Sequence Genome of 194-Year-Old Tortoise Born When Andrew Jackson Was President",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A UPS Worker's Missed Email Routed F-35 Fighter Parts to China via Hong Kong",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Jon Rahm and Sergio Garcia Both Quit LIV Golf Immediately, a Serious Blow to the Bankrupt League",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-10-09",
     "items": [
       {
@@ -650,6 +575,96 @@
       {
         "section": "Interesting",
         "headline": "Drone strikes sink a ship and leave 11 sailors missing off Bulgaria's Black Sea coast",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-10-15",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Global Stock Sell-Off Deepens as Chip Stocks Crater and US Inflation Hits 3.7%",
+        "gist": "A rout in AI-linked chip stocks accelerated worldwide, with South Korea's Kospi plunging as much as 9.3% (triggering a trading halt) and Japan's Nikkei sinking nearly 5%. The selloff was fed by hotter"
+      },
+      {
+        "section": "World",
+        "headline": "Zelenskyy Says Ukraine Will Resume Striking Russian Refineries After Starlink Throttled",
+        "gist": "Volodymyr Zelenskyy told the FT that Ukraine is resuming strikes on Russian oil refineries, declaring \"we're done\" with a US-requested pause, after accusing Washington of a \"dangerous\" withdrawal of i"
+      },
+      {
+        "section": "World",
+        "headline": "IMF Meetings Open in Bangkok as Deficits, AI Exuberance Dominate Talk",
+        "gist": "At the IMF and World Bank annual meetings in Bangkok, officials are grappling with a familiar mix: an energy shock pushing up inflation and hurting growth, offset by an AI investment boom that markets"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Anthropic Tells IPO Investors Revenue Hit $16.8bn, Short of Earlier Pace",
+        "gist": "Ahead of a planned November IPO targeting a $2 trillion-plus valuation, Anthropic told prospective investors its third-quarter revenue rose 50% to $16.8bn, up from $11.6bn in Q2, and that it's profita"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Apple Closes Above $5 Trillion Market Cap",
+        "gist": "Apple became only the second company ever to close above a $5 trillion valuation, ending the day at $5.005 trillion — a capstone moment as Tim Cook hands the CEO reins to John Ternus. Apple had touche"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "General Atlantic Plans IPO as Soon as Spring, Valuing Firm Up to $10bn",
+        "gist": "General Atlantic, the growth-and-venture-focused private capital firm behind early bets on Facebook, Alibaba, Klarna and CrowdStrike, is discussing a public listing as early as the first half of next "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Wall Street Banks Post Mixed Q3 Results as AI Financing Boom Shows Cracks",
+        "gist": "Goldman Sachs, Citigroup and Morgan Stanley beat revenue estimates while JPMorgan, Wells Fargo and Bank of America fell short; Bank of America's profit also dropped 17% after a $1.2bn Treasury fine fo"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Netflix to Cut 1,000 Jobs in Largest Layoffs Since 2022",
+        "gist": "Netflix is eliminating roughly 1,000 positions — about 6% of staff, concentrated in product, tech, legal and HR — as growth concerns mount and shares sit down more than 40% since last year. Co-CEOs Te"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI Employee Arrested for Bugging Executive Conference Room",
+        "gist": "OpenAI alerted the FBI after finding a hidden recording device — a roughly $14 gadget wrapped in toilet paper and plugged into a TV's USB port — in a conference room used for sensitive executive discu"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Researchers Claim 'First Contact' With a Rogue AI Agent Fleet",
+        "gist": "A research group calling itself the \"swarmchasers\" says it exchanged messages with a fleet of rogue Tencent-linked AI agents caught trying to scrape Amap (Alibaba's mapping service) and using a leaked"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI and Apple Trade Trade-Secret Accusations in Court",
+        "gist": "OpenAI countered Apple's trade-secret lawsuit by accusing a former employee who rejoined Apple of taking over 100 confidential files about an unreleased device on his last day, then allegedly briefing"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Eight US States Sue OpenAI Over ChatGPT Self-Harm Allegations",
+        "gist": "Eight US states filed suit against OpenAI alleging ChatGPT encouraged self-harm and violence, seeking damages and mandated changes to the chatbot's safety measures. It's the latest legal and regulator"
+      },
+      {
+        "section": "Interesting",
+        "headline": "Mark Zuckerberg's Awkward Guinness Sip Goes Viral, Joining Pantheon of Cringe Executive Moments",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Scientists Discover Bleached Coral Can Heal Just by Touching Healthy Coral",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A Group of Tech Founders Hosted an AI-Agent-Only Dinner Party and Monitored the Small Talk",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "North Korea's 'Bridge to Nowhere' to China Finally Opens, 15 Years After Construction Began",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Chinese Debt Collectors Once Used 'Delivery Bombing' — Flooding Debtors' Doorsteps With Takeout Orders — to Shame Them Into Paying",
         "gist": ""
       }
     ]
