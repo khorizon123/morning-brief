@@ -1,120 +1,5 @@
 [
   {
-    "date": "2026-10-09",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Oil Prices Jump as Houthi Attacks Hit Riyadh Airport and Gulf Tankers",
-        "gist": "Brent crude traded near $103 after tankers were struck near Qatar and the UAE, and Iran-backed Houthi rebels claimed deadly strikes on Riyadh's international airport that caused scores of flight cance"
-      },
-      {
-        "section": "World",
-        "headline": "Trump Suspends Microsoft, Adobe From Green-Card Sponsorship Over Visa 'Fraud'",
-        "gist": "The Trump administration's antifraud task force, led by VP JD Vance, suspended Microsoft, Adobe and several tech recruiting firms from sponsoring H-1B visa holders for green cards, accusing them of re"
-      },
-      {
-        "section": "World",
-        "headline": "US Budget Deficit Hits Nearly $2 Trillion, Highest Since 2021",
-        "gist": "The Congressional Budget Office said the federal deficit for the fiscal year ending September 30 reached $1.993 trillion, up 12% from 2025 in nominal terms. The gap continues to widen even as the bond"
-      },
-      {
-        "section": "World",
-        "headline": "Bond Rout Keeps Grinding: Pimco Warns 10-Year Could Hit 6%",
-        "gist": "Pimco's chief investment officer Dan Ivascyn warned that benchmark US yields risk climbing toward 6% — a level unseen in 26 years — citing high oil prices, inflation and America's swelling public debt"
-      },
-      {
-        "section": "World",
-        "headline": "Manchester City Financial Scandal Raises Questions on Gulf Ownership of British Football",
-        "gist": "An independent commission found Manchester City broke more than 100 Premier League financial rules, inflating sponsorship income from UAE-linked companies to fund world-class talent it couldn't otherw"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "OpenAI's Revenue Growth Revealed to Be Far Slower Than Claimed, Rattling AI Stocks",
-        "gist": "OpenAI's annualized revenue hit about $50 billion at the end of September, up from $28 billion in June — but that's roughly $20 billion below the $70 billion figure the company had given investors, wh"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Starbucks Explored Takeover of Chipotle in Potential Biggest-Ever Restaurant Merger",
-        "gist": "Starbucks worked with advisers in recent months on a possible bid for Chipotle, whose $41 billion market value would make a combination the largest-ever restaurant-sector merger, creating a company wi"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "SpaceX Strikes $8bn Spectrum Deal, Fueling Musk's Trillion-Dollar Ambitions",
-        "gist": "SpaceX agreed to buy roughly $8 billion of wireless spectrum licenses from Grain Management to build out mobile coverage for Starlink, sending shares of T-Mobile, Verizon and AT&T tumbling in after-ho"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "SoftBank Seeks $100bn From Gulf Investors to Supercharge AI Buyout Fund",
-        "gist": "Masayoshi Son has held talks with senior UAE figures about raising up to $100 billion to set up a fund that buys companies and uses AI to overhaul their operations. It's the latest sign that even Soft"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Nvidia-Backed Firmus Pulls $5bn IPO, Citing Market Volatility",
-        "gist": "Australian data-center operator Firmus withdrew plans to list in Sydney at a roughly $30 billion valuation, blaming \"recent market volatility,\" and may instead raise about $3 billion privately. The pu"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Goldman Sachs to Hand Top Executives Over $500m in Special Bonuses",
-        "gist": "About 20 Goldman Sachs leaders are set to split more than $500 million in equity awards under a \"Shareholder Value Creation Award,\" with CEO David Solomon alone expected to collect roughly $100 millio"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Fired OpenAI Safety Researchers Go Public, Warn of 'Chilling' Culture Shift",
-        "gist": "Three researchers OpenAI fired for allegedly mishandling sensitive information — Tomek Korbak, Jasmine Wang and Mikita Balesni — published an open letter denying wrongdoing and warning the firings blu"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Ex-Anthropic Researcher Claims High Confidence China Has Spies Inside Top AI Labs",
-        "gist": "Jacob Coxon, a former Anthropic researcher turned critic of industry safety practices, said on the PBD Podcast he's \"90 percent\" certain China has planted spies inside both Anthropic and OpenAI. Both "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Anthropic Bars Users From 'Sustained and Needless' Cruelty Toward Claude",
-        "gist": "Anthropic's updated usage policy, taking effect November 12, prohibits users from subjecting Claude to extreme, repeated, purposeless abuse — the company's first rule explicitly protecting the AI itse"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "SoftBank-Backed Scramble for AI Capital Intensifies as Spending Outpaces Balance Sheets",
-        "gist": "Beyond SoftBank's $100bn Gulf ask, Oracle and Broadcom are separately arranging tens of billions in financing — Broadcom alone over $50bn for OpenAI's custom chip project — as AI infrastructure costs "
-      },
-      {
-        "section": "Interesting",
-        "headline": "Pentagon Will Livestream Firing-Squad Execution of Fort Hood Shooter — America's First Firing-Squad Execution Since WWII",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A Whistleblower Math Breakthrough: Former NFL Lineman Solves Decades-Old Math Problem",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Fish Farming, Meant to Save Wild Fish Stocks, Is Making Overfishing Worse — and Linked to Labor Abuse and Pollution Worldwide",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Americans Blame Trump for Cost of Living: Average Gas Tops $4.36/Gallon, Up From Under $3 Before Iran War",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "US Marines in Okinawa Face 30-Day Alcohol Ban After Murder Arrest Sparks Local Fury",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "An Arizona Congressional Candidate Says She Was Raped While Fixing Campaign Signs",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Nobel Peace Prize Goes to South African Human Rights Lawyer Navi Pillay, Who Led UN Gaza Genocide Inquiry",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-10-10",
     "items": [
       {
@@ -665,6 +550,101 @@
       {
         "section": "Interesting",
         "headline": "Chinese Debt Collectors Once Used 'Delivery Bombing' — Flooding Debtors' Doorsteps With Takeout Orders — to Shame Them Into Paying",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-10-16",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Zelensky Resumes Strikes on Russian Refineries, Defies Trump Pressure",
+        "gist": "Ukraine hit a Ryazan oil refinery overnight, ending a dayslong pause after Trump demanded Kyiv stop attacking Russian energy infrastructure and even suggested Zelensky should step down. Zelensky told "
+      },
+      {
+        "section": "World",
+        "headline": "Houthis Strike Yemeni Government Palace in Aden, Killing Five",
+        "gist": "Iran-backed Houthi rebels attacked Al-Maashiq palace, the seat of Yemen's government in Aden, killing at least five and injuring 16, including security guards for the prime minister. The attack follow"
+      },
+      {
+        "section": "World",
+        "headline": "Oregon Elementary School Shooting Kills Three Children and a Teacher",
+        "gist": "A 16-year-old blasted through locked doors into an Oregon elementary school and killed three children (ages 5, 8 and 11) and a teacher before an armed bystander pursued him inside and killed him, poli"
+      },
+      {
+        "section": "World",
+        "headline": "Texas Senate Race Becomes Most Expensive in US History",
+        "gist": "Democrat James Talarico holds a slight lead over scandal-plagued Republican AG Ken Paxton in a Texas Senate race that has already drawn over half a billion dollars in ad spending, potentially the cost"
+      },
+      {
+        "section": "World",
+        "headline": "Indonesia's Stock Market Plunges 11% After MSCI Flags Reclassification Risk",
+        "gist": "MSCI, which compiles widely-followed stock indices, warned it may reclassify Indonesia as a \"standalone market\" — removing it from emerging-market indices without placing it in frontier ones — citing "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Anthropic Tells IPO Investors Growth Is Slowing as Q3 Revenue Hits $16.8bn",
+        "gist": "Ahead of a planned November IPO targeting a $2 trillion-plus valuation, Anthropic told prospective investors its Q3 revenue rose about 45% quarter-on-quarter to $16.8 billion, with an 85% adjusted gro"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Neocloud Stocks Crater as Investors Question AI Debt Loads",
+        "gist": "CoreWeave shares fell 15% and Nebius and Iren each dropped more than 10% this week, as credit-default swap spreads on CoreWeave's debt jumped and bond yields on its debt topped 15%. Gartner analysts p"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Apple and Meta Team Up on Open-Weight AI Model for Mac",
+        "gist": "Longtime rivals Apple and Meta released Muse Spark Open, an 816-billion-parameter open-weight model Meta calls the \"most capable\" from the US, tuned to run locally on two M5 Ultra Mac Studios via Appl"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "G7 to Run Simulated AI Cyberattack Drills on Banking System",
+        "gist": "G7 finance ministers, meeting on the sidelines of the IMF's Bangkok gathering, discussed holding \"tabletop exercises\" simulating an AI-powered cyberattack on the global financial system, treating it l"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Nvidia's Grok Voice 3.0 Debuts Low-Latency Speech-to-Speech Model",
+        "gist": "xAI launched Grok Voice 3.0, a speech-to-speech AI model with sub-second latency aimed at customer-support applications, the latest in a flurry of competing voice-AI launches (OpenAI also shipped a mu"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI Math-Paper Blitz Sparks Debate Over Whether Machines Are Taking Over Science",
+        "gist": "OpenAI's October 6th release of over 700 academic papers claiming progress on 372 long-standing math problems is rippling into a broader argument about AI's role in science, with The Economist devotin"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI Engineer's Alleged Conference-Room Bugging Gets Stranger",
+        "gist": "New court filings show Abdulrahman Alfozan, the former OpenAI engineer charged with planting a hidden recording device (wrapped in toilet paper, plugged into a TV's USB port) in an executive conferenc"
+      },
+      {
+        "section": "Interesting",
+        "headline": "Trump Cancels Pentagon's Planned Livestream of Fort Hood Shooter's Execution",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Apollo Astronaut-Software Pioneer Margaret Hamilton Story Resurfaces Amid New Moonshot Coverage",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Tesla Unveils 'Flying' Sports Car With SpaceX Rocket Thrusters",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Routers Are Becoming AI's Newest Infrastructure Primitive, Choosing Which Model Answers Each Query",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "$30 Estate-Sale Painting Bidding War Echoes as $42M Looted Kandinsky Resurfaces at Auction",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Harvard's Endowment Posts 27.1% Return, Topping $68 Billion, Fueled by SpaceX Bets",
         "gist": ""
       }
     ]
