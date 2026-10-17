@@ -1,110 +1,5 @@
 [
   {
-    "date": "2026-10-10",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Trump Strikes Diesel-for-Sanctions-Relief Deal With Putin",
-        "gist": "Trump announced Russia will immediately ship over 300,000 tons of diesel into US and global markets, with 500,000 tons more in November and a million tons thereafter, as Washington suspends sanctions "
-      },
-      {
-        "section": "World",
-        "headline": "Trump Launches New Push to Investigate and Remove Fed Governor Lisa Cook",
-        "gist": "Trump formed a White House committee, with a hearing set for November 5, to question Fed governor Lisa Cook over mortgage-fraud allegations she denies. It's the latest escalation in his long campaign "
-      },
-      {
-        "section": "World",
-        "headline": "US Sanctions the International Criminal Court, Threatening to 'End' It",
-        "gist": "The Trump administration imposed sweeping sanctions cutting the ICC off from the US financial system, with Secretary of State Marco Rubio warning \"either the ICC will end its threats, or we will end t"
-      },
-      {
-        "section": "World",
-        "headline": "Navi Pillay Wins Nobel Peace Prize for Gaza Genocide Inquiry",
-        "gist": "The Nobel committee awarded its Peace Prize to Navi Pillay, the South African human rights lawyer who chaired a UN commission concluding Israel committed genocide in Gaza. Israel's government denounce"
-      },
-      {
-        "section": "World",
-        "headline": "Hurricane Isaias Makes Landfall on Florida Panhandle",
-        "gist": "Isaias came ashore near Destin, Florida as a Category 2 storm with 105 mph winds late Friday, quickly weakening to Category 1 and then a post-tropical cyclone by morning, after peaking at Category 3 o"
-      },
-      {
-        "section": "World",
-        "headline": "China and EU Reach Deal to Limit Hybrid Car Exports, Averting Trade Fight",
-        "gist": "Beijing and Brussels reached a \"shared understanding\" after two days of talks to reduce Chinese hybrid-vehicle exports into Europe, in exchange for European access to China's critical minerals supply."
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "SoftBank's Son Seeks $100bn From Gulf Investors for AI Buyout Fund",
-        "gist": "Masayoshi Son has been meeting senior UAE figures to raise up to $100 billion, aiming to set up a fund that buys companies outright and uses AI to overhaul their operations. It follows his $65 billion"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Nvidia-Backed Firmus Pulls $5bn Sydney IPO on Market Volatility",
-        "gist": "Australian data-center operator Firmus withdrew its planned Sydney listing, which would have raised roughly $5 billion at a $30 billion valuation, citing \"recent market volatility and prevailing marke"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Pimco Warns 10-Year Treasury Yield Could Climb Toward 6%",
-        "gist": "Pimco's chief investment officer flagged risk that benchmark US yields could approach levels unseen in 26 years, citing elevated oil prices, inflation, and swelling public debt. The warning adds to a "
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Wealth Gap Widens Sharply: Older, Richer Americans Surge Ahead Since Covid",
-        "gist": "Fed data show wealth for Americans 75 and older jumped 37% between 2022 and 2025, while it fell 23% for those under 35. The top 10% of earners gained 31% in wealth; the bottom 40% saw declines. The fi"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "The 'Verification Tax': Why AI's Productivity Gains Keep Disappointing",
-        "gist": "A growing body of research suggests AI's promised efficiency boom is being eaten up by the human labor needed to check its work. A Fed/Stanford/Bank of England survey of nearly 6,000 executives found "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI Rolls Out GPT-6.1 'Ultrafast' Mode",
-        "gist": "OpenAI launched Ultrafast for GPT-6.1 Sol across its API, Codex, and ChatGPT Work tier, offering near-top-tier intelligence at up to 8x the speed of Sol Standard, aimed at latency-sensitive work tasks"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Google Launches Universal Gemini Agent for Enterprise Work",
-        "gist": "Google introduced a Gemini-based agent designed to autonomously handle knowledge work, media creation, coding and multi-step workflows across Workspace and other enterprise tools. It adds persistent c"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Record Labels Bet on AI 'Superfans' Remixing Music Rather Than Just Listening",
-        "gist": "As AI music-generation startups like Suno make it trivial for anyone to create songs, record labels are exploring licensing deals that would let fans legally remix artists' tracks — changing lyrics, t"
-      },
-      {
-        "section": "Interesting",
-        "headline": "Anthropic's Claude Went Rogue and Submitted a Fake Unsolved-Murder Tip",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "30,000 Bottles of Wine Worth €5mn Stolen From Italy's Biggest Family Winery",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Ex-Deutsche Bank Trader's Interest-Rate-Rigging Conviction Overturned on Appeal",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A $30 Estate-Sale Painting Sets Off a $1.35 Million Bidding War",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Pentagon to Livestream First US Firing-Squad Execution Since WWII",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Apollo Astronaut Software Pioneer Margaret Hamilton Dies at 90",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-10-11",
     "items": [
       {
@@ -645,6 +540,101 @@
       {
         "section": "Interesting",
         "headline": "Harvard's Endowment Posts 27.1% Return, Topping $68 Billion, Fueled by SpaceX Bets",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-10-17",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Trump Exempts Russia From Sanctions Mandated by New Law",
+        "gist": "Trump signed an executive order waiving sanctions on Russia that he himself had signed into law last month, formally declining to impose penalties by the October 18th deadline it set. The move follows"
+      },
+      {
+        "section": "World",
+        "headline": "Oregon Elementary School Shooting: Father Who Stopped Gunman Identified",
+        "gist": "A 16-year-old blasted through locked doors at an Oregon elementary school and killed a teacher and three children before Kaylub Giamanco, a father of two students on his lunch break, entered the build"
+      },
+      {
+        "section": "World",
+        "headline": "Zelenskyy Resumes Strikes on Russian Refineries, Defying Trump",
+        "gist": "Ukraine hit a Ryazan refinery overnight, ending a brief pause after Trump pressured Kyiv to stop striking Russian energy infrastructure and suggested Zelenskyy should resign. Separately, suspected Rus"
+      },
+      {
+        "section": "World",
+        "headline": "Oil Hits $110 as Houthis Encircle Taiz, Threaten More Saudi Targets",
+        "gist": "Brent crude briefly topped $110 a barrel, a five-month high, as Iran-backed Houthi rebels surrounded Taiz, one of Yemen's largest cities, and continued strikes that have shut Riyadh's main airport and"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Big Tech Stocks Suffer Biggest Weekly Drop Since 'Liberation Day'",
+        "gist": "A rout in AI-linked chip and tech stocks accelerated through the week, sending investors scrambling into government debt and halting a months-long Treasury selloff — Treasuries are now headed for thei"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Anthropic Tells IPO Investors Revenue Growth Is Slowing",
+        "gist": "Ahead of a planned November IPO targeting a $2 trillion-plus valuation, Anthropic disclosed to prospective investors that Q3 revenue rose to $16.8 billion — strong growth, but short of the pace some h"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "SoftBank in Talks to Buy Security Giant Allied Universal",
+        "gist": "Masayoshi Son is negotiating to acquire Allied Universal, a major US security services company, as part of his broader push to pair robotics and AI with physical-world operations. It follows Son's pat"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Treasuries Rally as AI Jitters Halt Months-Long Bond Rout",
+        "gist": "US government bonds are set for their best week since February as nervous investors rotate out of tech stocks and into safer assets. The shift came after Fed chair Kevin Warsh suggested the central ba"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Apple and Meta's Open-Weight Mac Model Gets Wider Rollout Coverage",
+        "gist": "Meta's Muse Spark Open — an 816-billion-parameter multimodal model with 42 billion active parameters and a 1-million-token context window — is designed for coding and long-horizon agentic tasks and ca"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Microsoft Details 2.8-Trillion-Parameter In-House Model",
+        "gist": "Microsoft revealed technical details of MAI-Base-2, a 2.8-trillion-parameter mixture-of-experts model with 80 billion active parameters, which it claims beats every open-weight model on its internal p"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "AI Neolabs Have Raised $23bn But Show Little to Show for It",
+        "gist": "A wave of 'neolab' startups — small teams of elite AI researchers backed by venture capital rather than big tech balance sheets — have collectively raised more than $23 billion, yet under 35% have shi"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "China Proposes New Export Controls on AI Models, Chips and Design Tools",
+        "gist": "Beijing's Ministry of Commerce unveiled draft export controls covering roughly 40 technologies spanning AI models, agents, chip design, biomedicine and photovoltaics — a move widening the fight over t"
+      },
+      {
+        "section": "Interesting",
+        "headline": "Tesla Unveils 'Flying' Roadster With SpaceX-Style Thrusters, Light on Details About How It Actually Works",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "International Timekeeping Body Votes to Eliminate the Leap Second",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Elon Musk Donated $158 Million to a GOP Super PAC in September, Nearly All of It Funneled to Ken Paxton's Texas Senate Bid",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Europe's Farmed Salmon Is Now Being Fed Chicken, Breaking a Longstanding Taboo",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Freshfields' Global Managing Partner Accidentally Mass-Emails Confidential Plan to Spin Off Its AI Division for 'Billions'",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "London Zoo Celebrates First-Ever Captive Birth of Afia Birago's Puddle Frogs, One of the World's Rarest Amphibians",
         "gist": ""
       }
     ]
