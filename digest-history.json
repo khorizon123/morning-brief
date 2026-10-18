@@ -1,75 +1,5 @@
 [
   {
-    "date": "2026-10-11",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Houthi Missile Strike Kills 12 at Riyadh Airport",
-        "gist": "A missile attack claimed by Iran-backed Houthi rebels hit Riyadh's international airport, killing at least 12 people and injuring hundreds, days after similar strikes hit Gulf tankers. The US separate"
-      },
-      {
-        "section": "World",
-        "headline": "Germany's Former Spy Chief Charged With Treason",
-        "gist": "August Hanning, who ran Germany's foreign intelligence service (BND) and later served as a senior interior ministry official, is accused of illegally selling state secrets to a foreign agency over mor"
-      },
-      {
-        "section": "World",
-        "headline": "US Warns Kyiv That Strikes on Russia Risk Intelligence-Sharing Cutoff",
-        "gist": "The Trump administration warned Ukraine that continued strikes on Russian territory could jeopardize US intelligence-sharing, after Volodymyr Zelenskyy criticized Washington's new diesel-for-sanctions"
-      },
-      {
-        "section": "World",
-        "headline": "Hurricane Isaias Kills at Least Two, Knocks Out Power to 800,000+",
-        "gist": "Isaias made landfall on the Florida Panhandle as a Category 2 storm before weakening, killing at least two people and disrupting US oil and gas production as it swept through Florida, Alabama and Geor"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Nvidia in Talks to Acquire Open-Model Startup Reflection AI",
-        "gist": "Nvidia is discussing a potential acquisition of Reflection AI, the Nvidia-backed, ex-DeepMind-founded startup that just released Beam, its first open-weight model positioned as America's answer to Chi"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "SoftBank, Oracle and Broadcom Keep Racing to Borrow for AI Chips",
-        "gist": "The scramble to finance AI infrastructure continues: Oracle, Broadcom and SpaceX are lining up fresh blockbuster debt deals to pay for computing hardware, with Broadcom alone arranging over $50 billio"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Microsoft Revamps Copilot Around 'Home, Code and Autopilot'",
-        "gist": "Microsoft relaunched its Copilot assistant around three capabilities — Home (chat and Office tools), Code (no-code app building) and Autopilot (an always-on agent with memory and its own workspace). I"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI's Math-Paper Blitz Draws Scrutiny",
-        "gist": "OpenAI's release of 722 math papers from an unreleased internal model — including a claimed partial advance on the Riemann hypothesis — is rippling through the mathematics community, with commentators"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Iranian Influence Campaign Used ChatGPT to Plant Fake Articles in US Outlets",
-        "gist": "A Washington Post investigation found an Iranian influence operation used ChatGPT to generate and plant fabricated articles inside real American publications, part of a broader pattern of state actors"
-      },
-      {
-        "section": "Interesting",
-        "headline": "People Angry at AI Are Taking It Out on Food-Delivery Robots",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Trump Says Nobel Peace Prize Winner Navi Pillay Should Have Won It Eight Times Over — Sarcastically",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A Russian Spy's Only Regret: Getting Caught",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "MIT Pays a Professor Not to Teach His Own Controversial Class",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-10-12",
     "items": [
       {
@@ -635,6 +565,71 @@
       {
         "section": "Interesting",
         "headline": "London Zoo Celebrates First-Ever Captive Birth of Afia Birago's Puddle Frogs, One of the World's Rarest Amphibians",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-10-18",
+    "items": [
+      {
+        "section": "World",
+        "headline": "France Rocked by Riots as Cost-of-Living Protests Turn Violent",
+        "gist": "Mass demonstrations over high living costs and dissatisfaction with the education system spiraled into riots and looting in several French cities over the weekend, with protesters clashing with police"
+      },
+      {
+        "section": "World",
+        "headline": "Zelenskyy Calls Starlink Throttling a 'Planned Operation'",
+        "gist": "Volodymyr Zelenskyy said restrictions slowing Starlink satellite internet speeds specifically inside Ukraine are a deliberate operation, not a technical glitch, hampering Ukraine's ability to intercep"
+      },
+      {
+        "section": "World",
+        "headline": "Trump Formally Waives Russia Sanctions Mandated by His Own Law",
+        "gist": "Trump signed an executive order exempting Russia from sanctions that a law he signed last month required by October 18th, giving Moscow a reprieve after cutting a deal to let Russian diesel flow into "
+      },
+      {
+        "section": "World",
+        "headline": "Israeli Settlers Attack European Diplomats in the West Bank",
+        "gist": "Israeli settlers attacked a group of European diplomats touring the West Bank, prompting Belgium's foreign minister to say his government will push for EU sanctions against those responsible."
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "AI Infrastructure Boom Starts to Strain Against Real-World Limits",
+        "gist": "The FT reports that America's roughly $10 trillion wave of AI infrastructure spending is beginning to collide with the unforgiving economics of the physical world — power constraints, grid bottlenecks"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "GCash Owner's $1bn Debut Headlines Southeast Asian IPO Rebound",
+        "gist": "The parent company of digital wallet GCash is set to begin trading in what will be the region's biggest IPO of the year, raising roughly $1 billion and signaling renewed momentum for Southeast Asian l"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "BoE's Bailey Warns AI Agents Pose Financial Stability Risk",
+        "gist": "Bank of England governor Andrew Bailey told the G30 group of financial leaders that regulators \"have got to address\" the risks from rapidly advancing AI agents, flagging it as a major emerging issue f"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "States Emerge as the New Antitrust Enforcers Under a Laissez-Faire DOJ",
+        "gist": "With federal antitrust agencies taking a hands-off approach under the second Trump administration, state attorneys general have stepped into the void, suing to block the Paramount Skydance-Warner Bros"
+      },
+      {
+        "section": "Interesting",
+        "headline": "India's Shadow Economy Drives a Cash Comeback as Digital Payment Fees Rise",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Elon Musk's Charitable Foundation Called 'Opaque, Miserly and Self-Serving' Despite Being America's Fifth-Largest",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "China Builds a 'Recycling Superpower' Out of Shredded EV Battery 'Black Mass'",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Lula Turns to Selfie Videos in Brazil Election Fightback After Losing First Round",
         "gist": ""
       }
     ]
