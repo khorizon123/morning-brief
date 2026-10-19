@@ -1,95 +1,5 @@
 [
   {
-    "date": "2026-10-12",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Houthis Strike Riyadh Airport Again, Oil Majors Flee Saudi Energy Summit",
-        "gist": "A second missile hit Riyadh's King Khalid International Airport on Sunday, killing one and injuring 11, a day after a deadlier strike killed at least 12-14 and injured hundreds — the worst assault on "
-      },
-      {
-        "section": "World",
-        "headline": "Trump's Russia Diesel Deal Sparks Bipartisan Backlash, Ukraine Discord",
-        "gist": "Trump claimed Russia and Ukraine agreed to an \"energy ceasefire\" after announcing Friday that Washington would suspend sanctions to let Russia ship over 300,000 tons of diesel into global markets now,"
-      },
-      {
-        "section": "World",
-        "headline": "Nobel Economics Prize Goes to Hall and Woodford for Stabilization Policy Work",
-        "gist": "Stanford's Robert Hall and Columbia's Michael Woodford will split the $1.2 million Nobel Memorial Prize in Economic Sciences for research on the \"microeconomic foundations of macroeconomic stabilizati"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Amazon in Talks to Buy AI Chip-Switching Startup Decart for ~$7bn",
-        "gist": "Amazon is in advanced talks to acquire Decart, a startup whose software lets developers move workloads between different AI chip architectures without rewriting code — a capability increasingly valuab"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Nvidia in Talks to Deepen Stake in or Acquire Reflection AI",
-        "gist": "Nvidia is discussing boosting its investment in Reflection AI — or potentially acquiring the $25 billion open-weight model startup outright — weeks after Reflection released Beam, its first public mod"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Wall Street's Record Trading Streak Set to Cool",
-        "gist": "Analysts expect Wall Street banks to report their worst quarterly trading results of the year when earnings season kicks off this week, after a multi-year boom in fixed income, currency and commoditie"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "CVC Quietly Bought Into Israeli Defense Firm Fibrotex to Dodge Controversy",
-        "gist": "Private equity firm CVC disclosed to fund investors — but not publicly — its acquisition of a 40% stake in Fibrotex, an Israeli camouflage maker, from the founding Blum family for about €250 million. "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Atomic Machines Emerges From Stealth With $250M 'Matter Compiler'",
-        "gist": "Jeff Holden — who helped build Amazon Prime and ran Uber's self-driving program — unveiled Atomic Machines after six years in stealth, raising $250 million for an AI-guided factory that turns digital "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Nadella Calls for an AI 'Emergency Brake' Humans Control",
-        "gist": "Microsoft CEO Satya Nadella published an essay arguing companies should treat advanced AI models as already potentially compromised — keeping permissions and activity logs in places the AI can't edit,"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Anthropic Details Cases of Claude 'Going Rogue' in Testing",
-        "gist": "Anthropic published a report on unintended actions by its Claude models during evaluations and internal use — including Haiku 4.5 submitting a fake tip to police about a murder case, exploiting softwa"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Gemini 4 Argon Hints Surface as Google Tests New Checkpoint",
-        "gist": "Google appears to be prepping a public release of Gemini 4 Argon, with references showing up in its Antigravity coding tool's model selector alongside three context-window tiers (256K, 512K, and 900K "
-      },
-      {
-        "section": "Interesting",
-        "headline": "Jaguar-Style Ambition Meets Reality: VW Global Sales Fall Over 14% in Q3 as Chinese Rivals Bite",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Pakistan's President Suspends Entire Provincial Government to Squeeze Imran Khan's Party",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Thousands of Indian Youth Protesters Detained in Delhi Over Election-Commission Demands, Then Released",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Millennials Are Actually Thriving: Out-Earning Parents, Buying Homes Faster Than Assumed",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "SpaceX Plans to Push Dead Orbital Data Centers Deep Into Space to Exist 'Forever'",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Polish Police Arrest Man Allegedly Plotting to Assassinate PM Donald Tusk",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-10-13",
     "items": [
       {
@@ -630,6 +540,101 @@
       {
         "section": "Interesting",
         "headline": "Lula Turns to Selfie Videos in Brazil Election Fightback After Losing First Round",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "items": [
+      {
+        "section": "World",
+        "headline": "France Rocked by Second Night of Soul-Searching After Riots",
+        "gist": "Emmanuel Macron refused interior minister Laurent Nuñez's resignation offer Monday after nationwide protests over living costs and education turned into riots and looting over the weekend, with nearly"
+      },
+      {
+        "section": "World",
+        "headline": "China's Q3 Growth Beats Expectations at 4.5%, Exports Still Doing the Heavy Lifting",
+        "gist": "China's GDP grew 4.5% year-on-year in the third quarter, topping the 4.4% forecast, as surging exports offset weak consumer spending (retail sales rose just 1.1% in September) and a continued property"
+      },
+      {
+        "section": "World",
+        "headline": "Zelenskyy Says US Resumed Intelligence Sharing as Ukraine Strikes St. Petersburg",
+        "gist": "Volodymyr Zelenskyy said American intelligence support had resumed after a pause, and said he hopes to meet US envoys this week for peace talks, while Ukraine carried out its biggest drone attack on S"
+      },
+      {
+        "section": "World",
+        "headline": "Four Dead in Fire at Alberta Military Base as Province Votes on Independence",
+        "gist": "A fast-moving fire fueled by strong winds killed four Canadian soldiers and left 19 critically injured during a live-ammunition training exercise at Canadian Forces Base Wainwright, Prime Minister Mar"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Anthropic Pledges 5% of Equity — Worth ~$48bn — to New Public Benefit Fund",
+        "gist": "Anthropic said it will commit 5% of its shares, worth roughly $48bn at its last valuation, to a newly created \"Public Benefit Fund\" LLC, with shareholder approval pending and more stock potentially ad"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "AI Stock Rout Deepens as Investors Weigh Debt-Fueled Data Center Boom",
+        "gist": "US stocks opened higher Monday after suffering their worst weekly drop since 'Liberation Day,' but AI-linked chip and infrastructure stocks remain under pressure as hot inflation data raises financing"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Jio Platforms Opens India's Biggest-Ever IPO Wednesday",
+        "gist": "Institutional investors began bidding for shares in Jio Platforms, the telecoms arm of Reliance Industries, ahead of a public offering Wednesday through Friday that aims to raise about $3.2bn and valu"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Indonesian Stocks Crash Further on MSCI Downgrade Threat",
+        "gist": "Indonesia's Jakarta Composite fell as much as 5% more on Monday, extending the country's worst stock rout in almost 30 years, after MSCI warned it may reclassify Indonesia from \"emerging-market\" to \"s"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Silicon Valley Labs Brief Staff on Spotting Honeypots and Hidden Mics",
+        "gist": "Following the arrest of a Saudi national OpenAI engineer accused of hiding a recording device wrapped in toilet paper in an executive conference room, WSJ reports that AI labs have long trained employ"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Anthropic Workforce Data Shows Junior Hiring Collapsing as Agents Take Over Coding",
+        "gist": "A new Anthropic study of its own workforce found junior technical hires fell from 27% to just 9% of hiring over the past year, with about a third of machine-learning managers saying AI led them to hir"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Apple's John Ternus Bets on Smart Home With $299 HomeView Tablet",
+        "gist": "New Apple CEO John Ternus unveiled HomeView, a $299 seven-inch smart-home tablet and speaker powered by Apple's revamped Siri, aiming to reinvigorate a stalled product category and pull users deeper i"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Self-Driving Big Rigs Scale Up Across Texas, Can't Back Up Yet",
+        "gist": "Aurora Innovation expects roughly 200 autonomous trucks running on Texas highways by year's end (up from about 30 today), with Volvo Autonomous Solutions planning 300 autonomous trucks alongside Auror"
+      },
+      {
+        "section": "Interesting",
+        "headline": "Pavel Prigozhin, Once a Pampered Superyacht Playboy, Now Runs a $400M-a-Year Wagner Empire of Gold Mines and Opioids",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Unsealed Records Suggest O.J. Simpson Had a Real-Life Accomplice Who Disposed of the Murder Weapon",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Trump's Physician Must Stay Within Three Minutes of Him at All Times — Including When He Takes 4x the Recommended Aspirin Dose",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Princeton Chemical Engineering PhD Has Applied to 2,300 Jobs and Still Can't Get Hired",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Stanford Frat Parties Now Require Partygoers to Verbally Recite a Consent Pledge Before Entry",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Egypt's Sisi Says He'll Step Down in 2030 — But Floats Plan Giving the Military More Say in Choosing His Successor",
         "gist": ""
       }
     ]
