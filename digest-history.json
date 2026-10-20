@@ -1,100 +1,5 @@
 [
   {
-    "date": "2026-10-13",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Trump's Russia Diesel 'Ceasefire' Collapses Within Days",
-        "gist": "Just after announcing Russia would ship diesel into global markets in exchange for sanctions relief, Trump declared an "
-      },
-      {
-        "section": "World",
-        "headline": "Saudi Airport Shut Through the Weekend as Houthi Strikes Continue",
-        "gist": "Riyadh's main international airport will stay closed until Sunday after a string of Houthi missile and drone strikes killed at least 16 people over the past week. Oil majors skipped a major Saudi ener"
-      },
-      {
-        "section": "World",
-        "headline": "IMF Warns Top Economies Face Biggest Deficits Since Covid",
-        "gist": "The IMF's World Economic Outlook projects advanced-economy government borrowing will hit 5.2% of GDP this year, the highest since 2021, with US and Chinese deficits both at or above 8% of GDP. The Fun"
-      },
-      {
-        "section": "World",
-        "headline": "Federal Agents Raid Home of Rep. Ilhan Omar",
-        "gist": "US federal agents searched the Washington home of Minnesota Democratic congresswoman Ilhan Omar, a frequent Trump target, less than a month before the midterms. The Justice Department has historically"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Broadcom CEO's 'Casino' Comment Triggers Global Chip Stock Rout",
-        "gist": "Broadcom chief executive Hock Tan said many AI investors are behaving like casino gamblers who \"have no clue,\" remarks made at a Singapore event that helped trigger a selloff in chipmakers worldwide. "
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Wall Street Banks Kick Off Earnings Season With a Miss",
-        "gist": "JPMorgan Chase and Wells Fargo opened third-quarter bank earnings with revenue below analyst expectations, hitting their stocks in premarket trading. Goldman Sachs and Citigroup report today, with Ban"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "US Pending Home Sales Hit Near 12-Year Low",
-        "gist": "US pending home sales dropped 4% between August and September to their lowest level since 2014 (excluding the early pandemic), according to Redfin, after the average 30-year mortgage rate hit 7.4% las"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Bumble Nears Sale to Former Meta and Instacart Executives at ~$1bn",
-        "gist": "Dating app Bumble is in advanced talks to go private at roughly $1 billion, through buyer Ithaca Holdings, an investment firm founded by former Meta and Instacart executives. That's a steep comedown f"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "HPS (BlackRock) Buys Out Welsh Carson's Stake in Humana Senior-Care Venture for $2.8bn",
-        "gist": "HPS Investment Partners, BlackRock's private-credit arm, agreed to buy out private equity firm Welsh, Carson, Anderson & Stowe's stake in a Humana joint venture that manages senior-care clinics, in a "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Meta's Muse Wonder Vaults the Company to the AI Frontier",
-        "gist": "Meta released Muse Wonder and Muse Wonder Full, with the larger model landing #2 on Artificial Analysis's intelligence rankings, behind only Anthropic's Opus 5.5 and ahead of OpenAI's GPT-6 Astra and "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Microsoft Unveils Maia 300 AI Chip to Challenge Nvidia",
-        "gist": "Microsoft revealed its latest in-house AI chip, Maia 300, claiming 40% more AI output than leading GPUs at the same power draw, with plans to make it the main engine for Copilot and other products sta"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Inference Startups Become AI's Hot New Investment Category",
-        "gist": "As more businesses adopt open-weight AI models, demand is surging for \"inference\" providers — companies that specialize in actually running AI models (as opposed to training them), handling the comput"
-      },
-      {
-        "section": "Interesting",
-        "headline": "Trump Administration's Jay Clayton Given 120 Days to Draft AI Regulation Recommendations for the White House",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "FIFA Quietly Signed a $4 Million, Mostly-Empty Office Lease in Trump Tower",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Character.AI Files for Bankruptcy, Sells Assets to Disney for $20 Million After Teen Suicide Lawsuit",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "NASA's Perseverance Rover Sets Mars Driving Record at 28.1 Miles",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "CVC Tried to Keep Its €250mn Stake in an Israeli Camouflage Maker Secret From the Public",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Individual Investors Are Trading Options at 2021 Meme-Stock Mania Levels Despite Wars, Rates and $100 Oil",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-10-14",
     "items": [
       {
@@ -635,6 +540,86 @@
       {
         "section": "Interesting",
         "headline": "Egypt's Sisi Says He'll Step Down in 2030 — But Floats Plan Giving the Military More Say in Choosing His Successor",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-10-20",
+    "items": [
+      {
+        "section": "World",
+        "headline": "France Extends Curfews as Riots' Fiscal and Political Fallout Spreads",
+        "gist": "Calm returned overnight to Paris, Lyon and Lille after weekend riots that saw roughly 3,000 businesses looted, including Louis Vuitton and Hermès stores, but curfews remain in place and could be exten"
+      },
+      {
+        "section": "World",
+        "headline": "Trump Says He's Open to Meeting Putin and Xi on Denuclearization",
+        "gist": "Trump told reporters he'd consider a trilateral meeting with Putin and Xi, possibly during a November China visit, though he framed it around denuclearization rather than Ukraine — even as Putin has s"
+      },
+      {
+        "section": "World",
+        "headline": "Saudi Arabia Postpones 'Davos in the Desert' Amid Houthi Attacks",
+        "gist": "Saudi Arabia's Future Investment Initiative, due to open next week with speakers like Jamie Dimon and Larry Fink, has been pushed to 2027 after Houthi missile and drone strikes forced an airport shutd"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Investors Rush Into Credit Default Swaps on AI-Linked Debt",
+        "gist": "Trading in credit default swaps tied to bonds from Oracle, SpaceX, Alphabet, Amazon, Meta, Broadcom and Nvidia has surged, averaging more than $9bn a week in September, up from under $2bn in July, acc"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "SpaceX Reports Earnings Today Amid Tesla-Merger Speculation",
+        "gist": "SpaceX reports quarterly results today, with investors watching its ballooning AI spending — which hit $15.8bn last quarter, more than double the prior quarter — and whether Starlink, its main revenue"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Arda Industries Raises $232M to Bring AI Into Factory Engineering",
+        "gist": "Arda Industries, founded by former OpenAI chief research officer Bob McGrew and ex-Palantir colleagues, emerged from stealth with a $232 million Series A at a $1.5 billion valuation, led by Altimeter "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Cleveland-Cliffs Expects Best Profit Since 2021 as Steel Prices Climb",
+        "gist": "Steelmaker Cleveland-Cliffs swung to a profit in what it called its strongest quarter in three years, and now expects its best annual profit since 2021 as tight supply and shrinking imports push steel"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Anthropic Co-Founder Declares the 'Singularity' Has Begun",
+        "gist": "Jack Clark told economists and policymakers at the IMF and World Bank meetings in Bangkok that the singularity — the point where AI-driven progress outpaces humanity's ability to keep up — has already"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Hacker Used AI Agents to Breach Over 100 Companies for ~$50 Each",
+        "gist": "Security firm NorForge found that a Chinese-speaking hacker let AI agents handle nearly all the work of breaching more than 100 companies' websites, with Reuters identifying victims including Cummins,"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Anthropic and Nscale in Talks for Second Multibillion-Dollar Infrastructure Deal",
+        "gist": "Anthropic and British Nvidia-backed data-center firm Nscale are reportedly negotiating a second deal to match the $45bn infrastructure-services agreement they struck in August. Sealing it would boost "
+      },
+      {
+        "section": "Interesting",
+        "headline": "Elon Musk Pledges to Give Every American Kid a SpaceX Share, Worth Up to $10.7 Billion",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Japan Launches Mission to Land on Mars's Moon Phobos and Bring Back Samples",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "OpenAI Bugging Suspect Allegedly Booked One-Way Tickets to Saudi Arabia for His Family Days Before Arrest",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Freshfields Apologizes 'Unreservedly' After Leaked Email Suggested Excluding Middle Eastern Investors From AI Deal",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "4,000-Year-Old Jars Found Off Turkey May Be the World's Oldest Shipwreck",
         "gist": ""
       }
     ]
