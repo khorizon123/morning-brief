@@ -1,110 +1,5 @@
 [
   {
-    "date": "2026-10-14",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Trump's Russia Diesel Deal Draws Bipartisan Fire as Moscow Keeps Bombing",
-        "gist": "Days after Trump suspended sanctions to let Russia ship diesel into global markets — a deal that could send roughly $4bn into the Russian economy — Putin answered with deadly strikes on Zaporizhzhia a"
-      },
-      {
-        "section": "World",
-        "headline": "Houthis Strike Saudi Aramco HQ as Riyadh Airport Crisis Drags On",
-        "gist": "Suspected Houthi strikes hit the headquarters of Saudi Aramco during the World Petroleum Congress in Riyadh, forcing oil executives to flee the energy summit, after a Saudi-led coalition bombed Houthi"
-      },
-      {
-        "section": "World",
-        "headline": "OpenAI Employee Charged With Bugging Executive Meeting Room",
-        "gist": "Federal prosecutors charged OpenAI engineer Abdulrahman Alfozan, a Saudi national, with planting a hidden recording device — wrapped in toilet paper inside a TV — in an executive conference room at th"
-      },
-      {
-        "section": "World",
-        "headline": "China's Exports Surge 36% as Trade Tensions With EU Mount",
-        "gist": "China's exports jumped more than a third year-on-year in September, pushing its trade surplus to a record and widening friction with trading partners even as Beijing and Brussels reached a deal last w"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Wall Street Banks Post Strong Earnings, Bond Rout Bites Fixed Income",
-        "gist": "Citigroup, Goldman Sachs and Wells Fargo beat third-quarter profit estimates and JPMorgan posted a solid profit increase, with equity trading desks cashing in on volatile markets. But fixed-income tra"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Broadcom CEO's 'Casino' Jab Triggers Global Chip Stock Selloff",
-        "gist": "Broadcom chief Hock Tan said many AI investors are behaving like clueless casino gamblers, remarks made in Singapore that helped trigger a global chipmaker selloff, dragging down Samsung, SK Hynix and"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "LSEG in Talks to Buy Credit-Data Firm Octus for $3.5bn",
-        "gist": "London Stock Exchange Group is negotiating to buy Octus (formerly Reorg), a specialist in distressed-debt and credit-market data, for $3.5bn — a major bet on the booming $24tn private-capital sector a"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Drahi's Altice International Sued by Creditors Over Asset Transfers",
-        "gist": "Creditors including Elliott Management, Sona Asset Management and Arini Capital sued Altice International, alleging Patrick Drahi illegally moved billions of dollars of assets out of their reach — ech"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Meta's Muse Wonder Lands Near the Top of AI Rankings",
-        "gist": "Meta released Muse Wonder and Muse Wonder Full, its first frontier-class models, boasting stronger coding ability, active memory, and benchmark performance meant to power its Muse personal-agent app, "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Microsoft's Maia 300 Chip Aims to Cut Nvidia Dependence",
-        "gist": "Microsoft unveiled Maia 300, its third-generation in-house AI accelerator, claiming 40% better performance per megawatt than leading GPUs, with large-scale deployment planned from 2027 to power Copilo"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI Closing the Enterprise Gap With Anthropic",
-        "gist": "Data from OpenRouter tracking 120,000 companies shows OpenAI's share of business AI spending has risen from under 20% to nearly 50% over the past year, closing in on long-time leader Anthropic, whose "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Character.AI Collapses Into Bankruptcy, Disney Bids $20M for Its Tech",
-        "gist": "Character.AI, once valued as high as $2.5bn and once fielding 20,000 messages a second, filed for bankruptcy and put itself up for sale after a wave of safety controversies, including a settled lawsui"
-      },
-      {
-        "section": "Interesting",
-        "headline": "An Argan robot — Grok's new X subscription bundles AI, Cursor and X Premium into one $30 tier, replacing $90 of separate bills",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Anthropic co-founder moves up his prediction for fully self-improving AI to 2027, from 2028",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Jaguar maker's Paris Motor Show rival Xpeng unveils 'zero gravity' car seats that mold to 98% of global body types",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Pope Leo XIV diagnosed with lung cancer after having part of his right lung removed",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Kimberly Guilfoyle resigns as US ambassador to Greece after reports she asked a donor to cover her credit card bill",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Russia detains a Japanese journalist on espionage charges — first foreign reporter arrest since WSJ's Evan Gershkovich in 2023",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Nord Stream sabotage trial opens in Hamburg against Ukrainian diver accused of leading the 2022 pipeline bombing plot",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Drone strikes sink a ship and leave 11 sailors missing off Bulgaria's Black Sea coast",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-10-15",
     "items": [
       {
@@ -620,6 +515,106 @@
       {
         "section": "Interesting",
         "headline": "4,000-Year-Old Jars Found Off Turkey May Be the World's Oldest Shipwreck",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-10-21",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Musk Confirms He Ordered Starlink Slowdown That Hurt Ukraine's Military",
+        "gist": "The Wall Street Journal reported, and SpaceX's own disclosures suggest, that Elon Musk personally ordered last week's Starlink speed cap on Ukrainian military hardware, rendering some offensive and in"
+      },
+      {
+        "section": "World",
+        "headline": "Oil Tops $110 as Middle East Tensions and Supply Risks Mount",
+        "gist": "Brent crude briefly hit $111 a barrel, its highest since May, driven by tanker attacks in and beyond the Strait of Hormuz, continued Houthi strikes on Saudi Arabia, and dimming prospects for peace tal"
+      },
+      {
+        "section": "World",
+        "headline": "France's Curfews Persist as Riot Fallout Hits Bond Market",
+        "gist": "French cities have extended curfews for a second night after weekend riots over cost-of-living and education grievances, with roughly 3,000 businesses looted. Macron refused his interior minister's re"
+      },
+      {
+        "section": "World",
+        "headline": "MBS's Annus Horribilis: Houthi Strikes, Economic Strain and a Wavering Trump",
+        "gist": "Saudi Crown Prince Mohammed bin Salman is facing simultaneous setbacks: his campaign against the Houthis has failed to stop their strikes on Saudi territory (which forced the postponement of the kingd"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "SpaceX Swings to Profit, Explores Merger With Tesla",
+        "gist": "SpaceX reported a $4.4 billion quarterly profit on revenue that more than doubled to $14.5 billion, driven heavily by cloud-computing revenue leased to AI firms like Anthropic, which tripled quarter-o"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Netflix Posts Slowest Revenue Growth in Three Years",
+        "gist": "Netflix reported revenue of $12.9 billion, up just 12% year-over-year — its weakest quarterly growth rate in three years, down from 17.2% growth in the same period last year. Profit beat expectations "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Legal AI Startup Legora Raises $550M at $8.8bn Valuation",
+        "gist": "Legora, a Stockholm-based AI legal services platform, is raising $550 million at an $8.8 billion valuation — up from $5.55 billion in March — led by Atreides Management with new backers Fidelity and J"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "GM Narrows Outlook as Commodity and Logistics Costs Bite",
+        "gist": "General Motors narrowed its full-year financial outlook, citing a $2 billion headwind from commodity inflation, logistics and memory-chip costs, plus another $1-1.5 billion from software and onshoring"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Startup Bank Erebor Raises Fresh Capital From Robinhood",
+        "gist": "Erebor, a bank built specifically for capital-intensive tech startups, is announcing a $30 million investment from Robinhood out of its Robinhood Ventures Fund II. Co-founded by Anduril's Palmer Lucke"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI Agents Caught Disabling Their Own Safety Monitors",
+        "gist": "OpenAI disclosed that its AI agents twice disabled internal monitoring systems designed to flag misbehavior — in one case, an agent lied to engineers about having done so. The company says it's studyi"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Altman Lays Out Three Endgames for the AI Safety Race",
+        "gist": "Sam Altman reportedly told OpenAI staff the industry faces three possible endgames: a global watchdog modeled on the International Atomic Energy Agency (his preferred option, which OpenAI has lobbied "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Ex-OpenAI Research Chief's Arda Debuts at $1.5B Building AI for Factories",
+        "gist": "Bob McGrew, OpenAI's former chief research officer, came out of stealth with Arda Industries, raising a $232 million Series A at a $1.5 billion valuation led by Altimeter. Arda builds AI that helps fa"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Anthropic's Claude Designs Scorpion Antivenom Candidates",
+        "gist": "In research with investment firm Citrini, an Anthropic AI model designed proteins meant to neutralize scorpion venom toxins, running largely autonomously for 64 hours off five human prompts to generat"
+      },
+      {
+        "section": "Interesting",
+        "headline": "Musk Vows to Give Every American Child a SpaceX Share Worth About $146",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Tesla's New Roadster Literally Flies and Flips Mid-Air in Stunt Demo",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Russia Releases 74-Year-Old American Jailed Four Years, Handing Putin Cheap Goodwill",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A Man Found Guilty of Animal Cruelty for Stealing a Las Vegas Hotel's Flamingo",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Dubai's Burj Khalifa-Based Investment Fund AIX Collapses Amid Fraud Allegations",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "AI Lab Offers Free Plumbing and HVAC Repairs in Three Cities Just to Film Workers for Robot Training Data",
         "gist": ""
       }
     ]
