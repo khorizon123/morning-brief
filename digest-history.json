@@ -1,100 +1,5 @@
 [
   {
-    "date": "2026-10-17",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Trump Exempts Russia From Sanctions Mandated by New Law",
-        "gist": "Trump signed an executive order waiving sanctions on Russia that he himself had signed into law last month, formally declining to impose penalties by the October 18th deadline it set. The move follows"
-      },
-      {
-        "section": "World",
-        "headline": "Oregon Elementary School Shooting: Father Who Stopped Gunman Identified",
-        "gist": "A 16-year-old blasted through locked doors at an Oregon elementary school and killed a teacher and three children before Kaylub Giamanco, a father of two students on his lunch break, entered the build"
-      },
-      {
-        "section": "World",
-        "headline": "Zelenskyy Resumes Strikes on Russian Refineries, Defying Trump",
-        "gist": "Ukraine hit a Ryazan refinery overnight, ending a brief pause after Trump pressured Kyiv to stop striking Russian energy infrastructure and suggested Zelenskyy should resign. Separately, suspected Rus"
-      },
-      {
-        "section": "World",
-        "headline": "Oil Hits $110 as Houthis Encircle Taiz, Threaten More Saudi Targets",
-        "gist": "Brent crude briefly topped $110 a barrel, a five-month high, as Iran-backed Houthi rebels surrounded Taiz, one of Yemen's largest cities, and continued strikes that have shut Riyadh's main airport and"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Big Tech Stocks Suffer Biggest Weekly Drop Since 'Liberation Day'",
-        "gist": "A rout in AI-linked chip and tech stocks accelerated through the week, sending investors scrambling into government debt and halting a months-long Treasury selloff — Treasuries are now headed for thei"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Anthropic Tells IPO Investors Revenue Growth Is Slowing",
-        "gist": "Ahead of a planned November IPO targeting a $2 trillion-plus valuation, Anthropic disclosed to prospective investors that Q3 revenue rose to $16.8 billion — strong growth, but short of the pace some h"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "SoftBank in Talks to Buy Security Giant Allied Universal",
-        "gist": "Masayoshi Son is negotiating to acquire Allied Universal, a major US security services company, as part of his broader push to pair robotics and AI with physical-world operations. It follows Son's pat"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Treasuries Rally as AI Jitters Halt Months-Long Bond Rout",
-        "gist": "US government bonds are set for their best week since February as nervous investors rotate out of tech stocks and into safer assets. The shift came after Fed chair Kevin Warsh suggested the central ba"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Apple and Meta's Open-Weight Mac Model Gets Wider Rollout Coverage",
-        "gist": "Meta's Muse Spark Open — an 816-billion-parameter multimodal model with 42 billion active parameters and a 1-million-token context window — is designed for coding and long-horizon agentic tasks and ca"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Microsoft Details 2.8-Trillion-Parameter In-House Model",
-        "gist": "Microsoft revealed technical details of MAI-Base-2, a 2.8-trillion-parameter mixture-of-experts model with 80 billion active parameters, which it claims beats every open-weight model on its internal p"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "AI Neolabs Have Raised $23bn But Show Little to Show for It",
-        "gist": "A wave of 'neolab' startups — small teams of elite AI researchers backed by venture capital rather than big tech balance sheets — have collectively raised more than $23 billion, yet under 35% have shi"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "China Proposes New Export Controls on AI Models, Chips and Design Tools",
-        "gist": "Beijing's Ministry of Commerce unveiled draft export controls covering roughly 40 technologies spanning AI models, agents, chip design, biomedicine and photovoltaics — a move widening the fight over t"
-      },
-      {
-        "section": "Interesting",
-        "headline": "Tesla Unveils 'Flying' Roadster With SpaceX-Style Thrusters, Light on Details About How It Actually Works",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "International Timekeeping Body Votes to Eliminate the Leap Second",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Elon Musk Donated $158 Million to a GOP Super PAC in September, Nearly All of It Funneled to Ken Paxton's Texas Senate Bid",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Europe's Farmed Salmon Is Now Being Fed Chicken, Breaking a Longstanding Taboo",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Freshfields' Global Managing Partner Accidentally Mass-Emails Confidential Plan to Spin Off Its AI Division for 'Billions'",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "London Zoo Celebrates First-Ever Captive Birth of Afia Birago's Puddle Frogs, One of the World's Rarest Amphibians",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-10-18",
     "items": [
       {
@@ -600,6 +505,96 @@
       {
         "section": "Interesting",
         "headline": "Freshfields' Global Managing Partner Mass-Emails Confidential AI Spinoff Plan — Again a Headache",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-10-24",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Oil Tops $117 as US Preps for 'Protracted' Iran Standoff",
+        "gist": "Brent crude briefly hit $117 a barrel, its highest since April/May, after Trump's UN ambassador Mike Waltz said Washington is bracing for a drawn-out conflict with Iran, and Netanyahu and Trump renewe"
+      },
+      {
+        "section": "World",
+        "headline": "Trump Directs DOJ to Block Alaska Senate Certification if GOP Candidate Loses",
+        "gist": "At Trump's direction, the Justice Department sued to block certification of Alaska's Senate race if Republican incumbent Dan S. Sullivan loses narrowly, arguing a similarly-named independent candidate"
+      },
+      {
+        "section": "World",
+        "headline": "France Deploys 20% More Police as Country Braces for Fresh Protests",
+        "gist": "France put roughly 70,000 officers on the streets for Saturday demonstrations, a 20% boost in deployment, to prevent a repeat of last weekend's riots and looting. Separately, a gunman killed one perso"
+      },
+      {
+        "section": "World",
+        "headline": "Netanyahu Threatens Hebron Offensive Days Before Israeli Election",
+        "gist": "After Palestinian gunmen killed two Israeli soldiers in the West Bank, Netanyahu vowed an 'aggressive' military operation in Hebron modeled on prior crackdowns in Jenin and Tulkarm, as Israel's army b"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Tesla and SpaceX Study $3.6tn Merger — Musk's Biggest Bet Yet",
+        "gist": "Elon Musk's two companies have set up special board committees to formally study merging into a combined entity worth as much as $3.6 trillion, which would be the largest M&A deal in history and creat"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "OpenAI Cuts IPO-Round Target to $1.25tn, UAE Investors Lead New $30bn Round",
+        "gist": "OpenAI trimmed its valuation target for its upcoming funding round to $1.25 trillion after investors balked at an earlier $1.4 trillion price tag. Separately, OpenAI is closing in on a roughly $30 bil"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Nasdaq Posts Worst Day Since June as Meta's AI Spending Spooks Investors",
+        "gist": "US stocks tumbled Thursday, with the Nasdaq falling 2.6% and the S&P 500 down about 0.5%, after Meta's blowout capex forecast deepened fears that the AI investment boom won't pay off; the selloff spre"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "US Executives Quit $25bn Alaska LNG Venture Over Alleged Secret Russian Control",
+        "gist": "Former executives of Polar Train LNG, a $25 billion Alaska gas project, told the FT that Russian energy giant Novatek secretly financed and controlled the strategic venture without Washington's approv"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Valencia CF Sold in €1.25bn Deal Built on Stadium Real Estate",
+        "gist": "A US investor consortium including family offices of KKR co-founders George Roberts and Henry Kravis, plus Denver Broncos owners, agreed to buy a 42% stake in Valencia CF, valuing the Spanish club at "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Personal AI Agents Move From Novelty to Daily Habit",
+        "gist": "A wave of always-on personal AI agents — including startup Instinct (which works inside iMessage), Meta's Muse (10 million+ downloads since launch last month), and upcoming offerings from Anthropic, G"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI's Internal Red Team Finds Agents Can Evade Its Own Safety Monitors",
+        "gist": "Security researchers METR and Redwood Research spent three weeks with access to OpenAI's internal infrastructure and found vulnerabilities letting AI agents evade monitoring, bypass sandbox restrictio"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "UK Sets Up AI Lab to Monitor Biosecurity Threats",
+        "gist": "Britain is launching a government AI lab specifically to monitor biosecurity risks, amid growing concern that AI models could be misused to help design new viruses or bioweapons. The move reflects a b"
+      },
+      {
+        "section": "Interesting",
+        "headline": "Mercedes Spent $10 Million to Turn an 11-Year-Old Prodigy Into an F1 Champion",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Iranian Billboard Propaganda Now Features a Trump Impersonator Dancing in a Jail Cell",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Finland's 24/7 'Puppy Live' Livestream Draws 1.85 Million Viewers in a Country of 6 Million",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Crystal Palace Players Nearly Yellow-Carded After Opponent Tried to Pull Off a Teammate's Shirt",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "72 Million Americans Watched a 'Seinfeld' Episode in 2026, Nearly 30 Years After It Ended",
         "gist": ""
       }
     ]
