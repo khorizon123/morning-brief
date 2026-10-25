@@ -1,70 +1,5 @@
 [
   {
-    "date": "2026-10-18",
-    "items": [
-      {
-        "section": "World",
-        "headline": "France Rocked by Riots as Cost-of-Living Protests Turn Violent",
-        "gist": "Mass demonstrations over high living costs and dissatisfaction with the education system spiraled into riots and looting in several French cities over the weekend, with protesters clashing with police"
-      },
-      {
-        "section": "World",
-        "headline": "Zelenskyy Calls Starlink Throttling a 'Planned Operation'",
-        "gist": "Volodymyr Zelenskyy said restrictions slowing Starlink satellite internet speeds specifically inside Ukraine are a deliberate operation, not a technical glitch, hampering Ukraine's ability to intercep"
-      },
-      {
-        "section": "World",
-        "headline": "Trump Formally Waives Russia Sanctions Mandated by His Own Law",
-        "gist": "Trump signed an executive order exempting Russia from sanctions that a law he signed last month required by October 18th, giving Moscow a reprieve after cutting a deal to let Russian diesel flow into "
-      },
-      {
-        "section": "World",
-        "headline": "Israeli Settlers Attack European Diplomats in the West Bank",
-        "gist": "Israeli settlers attacked a group of European diplomats touring the West Bank, prompting Belgium's foreign minister to say his government will push for EU sanctions against those responsible."
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "AI Infrastructure Boom Starts to Strain Against Real-World Limits",
-        "gist": "The FT reports that America's roughly $10 trillion wave of AI infrastructure spending is beginning to collide with the unforgiving economics of the physical world — power constraints, grid bottlenecks"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "GCash Owner's $1bn Debut Headlines Southeast Asian IPO Rebound",
-        "gist": "The parent company of digital wallet GCash is set to begin trading in what will be the region's biggest IPO of the year, raising roughly $1 billion and signaling renewed momentum for Southeast Asian l"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "BoE's Bailey Warns AI Agents Pose Financial Stability Risk",
-        "gist": "Bank of England governor Andrew Bailey told the G30 group of financial leaders that regulators \"have got to address\" the risks from rapidly advancing AI agents, flagging it as a major emerging issue f"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "States Emerge as the New Antitrust Enforcers Under a Laissez-Faire DOJ",
-        "gist": "With federal antitrust agencies taking a hands-off approach under the second Trump administration, state attorneys general have stepped into the void, suing to block the Paramount Skydance-Warner Bros"
-      },
-      {
-        "section": "Interesting",
-        "headline": "India's Shadow Economy Drives a Cash Comeback as Digital Payment Fees Rise",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Elon Musk's Charitable Foundation Called 'Opaque, Miserly and Self-Serving' Despite Being America's Fifth-Largest",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "China Builds a 'Recycling Superpower' Out of Shredded EV Battery 'Black Mass'",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Lula Turns to Selfie Videos in Brazil Election Fightback After Losing First Round",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-10-19",
     "items": [
       {
@@ -595,6 +530,56 @@
       {
         "section": "Interesting",
         "headline": "72 Million Americans Watched a 'Seinfeld' Episode in 2026, Nearly 30 Years After It Ended",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-10-25",
+    "items": [
+      {
+        "section": "World",
+        "headline": "France's Protests Swell Again, Government Doubles Down on Police Presence",
+        "gist": "Hundreds of thousands marched in a second consecutive weekend of demonstrations across France, with the government deploying roughly 70,000 police officers — a 20% increase — to prevent a repeat of th"
+      },
+      {
+        "section": "World",
+        "headline": "Ukraine Says Starlink Restrictions Have Been Lifted",
+        "gist": "Ukraine's military confirmed that the Starlink speed restrictions which had hampered its drone communications and defense against Russian strikes have now been lifted. The reversal follows Trump's per"
+      },
+      {
+        "section": "World",
+        "headline": "Netanyahu Threatens Crypto Sanctions Workaround, Central Bank Says No",
+        "gist": "Israel's central bank rejected a plan floated by Prime Minister Netanyahu to use cryptocurrency to help the country evade international sanctions, with critics warning the scheme would turn Israel int"
+      },
+      {
+        "section": "World",
+        "headline": "Brazil Heads Into Knife-Edge Election Between Bolsonaro and Lula",
+        "gist": "Brazil's presidential runoff between rightwing challenger Jair Bolsonaro and incumbent leftist Luiz Inácio Lula da Silva has tightened to a toss-up, with polls narrowing in the campaign's final days. "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Luxury Sector Loses €250bn in Value as Chinese Demand Fades",
+        "gist": "European luxury groups have shed roughly €250 billion in combined market value as slowing Chinese consumption collides with cooling global equity markets. The downturn caps a rough stretch for an indu"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Mercuria Sues Baltic Exchange Over Hormuz Shipping Price Benchmarks",
+        "gist": "Commodities trader Mercuria is taking legal action against the Baltic Exchange, the influential benchmark-setter sometimes called the 'Dow Jones of shipping,' after suffering losses tied to the firm's"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "SAP's CTO Makes the Case Enterprise Software Isn't Dead, Just Changing",
+        "gist": "As AI coding tools let anyone spin up an app in minutes, SAP CTO Philipp Herzig argues the real challenge was never building software but running it reliably at enterprise scale — enforcing permission"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Workers and CEOs Are Living in Different AI Realities, Surveys Find",
+        "gist": "A Milken Institute-Harris Poll found more than two-thirds of business leaders expect to be financially better off in five years thanks to AI, versus just 27% of the broader US workforce — a 41-point g"
+      },
+      {
+        "section": "Interesting",
+        "headline": "SoftBank-Backed Chinese Startup XAG Wants Every Farmer to Have Their Own Crop-Spraying Drone",
         "gist": ""
       }
     ]
