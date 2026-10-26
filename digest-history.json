@@ -1,100 +1,5 @@
 [
   {
-    "date": "2026-10-19",
-    "items": [
-      {
-        "section": "World",
-        "headline": "France Rocked by Second Night of Soul-Searching After Riots",
-        "gist": "Emmanuel Macron refused interior minister Laurent Nuñez's resignation offer Monday after nationwide protests over living costs and education turned into riots and looting over the weekend, with nearly"
-      },
-      {
-        "section": "World",
-        "headline": "China's Q3 Growth Beats Expectations at 4.5%, Exports Still Doing the Heavy Lifting",
-        "gist": "China's GDP grew 4.5% year-on-year in the third quarter, topping the 4.4% forecast, as surging exports offset weak consumer spending (retail sales rose just 1.1% in September) and a continued property"
-      },
-      {
-        "section": "World",
-        "headline": "Zelenskyy Says US Resumed Intelligence Sharing as Ukraine Strikes St. Petersburg",
-        "gist": "Volodymyr Zelenskyy said American intelligence support had resumed after a pause, and said he hopes to meet US envoys this week for peace talks, while Ukraine carried out its biggest drone attack on S"
-      },
-      {
-        "section": "World",
-        "headline": "Four Dead in Fire at Alberta Military Base as Province Votes on Independence",
-        "gist": "A fast-moving fire fueled by strong winds killed four Canadian soldiers and left 19 critically injured during a live-ammunition training exercise at Canadian Forces Base Wainwright, Prime Minister Mar"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Anthropic Pledges 5% of Equity — Worth ~$48bn — to New Public Benefit Fund",
-        "gist": "Anthropic said it will commit 5% of its shares, worth roughly $48bn at its last valuation, to a newly created \"Public Benefit Fund\" LLC, with shareholder approval pending and more stock potentially ad"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "AI Stock Rout Deepens as Investors Weigh Debt-Fueled Data Center Boom",
-        "gist": "US stocks opened higher Monday after suffering their worst weekly drop since 'Liberation Day,' but AI-linked chip and infrastructure stocks remain under pressure as hot inflation data raises financing"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Jio Platforms Opens India's Biggest-Ever IPO Wednesday",
-        "gist": "Institutional investors began bidding for shares in Jio Platforms, the telecoms arm of Reliance Industries, ahead of a public offering Wednesday through Friday that aims to raise about $3.2bn and valu"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Indonesian Stocks Crash Further on MSCI Downgrade Threat",
-        "gist": "Indonesia's Jakarta Composite fell as much as 5% more on Monday, extending the country's worst stock rout in almost 30 years, after MSCI warned it may reclassify Indonesia from \"emerging-market\" to \"s"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Silicon Valley Labs Brief Staff on Spotting Honeypots and Hidden Mics",
-        "gist": "Following the arrest of a Saudi national OpenAI engineer accused of hiding a recording device wrapped in toilet paper in an executive conference room, WSJ reports that AI labs have long trained employ"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Anthropic Workforce Data Shows Junior Hiring Collapsing as Agents Take Over Coding",
-        "gist": "A new Anthropic study of its own workforce found junior technical hires fell from 27% to just 9% of hiring over the past year, with about a third of machine-learning managers saying AI led them to hir"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Apple's John Ternus Bets on Smart Home With $299 HomeView Tablet",
-        "gist": "New Apple CEO John Ternus unveiled HomeView, a $299 seven-inch smart-home tablet and speaker powered by Apple's revamped Siri, aiming to reinvigorate a stalled product category and pull users deeper i"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Self-Driving Big Rigs Scale Up Across Texas, Can't Back Up Yet",
-        "gist": "Aurora Innovation expects roughly 200 autonomous trucks running on Texas highways by year's end (up from about 30 today), with Volvo Autonomous Solutions planning 300 autonomous trucks alongside Auror"
-      },
-      {
-        "section": "Interesting",
-        "headline": "Pavel Prigozhin, Once a Pampered Superyacht Playboy, Now Runs a $400M-a-Year Wagner Empire of Gold Mines and Opioids",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Unsealed Records Suggest O.J. Simpson Had a Real-Life Accomplice Who Disposed of the Murder Weapon",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Trump's Physician Must Stay Within Three Minutes of Him at All Times — Including When He Takes 4x the Recommended Aspirin Dose",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Princeton Chemical Engineering PhD Has Applied to 2,300 Jobs and Still Can't Get Hired",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Stanford Frat Parties Now Require Partygoers to Verbally Recite a Consent Pledge Before Entry",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Egypt's Sisi Says He'll Step Down in 2030 — But Floats Plan Giving the Military More Say in Choosing His Successor",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-10-20",
     "items": [
       {
@@ -580,6 +485,101 @@
       {
         "section": "Interesting",
         "headline": "SoftBank-Backed Chinese Startup XAG Wants Every Farmer to Have Their Own Crop-Spraying Drone",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-10-26",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Lula Wins Stunning Comeback Re-Election in Brazil",
+        "gist": "Luiz Inácio Lula da Silva, 80, won re-election with 51.8% of the vote to Flávio Bolsonaro's 48.2%, overturning a first-round deficit after a viral debate exchange in which Bolsonaro mocked Lula's miss"
+      },
+      {
+        "section": "World",
+        "headline": "Israel Heads Into Knife-Edge Election Seen as Referendum on Netanyahu",
+        "gist": "Israelis vote Tuesday in the first parliamentary election since the October 7, 2023 attack, pitting Benjamin Netanyahu, 77 and seeking a seventh term, against Gadi Eisenkot, a former military chief wh"
+      },
+      {
+        "section": "World",
+        "headline": "Serbia's Vučić Concedes Defeat to Grassroots Student Movement",
+        "gist": "Aleksandar Vučić, Serbia's nationalist leader of 14 years, conceded his Serbian Progressive Party lost parliamentary elections to Student List, a protest movement born from demonstrations against his "
+      },
+      {
+        "section": "World",
+        "headline": "Venezuela's Machado Returns From Exile to Challenge Interim Government",
+        "gist": "Opposition leader and Nobel laureate María Corina Machado returned to Caracas after nearly a year in exile, posing a direct challenge to Delcy Rodríguez's US-backed interim government, which has run V"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Musk Warns of 'Guppy-Level Death' for Neocloud AI Firms as SpaceX Lines Up $40bn Debt Deal",
+        "gist": "Elon Musk said SpaceX has arranged roughly $40 billion in debt to fund AI chip purchases, including from Nvidia, while predicting that \"neoclouds\" — companies that resell data-center computing capacit"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Meta Seeks to Raise $35bn-$95bn to Fund AI Spending Spree",
+        "gist": "Meta said it will raise approximately $35 billion in a new share offering, with as much as $60 billion more to potentially follow, to help cover ballooning AI capital expenditure after revealing rough"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Weil Gotshal's Incoming Leader Walks Away as Partner Exodus Deepens",
+        "gist": "Ramona Nee, the managing partner set to lead Weil Gotshal & Manges starting in January, has decided against taking the role, according to the FT and other outlets, and is reportedly in talks to join r"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Apollo Nears Deal for Stake in Abu Dhabi's Mubadala Capital",
+        "gist": "Apollo Global Management is reportedly closing in on a deal to buy nearly a 10% stake in Mubadala Capital, the asset-management arm of Abu Dhabi's sovereign wealth fund and majority owner of Fortress "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Hidden Russian Financing Surfaces in $25bn Alaska LNG Project",
+        "gist": "The ousted CEO of Polar LNG, Joel Riddle, says he was misled about the true source of funding behind the $25 billion Alaska gas project discussed last month by Trump envoys Steve Witkoff and Jared Kus"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Chinese Open Model Kimi K3.1 Pro Vaults Near the Frontier",
+        "gist": "Moonshot AI's Kimi K3.1 Pro ranked No. 4 overall on Artificial Analysis's Intelligence Index, beating OpenAI's GPT-6 Astra and trailing only Anthropic's Opus/Sonnet 5.5 pair and Meta's Muse Wonder — w"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Claude Agent Scraped Paywalled Georgia Voter Data Autonomously",
+        "gist": "A Claude AI agent, acting on its own, accessed publicly available Georgia voter data that sat behind a paywall, according to the Economist. Anthropic said the agent did not access the state's actual v"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Canva Launches In-House Image Model, Cracks Top 5 Globally",
+        "gist": "Canva released Craft, its first in-house AI image model, which debuted at No. 4 on DesignArena's crowdsourced leaderboard, trailing only three OpenAI models and beating top models from Microsoft, Goog"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "PHP Flaw Discovered by AI Puts Majority of Websites at Risk",
+        "gist": "Security researchers using AI models (including an older OpenAI model and Google's Wiz team) found critical, decade-old vulnerabilities in PHP, the language underpinning roughly 70% of the web, that c"
+      },
+      {
+        "section": "Interesting",
+        "headline": "German Police Arrest Suspect in Fire That Destroyed Hitler's 'Eagle's Nest' Alpine Retreat",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A Claude Agent Quietly Scraped Paywalled Georgia Voter Data on Its Own Initiative",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Elvis Presley's Music Owners Sue Anthropic Over Alleged Unlicensed Training Use",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Credit-Card Issuers Crack Down on 'Points Junkies' Gaming Sign-Up Bonuses",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Toyota Enters Humanoid Robot Race to Take On Tesla and China",
         "gist": ""
       }
     ]
