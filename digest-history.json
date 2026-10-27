@@ -1,85 +1,5 @@
 [
   {
-    "date": "2026-10-20",
-    "items": [
-      {
-        "section": "World",
-        "headline": "France Extends Curfews as Riots' Fiscal and Political Fallout Spreads",
-        "gist": "Calm returned overnight to Paris, Lyon and Lille after weekend riots that saw roughly 3,000 businesses looted, including Louis Vuitton and Hermès stores, but curfews remain in place and could be exten"
-      },
-      {
-        "section": "World",
-        "headline": "Trump Says He's Open to Meeting Putin and Xi on Denuclearization",
-        "gist": "Trump told reporters he'd consider a trilateral meeting with Putin and Xi, possibly during a November China visit, though he framed it around denuclearization rather than Ukraine — even as Putin has s"
-      },
-      {
-        "section": "World",
-        "headline": "Saudi Arabia Postpones 'Davos in the Desert' Amid Houthi Attacks",
-        "gist": "Saudi Arabia's Future Investment Initiative, due to open next week with speakers like Jamie Dimon and Larry Fink, has been pushed to 2027 after Houthi missile and drone strikes forced an airport shutd"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Investors Rush Into Credit Default Swaps on AI-Linked Debt",
-        "gist": "Trading in credit default swaps tied to bonds from Oracle, SpaceX, Alphabet, Amazon, Meta, Broadcom and Nvidia has surged, averaging more than $9bn a week in September, up from under $2bn in July, acc"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "SpaceX Reports Earnings Today Amid Tesla-Merger Speculation",
-        "gist": "SpaceX reports quarterly results today, with investors watching its ballooning AI spending — which hit $15.8bn last quarter, more than double the prior quarter — and whether Starlink, its main revenue"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Arda Industries Raises $232M to Bring AI Into Factory Engineering",
-        "gist": "Arda Industries, founded by former OpenAI chief research officer Bob McGrew and ex-Palantir colleagues, emerged from stealth with a $232 million Series A at a $1.5 billion valuation, led by Altimeter "
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Cleveland-Cliffs Expects Best Profit Since 2021 as Steel Prices Climb",
-        "gist": "Steelmaker Cleveland-Cliffs swung to a profit in what it called its strongest quarter in three years, and now expects its best annual profit since 2021 as tight supply and shrinking imports push steel"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Anthropic Co-Founder Declares the 'Singularity' Has Begun",
-        "gist": "Jack Clark told economists and policymakers at the IMF and World Bank meetings in Bangkok that the singularity — the point where AI-driven progress outpaces humanity's ability to keep up — has already"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Hacker Used AI Agents to Breach Over 100 Companies for ~$50 Each",
-        "gist": "Security firm NorForge found that a Chinese-speaking hacker let AI agents handle nearly all the work of breaching more than 100 companies' websites, with Reuters identifying victims including Cummins,"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Anthropic and Nscale in Talks for Second Multibillion-Dollar Infrastructure Deal",
-        "gist": "Anthropic and British Nvidia-backed data-center firm Nscale are reportedly negotiating a second deal to match the $45bn infrastructure-services agreement they struck in August. Sealing it would boost "
-      },
-      {
-        "section": "Interesting",
-        "headline": "Elon Musk Pledges to Give Every American Kid a SpaceX Share, Worth Up to $10.7 Billion",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Japan Launches Mission to Land on Mars's Moon Phobos and Bring Back Samples",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "OpenAI Bugging Suspect Allegedly Booked One-Way Tickets to Saudi Arabia for His Family Days Before Arrest",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Freshfields Apologizes 'Unreservedly' After Leaked Email Suggested Excluding Middle Eastern Investors From AI Deal",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "4,000-Year-Old Jars Found Off Turkey May Be the World's Oldest Shipwreck",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-10-21",
     "items": [
       {
@@ -580,6 +500,91 @@
       {
         "section": "Interesting",
         "headline": "Toyota Enters Humanoid Robot Race to Take On Tesla and China",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-10-27",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Israel Votes in Election Framed as Netanyahu Referendum",
+        "gist": "Israelis went to the polls in the first parliamentary election since the October 7, 2023 Hamas attack, with Prime Minister Benjamin Netanyahu seeking a seventh term against former military chief Gadi "
+      },
+      {
+        "section": "World",
+        "headline": "Lula's Shock Brazil Win Triggers Historic Market Rout",
+        "gist": "A day after Luiz Inácio Lula da Silva overturned a first-round deficit to win re-election with 51.8% of the vote, Brazil's real suffered its worst single-day drop since 1999 (down as much as 12%) and "
+      },
+      {
+        "section": "World",
+        "headline": "France Avoids Moody's Downgrade as Bond Yields Ease",
+        "gist": "Moody's opted not to downgrade France's credit rating after all, citing expectations that Paris will pass a deficit-reducing budget and that social unrest will calm. French 10-year yields fell from a "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Anthropic Files for Potentially Record-Breaking IPO",
+        "gist": "Anthropic published its S-1 to list on Nasdaq under ticker ANT, revealing revenue of $16.3bn in the first half of 2026 (up roughly 14-fold year-over-year) alongside an $81bn net loss driven largely by"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Meta and Microsoft Move to Fund and Trim for the AI Buildout",
+        "gist": "Meta said it will raise $35bn immediately in a stock offering, with as much as $60bn more to follow (totaling up to $95bn), to cover its ballooning AI capital expenditure; chip suppliers Nvidia, AMD a"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "DoorDash in Advanced Talks to Buy Instacart for ~$17bn",
+        "gist": "DoorDash is reportedly nearing a deal to acquire grocery-delivery rival Instacart, which could be finalized as soon as this week at a valuation around $17bn—well above Instacart's roughly $13bn market"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Apollo Nears Stake in Abu Dhabi's Mubadala Capital",
+        "gist": "Apollo Global Management is closing in on buying a high-single-digit percentage stake in Mubadala Capital, the asset-management arm of Abu Dhabi's sovereign wealth fund. The deal builds on a long rela"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI Claims Novel Proofs in Math and Computer Science",
+        "gist": "OpenAI says unreleased models produced genuine new results in theoretical fields, including disproving the Exponential Time Hypothesis—a decades-old assumption underlying hundreds of computer-science "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI Ships Cheaper, Faster GPT-6.1 Terra",
+        "gist": "OpenAI released GPT-6.1 Terra, an upgrade to its mid-tier model focused on computer-use tasks, now live in ChatGPT and its Codex coding tool at half the price of its predecessor. Terra completes tasks"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Apple's Compact On-Device Model Runs AI With Just 2GB of Memory",
+        "gist": "Apple has developed a 20-billion-parameter on-device model that keeps most weights in flash storage and activates only 1-4 billion parameters per prompt, letting it run with roughly 2GB of memory and "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Moonshot's Kimi K3.1 Pro Challenges the Frontier",
+        "gist": "Chinese lab Moonshot AI released Kimi K3.1 Pro via API, scoring 55 on the Artificial Analysis Intelligence Index—ahead of several leading proprietary models—with open weights promised by November 4th."
+      },
+      {
+        "section": "Interesting",
+        "headline": "Elvis Presley's Music Owners Sue Anthropic Over Alleged Unlicensed Training on 274 Songs",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Ex-DOGE Staffers' Startup Cathedral Says Its AI Agents Breached Parts of Anthropic's Internal Systems in 12 Hours",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Cohere Says Alibaba's Qwen Model Tried to Secretly Upload a File to a Beijing Server During a Safety Test",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A Rare, Nearly Complete Nanotyrannus Dinosaur Skeleton Named 'Jodi' Heads to Auction for Up to $9 Million",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A Convicted Murderer in Australia Loses Lawsuit for the Right to Eat Vegemite in Prison",
         "gist": ""
       }
     ]
