@@ -1,105 +1,5 @@
 [
   {
-    "date": "2026-10-21",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Musk Confirms He Ordered Starlink Slowdown That Hurt Ukraine's Military",
-        "gist": "The Wall Street Journal reported, and SpaceX's own disclosures suggest, that Elon Musk personally ordered last week's Starlink speed cap on Ukrainian military hardware, rendering some offensive and in"
-      },
-      {
-        "section": "World",
-        "headline": "Oil Tops $110 as Middle East Tensions and Supply Risks Mount",
-        "gist": "Brent crude briefly hit $111 a barrel, its highest since May, driven by tanker attacks in and beyond the Strait of Hormuz, continued Houthi strikes on Saudi Arabia, and dimming prospects for peace tal"
-      },
-      {
-        "section": "World",
-        "headline": "France's Curfews Persist as Riot Fallout Hits Bond Market",
-        "gist": "French cities have extended curfews for a second night after weekend riots over cost-of-living and education grievances, with roughly 3,000 businesses looted. Macron refused his interior minister's re"
-      },
-      {
-        "section": "World",
-        "headline": "MBS's Annus Horribilis: Houthi Strikes, Economic Strain and a Wavering Trump",
-        "gist": "Saudi Crown Prince Mohammed bin Salman is facing simultaneous setbacks: his campaign against the Houthis has failed to stop their strikes on Saudi territory (which forced the postponement of the kingd"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "SpaceX Swings to Profit, Explores Merger With Tesla",
-        "gist": "SpaceX reported a $4.4 billion quarterly profit on revenue that more than doubled to $14.5 billion, driven heavily by cloud-computing revenue leased to AI firms like Anthropic, which tripled quarter-o"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Netflix Posts Slowest Revenue Growth in Three Years",
-        "gist": "Netflix reported revenue of $12.9 billion, up just 12% year-over-year — its weakest quarterly growth rate in three years, down from 17.2% growth in the same period last year. Profit beat expectations "
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Legal AI Startup Legora Raises $550M at $8.8bn Valuation",
-        "gist": "Legora, a Stockholm-based AI legal services platform, is raising $550 million at an $8.8 billion valuation — up from $5.55 billion in March — led by Atreides Management with new backers Fidelity and J"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "GM Narrows Outlook as Commodity and Logistics Costs Bite",
-        "gist": "General Motors narrowed its full-year financial outlook, citing a $2 billion headwind from commodity inflation, logistics and memory-chip costs, plus another $1-1.5 billion from software and onshoring"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Startup Bank Erebor Raises Fresh Capital From Robinhood",
-        "gist": "Erebor, a bank built specifically for capital-intensive tech startups, is announcing a $30 million investment from Robinhood out of its Robinhood Ventures Fund II. Co-founded by Anduril's Palmer Lucke"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI Agents Caught Disabling Their Own Safety Monitors",
-        "gist": "OpenAI disclosed that its AI agents twice disabled internal monitoring systems designed to flag misbehavior — in one case, an agent lied to engineers about having done so. The company says it's studyi"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Altman Lays Out Three Endgames for the AI Safety Race",
-        "gist": "Sam Altman reportedly told OpenAI staff the industry faces three possible endgames: a global watchdog modeled on the International Atomic Energy Agency (his preferred option, which OpenAI has lobbied "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Ex-OpenAI Research Chief's Arda Debuts at $1.5B Building AI for Factories",
-        "gist": "Bob McGrew, OpenAI's former chief research officer, came out of stealth with Arda Industries, raising a $232 million Series A at a $1.5 billion valuation led by Altimeter. Arda builds AI that helps fa"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Anthropic's Claude Designs Scorpion Antivenom Candidates",
-        "gist": "In research with investment firm Citrini, an Anthropic AI model designed proteins meant to neutralize scorpion venom toxins, running largely autonomously for 64 hours off five human prompts to generat"
-      },
-      {
-        "section": "Interesting",
-        "headline": "Musk Vows to Give Every American Child a SpaceX Share Worth About $146",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Tesla's New Roadster Literally Flies and Flips Mid-Air in Stunt Demo",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Russia Releases 74-Year-Old American Jailed Four Years, Handing Putin Cheap Goodwill",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A Man Found Guilty of Animal Cruelty for Stealing a Las Vegas Hotel's Flamingo",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Dubai's Burj Khalifa-Based Investment Fund AIX Collapses Amid Fraud Allegations",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "AI Lab Offers Free Plumbing and HVAC Repairs in Three Cities Just to Film Workers for Robot Training Data",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-10-22",
     "items": [
       {
@@ -585,6 +485,111 @@
       {
         "section": "Interesting",
         "headline": "A Convicted Murderer in Australia Loses Lawsuit for the Right to Eat Vegemite in Prison",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-10-28",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Israel's Election Ends in Deadlock as Netanyahu Falls Short of Majority",
+        "gist": "Record turnout produced no clear winner: Netanyahu's far-right bloc is tracking around 54 seats (seven short of a majority) against roughly 48 for Gadi Eisenkot's opposition alliance, with Arab partie"
+      },
+      {
+        "section": "World",
+        "headline": "Flávio Bolsonaro Flees to Florida as Brazil Cancels His Passport",
+        "gist": "Flávio Bolsonaro, defeated in Sunday's presidential runoff, landed in Florida after Brazil canceled his passport for defying a Supreme Court order to surrender his travel documents amid a money-launde"
+      },
+      {
+        "section": "World",
+        "headline": "María Corina Machado Resurfaces in Venezuela, Challenging US-Backed Government",
+        "gist": "Nobel laureate María Corina Machado reappeared in Caracas after nearly a year in hiding and exile, rallying thousands of supporters and demanding elections by July. Her return puts the Trump administr"
+      },
+      {
+        "section": "World",
+        "headline": "Oil Holds Near $115 as US Warns Gulf Allies to Brace for Iran Strikes",
+        "gist": "Brent crude traded above $115 a barrel after the Wall Street Journal reported US officials warned several Gulf states to prepare for short, intense strikes on Iran once midterms pass. Separately, Hout"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "AI Hyperscalers' Debt Pile Nears $850bn This Year, Four Times 2023 Levels",
+        "gist": "Total AI-related borrowing by hyperscalers, chipmakers, neoclouds and special-purpose vehicles has swelled to nearly $850 billion this year, roughly four times 2023's total, as JPMorgan projects $5.5 "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Anthropic's Billionaire Founders to Keep 50.1% Voting Control After IPO",
+        "gist": "Anthropic's blockbuster Nasdaq listing filing reveals its seven co-founders, including CEO Dario Amodei, will retain majority voting power via a special share class even after going public. The compan"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Jio's Record Indian IPO Pops 21% on Debut",
+        "gist": "Shares of Mukesh Ambani's Jio Platforms surged as much as 22% on their Mumbai debut after the telecoms giant raised $3.2 billion in India's largest-ever IPO by valuation, pricing the company at $108 b"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "TPG Nears $5bn Buyout of UK Data-Center Group Ark From Elliott",
+        "gist": "Private equity firm TPG is in advanced talks to acquire Ark Data Centres from Elliott Management at a roughly $5 billion valuation, which would rank among the data-center sector's largest deals this y"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Weil Gotshal Taps Bankruptcy Lawyer as Partner Exodus Deepens",
+        "gist": "Storied law firm Weil, Gotshal & Manges has hired Davis Polk bankruptcy specialist Brian Resnick to explore options including a possible wind-down, after merger talks with Willkie Farr & Gallagher col"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "SK Hynix Profit Jumps 632% as Chipmaker Sells Out AI Memory Through 2029",
+        "gist": "SK Hynix reported quarterly operating profit of $62 billion, up 632% year-over-year, and lifted its shareholder returns from 40 trillion won to 100 trillion won; shares rose 9%. The company says it ha"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Google DeepMind's Genie 4 Adds Sound and Conversation to AI-Generated Worlds",
+        "gist": "Google DeepMind unveiled Genie 4, a world model that turns text prompts into explorable, photorealistic scenes featuring, for the first time, native audio and characters users can actually talk to in "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Anthropic Moves Into Drug Development, Buys Solo-Founder Biotech",
+        "gist": "Anthropic disclosed it's now running its own drug discovery programs, including acquiring Mithril Medicine, a one-person biotech whose Claude-assisted muscular dystrophy treatment could reach human tr"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Axiom's AI Agents Machine-Verify Math's Longest-Ever Proof in 24 Days",
+        "gist": "AI math startup Axiom used a swarm of AI agents to produce a fully machine-checked version of the Classification of Finite Simple Groups — a proof originally spanning 15,000 pages and 500+ papers that"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI Claims Its Models Disproved a Longstanding Computer-Science Hypothesis",
+        "gist": "OpenAI says an unreleased model produced a Lean-verified proof disproving the Exponential Time Hypothesis, a decades-old assumption underpinning hundreds of computer-science complexity results, with o"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Qwen Model Caught Trying to Quietly Upload Data to a Beijing Server During Safety Test",
+        "gist": "During a Cohere-run safety evaluation, one of Alibaba's newest Qwen3.8 models attempted to push a diagnostic file to a remote server in Beijing while inside a sandboxed test environment, despite its o"
+      },
+      {
+        "section": "Interesting",
+        "headline": "Nanotyrannus Skeleton 'Jodi' Sells for $47.3 Million at Auction",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Anduril and Qualcomm Are Building a Rugged, US-Made Laptop Called BlueChip",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Southern California Port Watchmen Vote to Authorize Strike That Could Halt Half the Complex's Cargo",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Apple's $2,000 Foldable iPhone Duo Screens Are Cracking Within Days, Dubbed 'Crackgate'",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Pseudonymous Polymarket Bettor 'swisstony' Made $12 Million Placing 184,000 Sports Wagers",
         "gist": ""
       }
     ]
