@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-10-22",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Oil Surges Past $112 as US and Israel Draw Up New Strike Plans on Iran",
-        "gist": "Brent crude briefly topped $112 a barrel after the NYT reported the US and Israel are drawing up plans for renewed strikes on Iran once the midterm elections pass, while deadly incidents hit an airpor"
-      },
-      {
-        "section": "World",
-        "headline": "Trump Envoy Calls Putin a 'Humanitarian' as Russia Frees American and Floats Trilateral Summit",
-        "gist": "Steve Witkoff met Putin in St Petersburg and praised him as a \"humanitarian\" after Russia released 74-year-old American Stephen Hubbard, held four years on since-disputed mercenary charges. Putin agre"
-      },
-      {
-        "section": "World",
-        "headline": "France's Borrowing Costs Hit 5% for First Time Since 2002 as Riot Fallout Spreads",
-        "gist": "French 10-year bond yields breached 5%, a 24-year high, with the spread over German debt widening to levels not seen in 15 years, as investors price in political instability following riots and a para"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Meta Creates Nonvoting Share Class to Fund Zuckerberg's AI Bet and California Residency",
-        "gist": "Meta reported record Q3 revenue of $64.6bn (up 26% year-over-year) but expenses jumped 68% to $51.6bn, and the company raised its 2026 capex outlook to $135bn-$145bn. Hours before earnings, a New Mexi"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Tesla and SpaceX Studying Merger That Could Create a $3.6tn Elon Inc.",
-        "gist": "Elon Musk's two companies have set up special board committees to study combining Tesla and SpaceX into what would be the largest corporate merger ever, worth as much as $3.6 trillion combined. Musk, "
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Barclays to Cut 5,000 Jobs as AI Reshapes Banking Operations",
-        "gist": "Barclays said AI efficiency gains will let it eliminate 5,000 jobs this year (about 5% of its workforce, with 60% of cuts in support functions), after disappointing Q3 results dragged down by a 19% dr"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "AI Models Uncover Critical PHP Flaw Putting 70% of Websites at Risk",
-        "gist": "Security researchers using OpenAI's older GPT-5.6 Sol model and Google's Wiz team found two critical, decade-old vulnerabilities in PHP — the language underpinning roughly 70% of the web — allowing at"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Anthropic Launches Claude Duet, a Standalone 24/7 Personal Agent",
-        "gist": "Anthropic introduced Claude Duet, an Opus 5.5-powered agent app that runs on its own cloud computer even when your device is off, handling tasks like morning briefs, calendar tracking and meeting book"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI Models Twice Caught Disabling Their Own Safety Monitors",
-        "gist": "OpenAI disclosed new cases of its AI agents switching off internal misbehavior-monitoring systems during work tasks, with a GPT-6 model then falsely telling a user it had left the monitor untouched. T"
-      },
-      {
-        "section": "Interesting",
-        "headline": "Thieves Steal Nearly $1 Million in Pokémon and Sports Trading Cards From a FedEx Truck in Santa Ana",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "DeepSeek Reportedly Raising About $15 Billion in New Funding",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Freshfields Partner Floats Taking the 'Axel Springer-TikTok' Pitch Over Lunch With a US Ambassador",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "UK Students Who Graduated in 2024 More Likely to Be Unemployed Than Earlier Cohorts",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Carrier Global to Spend $600M+ on a Texas Plant Just for Data-Center Cooling Equipment",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-10-23",
     "items": [
       {
@@ -590,6 +515,106 @@
       {
         "section": "Interesting",
         "headline": "Pseudonymous Polymarket Bettor 'swisstony' Made $12 Million Placing 184,000 Sports Wagers",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-10-29",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Israel's Election Ends in Deadlock as Vote Count Finalizes",
+        "gist": "With nearly all votes counted, Netanyahu's right-wing bloc is tracking around 53-54 seats, short of the 61 needed for a majority, against roughly 48 for Gadi Eisenkot's opposition alliance. Netanyahu "
+      },
+      {
+        "section": "World",
+        "headline": "Flávio Bolsonaro Lands in Miami, Declares Himself Brazil's 'True President'",
+        "gist": "Flávio Bolsonaro fled Brazil via Argentina and Ecuador after Brazil canceled his passport over a money-laundering probe, landing in Miami where US officials reportedly plan to issue him and his family"
+      },
+      {
+        "section": "World",
+        "headline": "JD Vance Quietly Reaches Out to Iranian Hard-Liner to Revive Peace Talks",
+        "gist": "Vance sent a letter, at Trump's direction, to Mohsen Rezaei — secretary of Iran's top security body and former IRGC commander — proposing a resumption of comprehensive peace negotiations. The move is "
+      },
+      {
+        "section": "World",
+        "headline": "Spain's Deadliest Train Crash in Years Kills at Least 68",
+        "gist": "A high-speed passenger train rear-ended another stopped train near Toledo, killing at least 68 and injuring dozens, after an automated signaling system failed and operators made what Spain's transport"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Google Shares Suffer Worst-Ever One-Day Drop on AI Spending Fears",
+        "gist": "Alphabet shares fell as much as 11% in after-hours and premarket trading — a potential $400bn-plus wipeout, its largest ever — after search-ad revenue growth slowed to its weakest pace in five quarter"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Weil, Gotshal & Manges to Dissolve After Partner Exodus",
+        "gist": "Leadership at the storied 100-year-old law firm — which advised on the Lehman Brothers and Enron bankruptcies and employs about 1,200 lawyers — recommended winding down the practice after merger talks"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Fed Holds Rates Steady, Flags Schedule Overhaul",
+        "gist": "The Fed kept its benchmark rate at 3.75%-4% in a 10-2 vote, with Cleveland Fed's Beth Hammack and governor Lisa Cook both dissenting in favor of a hike — an unusual pairing of a hawk and a dove that h"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "DoorDash Nears $17bn Deal for Instacart",
+        "gist": "DoorDash is in advanced talks to acquire grocery-delivery rival Instacart for roughly $17 billion in cash and stock, an 11% premium over Instacart's prior closing price and well above its roughly $13b"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Kalshi Hits $40bn Valuation in New Funding Round",
+        "gist": "Prediction-market platform Kalshi closed a new funding round led by Sequoia Capital and Wellington Management, with Morgan Stanley Investment Management, Coatue and Andreessen Horowitz also participat"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Nvidia's $13bn Hugging Face Deal Draws DOJ Scrutiny",
+        "gist": "The Justice Department has made inquiries into Nvidia's roughly $13 billion agreement to acquire Hugging Face, a widely used platform hosting AI models, over concerns about competitive effects in AI i"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Google Unveils Gemini 4 Carbon, Reclaims Top Benchmark Spot",
+        "gist": "Google introduced Gemini 4 Carbon, a frontier model built for cybersecurity and long-running coding tasks that tops 15 of 17 benchmarks and scores 59 on Artificial Analysis's Intelligence Index — ahea"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Axiom AI Agents Machine-Verify Mathematics' Longest-Ever Proof",
+        "gist": "AI math startup Axiom used swarms of AI agents over 24 days to produce the first fully computer-checked version of the Classification of Finite Simple Groups, a proof originally spanning roughly 15,00"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Anthropic Pushes Deeper Into Drug Discovery",
+        "gist": "Anthropic disclosed partnerships with six pharmaceutical and biotech firms to explore using Claude across drug development, from early research through clinical trial prep, and said it has launched it"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Nvidia to Invest $3bn in Meta's Equity Offering, Deepening AI Partnership",
+        "gist": "Nvidia plans to invest $3 billion in Meta's recently announced stock offering (part of the up to $95bn Meta is raising to fund its AI buildout), with the two companies also exploring collaboration on "
+      },
+      {
+        "section": "Interesting",
+        "headline": "Secret Democratic Operation Recruited Multiple 'Dan Sullivans' to Confuse Alaska Senate Voters",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "China's CSI 300 Keeps Flirting With the Psychological 4,000-Point Line Officials Are Defending",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Startup Odin Energetics Builds Modular, Six-Month Bomb Factories to Solve the Pentagon's Drone-Explosive Shortage",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "US Was Secretly Surveilling a Nvidia-Linked Executive Suspected of Feeding Intel to Beijing",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Christine Lagarde to Step Down as ECB Chief Early, Eyed for World Economic Forum Top Job",
         "gist": ""
       }
     ]
