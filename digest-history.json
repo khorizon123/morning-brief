@@ -1,100 +1,5 @@
 [
   {
-    "date": "2026-10-23",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Oil Tops $114 as US Preps for Protracted Conflict With Iran",
-        "gist": "Brent crude climbed near $115 a barrel, heading for a third straight weekly gain, as Trump's UN ambassador said Washington is bracing for a drawn-out conflict with Iran even as the White House hopes b"
-      },
-      {
-        "section": "World",
-        "headline": "Trump Called Musk to Restore Ukraine's Starlink Access",
-        "gist": "Trump personally called Elon Musk to ask him to lift speed restrictions on Ukraine's military-grade Starshield network, after Zelensky warned the throttling was costing lives. Trump wouldn't confirm t"
-      },
-      {
-        "section": "World",
-        "headline": "France Faces Moody's Verdict as Borrowing Costs Stay Near 24-Year High",
-        "gist": "Moody's is expected to downgrade France from Aa3 to A1 as its 10-year bond yields sit above 5%, a level not seen since 2002, following weeks of riots and curfews over cost-of-living grievances. Author"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Tech Sell-Off Deepens as Meta's AI Spending Spooks Investors",
-        "gist": "The Nasdaq Composite suffered its worst one-day drop since June, falling 2.6-2.9%, after Meta shares tumbled nearly 7% — erasing about $124bn in market value — on fears about its ballooning AI capex ("
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "OpenAI Cuts IPO-Round Valuation Target From $1.4tn",
-        "gist": "OpenAI has lowered the valuation target for its next funding round after facing resistance from investors to a $1.4 trillion price tag, as it tries to raise roughly $30bn ahead of a planned public lis"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "SpaceX Reportedly in Talks to Build 80,000-Site Cellular Network",
-        "gist": "SpaceX is in talks with at least one major cellular infrastructure company to build a network of roughly 80,000 cell sites, potentially giving it an entry into the cellular service market, Bloomberg r"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Musk Invests ~$1bn in Skydance as Media Giant Seeks Cash",
-        "gist": "Elon Musk has invested about $1 billion in Skydance, the media company formed when Paramount Skydance acquired Warner Bros Discovery, according to Semafor. Musk is a longtime friend of Larry Ellison, "
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Moderna Shares Plunge 23% After Cancer-Vaccine Data Leaks Early",
-        "gist": "Moderna's stock fell about 23% — its worst drop since going public — after details leaked of its melanoma vaccine study, developed with Merck, ahead of a scheduled Saturday release. The data showed th"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Banks Catch AI Agents Operating Inside Customer Accounts Without Permission",
-        "gist": "JPMorgan, Bank of America and Morgan Stanley have detected AI agents logging into customer accounts with users' own credentials and sometimes taking actions — like calling support lines — that custome"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Anthropic Launches Claude Duet, a Proactive 24/7 Agent",
-        "gist": "Anthropic unveiled Claude Duet, an Opus 5.5-powered agent that monitors connected apps, prioritizes tasks and works autonomously in the background — running on its own cloud computer even when a user'"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Microsoft's AI Diagnostic System Beats Doctors on Hard Cases",
-        "gist": "Microsoft published results from MAI-DxO, a diagnostic AI system that works like a virtual panel of doctors — proposing diagnoses, ordering tests and challenging each other as results come in. It more"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Inference Startups Scramble for Compute as Demand Set to Grow 36% a Year",
-        "gist": "With data-center demand for AI inference (the process of actually running trained models) expected to grow 36% annually through 2030, companies like Together AI, Baseten, Modal Labs and Sail Research "
-      },
-      {
-        "section": "Interesting",
-        "headline": "DeepSeek Reportedly Raising ~$15bn Just Days After US Ordered Agencies to Remove Its AI",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "OpenClaw Creator Says He Burned $10 Million in AI Tokens Last Month on Investors' Dime",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Freddie Mac: Mortgage Rates Fall for First Time in Nine Weeks",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "California's Billionaire Tax Could Raise Just $30bn, a Third of Backers' $100bn Estimate",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Startup Raises $200mn to Breed 'Genetically Enhanced' Military Working Dogs",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Freshfields' Global Managing Partner Mass-Emails Confidential AI Spinoff Plan — Again a Headache",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-10-24",
     "items": [
       {
@@ -615,6 +520,101 @@
       {
         "section": "Interesting",
         "headline": "Christine Lagarde to Step Down as ECB Chief Early, Eyed for World Economic Forum Top Job",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-10-30",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Israel's Election Ends in Deadlock, Netanyahu Cries Foul",
+        "gist": "With final vote counts confirmed, Netanyahu's bloc secured roughly 53-54 seats, short of the 61-seat majority, against about 48 for Gadi Eisenkot's opposition alliance, with Arab parties holding 19 se"
+      },
+      {
+        "section": "World",
+        "headline": "Flávio Bolsonaro Lands in Miami With Help From Trump Aides",
+        "gist": "Flávio Bolsonaro, defeated in Brazil's presidential runoff, fled to Florida after Brazil canceled his passport over a money-laundering probe; Trump and his aides reportedly helped him enter the US, an"
+      },
+      {
+        "section": "World",
+        "headline": "$6.3bn Binance Hack Is Crypto's Biggest Heist Ever",
+        "gist": "Binance, the world's largest crypto exchange, suspended all deposits, withdrawals and trading after hackers — suspected to be North Korea's TraderTraitor unit — breached its systems via a compromised "
+      },
+      {
+        "section": "World",
+        "headline": "US Weighs Resuming Iran Strikes After Midterms",
+        "gist": "The top US commander in the Middle East, Adm. Brad Cooper, briefed Trump at the White House on options for attacking Iran, alongside Defense Secretary Hegseth and Joint Chiefs Chairman Gen. Dan Caine,"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Alphabet Suffers Record $500bn Wipeout as Big Tech's AI Spending Spooks Wall Street",
+        "gist": "Alphabet shares fell 13% — their worst day ever and the second-biggest single-day market-cap loss on record — after Google's core search and ad business missed expectations, with AI Mode queries canni"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "AI Financing Frenzy Continues: SpaceX, Anthropic, Meta All Raise Fresh Billions",
+        "gist": "Even as AI stocks wobble, credit markets are doubling down: SpaceX closed $40bn in debt financing to buy Nvidia GPUs, Wall Street banks syndicated a $63bn chip-purchase facility for Anthropic backed b"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "DoorDash Clinches $17bn Deal for Instacart",
+        "gist": "DoorDash confirmed an agreement to acquire grocery-delivery rival Instacart for roughly $17bn in cash and stock, an 11% premium to Instacart's prior close. CEO Tony Xu pitched the combination as creat"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Weil, Gotshal & Manges to Dissolve After 95 Years",
+        "gist": "The storied Wall Street law firm, which advised on the Lehman and Enron bankruptcies, will wind down after a cascade of partner defections — including M&A rainmaker Michael Aiello (to Cravath) and two"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Thrive Holdings to Buy ADT for $7.6bn as Apollo Exits",
+        "gist": "Thrive Holdings, an offshoot of Josh Kushner's venture firm, agreed to acquire home-security company ADT for $7.6bn in cash, with Apollo Global Management acting as sole financier on a multi-billion-d"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Nvidia CEO's Associate Allegedly Fed Intelligence to Beijing, Trump Took No Action",
+        "gist": "US intelligence agencies concluded that Alice Huang, an executive at Singapore-based data-center firm Megaspeed who had close ties to Nvidia CEO Jensen Huang, was passing information to China; Trump w"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Mistral Releases Open Weights for Trillion-Parameter Large 4",
+        "gist": "Mistral published the weights for Mistral Large 4, a trillion-parameter model built for self-hosted deployment and cybersecurity use cases, claiming leading open-weight performance on agentic coding b"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Open-Weight AI Can Now Weaponize Security Patches Before Users Get Updates",
+        "gist": "Researchers found that Zhipu's GLM 5.3 model can automatically identify and build working exploits from published-but-not-yet-shipped Firefox security fixes — turning a patch note into an attack befor"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Anthropic Deploys Self-Monitoring AI to Catch Claude's Own Misuse",
+        "gist": "Anthropic rolled out 'self-assessment,' where Claude reviews each conversation after replying and flags potential harms for human review; the system has quietly run since June. On a stronger internal "
+      },
+      {
+        "section": "Interesting",
+        "headline": "Polymarket Paused Trading After Vendor Security Flaw Let Hackers Drain User Accounts",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "$1,000 AI-Powered Laser Brick in China Tracks and Burns the Wings Off Mosquitoes Mid-Flight",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Democratic Operatives Recruited a Second 'Dan Sullivan' to Confuse Alaska Voters, Now Under DOJ Criminal Investigation",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Odyssey Cruise Ship Sold 'Lifetime' Cabins for $350,000, Then Ran Out of Money and Stranded Passengers in Cambodia",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Cheesecake Factory Stock Is Up 124% This Year, Partly Thanks to an Obama Jab About the White House Redesign",
         "gist": ""
       }
     ]
