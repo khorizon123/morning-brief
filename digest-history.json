@@ -1,95 +1,5 @@
 [
   {
-    "date": "2026-10-24",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Oil Tops $117 as US Preps for 'Protracted' Iran Standoff",
-        "gist": "Brent crude briefly hit $117 a barrel, its highest since April/May, after Trump's UN ambassador Mike Waltz said Washington is bracing for a drawn-out conflict with Iran, and Netanyahu and Trump renewe"
-      },
-      {
-        "section": "World",
-        "headline": "Trump Directs DOJ to Block Alaska Senate Certification if GOP Candidate Loses",
-        "gist": "At Trump's direction, the Justice Department sued to block certification of Alaska's Senate race if Republican incumbent Dan S. Sullivan loses narrowly, arguing a similarly-named independent candidate"
-      },
-      {
-        "section": "World",
-        "headline": "France Deploys 20% More Police as Country Braces for Fresh Protests",
-        "gist": "France put roughly 70,000 officers on the streets for Saturday demonstrations, a 20% boost in deployment, to prevent a repeat of last weekend's riots and looting. Separately, a gunman killed one perso"
-      },
-      {
-        "section": "World",
-        "headline": "Netanyahu Threatens Hebron Offensive Days Before Israeli Election",
-        "gist": "After Palestinian gunmen killed two Israeli soldiers in the West Bank, Netanyahu vowed an 'aggressive' military operation in Hebron modeled on prior crackdowns in Jenin and Tulkarm, as Israel's army b"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Tesla and SpaceX Study $3.6tn Merger — Musk's Biggest Bet Yet",
-        "gist": "Elon Musk's two companies have set up special board committees to formally study merging into a combined entity worth as much as $3.6 trillion, which would be the largest M&A deal in history and creat"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "OpenAI Cuts IPO-Round Target to $1.25tn, UAE Investors Lead New $30bn Round",
-        "gist": "OpenAI trimmed its valuation target for its upcoming funding round to $1.25 trillion after investors balked at an earlier $1.4 trillion price tag. Separately, OpenAI is closing in on a roughly $30 bil"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Nasdaq Posts Worst Day Since June as Meta's AI Spending Spooks Investors",
-        "gist": "US stocks tumbled Thursday, with the Nasdaq falling 2.6% and the S&P 500 down about 0.5%, after Meta's blowout capex forecast deepened fears that the AI investment boom won't pay off; the selloff spre"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "US Executives Quit $25bn Alaska LNG Venture Over Alleged Secret Russian Control",
-        "gist": "Former executives of Polar Train LNG, a $25 billion Alaska gas project, told the FT that Russian energy giant Novatek secretly financed and controlled the strategic venture without Washington's approv"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Valencia CF Sold in €1.25bn Deal Built on Stadium Real Estate",
-        "gist": "A US investor consortium including family offices of KKR co-founders George Roberts and Henry Kravis, plus Denver Broncos owners, agreed to buy a 42% stake in Valencia CF, valuing the Spanish club at "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Personal AI Agents Move From Novelty to Daily Habit",
-        "gist": "A wave of always-on personal AI agents — including startup Instinct (which works inside iMessage), Meta's Muse (10 million+ downloads since launch last month), and upcoming offerings from Anthropic, G"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI's Internal Red Team Finds Agents Can Evade Its Own Safety Monitors",
-        "gist": "Security researchers METR and Redwood Research spent three weeks with access to OpenAI's internal infrastructure and found vulnerabilities letting AI agents evade monitoring, bypass sandbox restrictio"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "UK Sets Up AI Lab to Monitor Biosecurity Threats",
-        "gist": "Britain is launching a government AI lab specifically to monitor biosecurity risks, amid growing concern that AI models could be misused to help design new viruses or bioweapons. The move reflects a b"
-      },
-      {
-        "section": "Interesting",
-        "headline": "Mercedes Spent $10 Million to Turn an 11-Year-Old Prodigy Into an F1 Champion",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Iranian Billboard Propaganda Now Features a Trump Impersonator Dancing in a Jail Cell",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Finland's 24/7 'Puppy Live' Livestream Draws 1.85 Million Viewers in a Country of 6 Million",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Crystal Palace Players Nearly Yellow-Carded After Opponent Tried to Pull Off a Teammate's Shirt",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "72 Million Americans Watched a 'Seinfeld' Episode in 2026, Nearly 30 Years After It Ended",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-10-25",
     "items": [
       {
@@ -615,6 +525,91 @@
       {
         "section": "Interesting",
         "headline": "Cheesecake Factory Stock Is Up 124% This Year, Partly Thanks to an Obama Jab About the White House Redesign",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-10-31",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Google Stock Suffers Worst-Ever Crash as AI Fears Hammer Big Tech",
+        "gist": "Alphabet shares fell as much as 13% after disappointing search and ad results, wiping out roughly $500bn in market value in a single session — its largest one-day loss ever. The rout spread across Big"
+      },
+      {
+        "section": "World",
+        "headline": "North Korea Suspected in $6.3bn Binance Hack, Crypto's Biggest-Ever Heist",
+        "gist": "Hackers breached Binance, the world's largest crypto exchange, stealing $6.3 billion after compromising an employee's laptop; the exchange suspended withdrawals and said it would cover all losses. Sta"
+      },
+      {
+        "section": "World",
+        "headline": "Weil Gotshal to Dissolve After 95 Years",
+        "gist": "The storied Wall Street law firm, which advised on the Lehman and Enron bankruptcies and employs about 1,200 lawyers, will wind down after its incoming managing partner Ramona Nee abruptly declined th"
+      },
+      {
+        "section": "World",
+        "headline": "Ukraine Strikes Russian Refinery, Ending Self-Imposed Pause Trump Demanded",
+        "gist": "Ukrainian forces hit a Russian oil refinery, their first such strike since October 20, defying repeated US demands that Kyiv halt attacks on Russian energy infrastructure. The move comes as Russian dr"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Nasdaq's Worst Month in a Year as Intel, Alphabet Lead AI-Spending Rout",
+        "gist": "The Nasdaq composite posted its worst day since June and worst month in over a year as fears mount that the AI capex boom isn't paying off. Intel shares crashed 29% — the worst session in company hist"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "OpenAI Trims Funding Target to $20bn at $1.25tn Valuation",
+        "gist": "OpenAI cut the size of its upcoming funding round by $10bn, now seeking roughly $20bn at a $1.25 trillion valuation, as investor appetite cools alongside the broader tech selloff. The reduction follow"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Clayton Dubilier & Rice Pursues ~$40bn Take-Private of Global Payments",
+        "gist": "Private equity firm Clayton Dubilier & Rice is in talks to take payments processor Global Payments private at an enterprise value of roughly $40 billion, which would rank among the largest leveraged b"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "US Economy Grew 3.4% on AI Spending Boom, Even as Markets Wobble",
+        "gist": "US GDP grew at a 3.4% annualized rate in the third quarter, beating forecasts and fueled largely by AI-related capital spending — even as the same spending spree is now spooking equity investors. Euro"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "\"Legal Engineer\" Emerges as Law's Hottest New Job Title",
+        "gist": "As AI reshapes legal work, law firms, in-house teams and AI vendors are racing to hire \"legal engineers\" — people fluent in both law and technology who redesign workflows and train colleagues on AI to"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "AI-Discovered PHP Flaws and Weaponized Patches Raise Alarm on AI-Assisted Hacking",
+        "gist": "Beyond this week's record Binance hack, security researchers are increasingly using AI models themselves to both find and exploit vulnerabilities — a double-edged trend flagged in WSJ's Risk Journal p"
+      },
+      {
+        "section": "Interesting",
+        "headline": "Intel Shares Crash 29% in Worst Trading Day in Company History",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Hello Kitty Gets Dragged Into a Beijing-Tokyo Diplomatic Standoff",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "North Sea Oil and Gas Workers Turn to Weight-Loss Drugs to Meet 124kg Flight Weight Limit",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Anduril-Backed Startup Wants to Genetically Engineer Faster, Keener-Nosed Battlefield Dogs",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Old Wind Turbines Harbor Up to $100,000 of Rare Earths Each, Spurring a Scrapyard Gold Rush",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "EssilorLuxottica Heir Claims He's Slept With More Than 2,000 Women in Bizarre Public Feud With CEO",
         "gist": ""
       }
     ]
