@@ -1,55 +1,5 @@
 [
   {
-    "date": "2026-10-25",
-    "items": [
-      {
-        "section": "World",
-        "headline": "France's Protests Swell Again, Government Doubles Down on Police Presence",
-        "gist": "Hundreds of thousands marched in a second consecutive weekend of demonstrations across France, with the government deploying roughly 70,000 police officers — a 20% increase — to prevent a repeat of th"
-      },
-      {
-        "section": "World",
-        "headline": "Ukraine Says Starlink Restrictions Have Been Lifted",
-        "gist": "Ukraine's military confirmed that the Starlink speed restrictions which had hampered its drone communications and defense against Russian strikes have now been lifted. The reversal follows Trump's per"
-      },
-      {
-        "section": "World",
-        "headline": "Netanyahu Threatens Crypto Sanctions Workaround, Central Bank Says No",
-        "gist": "Israel's central bank rejected a plan floated by Prime Minister Netanyahu to use cryptocurrency to help the country evade international sanctions, with critics warning the scheme would turn Israel int"
-      },
-      {
-        "section": "World",
-        "headline": "Brazil Heads Into Knife-Edge Election Between Bolsonaro and Lula",
-        "gist": "Brazil's presidential runoff between rightwing challenger Jair Bolsonaro and incumbent leftist Luiz Inácio Lula da Silva has tightened to a toss-up, with polls narrowing in the campaign's final days. "
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Luxury Sector Loses €250bn in Value as Chinese Demand Fades",
-        "gist": "European luxury groups have shed roughly €250 billion in combined market value as slowing Chinese consumption collides with cooling global equity markets. The downturn caps a rough stretch for an indu"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Mercuria Sues Baltic Exchange Over Hormuz Shipping Price Benchmarks",
-        "gist": "Commodities trader Mercuria is taking legal action against the Baltic Exchange, the influential benchmark-setter sometimes called the 'Dow Jones of shipping,' after suffering losses tied to the firm's"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "SAP's CTO Makes the Case Enterprise Software Isn't Dead, Just Changing",
-        "gist": "As AI coding tools let anyone spin up an app in minutes, SAP CTO Philipp Herzig argues the real challenge was never building software but running it reliably at enterprise scale — enforcing permission"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Workers and CEOs Are Living in Different AI Realities, Surveys Find",
-        "gist": "A Milken Institute-Harris Poll found more than two-thirds of business leaders expect to be financially better off in five years thanks to AI, versus just 27% of the broader US workforce — a 41-point g"
-      },
-      {
-        "section": "Interesting",
-        "headline": "SoftBank-Backed Chinese Startup XAG Wants Every Farmer to Have Their Own Crop-Spraying Drone",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-10-26",
     "items": [
       {
@@ -610,6 +560,66 @@
       {
         "section": "Interesting",
         "headline": "EssilorLuxottica Heir Claims He's Slept With More Than 2,000 Women in Bizarre Public Feud With CEO",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-11-01",
+    "items": [
+      {
+        "section": "World",
+        "headline": "North Korea Blamed for Record $6.3bn Binance Hack",
+        "gist": "The FBI formally attributed the theft to a North Korean hacking group, confirming suspicions from earlier in the week. Crypto exchanges are now moving to tighten security protocols following the large"
+      },
+      {
+        "section": "World",
+        "headline": "Iran Warns of Retaliation 'Without Geographical Limitations' Amid US Strike Fears",
+        "gist": "Ayatollah Khamenei told military commanders Iran's response to any attack would be immediate and unrestricted in scope, as Qatari mediators scramble to prevent a feared US-Israeli bombing campaign. Th"
+      },
+      {
+        "section": "World",
+        "headline": "Rare Ceasefire Lets Hundreds Evacuate Russian-Occupied Ukrainian City",
+        "gist": "Hundreds of Ukrainians escaped the Russian-occupied city of Oleshky after a local truce backed by the pope and Melania Trump. Separately, Ukraine ended its self-imposed pause in strikes on Russian ene"
+      },
+      {
+        "section": "World",
+        "headline": "Netanyahu's Coalition-Building Faces Early Test After Election Deadlock",
+        "gist": "With Israel's election producing no outright winner, Netanyahu now has to navigate a fractured parliament to try to form a government, a process widely seen as testing his political survival skills af"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Tudor Spins Out $9bn Quant Fund in Record Launch",
+        "gist": "Xantium, a quantitative trading operation currently housed within Paul Tudor Jones's Tudor Investment Corp, will separate into its own standalone hedge fund next year with roughly $9 billion in assets"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Bond Investors Pull Back Ahead of Pivotal US Midterms",
+        "gist": "Large fund managers are pausing positioning ahead of what FT is calling the 'most consequential' US midterm elections in years, with both the vote outcome and looming economic data releases creating u"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Germany Misses Winter Gas Storage Target",
+        "gist": "Europe's largest economy failed to hit its gas storage target ahead of winter, meaning it will need to rely more heavily on spot-market purchases to meet demand. The shortfall could push prices higher"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Oil Majors Resist Calls to Build New Refineries Despite Rising Fuel Prices",
+        "gist": "Despite fuel prices climbing as conflicts in the Middle East and Ukraine squeeze global refining capacity, major oil companies are holding off on investing in new refineries, preferring to capture ele"
+      },
+      {
+        "section": "Interesting",
+        "headline": "AI-Generated Mashup Videos of Fictional Characters Go Viral in China — Then Draw Government Scrutiny",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Bangkok's Top Snake Catcher Refuses to Kill Captured Reptiles, Leaving His Fire Station Overrun",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Falklands Fishing Turns Into a Free-for-All as Chinese and Spanish Vessels Flock to Contested Waters",
         "gist": ""
       }
     ]
