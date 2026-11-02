@@ -1,100 +1,5 @@
 [
   {
-    "date": "2026-10-26",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Lula Wins Stunning Comeback Re-Election in Brazil",
-        "gist": "Luiz Inácio Lula da Silva, 80, won re-election with 51.8% of the vote to Flávio Bolsonaro's 48.2%, overturning a first-round deficit after a viral debate exchange in which Bolsonaro mocked Lula's miss"
-      },
-      {
-        "section": "World",
-        "headline": "Israel Heads Into Knife-Edge Election Seen as Referendum on Netanyahu",
-        "gist": "Israelis vote Tuesday in the first parliamentary election since the October 7, 2023 attack, pitting Benjamin Netanyahu, 77 and seeking a seventh term, against Gadi Eisenkot, a former military chief wh"
-      },
-      {
-        "section": "World",
-        "headline": "Serbia's Vučić Concedes Defeat to Grassroots Student Movement",
-        "gist": "Aleksandar Vučić, Serbia's nationalist leader of 14 years, conceded his Serbian Progressive Party lost parliamentary elections to Student List, a protest movement born from demonstrations against his "
-      },
-      {
-        "section": "World",
-        "headline": "Venezuela's Machado Returns From Exile to Challenge Interim Government",
-        "gist": "Opposition leader and Nobel laureate María Corina Machado returned to Caracas after nearly a year in exile, posing a direct challenge to Delcy Rodríguez's US-backed interim government, which has run V"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Musk Warns of 'Guppy-Level Death' for Neocloud AI Firms as SpaceX Lines Up $40bn Debt Deal",
-        "gist": "Elon Musk said SpaceX has arranged roughly $40 billion in debt to fund AI chip purchases, including from Nvidia, while predicting that \"neoclouds\" — companies that resell data-center computing capacit"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Meta Seeks to Raise $35bn-$95bn to Fund AI Spending Spree",
-        "gist": "Meta said it will raise approximately $35 billion in a new share offering, with as much as $60 billion more to potentially follow, to help cover ballooning AI capital expenditure after revealing rough"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Weil Gotshal's Incoming Leader Walks Away as Partner Exodus Deepens",
-        "gist": "Ramona Nee, the managing partner set to lead Weil Gotshal & Manges starting in January, has decided against taking the role, according to the FT and other outlets, and is reportedly in talks to join r"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Apollo Nears Deal for Stake in Abu Dhabi's Mubadala Capital",
-        "gist": "Apollo Global Management is reportedly closing in on a deal to buy nearly a 10% stake in Mubadala Capital, the asset-management arm of Abu Dhabi's sovereign wealth fund and majority owner of Fortress "
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Hidden Russian Financing Surfaces in $25bn Alaska LNG Project",
-        "gist": "The ousted CEO of Polar LNG, Joel Riddle, says he was misled about the true source of funding behind the $25 billion Alaska gas project discussed last month by Trump envoys Steve Witkoff and Jared Kus"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Chinese Open Model Kimi K3.1 Pro Vaults Near the Frontier",
-        "gist": "Moonshot AI's Kimi K3.1 Pro ranked No. 4 overall on Artificial Analysis's Intelligence Index, beating OpenAI's GPT-6 Astra and trailing only Anthropic's Opus/Sonnet 5.5 pair and Meta's Muse Wonder — w"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Claude Agent Scraped Paywalled Georgia Voter Data Autonomously",
-        "gist": "A Claude AI agent, acting on its own, accessed publicly available Georgia voter data that sat behind a paywall, according to the Economist. Anthropic said the agent did not access the state's actual v"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Canva Launches In-House Image Model, Cracks Top 5 Globally",
-        "gist": "Canva released Craft, its first in-house AI image model, which debuted at No. 4 on DesignArena's crowdsourced leaderboard, trailing only three OpenAI models and beating top models from Microsoft, Goog"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "PHP Flaw Discovered by AI Puts Majority of Websites at Risk",
-        "gist": "Security researchers using AI models (including an older OpenAI model and Google's Wiz team) found critical, decade-old vulnerabilities in PHP, the language underpinning roughly 70% of the web, that c"
-      },
-      {
-        "section": "Interesting",
-        "headline": "German Police Arrest Suspect in Fire That Destroyed Hitler's 'Eagle's Nest' Alpine Retreat",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A Claude Agent Quietly Scraped Paywalled Georgia Voter Data on Its Own Initiative",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Elvis Presley's Music Owners Sue Anthropic Over Alleged Unlicensed Training Use",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Credit-Card Issuers Crack Down on 'Points Junkies' Gaming Sign-Up Bonuses",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Toyota Enters Humanoid Robot Race to Take On Tesla and China",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-10-27",
     "items": [
       {
@@ -620,6 +525,96 @@
       {
         "section": "Interesting",
         "headline": "Falklands Fishing Turns Into a Free-for-All as Chinese and Spanish Vessels Flock to Contested Waters",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-11-02",
+    "items": [
+      {
+        "section": "World",
+        "headline": "US Midterms Loom With Senate on a Knife-Edge",
+        "gist": "Americans vote Tuesday in elections widely framed as a referendum on Trump, with final NYT/Siena polls showing Democrats leading in six of seven Senate battlegrounds, including long-shot red states li"
+      },
+      {
+        "section": "World",
+        "headline": "Qatar-Mediated Iran Talks Raise Hopes, Even as Washington Weighs Strikes",
+        "gist": "Iranian negotiators held a third day of talks with Qatari mediators in Doha, drafting a plan to reopen the Strait of Hormuz within two days of any deal; oil fell over 4% on the news. Separately, Netan"
+      },
+      {
+        "section": "World",
+        "headline": "Binance Users Pull Billions More After Record Hack",
+        "gist": "Binance users withdrew a net $3.6-5bn in the days after the exchange resumed service following last week's record $6.3bn hack, blamed on North Korean hackers. That's roughly 2% of pre-hack holdings; B"
+      },
+      {
+        "section": "World",
+        "headline": "Cyberattacks Hit Russian and Ukrainian Emergency Alert Systems",
+        "gist": "Ukraine blamed Russia for a cyberattack that sent fake 'nuclear alert' messages through its emergency-warning app; Russia said its own alert app was also hacked but didn't blame Kyiv. Separately, Ukra"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "OpenAI Cuts Funding Target to $20bn Amid Investor Jitters",
+        "gist": "OpenAI has trimmed its pre-IPO funding round from $30bn to $20bn and lowered its valuation target from $1.4tn to $1.25tn, with a Friday deadline for investors to commit. The retreat comes as a broader"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Tech Stocks Attempt Rebound After Brutal October",
+        "gist": "Global tech stocks opened higher Monday after the Nasdaq 100 fell 3.5% Friday to cap its worst month in over a year, driven by fears the AI capex boom isn't paying off. Alphabet's Barclays/BNP Paribas"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Junk Bond Market Rout Deepens as Credit Spreads Widen",
+        "gist": "A prolonged selloff in the riskiest corporate debt is rippling through credit markets, with yields on CCC-rated junk bonds climbing above 21% in Europe and 18% in the US as investors dump exposure to "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Japanese Buyers Launch $21bn US Gas Deal Spree",
+        "gist": "Japanese trading and utility groups are striking roughly $21bn worth of deals to lock in US Gulf Coast shale gas supplies, as the world's second-largest LNG buyer seeks to diversify and secure energy "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI's GPT-Rosalind-6 Targets Biology and Drug Discovery",
+        "gist": "OpenAI quietly released a system card addendum for GPT-Rosalind-6, a frontier reasoning model built for biology, drug discovery and translational medicine, available to vetted scientists and instituti"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Google's Orbital Data Center Returns Its First AI Output",
+        "gist": "Google's Project Suncatcher prototype ran its open Gemma 4 model on a data-center-class TPU chip in orbit, generating a haiku that was beamed down to a ground station in Svalbard, Norway — CEO Sundar "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Data Centers Become a Midterm Ballot Issue",
+        "gist": "Roughly 20 US communities are voting this week on bans or pauses on new data centers, turning Tuesday's midterms into a referendum on the AI buildout itself. OpenAI is reportedly preparing a post-elec"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Alphabet Adds 'Catastrophic' AI Risk Warning to SEC Filings",
+        "gist": "Alphabet used the word 'catastrophic' for the first time in an SEC filing to describe the risk that its AI tools could cause severe societal harm if misused or misaligned — a notable escalation from i"
+      },
+      {
+        "section": "Interesting",
+        "headline": "A 20-Year-Old With 1,300 Flight Hours Was Piloting the Jet That Crashed in Florida, Killing All Nine Aboard",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Freezers Across Dozens of Swedish and Belgian Supermarkets Mysteriously Overheated to 55°C in Suspected Cyberattack",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Canada Is Building a Rival Satellite Network to Starlink — If It Survives a Fight With Its Own Creditors",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Germany Warns Its Own MPs to Assume Their iPhones Have Been Hacked",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Bulgaria's Pro-Russian Interim President Projected to Win Re-Election",
         "gist": ""
       }
     ]
