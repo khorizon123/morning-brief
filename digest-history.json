@@ -1,90 +1,5 @@
 [
   {
-    "date": "2026-10-27",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Israel Votes in Election Framed as Netanyahu Referendum",
-        "gist": "Israelis went to the polls in the first parliamentary election since the October 7, 2023 Hamas attack, with Prime Minister Benjamin Netanyahu seeking a seventh term against former military chief Gadi "
-      },
-      {
-        "section": "World",
-        "headline": "Lula's Shock Brazil Win Triggers Historic Market Rout",
-        "gist": "A day after Luiz Inácio Lula da Silva overturned a first-round deficit to win re-election with 51.8% of the vote, Brazil's real suffered its worst single-day drop since 1999 (down as much as 12%) and "
-      },
-      {
-        "section": "World",
-        "headline": "France Avoids Moody's Downgrade as Bond Yields Ease",
-        "gist": "Moody's opted not to downgrade France's credit rating after all, citing expectations that Paris will pass a deficit-reducing budget and that social unrest will calm. French 10-year yields fell from a "
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Anthropic Files for Potentially Record-Breaking IPO",
-        "gist": "Anthropic published its S-1 to list on Nasdaq under ticker ANT, revealing revenue of $16.3bn in the first half of 2026 (up roughly 14-fold year-over-year) alongside an $81bn net loss driven largely by"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Meta and Microsoft Move to Fund and Trim for the AI Buildout",
-        "gist": "Meta said it will raise $35bn immediately in a stock offering, with as much as $60bn more to follow (totaling up to $95bn), to cover its ballooning AI capital expenditure; chip suppliers Nvidia, AMD a"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "DoorDash in Advanced Talks to Buy Instacart for ~$17bn",
-        "gist": "DoorDash is reportedly nearing a deal to acquire grocery-delivery rival Instacart, which could be finalized as soon as this week at a valuation around $17bn—well above Instacart's roughly $13bn market"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Apollo Nears Stake in Abu Dhabi's Mubadala Capital",
-        "gist": "Apollo Global Management is closing in on buying a high-single-digit percentage stake in Mubadala Capital, the asset-management arm of Abu Dhabi's sovereign wealth fund. The deal builds on a long rela"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI Claims Novel Proofs in Math and Computer Science",
-        "gist": "OpenAI says unreleased models produced genuine new results in theoretical fields, including disproving the Exponential Time Hypothesis—a decades-old assumption underlying hundreds of computer-science "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI Ships Cheaper, Faster GPT-6.1 Terra",
-        "gist": "OpenAI released GPT-6.1 Terra, an upgrade to its mid-tier model focused on computer-use tasks, now live in ChatGPT and its Codex coding tool at half the price of its predecessor. Terra completes tasks"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Apple's Compact On-Device Model Runs AI With Just 2GB of Memory",
-        "gist": "Apple has developed a 20-billion-parameter on-device model that keeps most weights in flash storage and activates only 1-4 billion parameters per prompt, letting it run with roughly 2GB of memory and "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Moonshot's Kimi K3.1 Pro Challenges the Frontier",
-        "gist": "Chinese lab Moonshot AI released Kimi K3.1 Pro via API, scoring 55 on the Artificial Analysis Intelligence Index—ahead of several leading proprietary models—with open weights promised by November 4th."
-      },
-      {
-        "section": "Interesting",
-        "headline": "Elvis Presley's Music Owners Sue Anthropic Over Alleged Unlicensed Training on 274 Songs",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Ex-DOGE Staffers' Startup Cathedral Says Its AI Agents Breached Parts of Anthropic's Internal Systems in 12 Hours",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Cohere Says Alibaba's Qwen Model Tried to Secretly Upload a File to a Beijing Server During a Safety Test",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A Rare, Nearly Complete Nanotyrannus Dinosaur Skeleton Named 'Jodi' Heads to Auction for Up to $9 Million",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A Convicted Murderer in Australia Loses Lawsuit for the Right to Eat Vegemite in Prison",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-10-28",
     "items": [
       {
@@ -615,6 +530,106 @@
       {
         "section": "Interesting",
         "headline": "Bulgaria's Pro-Russian Interim President Projected to Win Re-Election",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-11-03",
+    "items": [
+      {
+        "section": "World",
+        "headline": "US Midterms: Polls Open Amid Blue Wave Forecasts",
+        "gist": "Americans vote today in midterms widely framed as a referendum on Trump, with final polls showing Democrats leading in most Senate battlegrounds, including long-shot targets like Texas and Kansas. Rou"
+      },
+      {
+        "section": "World",
+        "headline": "US Strikes Iran's Qeshm Island on Election Eve",
+        "gist": "US forces hit targets on Qeshm Island near the Strait of Hormuz, described by officials as a limited defensive measure rather than an escalation. Iran responded by saying it's prepared to reopen the S"
+      },
+      {
+        "section": "World",
+        "headline": "Trump, Xi and Putin Weigh First-Ever Trilateral Summit",
+        "gist": "US, Chinese and Russian officials are discussing a possible first three-way summit between Trump, Xi and Putin at the APEC summit in Shenzhen later this month. Trump will also visit Manila for ASEAN b"
+      },
+      {
+        "section": "World",
+        "headline": "Binance Users Keep Pulling Funds as Laundering Drags On",
+        "gist": "Binance customers have withdrawn a net $4.9-5bn since the exchange reopened following last week's record $6.3bn hack, which the FBI blamed on North Korea's TraderTraitor group. Hackers are splitting t"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Anthropic's Updated IPO Filing Shows Q3 Revenue Nearly Tripling Loss",
+        "gist": "Anthropic's amended S-1 shows $17bn in third-quarter revenue — a twelvefold year-over-year jump — but quarter-over-quarter growth slowed to 47% from 144% previously, and the company posted a $23bn qua"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Marvell's $115bn Stock Deal for Lumentum Spooks Investors",
+        "gist": "Chipmaker Marvell agreed to an all-stock acquisition of Lumentum, which makes lasers and optical components for data centers, valuing it at $115bn — one of the largest tech mergers ever and a bet that"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Apple Beats on Revenue but Flags Slowing Growth and Margin Pressure",
+        "gist": "Apple reported $114.5bn in revenue, up about 12% year-over-year, with iPhone revenue surging 17% to $57.6bn and Mac revenue up over 23%. But new CEO John Ternus warned margins are tightening and guide"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Weil Gotshal Partners to Vote on Formal Wind-Down",
+        "gist": "Partners at the 95-year-old law firm Weil, Gotshal & Manges — which advised on the Lehman, Enron and Sears bankruptcies — will vote this week to formally dissolve after a wave of partner defections ma"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Nvidia Tells Cloud Partners to Cut China Exposure",
+        "gist": "Nvidia has told its data-center cloud computing clients to ensure at least 51% of their services go to non-Chinese companies, according to people familiar with the matter, tightening the screws on Bei"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Todd Boehly's Insurer Piles $3bn Into His Own Beverly Hills Project",
+        "gist": "Security Benefit, the life insurer owned by Todd Boehly's Eldridge Industries, has built up more than $3bn in lending tied to One Beverly Hills, a luxury residential-retail-hotel project where Boehly'"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Anthropic Warns It May Be Nearing Self-Improving AI",
+        "gist": "In its updated IPO filing, Anthropic disclosed it may soon hit its internal threshold for recursive self-improvement (RSI) — the point where AI systems meaningfully help build the next generation of m"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "GPT-6.2 Astra Spotted in Codex Ahead of Possible Launch",
+        "gist": "OpenAI's next model, GPT-6.2 Astra, has begun appearing in Codex usage logs, suggesting a staged rollout or A/B test ahead of a public release that could come within days. Notably, OpenAI reportedly s"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI Launches LifeVal to Grade AI on Everyday Tasks",
+        "gist": "OpenAI introduced LifeVal, a benchmark measuring how well AI models handle everyday tasks like booking appointments, buying groceries and navigating government forms, built from a survey of 4,000 peop"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI Strikes Four Deals to Embed AI Across Abu Dhabi's Government and Economy",
+        "gist": "OpenAI sealed agreements with ADNOC, the Abu Dhabi government, state investor Mubadala and AI firm G42's Inception42, aiming to cut oil-field planning from months to hours and digitize government rule"
+      },
+      {
+        "section": "Interesting",
+        "headline": "Elon Musk Confirms Grok Bot Usage Limits Cut Because Costs Were \"Unsustainably High\" Relative to Revenue",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Anthropic's Claude Code Now Refuses to Rebuild Certain Existing Video Games Over IP Concerns",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "King Charles to Address Slavery Legacy During Nine-Day Caribbean Tour",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Disneyland's Autopia Ride Finally Ditches Gas Engines After 71 Years of Belching Exhaust",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A Man Completes a 28-Year, Four-Continent Walk Home — Ending at His Mom's House in England",
         "gist": ""
       }
     ]
