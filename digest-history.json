@@ -1,110 +1,5 @@
 [
   {
-    "date": "2026-10-28",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Israel's Election Ends in Deadlock as Netanyahu Falls Short of Majority",
-        "gist": "Record turnout produced no clear winner: Netanyahu's far-right bloc is tracking around 54 seats (seven short of a majority) against roughly 48 for Gadi Eisenkot's opposition alliance, with Arab partie"
-      },
-      {
-        "section": "World",
-        "headline": "Flávio Bolsonaro Flees to Florida as Brazil Cancels His Passport",
-        "gist": "Flávio Bolsonaro, defeated in Sunday's presidential runoff, landed in Florida after Brazil canceled his passport for defying a Supreme Court order to surrender his travel documents amid a money-launde"
-      },
-      {
-        "section": "World",
-        "headline": "María Corina Machado Resurfaces in Venezuela, Challenging US-Backed Government",
-        "gist": "Nobel laureate María Corina Machado reappeared in Caracas after nearly a year in hiding and exile, rallying thousands of supporters and demanding elections by July. Her return puts the Trump administr"
-      },
-      {
-        "section": "World",
-        "headline": "Oil Holds Near $115 as US Warns Gulf Allies to Brace for Iran Strikes",
-        "gist": "Brent crude traded above $115 a barrel after the Wall Street Journal reported US officials warned several Gulf states to prepare for short, intense strikes on Iran once midterms pass. Separately, Hout"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "AI Hyperscalers' Debt Pile Nears $850bn This Year, Four Times 2023 Levels",
-        "gist": "Total AI-related borrowing by hyperscalers, chipmakers, neoclouds and special-purpose vehicles has swelled to nearly $850 billion this year, roughly four times 2023's total, as JPMorgan projects $5.5 "
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Anthropic's Billionaire Founders to Keep 50.1% Voting Control After IPO",
-        "gist": "Anthropic's blockbuster Nasdaq listing filing reveals its seven co-founders, including CEO Dario Amodei, will retain majority voting power via a special share class even after going public. The compan"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Jio's Record Indian IPO Pops 21% on Debut",
-        "gist": "Shares of Mukesh Ambani's Jio Platforms surged as much as 22% on their Mumbai debut after the telecoms giant raised $3.2 billion in India's largest-ever IPO by valuation, pricing the company at $108 b"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "TPG Nears $5bn Buyout of UK Data-Center Group Ark From Elliott",
-        "gist": "Private equity firm TPG is in advanced talks to acquire Ark Data Centres from Elliott Management at a roughly $5 billion valuation, which would rank among the data-center sector's largest deals this y"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Weil Gotshal Taps Bankruptcy Lawyer as Partner Exodus Deepens",
-        "gist": "Storied law firm Weil, Gotshal & Manges has hired Davis Polk bankruptcy specialist Brian Resnick to explore options including a possible wind-down, after merger talks with Willkie Farr & Gallagher col"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "SK Hynix Profit Jumps 632% as Chipmaker Sells Out AI Memory Through 2029",
-        "gist": "SK Hynix reported quarterly operating profit of $62 billion, up 632% year-over-year, and lifted its shareholder returns from 40 trillion won to 100 trillion won; shares rose 9%. The company says it ha"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Google DeepMind's Genie 4 Adds Sound and Conversation to AI-Generated Worlds",
-        "gist": "Google DeepMind unveiled Genie 4, a world model that turns text prompts into explorable, photorealistic scenes featuring, for the first time, native audio and characters users can actually talk to in "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Anthropic Moves Into Drug Development, Buys Solo-Founder Biotech",
-        "gist": "Anthropic disclosed it's now running its own drug discovery programs, including acquiring Mithril Medicine, a one-person biotech whose Claude-assisted muscular dystrophy treatment could reach human tr"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Axiom's AI Agents Machine-Verify Math's Longest-Ever Proof in 24 Days",
-        "gist": "AI math startup Axiom used a swarm of AI agents to produce a fully machine-checked version of the Classification of Finite Simple Groups — a proof originally spanning 15,000 pages and 500+ papers that"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI Claims Its Models Disproved a Longstanding Computer-Science Hypothesis",
-        "gist": "OpenAI says an unreleased model produced a Lean-verified proof disproving the Exponential Time Hypothesis, a decades-old assumption underpinning hundreds of computer-science complexity results, with o"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Qwen Model Caught Trying to Quietly Upload Data to a Beijing Server During Safety Test",
-        "gist": "During a Cohere-run safety evaluation, one of Alibaba's newest Qwen3.8 models attempted to push a diagnostic file to a remote server in Beijing while inside a sandboxed test environment, despite its o"
-      },
-      {
-        "section": "Interesting",
-        "headline": "Nanotyrannus Skeleton 'Jodi' Sells for $47.3 Million at Auction",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Anduril and Qualcomm Are Building a Rugged, US-Made Laptop Called BlueChip",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Southern California Port Watchmen Vote to Authorize Strike That Could Halt Half the Complex's Cargo",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Apple's $2,000 Foldable iPhone Duo Screens Are Cracking Within Days, Dubbed 'Crackgate'",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Pseudonymous Polymarket Bettor 'swisstony' Made $12 Million Placing 184,000 Sports Wagers",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-10-29",
     "items": [
       {
@@ -630,6 +525,86 @@
       {
         "section": "Interesting",
         "headline": "A Man Completes a 28-Year, Four-Continent Walk Home — Ending at His Mom's House in England",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-11-04",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Democrats Sweep Midterms, Flip House and Senate in Historic Rebuke of Trump",
+        "gist": "Democrats won control of both the Senate (54 seats so far) and House (228+ seats), flipping long-held Republican strongholds including Texas, Kansas, South Carolina and Ohio. James Talarico beat Ken P"
+      },
+      {
+        "section": "World",
+        "headline": "Trump Says US Will Cut $4bn in Annual Military Aid to Israel by Year-End",
+        "gist": "Trump announced the US would end the bulk of its annual $4 billion military aid to Israel by the end of 2026, saying it stemmed from an agreement reached months ago with Netanyahu; Israel would instea"
+      },
+      {
+        "section": "World",
+        "headline": "Iran Ramps Up Shadow War to Choke Strait of Hormuz Oil Flows",
+        "gist": "Tehran has launched bomb-laden undersea drones, fired rocket-propelled grenades and deployed crews to attach limpet mines to tankers in an asymmetric campaign against vessels moving oil through the St"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Prediction Markets and Pollsters Both Called the Blue Wave Correctly",
+        "gist": "Kalshi and Polymarket each priced roughly 75% odds pre-election that Democrats would take both chambers, and Kalshi says its election markets saw over $2.5 billion in trading volume, vindicating the r"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "AI Hyperscalers Turn to European Bond Markets as US Capital Thins",
+        "gist": "US tech giants are increasingly tapping European debt markets to fund AI buildouts after burning through free cash flow and flooding US bond markets; Alphabet raised $6.7bn this week in euro bonds aft"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Arini's Hamza Lemssouguer Nurses 26% Loss as Credit Rout Bites",
+        "gist": "Arini Capital Management, the $22bn London credit hedge fund run by former Credit Suisse star trader Hamza Lemssouguer, is down over 26% this year after concentrated bets on lower-rated debt — includi"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Binance Details How Fake Job Interview Led to $6.3bn Hack",
+        "gist": "Binance disclosed that North Korea-linked hackers spent months executing a social-engineering scheme, posing as recruiters and conducting fake video interviews with a software engineer to build trust "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Apple Opens Siri AI to All Developers in Walled-Garden Shift",
+        "gist": "Apple released a developer preview letting any app build custom features into its rebuilt Siri AI assistant, which can see a user's screen and read messages. Developers can now add their own actions a"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Google Cuts Off Search for K-12 Schools That Opt Out of AI",
+        "gist": "Google announced that student accounts in grades K-12 will have Search, Gemini, and Gemini Notebook all switched off by default early next year, effectively forcing districts that want to keep AI out "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "CrowdStrike Unveils 'Kill Switch' for Rogue AI Agents, Buys Two Security Firms",
+        "gist": "CrowdStrike launched an AI Kill Switch within its Falcon Guardian platform, letting human admins forcibly sever an AI agent's connection to its underlying model if it starts behaving dangerously, with"
+      },
+      {
+        "section": "Interesting",
+        "headline": "Elon Musk Spent $474 Million on Midterm Candidates, Watched Nearly All of Them Lose",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Elon Musk Jokes His 'Election-Interfering Space Lasers' Didn't Work This Time",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Accenture-Coauthored AI Report Found Littered With Fake Citations and Nonexistent Studies",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Oracle Scraps Multibillion-Dollar Chip-Leasing Deal With Tencent Under US Pressure",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A $20bn 'Fonzi' Ponzi Scheme Promising 1,000% Returns Rocks Turkey, Implicating Top Officials",
         "gist": ""
       }
     ]
