@@ -1,105 +1,5 @@
 [
   {
-    "date": "2026-10-29",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Israel's Election Ends in Deadlock as Vote Count Finalizes",
-        "gist": "With nearly all votes counted, Netanyahu's right-wing bloc is tracking around 53-54 seats, short of the 61 needed for a majority, against roughly 48 for Gadi Eisenkot's opposition alliance. Netanyahu "
-      },
-      {
-        "section": "World",
-        "headline": "Flávio Bolsonaro Lands in Miami, Declares Himself Brazil's 'True President'",
-        "gist": "Flávio Bolsonaro fled Brazil via Argentina and Ecuador after Brazil canceled his passport over a money-laundering probe, landing in Miami where US officials reportedly plan to issue him and his family"
-      },
-      {
-        "section": "World",
-        "headline": "JD Vance Quietly Reaches Out to Iranian Hard-Liner to Revive Peace Talks",
-        "gist": "Vance sent a letter, at Trump's direction, to Mohsen Rezaei — secretary of Iran's top security body and former IRGC commander — proposing a resumption of comprehensive peace negotiations. The move is "
-      },
-      {
-        "section": "World",
-        "headline": "Spain's Deadliest Train Crash in Years Kills at Least 68",
-        "gist": "A high-speed passenger train rear-ended another stopped train near Toledo, killing at least 68 and injuring dozens, after an automated signaling system failed and operators made what Spain's transport"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Google Shares Suffer Worst-Ever One-Day Drop on AI Spending Fears",
-        "gist": "Alphabet shares fell as much as 11% in after-hours and premarket trading — a potential $400bn-plus wipeout, its largest ever — after search-ad revenue growth slowed to its weakest pace in five quarter"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Weil, Gotshal & Manges to Dissolve After Partner Exodus",
-        "gist": "Leadership at the storied 100-year-old law firm — which advised on the Lehman Brothers and Enron bankruptcies and employs about 1,200 lawyers — recommended winding down the practice after merger talks"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Fed Holds Rates Steady, Flags Schedule Overhaul",
-        "gist": "The Fed kept its benchmark rate at 3.75%-4% in a 10-2 vote, with Cleveland Fed's Beth Hammack and governor Lisa Cook both dissenting in favor of a hike — an unusual pairing of a hawk and a dove that h"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "DoorDash Nears $17bn Deal for Instacart",
-        "gist": "DoorDash is in advanced talks to acquire grocery-delivery rival Instacart for roughly $17 billion in cash and stock, an 11% premium over Instacart's prior closing price and well above its roughly $13b"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Kalshi Hits $40bn Valuation in New Funding Round",
-        "gist": "Prediction-market platform Kalshi closed a new funding round led by Sequoia Capital and Wellington Management, with Morgan Stanley Investment Management, Coatue and Andreessen Horowitz also participat"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Nvidia's $13bn Hugging Face Deal Draws DOJ Scrutiny",
-        "gist": "The Justice Department has made inquiries into Nvidia's roughly $13 billion agreement to acquire Hugging Face, a widely used platform hosting AI models, over concerns about competitive effects in AI i"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Google Unveils Gemini 4 Carbon, Reclaims Top Benchmark Spot",
-        "gist": "Google introduced Gemini 4 Carbon, a frontier model built for cybersecurity and long-running coding tasks that tops 15 of 17 benchmarks and scores 59 on Artificial Analysis's Intelligence Index — ahea"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Axiom AI Agents Machine-Verify Mathematics' Longest-Ever Proof",
-        "gist": "AI math startup Axiom used swarms of AI agents over 24 days to produce the first fully computer-checked version of the Classification of Finite Simple Groups, a proof originally spanning roughly 15,00"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Anthropic Pushes Deeper Into Drug Discovery",
-        "gist": "Anthropic disclosed partnerships with six pharmaceutical and biotech firms to explore using Claude across drug development, from early research through clinical trial prep, and said it has launched it"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Nvidia to Invest $3bn in Meta's Equity Offering, Deepening AI Partnership",
-        "gist": "Nvidia plans to invest $3 billion in Meta's recently announced stock offering (part of the up to $95bn Meta is raising to fund its AI buildout), with the two companies also exploring collaboration on "
-      },
-      {
-        "section": "Interesting",
-        "headline": "Secret Democratic Operation Recruited Multiple 'Dan Sullivans' to Confuse Alaska Senate Voters",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "China's CSI 300 Keeps Flirting With the Psychological 4,000-Point Line Officials Are Defending",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Startup Odin Energetics Builds Modular, Six-Month Bomb Factories to Solve the Pentagon's Drone-Explosive Shortage",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "US Was Secretly Surveilling a Nvidia-Linked Executive Suspected of Feeding Intel to Beijing",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Christine Lagarde to Step Down as ECB Chief Early, Eyed for World Economic Forum Top Job",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-10-30",
     "items": [
       {
@@ -605,6 +505,101 @@
       {
         "section": "Interesting",
         "headline": "A $20bn 'Fonzi' Ponzi Scheme Promising 1,000% Returns Rocks Turkey, Implicating Top Officials",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-11-05",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Democrats' Blue Wave Reshapes Washington, Rattles Markets and Texas Politics",
+        "gist": "With final tallies confirmed, Democrats flipped the House by 50+ seats and the Senate by at least eight, including historic wins in Texas (James Talarico) and Kansas, posting the biggest national Hous"
+      },
+      {
+        "section": "World",
+        "headline": "Voters Rejected Data Centers in 38 of 39 Local Ballot Measures, Spooking the AI Trade",
+        "gist": "Alongside the Democratic sweep, nearly every local ballot measure on data-center construction passed in favor of restrictions, and Democrats won governorships in several AI-buildout states including T"
+      },
+      {
+        "section": "World",
+        "headline": "China Blocks SoftBank's $5.4bn ABB Robotics Takeover",
+        "gist": "Beijing unexpectedly blocked SoftBank's planned $5.4 billion acquisition of ABB's robotics division, throwing Masayoshi Son's push into physical AI into disarray. ABB's robotics unit employs about 12,"
+      },
+      {
+        "section": "World",
+        "headline": "Hong Kong Sentences Democracy Activist Joshua Wong to 10 More Years",
+        "gist": "Hong Kong's High Court sentenced Joshua Wong, a leading pro-democracy figure, to an additional 10 years in prison on a second national-security-law conviction for conspiring to collude with foreign fo"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Dow Posts Best Day in 18 Months as Markets Cheer Divided Government",
+        "gist": "The Dow jumped 1,569 points (3%) and the S&P 500 gained 1.6% in the biggest post-election relief rally in years, as investors bet that a Democratic Congress means gridlock, fewer tax cuts, less tariff"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "CVS to Split Pharmacy From Insurance, Unwinding Decades of Deals",
+        "gist": "CVS Health said it will spin off its roughly 9,000 retail pharmacies into a separately listed company by early 2028, reversing a 20-year strategy that included its $27bn Caremark deal and $78bn Aetna "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Weil Gotshal's Collapse Triggers Mass Lateral Hire by Gibson Dunn",
+        "gist": "Gibson Dunn is in talks to hire as many as 120 lawyers from Weil, Gotshal & Manges across the US and London — one of the largest lateral law-firm moves ever — as the 95-year-old firm proceeds toward f"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Oracle Scraps Tencent Chip-Leasing Deal Under US Pressure",
+        "gist": "Oracle scrapped a multibillion-dollar chip-leasing contract with Tencent after bowing to pressure from the Trump administration, the latest sign of rising friction for US cloud providers serving Chine"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Musk's Midterm Bet Backfires: $474m Spent, Tens of Billions Lost",
+        "gist": "Elon Musk poured over $440 million into Republican campaigns, including $150m+ on Texas alone, only to watch Democrat James Talarico unseat Ken Paxton and flip the state's Senate seat for the first ti"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Meta Buys AI Coding Startup Conductor; OpenAI Acquires Pierre",
+        "gist": "Meta is acquiring Conductor, a startup whose platform lets developers run multiple AI coding agents in parallel workspaces, folding it into Meta's push to build better in-house dev tooling. Separately"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI Rolls Out Images 2.6, Adding GIFs and Faster Generation",
+        "gist": "OpenAI globally launched GPT-Image-2.6 in ChatGPT and Codex, generating images 50% faster than its predecessor while adding the ability to create and edit GIFs frame-by-frame. Two new variants, Flare "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Grok Bot Can Now Make Phone Calls — And You're Legally Responsible",
+        "gist": "xAI's Grok Bot assistant can now sit on hold, negotiate bills and book appointments over the phone on US numbers, with early demos including a Comcast bill negotiation and a pizza order. Users are con"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Cheap Open-Weight Model Ripple-65B Beats Much Bigger Rivals on Coding",
+        "gist": "AI chip-design startup Ricursive released Ripple-65B Preview, an open-weight model that tops larger US open models — including Meta's and Nvidia's offerings many times its size — on an agentic coding "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Axiom Formalizes the Entire Stacks Project in Machine-Checked Math",
+        "gist": "Math-AI startup Axiom released a complete Lean formalization of the Stacks Project, the open-source reference underlying modern algebraic geometry, creating the largest integrated library of machine-v"
+      },
+      {
+        "section": "Interesting",
+        "headline": "Referee in Brazilian Youth Football Match Hands Out 51 Red Cards in Mass Brawl, Sets Guinness Record",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Elon Musk Jokes Space-Based Data Centers Look \"Pretty Appealing\" After Midterm Losses",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A Dozen More European Flights Hit by Coordinated Bomb-Threat Hoaxes",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "McDonald's McRib Class-Action Lawsuit Over Whether It Contains Rib Meat Proceeds in Court",
         "gist": ""
       }
     ]
