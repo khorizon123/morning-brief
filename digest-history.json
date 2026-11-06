@@ -1,100 +1,5 @@
 [
   {
-    "date": "2026-10-30",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Israel's Election Ends in Deadlock, Netanyahu Cries Foul",
-        "gist": "With final vote counts confirmed, Netanyahu's bloc secured roughly 53-54 seats, short of the 61-seat majority, against about 48 for Gadi Eisenkot's opposition alliance, with Arab parties holding 19 se"
-      },
-      {
-        "section": "World",
-        "headline": "Flávio Bolsonaro Lands in Miami With Help From Trump Aides",
-        "gist": "Flávio Bolsonaro, defeated in Brazil's presidential runoff, fled to Florida after Brazil canceled his passport over a money-laundering probe; Trump and his aides reportedly helped him enter the US, an"
-      },
-      {
-        "section": "World",
-        "headline": "$6.3bn Binance Hack Is Crypto's Biggest Heist Ever",
-        "gist": "Binance, the world's largest crypto exchange, suspended all deposits, withdrawals and trading after hackers — suspected to be North Korea's TraderTraitor unit — breached its systems via a compromised "
-      },
-      {
-        "section": "World",
-        "headline": "US Weighs Resuming Iran Strikes After Midterms",
-        "gist": "The top US commander in the Middle East, Adm. Brad Cooper, briefed Trump at the White House on options for attacking Iran, alongside Defense Secretary Hegseth and Joint Chiefs Chairman Gen. Dan Caine,"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Alphabet Suffers Record $500bn Wipeout as Big Tech's AI Spending Spooks Wall Street",
-        "gist": "Alphabet shares fell 13% — their worst day ever and the second-biggest single-day market-cap loss on record — after Google's core search and ad business missed expectations, with AI Mode queries canni"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "AI Financing Frenzy Continues: SpaceX, Anthropic, Meta All Raise Fresh Billions",
-        "gist": "Even as AI stocks wobble, credit markets are doubling down: SpaceX closed $40bn in debt financing to buy Nvidia GPUs, Wall Street banks syndicated a $63bn chip-purchase facility for Anthropic backed b"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "DoorDash Clinches $17bn Deal for Instacart",
-        "gist": "DoorDash confirmed an agreement to acquire grocery-delivery rival Instacart for roughly $17bn in cash and stock, an 11% premium to Instacart's prior close. CEO Tony Xu pitched the combination as creat"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Weil, Gotshal & Manges to Dissolve After 95 Years",
-        "gist": "The storied Wall Street law firm, which advised on the Lehman and Enron bankruptcies, will wind down after a cascade of partner defections — including M&A rainmaker Michael Aiello (to Cravath) and two"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Thrive Holdings to Buy ADT for $7.6bn as Apollo Exits",
-        "gist": "Thrive Holdings, an offshoot of Josh Kushner's venture firm, agreed to acquire home-security company ADT for $7.6bn in cash, with Apollo Global Management acting as sole financier on a multi-billion-d"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Nvidia CEO's Associate Allegedly Fed Intelligence to Beijing, Trump Took No Action",
-        "gist": "US intelligence agencies concluded that Alice Huang, an executive at Singapore-based data-center firm Megaspeed who had close ties to Nvidia CEO Jensen Huang, was passing information to China; Trump w"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Mistral Releases Open Weights for Trillion-Parameter Large 4",
-        "gist": "Mistral published the weights for Mistral Large 4, a trillion-parameter model built for self-hosted deployment and cybersecurity use cases, claiming leading open-weight performance on agentic coding b"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Open-Weight AI Can Now Weaponize Security Patches Before Users Get Updates",
-        "gist": "Researchers found that Zhipu's GLM 5.3 model can automatically identify and build working exploits from published-but-not-yet-shipped Firefox security fixes — turning a patch note into an attack befor"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Anthropic Deploys Self-Monitoring AI to Catch Claude's Own Misuse",
-        "gist": "Anthropic rolled out 'self-assessment,' where Claude reviews each conversation after replying and flags potential harms for human review; the system has quietly run since June. On a stronger internal "
-      },
-      {
-        "section": "Interesting",
-        "headline": "Polymarket Paused Trading After Vendor Security Flaw Let Hackers Drain User Accounts",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "$1,000 AI-Powered Laser Brick in China Tracks and Burns the Wings Off Mosquitoes Mid-Flight",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Democratic Operatives Recruited a Second 'Dan Sullivan' to Confuse Alaska Voters, Now Under DOJ Criminal Investigation",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Odyssey Cruise Ship Sold 'Lifetime' Cabins for $350,000, Then Ran Out of Money and Stranded Passengers in Cambodia",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Cheesecake Factory Stock Is Up 124% This Year, Partly Thanks to an Obama Jab About the White House Redesign",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-10-31",
     "items": [
       {
@@ -600,6 +505,121 @@
       {
         "section": "Interesting",
         "headline": "McDonald's McRib Class-Action Lawsuit Over Whether It Contains Rib Meat Proceeds in Court",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-11-06",
+    "items": [
+      {
+        "section": "World",
+        "headline": "AI-Fear Rout Rips Through Global Markets as Democrats' Data-Center Backlash Spooks Wall Street",
+        "gist": "US stocks suffered their worst day since April 2025's tariff shock, with the S&P 500 down 4.4% and the Nasdaq 100 plunging 6.4%, erasing roughly $2.5-3.2tn in market value as investors concluded the D"
+      },
+      {
+        "section": "World",
+        "headline": "Anthropic's Blockbuster IPO Suddenly in Doubt",
+        "gist": "Major investors are growing skeptical that Anthropic can pull off its planned IPO at a valuation of up to $1.5 trillion, according to the Wall Street Journal, with some suggesting the company may need"
+      },
+      {
+        "section": "World",
+        "headline": "OpenAI's Marquee Backers Pull Back as Funding Round Shrinks Further",
+        "gist": "OpenAI has cut its pre-IPO raise to around $20bn at a $1.25tn valuation — down from a prior $30bn/$1.5tn target — and DealBook reports some of its biggest previous backers are now investing less than "
+      },
+      {
+        "section": "World",
+        "headline": "Trump Administration Grapples With Fallout From Historic Midterm Losses",
+        "gist": "Secretary of State Marco Rubio is reportedly weighing an exit from the administration (which the State Department denies), Rep. Thomas Massie says he'll move to impeach Defense Secretary Hegseth, and "
+      },
+      {
+        "section": "World",
+        "headline": "Paraguay's President Resigns After Digital Bank Collapse Wipes Out Savings",
+        "gist": "Santiago Peña, Paraguay's pro-Trump president, resigned after Ueno, a digital bank used by more than half the country's adults, collapsed amid allegations of irregular bookkeeping; the central bank se"
+      },
+      {
+        "section": "World",
+        "headline": "China Blocks SoftBank's $5.4bn ABB Robotics Takeover",
+        "gist": "Beijing unexpectedly blocked SoftBank's planned acquisition of ABB's robotics division, derailing Masayoshi Son's push into physical AI and humanoid robotics. The move is being read as an opening shot"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Wendy's Rejects Nelson Peltz's $1.4bn Takeover Bid",
+        "gist": "Wendy's board unanimously rejected a buyout offer from Nelson Peltz's Trian Fund Management at $7.35 a share in cash, saying it undervalues the company and expressing confidence in new CEO Bob Wright'"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Zipline's Valuation More Than Doubles to $21.5bn on $1.5bn Raise",
+        "gist": "Drone-delivery startup Zipline raised $1.5bn, pushing its valuation to $21.5bn from earlier this year, as CEO Keller Cliffton said the round signals wider acceptance of autonomous delivery among inves"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Blackstone Doubles Lock-Up Periods for Asian Investors in $29bn Retail PE Fund",
+        "gist": "Blackstone introduced a new share class for its BXPE private-equity evergreen fund requiring new clients in Singapore and Hong Kong to hold shares for at least four years or pay a penalty — double the"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Musk and Zuckerberg Maneuver to Insulate AI Spending From Shareholder Suits",
+        "gist": "Elon Musk and Mark Zuckerberg are each reshaping corporate structures to keep control while raising capital for AI: Zuckerberg is pushing a new Meta share class letting him sell stock without ceding c"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "LIV Golf Shuts Down After $5bn Saudi-Backed Bet Fails",
+        "gist": "LIV Golf is winding down after BC Partners' last-ditch effort to revive the league as 'LIV 2.0' collapsed when it couldn't secure enough player commitments for a 2027 schedule, despite offering up to "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "METR Finds Anthropic's AI Progress Has Roughly Doubled — Driven Mostly by AI Itself",
+        "gist": "AI-evaluation nonprofit METR, given 11 weeks of inside access to Anthropic's internal data, estimates the lab's research progress is running 1.3x to 3x faster than its 2024-25 pace, crediting AI tools"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Congress Summons Jensen Huang Over Alleged China Spy Ties",
+        "gist": "Republican leaders of three House committees formally asked Nvidia CEO Jensen Huang to give a closed-door briefing on his relationship with Alice Huang, a Singapore-based executive US intelligence bel"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI Releases GPT-6 Cyber, a Model Built to Hunt and Exploit Software Flaws",
+        "gist": "OpenAI released GPT-6 Cyber, a specialized model for finding and exploiting vulnerabilities that outperforms its flagship GPT-6 Astra on most cybersecurity tasks — and which found 81 serious new bugs "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI's Images 2.6 Adds GIF Generation to ChatGPT",
+        "gist": "OpenAI rolled out Images 2.6 across ChatGPT and Codex, a faster image-generation model family that can now animate photos, sketches, or typed prompts into frame-editable GIFs — its first image model w"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Goldman Sachs Elevates Record Number of Engineers to Partner",
+        "gist": "Goldman Sachs named a record number of engineers to its elite partner ranks this year, reflecting the growing influence of technical staff within a hierarchy historically dominated by bankers and trad"
+      },
+      {
+        "section": "Interesting",
+        "headline": "Union Pacific CEO Caught on Video Threatening to Raise Rates 'to Teach a Lesson' to Merger Objectors",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "NewJeans' Secret K-Pop Contracts Let Label Use Members' AI-Generated Voices and Faces After They Leave",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Newsom Commutes All 548 California Death Row Sentences in Largest Mass Clemency in US History",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Justice Department Opens Criminal Probe Into Who Leaked the 2022 Roe v. Wade Draft Opinion",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Parents Sue Google After Daughter Used School Chromebook Chatbot to Plan Suicide",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Russell Brand Found Guilty of Rape and Sexual Assault in London Court",
         "gist": ""
       }
     ]
