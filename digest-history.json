@@ -1,90 +1,5 @@
 [
   {
-    "date": "2026-10-31",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Google Stock Suffers Worst-Ever Crash as AI Fears Hammer Big Tech",
-        "gist": "Alphabet shares fell as much as 13% after disappointing search and ad results, wiping out roughly $500bn in market value in a single session — its largest one-day loss ever. The rout spread across Big"
-      },
-      {
-        "section": "World",
-        "headline": "North Korea Suspected in $6.3bn Binance Hack, Crypto's Biggest-Ever Heist",
-        "gist": "Hackers breached Binance, the world's largest crypto exchange, stealing $6.3 billion after compromising an employee's laptop; the exchange suspended withdrawals and said it would cover all losses. Sta"
-      },
-      {
-        "section": "World",
-        "headline": "Weil Gotshal to Dissolve After 95 Years",
-        "gist": "The storied Wall Street law firm, which advised on the Lehman and Enron bankruptcies and employs about 1,200 lawyers, will wind down after its incoming managing partner Ramona Nee abruptly declined th"
-      },
-      {
-        "section": "World",
-        "headline": "Ukraine Strikes Russian Refinery, Ending Self-Imposed Pause Trump Demanded",
-        "gist": "Ukrainian forces hit a Russian oil refinery, their first such strike since October 20, defying repeated US demands that Kyiv halt attacks on Russian energy infrastructure. The move comes as Russian dr"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Nasdaq's Worst Month in a Year as Intel, Alphabet Lead AI-Spending Rout",
-        "gist": "The Nasdaq composite posted its worst day since June and worst month in over a year as fears mount that the AI capex boom isn't paying off. Intel shares crashed 29% — the worst session in company hist"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "OpenAI Trims Funding Target to $20bn at $1.25tn Valuation",
-        "gist": "OpenAI cut the size of its upcoming funding round by $10bn, now seeking roughly $20bn at a $1.25 trillion valuation, as investor appetite cools alongside the broader tech selloff. The reduction follow"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Clayton Dubilier & Rice Pursues ~$40bn Take-Private of Global Payments",
-        "gist": "Private equity firm Clayton Dubilier & Rice is in talks to take payments processor Global Payments private at an enterprise value of roughly $40 billion, which would rank among the largest leveraged b"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "US Economy Grew 3.4% on AI Spending Boom, Even as Markets Wobble",
-        "gist": "US GDP grew at a 3.4% annualized rate in the third quarter, beating forecasts and fueled largely by AI-related capital spending — even as the same spending spree is now spooking equity investors. Euro"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "\"Legal Engineer\" Emerges as Law's Hottest New Job Title",
-        "gist": "As AI reshapes legal work, law firms, in-house teams and AI vendors are racing to hire \"legal engineers\" — people fluent in both law and technology who redesign workflows and train colleagues on AI to"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "AI-Discovered PHP Flaws and Weaponized Patches Raise Alarm on AI-Assisted Hacking",
-        "gist": "Beyond this week's record Binance hack, security researchers are increasingly using AI models themselves to both find and exploit vulnerabilities — a double-edged trend flagged in WSJ's Risk Journal p"
-      },
-      {
-        "section": "Interesting",
-        "headline": "Intel Shares Crash 29% in Worst Trading Day in Company History",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Hello Kitty Gets Dragged Into a Beijing-Tokyo Diplomatic Standoff",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "North Sea Oil and Gas Workers Turn to Weight-Loss Drugs to Meet 124kg Flight Weight Limit",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Anduril-Backed Startup Wants to Genetically Engineer Faster, Keener-Nosed Battlefield Dogs",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Old Wind Turbines Harbor Up to $100,000 of Rare Earths Each, Spurring a Scrapyard Gold Rush",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "EssilorLuxottica Heir Claims He's Slept With More Than 2,000 Women in Bizarre Public Feud With CEO",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-11-01",
     "items": [
       {
@@ -620,6 +535,86 @@
       {
         "section": "Interesting",
         "headline": "Russell Brand Found Guilty of Rape and Sexual Assault in London Court",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-11-07",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Trump Replaces Chief of Staff Susie Wiles With Stephen Miller After Midterm Rout",
+        "gist": "Days after Republicans' historic midterm losses, Trump named Stephen Miller — his hardline domestic policy adviser and architect of the immigration crackdown — as his new chief of staff, starting Mond"
+      },
+      {
+        "section": "World",
+        "headline": "US Jobs Report Beats Forecasts, Complicating Fed's Path",
+        "gist": "US employers added 165,000 jobs in October, far above the roughly 60,000 forecast, while unemployment ticked down to 4.1%. August and September figures were also revised upward. The strength reinforce"
+      },
+      {
+        "section": "World",
+        "headline": "Nvidia's Jensen Huang Faces Scrutiny Over Alleged Romantic Tie to Suspected Chinese Spy",
+        "gist": "US intelligence officials believe Nvidia CEO Jensen Huang had a romantic relationship with a Singapore-based executive, Alice Huang, whom they suspect was recruited by China to gather information on N"
+      },
+      {
+        "section": "World",
+        "headline": "Israel's Eisenkot Poised to Get First Shot at Forming Government",
+        "gist": "Israeli President Isaac Herzog is expected to announce Sunday that Gadi Eisenkot, the opposition bloc leader endorsed by a parliamentary majority, will get the first mandate to try to form a governmen"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "AI Stocks Rebound After Historic $3.2tn Rout",
+        "gist": "US stocks staged a tepid recovery Friday, with the Nasdaq gaining 1.1%, after Thursday's selloff erased roughly $3.2 trillion in value — the worst session since April 2025 — as Democrats' midterm swee"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Tesla Confirms End of Cybertruck Production",
+        "gist": "Elon Musk confirmed Tesla will wind down Cybertruck production next year at its sole manufacturing site in Texas, citing weak sales and multiple recalls. Musk said the move will free up capacity for t"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Weil Gotshal's Dissolution Triggers Leadership Defection to Kirkland & Ellis",
+        "gist": "Ramona Nee, the lawyer who was set to lead Weil, Gotshal & Manges before abruptly declining the top job and accelerating the firm's collapse, is now joining rival Kirkland & Ellis. The 95-year-old fir"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Law Firms Start Buying Liability Insurance for Their AI Agents",
+        "gist": "AI-native law firm Crosby spent six months securing $5 million in liability insurance for its AI agents from Testudo, a two-year-old insurer backed by $1 billion of underwriting capacity from Lloyd's "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI Releases GPT-6 Cyber, a Model Built to Hunt Software Vulnerabilities",
+        "gist": "OpenAI introduced GPT-6 Cyber, a specialized cybersecurity model designed to identify and validate exploitable software vulnerabilities while staying within researcher-set boundaries. It's the latest "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "METR: Anthropic's AI Research Is Running Up to 3x Faster, Driven by AI Itself",
+        "gist": "AI-evaluation nonprofit METR, granted 11 weeks of inside access to Anthropic, found the lab's research progress on well-defined tasks has roughly doubled compared with its 2024-25 pace, crediting AI t"
+      },
+      {
+        "section": "Interesting",
+        "headline": "Dane Cook Says His Own Half-Brother Embezzled $12 Million From Him",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Researchers Plan to Turn Michigan-Michigan State Tailgaters' Urine Into Fertilizer Pellets",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A French Third-Tier Football Club's Fans Protest Poor Form by Playing Circus Music During Matches",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Russia Asks CAS to Reverse Ice Hockey Readmission as Rival Nations Threaten Boycotts",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A $400m Bollywood Retelling of the Ramayana Becomes India's Most Expensive Film Ever",
         "gist": ""
       }
     ]
