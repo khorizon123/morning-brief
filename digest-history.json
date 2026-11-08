@@ -1,65 +1,5 @@
 [
   {
-    "date": "2026-11-01",
-    "items": [
-      {
-        "section": "World",
-        "headline": "North Korea Blamed for Record $6.3bn Binance Hack",
-        "gist": "The FBI formally attributed the theft to a North Korean hacking group, confirming suspicions from earlier in the week. Crypto exchanges are now moving to tighten security protocols following the large"
-      },
-      {
-        "section": "World",
-        "headline": "Iran Warns of Retaliation 'Without Geographical Limitations' Amid US Strike Fears",
-        "gist": "Ayatollah Khamenei told military commanders Iran's response to any attack would be immediate and unrestricted in scope, as Qatari mediators scramble to prevent a feared US-Israeli bombing campaign. Th"
-      },
-      {
-        "section": "World",
-        "headline": "Rare Ceasefire Lets Hundreds Evacuate Russian-Occupied Ukrainian City",
-        "gist": "Hundreds of Ukrainians escaped the Russian-occupied city of Oleshky after a local truce backed by the pope and Melania Trump. Separately, Ukraine ended its self-imposed pause in strikes on Russian ene"
-      },
-      {
-        "section": "World",
-        "headline": "Netanyahu's Coalition-Building Faces Early Test After Election Deadlock",
-        "gist": "With Israel's election producing no outright winner, Netanyahu now has to navigate a fractured parliament to try to form a government, a process widely seen as testing his political survival skills af"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Tudor Spins Out $9bn Quant Fund in Record Launch",
-        "gist": "Xantium, a quantitative trading operation currently housed within Paul Tudor Jones's Tudor Investment Corp, will separate into its own standalone hedge fund next year with roughly $9 billion in assets"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Bond Investors Pull Back Ahead of Pivotal US Midterms",
-        "gist": "Large fund managers are pausing positioning ahead of what FT is calling the 'most consequential' US midterm elections in years, with both the vote outcome and looming economic data releases creating u"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Germany Misses Winter Gas Storage Target",
-        "gist": "Europe's largest economy failed to hit its gas storage target ahead of winter, meaning it will need to rely more heavily on spot-market purchases to meet demand. The shortfall could push prices higher"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Oil Majors Resist Calls to Build New Refineries Despite Rising Fuel Prices",
-        "gist": "Despite fuel prices climbing as conflicts in the Middle East and Ukraine squeeze global refining capacity, major oil companies are holding off on investing in new refineries, preferring to capture ele"
-      },
-      {
-        "section": "Interesting",
-        "headline": "AI-Generated Mashup Videos of Fictional Characters Go Viral in China — Then Draw Government Scrutiny",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Bangkok's Top Snake Catcher Refuses to Kill Captured Reptiles, Leaving His Fire Station Overrun",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Falklands Fishing Turns Into a Free-for-All as Chinese and Spanish Vessels Flock to Contested Waters",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-11-02",
     "items": [
       {
@@ -615,6 +555,81 @@
       {
         "section": "Interesting",
         "headline": "A $400m Bollywood Retelling of the Ramayana Becomes India's Most Expensive Film Ever",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-11-08",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Democrats Vow Crypto-Ties Probe of Trump Family",
+        "gist": "Fresh off their midterm sweep, Democrats say they will launch congressional investigations into the Trump family's crypto holdings and ties to the industry. The move signals the new Congress intends t"
+      },
+      {
+        "section": "World",
+        "headline": "Nvidia's Huang Faces Fresh Scrutiny Over Alleged Spy Tie",
+        "gist": "US intelligence officials believe Nvidia CEO Jensen Huang had a romantic relationship with Alice Huang, a Singapore-based executive they suspect was recruited by China to gather information on the chi"
+      },
+      {
+        "section": "World",
+        "headline": "Gunman Kills Six in Kraków Shooting",
+        "gist": "A gunman opened fire in Kraków, Poland, killing six people. Prime Minister Donald Tusk urged politicians not to exploit the tragedy for political gain."
+      },
+      {
+        "section": "World",
+        "headline": "Paraguay Bank Collapse Exposes Cracks in a 'Star' Economy",
+        "gist": "The seizure of Ueno Bank, used by more than half of Paraguay's adults, has toppled President Santiago Peña and dented the country's reputation as a Latin American investment darling. Regulators are no"
+      },
+      {
+        "section": "World",
+        "headline": "Israel's Eisenkot Gets First Shot at Forming a Government",
+        "gist": "President Isaac Herzog has formally handed opposition leader Gadi Eisenkot the first mandate to build a ruling coalition, giving him 28 days to assemble a majority. It's a notable setback for Netanyah"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Berkshire Ramps Up Buybacks to $9.6bn as Insurance Lags",
+        "gist": "Berkshire Hathaway repurchased $9.6bn of its own stock in the quarter, a sharp step-up in buyback activity, even as quarterly operating income fell 5.8% year-on-year on a slowdown in its insurance bus"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Hotel Groups Add $50bn in Value on Resilient Travel Demand",
+        "gist": "Hotel operators have gained a combined $50bn in market value as bookings held up better than expected, with tourists largely shrugging off higher costs and ongoing geopolitical turmoil in the Middle E"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Apple Books $2.7bn Tax Savings Via Singapore",
+        "gist": "New disclosures show Apple saved $2.7bn in taxes by routing profits through Singapore, which has overtaken Ireland as the iPhone maker's largest tax shelter. The shift highlights how multinational tax"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Data-Center Backlash Becomes Wall Street's New Chart of the Week",
+        "gist": "The FT's chart of the week tracks how last week's near-sweep of anti-data-center ballot measures is rippling into capex plans, framing the AI buildout as now directly exposed to electoral politics. Th"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "AI Is Coming for Middle Managers Next",
+        "gist": "The FT reports that AI tools are increasingly automating the coordination and reporting work traditionally done by middle managers, putting their headcount — and eventually their pay grades — at risk."
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "UK Vows Not to Slow AI Investment Despite US Backlash",
+        "gist": "UK growth minister Dan Tomlinson said Britain will keep pushing AI investment even as political backlash against data centers roils the US, arguing current investment pace is 'too low' for the UK to s"
+      },
+      {
+        "section": "Interesting",
+        "headline": "Why America Hates AI But Asia Doesn't, Per the FT",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Little Red Dots in James Webb Images Have Astronomers Stumped — Possibly the Universe's First Supermassive Black Holes",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Criminal Gangs Now Counterfeiting Cheap Supermarket Wine, Not Just Fine Vintages",
         "gist": ""
       }
     ]
