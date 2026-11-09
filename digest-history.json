@@ -1,95 +1,5 @@
 [
   {
-    "date": "2026-11-02",
-    "items": [
-      {
-        "section": "World",
-        "headline": "US Midterms Loom With Senate on a Knife-Edge",
-        "gist": "Americans vote Tuesday in elections widely framed as a referendum on Trump, with final NYT/Siena polls showing Democrats leading in six of seven Senate battlegrounds, including long-shot red states li"
-      },
-      {
-        "section": "World",
-        "headline": "Qatar-Mediated Iran Talks Raise Hopes, Even as Washington Weighs Strikes",
-        "gist": "Iranian negotiators held a third day of talks with Qatari mediators in Doha, drafting a plan to reopen the Strait of Hormuz within two days of any deal; oil fell over 4% on the news. Separately, Netan"
-      },
-      {
-        "section": "World",
-        "headline": "Binance Users Pull Billions More After Record Hack",
-        "gist": "Binance users withdrew a net $3.6-5bn in the days after the exchange resumed service following last week's record $6.3bn hack, blamed on North Korean hackers. That's roughly 2% of pre-hack holdings; B"
-      },
-      {
-        "section": "World",
-        "headline": "Cyberattacks Hit Russian and Ukrainian Emergency Alert Systems",
-        "gist": "Ukraine blamed Russia for a cyberattack that sent fake 'nuclear alert' messages through its emergency-warning app; Russia said its own alert app was also hacked but didn't blame Kyiv. Separately, Ukra"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "OpenAI Cuts Funding Target to $20bn Amid Investor Jitters",
-        "gist": "OpenAI has trimmed its pre-IPO funding round from $30bn to $20bn and lowered its valuation target from $1.4tn to $1.25tn, with a Friday deadline for investors to commit. The retreat comes as a broader"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Tech Stocks Attempt Rebound After Brutal October",
-        "gist": "Global tech stocks opened higher Monday after the Nasdaq 100 fell 3.5% Friday to cap its worst month in over a year, driven by fears the AI capex boom isn't paying off. Alphabet's Barclays/BNP Paribas"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Junk Bond Market Rout Deepens as Credit Spreads Widen",
-        "gist": "A prolonged selloff in the riskiest corporate debt is rippling through credit markets, with yields on CCC-rated junk bonds climbing above 21% in Europe and 18% in the US as investors dump exposure to "
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Japanese Buyers Launch $21bn US Gas Deal Spree",
-        "gist": "Japanese trading and utility groups are striking roughly $21bn worth of deals to lock in US Gulf Coast shale gas supplies, as the world's second-largest LNG buyer seeks to diversify and secure energy "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI's GPT-Rosalind-6 Targets Biology and Drug Discovery",
-        "gist": "OpenAI quietly released a system card addendum for GPT-Rosalind-6, a frontier reasoning model built for biology, drug discovery and translational medicine, available to vetted scientists and instituti"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Google's Orbital Data Center Returns Its First AI Output",
-        "gist": "Google's Project Suncatcher prototype ran its open Gemma 4 model on a data-center-class TPU chip in orbit, generating a haiku that was beamed down to a ground station in Svalbard, Norway — CEO Sundar "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Data Centers Become a Midterm Ballot Issue",
-        "gist": "Roughly 20 US communities are voting this week on bans or pauses on new data centers, turning Tuesday's midterms into a referendum on the AI buildout itself. OpenAI is reportedly preparing a post-elec"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Alphabet Adds 'Catastrophic' AI Risk Warning to SEC Filings",
-        "gist": "Alphabet used the word 'catastrophic' for the first time in an SEC filing to describe the risk that its AI tools could cause severe societal harm if misused or misaligned — a notable escalation from i"
-      },
-      {
-        "section": "Interesting",
-        "headline": "A 20-Year-Old With 1,300 Flight Hours Was Piloting the Jet That Crashed in Florida, Killing All Nine Aboard",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Freezers Across Dozens of Swedish and Belgian Supermarkets Mysteriously Overheated to 55°C in Suspected Cyberattack",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Canada Is Building a Rival Satellite Network to Starlink — If It Survives a Fight With Its Own Creditors",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Germany Warns Its Own MPs to Assume Their iPhones Have Been Hacked",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Bulgaria's Pro-Russian Interim President Projected to Win Re-Election",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-11-03",
     "items": [
       {
@@ -630,6 +540,101 @@
       {
         "section": "Interesting",
         "headline": "Criminal Gangs Now Counterfeiting Cheap Supermarket Wine, Not Just Fine Vintages",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-11-09",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Jensen Huang Admits Affair With Suspected Chinese Spy, Nvidia Opens Board Investigation",
+        "gist": "Nvidia's board launched an independent investigation after CEO Jensen Huang admitted to an extramarital affair with Alice Huang, a Singapore-based Megaspeed executive US intelligence believes was recr"
+      },
+      {
+        "section": "World",
+        "headline": "Trump Says Renewed Iran Strikes 'Highly Unlikely,' Oil Slides to 10-Week Low",
+        "gist": "Trump told CNN a new wave of strikes on Iran was 'highly unlikely' provided talks over its nuclear program and the Strait of Hormuz progress, sending Brent crude down to around $95 a barrel, extending"
+      },
+      {
+        "section": "World",
+        "headline": "Trump Concedes Immigration Crackdown Was 'Too Tough,' Floats Amnesty Talks",
+        "gist": "In a '60 Minutes' interview recorded before Stephen Miller's appointment as chief of staff, Trump acknowledged his deportation campaign may have hurt Republicans in the midterms and offered to work wi"
+      },
+      {
+        "section": "World",
+        "headline": "Gunman Kills Nine in Krakow, Including His Own Family",
+        "gist": "A 24-year-old Polish man shot and killed his parents and sister at their home before fatally shooting six more people in Krakow's central market square. Officials have not established a motive."
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "SoftBank's AI Bet Wobbles as Tech Sell-Off Hits Holdings Ahead of Earnings",
+        "gist": "Masayoshi Son's SoftBank reports earnings Tuesday facing mounting pressure as the global tech sell-off erodes the value of its AI-heavy portfolio, including stakes in OpenAI and the now-blocked ABB ro"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Nvidia Spy Scandal Compounds Market Jitters, But Wall Street Stages Rebound",
+        "gist": "US and Asian stocks rose Monday as broader markets shrugged off Nvidia's near-5% premarket drop, continuing a rebound from last week's roughly $3tn rout. S&P 500 futures were up about 0.8% and the Nas"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Mitsui Chemicals, Development Bank of Japan to Buy Chipmaker JSR for $8.8bn",
+        "gist": "Mitsui Chemicals agreed to jointly acquire semiconductor-materials maker JSR with the Development Bank of Japan in an approximately $8.8 billion deal, consolidating Japan's position in critical chip-s"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Zipline Rival Wing Builds $125m Texas Drone Factory as Delivery Race Heats Up",
+        "gist": "Alphabet's drone-delivery unit Wing will invest up to $125 million in a new 15,000-square-foot Fort Worth, Texas factory capable of building tens of thousands of aircraft annually, creating up to 100 "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Anthropic Says It May Already Be Hitting Self-Improvement Threshold",
+        "gist": "Anthropic disclosed it may be imminently crossing — or may have already crossed — its own internal threshold for 'dramatically accelerated progress due to AI,' where AI tools meaningfully speed up the"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI Closes ~$11bn Funding Tranche at $1.25tn Valuation",
+        "gist": "OpenAI reportedly closed roughly $11 billion of its new funding round at a $1.25 trillion valuation — up sharply from $852 billion in March — with the total round potentially reaching $20 billion befo"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Anthropic Strikes $3.4bn Deal to Generate Its Own Power for Data Centers",
+        "gist": "Anthropic signed a $3.4 billion agreement to generate its own electricity for data centers, as surging AI compute demand continues to strain power grids and utilities. The move mirrors a broader indus"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Physical Superintelligence's AI Proves 18-Year-Old Quantum Complexity Conjecture",
+        "gist": "AI-for-physics startup Physical Superintelligence (PSI) said a research system running an unreleased Anthropic model proved the Aaronson-Ambainis conjecture, a key open problem in quantum complexity t"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Congress Presses Nvidia's Huang on Alleged China Spy Tie Amid Scandal",
+        "gist": "Republican leaders of three House committees have given Jensen Huang until November 11 to agree to a closed-door briefing on his relationship with Alice Huang, intensifying scrutiny already roiling Nv"
+      },
+      {
+        "section": "Interesting",
+        "headline": "Peruvian Authorities Seize 3,000 Tarantulas Hidden in Socks at Lima Airport",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Trump Says He Was 'Only Kidding' About Offering UFC's Dana White the Press Secretary Job",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Beavers Return to Scotland's Loch Ness for First Time in 500 Years",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "'Cowmaxxing' Wellness Trend Puts Premium on Cow Hides, Bones and Cartilage",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Novaya Gazeta, Russia's Last Major Liberal Newspaper, Shuts Down for Good",
         "gist": ""
       }
     ]
