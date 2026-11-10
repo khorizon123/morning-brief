@@ -1,105 +1,5 @@
 [
   {
-    "date": "2026-11-03",
-    "items": [
-      {
-        "section": "World",
-        "headline": "US Midterms: Polls Open Amid Blue Wave Forecasts",
-        "gist": "Americans vote today in midterms widely framed as a referendum on Trump, with final polls showing Democrats leading in most Senate battlegrounds, including long-shot targets like Texas and Kansas. Rou"
-      },
-      {
-        "section": "World",
-        "headline": "US Strikes Iran's Qeshm Island on Election Eve",
-        "gist": "US forces hit targets on Qeshm Island near the Strait of Hormuz, described by officials as a limited defensive measure rather than an escalation. Iran responded by saying it's prepared to reopen the S"
-      },
-      {
-        "section": "World",
-        "headline": "Trump, Xi and Putin Weigh First-Ever Trilateral Summit",
-        "gist": "US, Chinese and Russian officials are discussing a possible first three-way summit between Trump, Xi and Putin at the APEC summit in Shenzhen later this month. Trump will also visit Manila for ASEAN b"
-      },
-      {
-        "section": "World",
-        "headline": "Binance Users Keep Pulling Funds as Laundering Drags On",
-        "gist": "Binance customers have withdrawn a net $4.9-5bn since the exchange reopened following last week's record $6.3bn hack, which the FBI blamed on North Korea's TraderTraitor group. Hackers are splitting t"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Anthropic's Updated IPO Filing Shows Q3 Revenue Nearly Tripling Loss",
-        "gist": "Anthropic's amended S-1 shows $17bn in third-quarter revenue — a twelvefold year-over-year jump — but quarter-over-quarter growth slowed to 47% from 144% previously, and the company posted a $23bn qua"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Marvell's $115bn Stock Deal for Lumentum Spooks Investors",
-        "gist": "Chipmaker Marvell agreed to an all-stock acquisition of Lumentum, which makes lasers and optical components for data centers, valuing it at $115bn — one of the largest tech mergers ever and a bet that"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Apple Beats on Revenue but Flags Slowing Growth and Margin Pressure",
-        "gist": "Apple reported $114.5bn in revenue, up about 12% year-over-year, with iPhone revenue surging 17% to $57.6bn and Mac revenue up over 23%. But new CEO John Ternus warned margins are tightening and guide"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Weil Gotshal Partners to Vote on Formal Wind-Down",
-        "gist": "Partners at the 95-year-old law firm Weil, Gotshal & Manges — which advised on the Lehman, Enron and Sears bankruptcies — will vote this week to formally dissolve after a wave of partner defections ma"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Nvidia Tells Cloud Partners to Cut China Exposure",
-        "gist": "Nvidia has told its data-center cloud computing clients to ensure at least 51% of their services go to non-Chinese companies, according to people familiar with the matter, tightening the screws on Bei"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Todd Boehly's Insurer Piles $3bn Into His Own Beverly Hills Project",
-        "gist": "Security Benefit, the life insurer owned by Todd Boehly's Eldridge Industries, has built up more than $3bn in lending tied to One Beverly Hills, a luxury residential-retail-hotel project where Boehly'"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Anthropic Warns It May Be Nearing Self-Improving AI",
-        "gist": "In its updated IPO filing, Anthropic disclosed it may soon hit its internal threshold for recursive self-improvement (RSI) — the point where AI systems meaningfully help build the next generation of m"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "GPT-6.2 Astra Spotted in Codex Ahead of Possible Launch",
-        "gist": "OpenAI's next model, GPT-6.2 Astra, has begun appearing in Codex usage logs, suggesting a staged rollout or A/B test ahead of a public release that could come within days. Notably, OpenAI reportedly s"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI Launches LifeVal to Grade AI on Everyday Tasks",
-        "gist": "OpenAI introduced LifeVal, a benchmark measuring how well AI models handle everyday tasks like booking appointments, buying groceries and navigating government forms, built from a survey of 4,000 peop"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI Strikes Four Deals to Embed AI Across Abu Dhabi's Government and Economy",
-        "gist": "OpenAI sealed agreements with ADNOC, the Abu Dhabi government, state investor Mubadala and AI firm G42's Inception42, aiming to cut oil-field planning from months to hours and digitize government rule"
-      },
-      {
-        "section": "Interesting",
-        "headline": "Elon Musk Confirms Grok Bot Usage Limits Cut Because Costs Were \"Unsustainably High\" Relative to Revenue",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Anthropic's Claude Code Now Refuses to Rebuild Certain Existing Video Games Over IP Concerns",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "King Charles to Address Slavery Legacy During Nine-Day Caribbean Tour",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Disneyland's Autopia Ride Finally Ditches Gas Engines After 71 Years of Belching Exhaust",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A Man Completes a 28-Year, Four-Continent Walk Home — Ending at His Mom's House in England",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-11-04",
     "items": [
       {
@@ -635,6 +535,111 @@
       {
         "section": "Interesting",
         "headline": "Novaya Gazeta, Russia's Last Major Liberal Newspaper, Shuts Down for Good",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-11-10",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Trump Says FBI Is 'Looking Into' Nvidia's Huang as Spy Scandal Deepens",
+        "gist": "Trump confirmed the FBI is examining Jensen Huang's affair with suspected Chinese spy Alice Huang, saying he spoke to Huang directly and believed his denial of knowing her ties to Beijing. New reporti"
+      },
+      {
+        "section": "World",
+        "headline": "Trump Declares Iran War 'Effectively Over,' Oil Hits 10-Week Low",
+        "gist": "Trump said a resumption of US strikes on Iran was 'highly unlikely' and touted 'positive momentum' toward ending the nine-month conflict after meeting Qatar's prime minister, who has been brokering di"
+      },
+      {
+        "section": "World",
+        "headline": "France Blames Iran for Cyberattack That Spoiled Food in 700 Supermarkets",
+        "gist": "France's foreign minister said Iran was behind a hack that cranked up refrigeration temperatures across 700 European supermarkets, causing tens of millions of dollars in damage, widespread spoilage an"
+      },
+      {
+        "section": "World",
+        "headline": "US-Russia-Ukraine Peace Talks Resume in Abu Dhabi After Nine-Month Pause",
+        "gist": "Negotiators from the US, Ukraine and Russia meet in Abu Dhabi today for their first trilateral talks since February, with the focus on security guarantees for both sides. Envoy Jared Kushner has pushe"
+      },
+      {
+        "section": "World",
+        "headline": "Republican Lawmaker Forces Impeachment Vote on Defense Secretary Hegseth",
+        "gist": "Rep. Thomas Massie formally introduced articles of impeachment against Pete Hegseth, accusing him of unlawfully launching the Iran war without congressional authorization and illegally killing civilia"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "SoftBank Posts Surprise $7bn Loss on AI Data-Center Writedown",
+        "gist": "SoftBank reported a ¥1.1tn ($7bn) quarterly loss, its first in nearly two years, dragged down by a $3.7bn writedown tied to a US data-center project. The results test confidence in Masayoshi Son's eno"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Stocks Rebound Sharply as Oil Slide Offsets Nvidia Jitters",
+        "gist": "The S&P 500 jumped 2.3-2.4% and the Nasdaq 100 surged 3.4% as falling oil prices and fading Iran-war fears outweighed the Nvidia scandal, which had briefly spooked markets. The Dow rose 2.2%, pushing "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "ExxonMobil Signals Return to Venezuela After Years of Calling It 'Uninvestable'",
+        "gist": "ExxonMobil signed a memorandum of understanding with Caracas and state oil firm PDVSA to explore 'potential upstream opportunities,' ending a 19-year absence from the country. The move comes months af"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "China's Trade Surplus Tops $1 Trillion Through October, Record Pace",
+        "gist": "China posted a $105bn trade surplus in October alone, putting its cumulative 10-month surplus above $1 trillion and on track to exceed last year's record. Falling oil prices (as Iran-war fears ease) a"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Honda to Build $3bn Ohio Plant as It Pivots Back to Hybrids",
+        "gist": "Honda will build a $3 billion plant in Ohio dedicated to hybrid-vehicle production, its first new American plant in two decades, adding over 2,000 jobs and roughly 240,000 vehicles of annual capacity "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Anthropic's Fable 5.2 Tops Leaderboards as Dario Amodei's 'Pacing' Plan Unfolds",
+        "gist": "Anthropic released Claude Fable 5.2 and Mythos 5.2, cheaper and faster upgrades that jumped to No. 1 on Artificial Analysis's Intelligence Index, edging out Google's still-unreleased Gemini 4 Carbon. "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Google Unveils Two New TPU Chips Day After Nvidia's Scandal Breaks",
+        "gist": "Google announced the TPU 8tx and 8i Max, specialized custom AI chips arriving next year — one designed to keep data encrypted even while a model is processing it, the other combining two chips to doub"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Meta's Cut-Rate Muse Ember Undercuts Anthropic and OpenAI on Agent Costs",
+        "gist": "Meta released Muse Ember, its smallest AI model yet, built for routine, high-volume tasks inside AI agents, matching Anthropic's budget Claude Haiku 5.5 on performance at roughly one-third the per-tas"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Nvidia's Top Lawyer Intervened as Commerce Probed Huang's Alleged Spy Tie",
+        "gist": "Nvidia's general counsel reportedly emailed Commerce Department agents in August 2025 while they investigated whether Singapore-based Megaspeed — the firm tied to Jensen Huang's alleged spy affair — w"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Mavria's Modular, Truck-Shippable Data Centers Aim to Fix AI's Physical Bottleneck",
+        "gist": "A Texas startup founded by three Energy Department veterans, Mavria, has raised $130 million at a $1 billion valuation for Terrain, a modular 5-megawatt data-center unit that bundles power distributio"
+      },
+      {
+        "section": "Interesting",
+        "headline": "Trump Says He'll Take Jensen Huang on Another China Trip Despite Spy Scandal: 'I Haven't Heard He's Done Anything Wrong'",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A Martin Luther King Handwritten Draft of 'I Have a Dream,' Thought Lost, Surfaces From an Aide's Desk Drawer and Heads to Auction",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "M. John Harrison, 81, Becomes First Science-Fiction Writer to Win the Booker Prize",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Washington, D.C. and Denver Voters Both Approve Ballot Measures Banning Foie Gras",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "The Weeknd's Surprise Hong Kong Tribute Song Sparks a City-Wide Wave of 1990s Nostalgia",
         "gist": ""
       }
     ]
