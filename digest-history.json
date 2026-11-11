@@ -1,85 +1,5 @@
 [
   {
-    "date": "2026-11-04",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Democrats Sweep Midterms, Flip House and Senate in Historic Rebuke of Trump",
-        "gist": "Democrats won control of both the Senate (54 seats so far) and House (228+ seats), flipping long-held Republican strongholds including Texas, Kansas, South Carolina and Ohio. James Talarico beat Ken P"
-      },
-      {
-        "section": "World",
-        "headline": "Trump Says US Will Cut $4bn in Annual Military Aid to Israel by Year-End",
-        "gist": "Trump announced the US would end the bulk of its annual $4 billion military aid to Israel by the end of 2026, saying it stemmed from an agreement reached months ago with Netanyahu; Israel would instea"
-      },
-      {
-        "section": "World",
-        "headline": "Iran Ramps Up Shadow War to Choke Strait of Hormuz Oil Flows",
-        "gist": "Tehran has launched bomb-laden undersea drones, fired rocket-propelled grenades and deployed crews to attach limpet mines to tankers in an asymmetric campaign against vessels moving oil through the St"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Prediction Markets and Pollsters Both Called the Blue Wave Correctly",
-        "gist": "Kalshi and Polymarket each priced roughly 75% odds pre-election that Democrats would take both chambers, and Kalshi says its election markets saw over $2.5 billion in trading volume, vindicating the r"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "AI Hyperscalers Turn to European Bond Markets as US Capital Thins",
-        "gist": "US tech giants are increasingly tapping European debt markets to fund AI buildouts after burning through free cash flow and flooding US bond markets; Alphabet raised $6.7bn this week in euro bonds aft"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Arini's Hamza Lemssouguer Nurses 26% Loss as Credit Rout Bites",
-        "gist": "Arini Capital Management, the $22bn London credit hedge fund run by former Credit Suisse star trader Hamza Lemssouguer, is down over 26% this year after concentrated bets on lower-rated debt — includi"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Binance Details How Fake Job Interview Led to $6.3bn Hack",
-        "gist": "Binance disclosed that North Korea-linked hackers spent months executing a social-engineering scheme, posing as recruiters and conducting fake video interviews with a software engineer to build trust "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Apple Opens Siri AI to All Developers in Walled-Garden Shift",
-        "gist": "Apple released a developer preview letting any app build custom features into its rebuilt Siri AI assistant, which can see a user's screen and read messages. Developers can now add their own actions a"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Google Cuts Off Search for K-12 Schools That Opt Out of AI",
-        "gist": "Google announced that student accounts in grades K-12 will have Search, Gemini, and Gemini Notebook all switched off by default early next year, effectively forcing districts that want to keep AI out "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "CrowdStrike Unveils 'Kill Switch' for Rogue AI Agents, Buys Two Security Firms",
-        "gist": "CrowdStrike launched an AI Kill Switch within its Falcon Guardian platform, letting human admins forcibly sever an AI agent's connection to its underlying model if it starts behaving dangerously, with"
-      },
-      {
-        "section": "Interesting",
-        "headline": "Elon Musk Spent $474 Million on Midterm Candidates, Watched Nearly All of Them Lose",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Elon Musk Jokes His 'Election-Interfering Space Lasers' Didn't Work This Time",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Accenture-Coauthored AI Report Found Littered With Fake Citations and Nonexistent Studies",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Oracle Scraps Multibillion-Dollar Chip-Leasing Deal With Tencent Under US Pressure",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A $20bn 'Fonzi' Ponzi Scheme Promising 1,000% Returns Rocks Turkey, Implicating Top Officials",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-11-05",
     "items": [
       {
@@ -640,6 +560,101 @@
       {
         "section": "Interesting",
         "headline": "The Weeknd's Surprise Hong Kong Tribute Song Sparks a City-Wide Wave of 1990s Nostalgia",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-11-11",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Anthropic's IPO Roadshow Opens to Strong Demand, Valuation May Hit $1.5tn",
+        "gist": "Anthropic's bankers, led by Goldman Sachs and Morgan Stanley, are considering raising the IPO price range above the initial $70-$78 after heavy investor demand on day one of the roadshow, which could "
+      },
+      {
+        "section": "World",
+        "headline": "Rubio Told Trump of Huang's Alleged Spy Tie Before China Trip, Contradicting Denial",
+        "gist": "The New York Times reports Secretary of State Marco Rubio told Trump aboard Air Force One in May that intelligence showed Nvidia CEO Jensen Huang was involved with a suspected Chinese spy — directly c"
+      },
+      {
+        "section": "World",
+        "headline": "House Republicans Shelve Hegseth Impeachment Effort",
+        "gist": "House Republicans voted 211-204 to refer impeachment articles against Defense Secretary Pete Hegseth to committee, effectively killing Rep. Thomas Massie's effort for now; Trump called it an 'exonerat"
+      },
+      {
+        "section": "World",
+        "headline": "US Soldier Arrested in UK on Suspicion of Spying for Russia",
+        "gist": "British counterterrorism police, working with the FBI, arrested a 41-year-old senior US Army soldier assigned to a NATO rapid-reaction command near Gloucester, England, on espionage allegations. Autho"
+      },
+      {
+        "section": "World",
+        "headline": "Hot October Inflation Print Revives Fed Rate-Hike Fears",
+        "gist": "US consumer prices rose 0.4% in October, beating forecasts, with Fed governor Christopher Waller having flagged hours earlier he'd back a larger half-point hike in December if core prices rose 0.3%+ —"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "SoftBank Posts $7.1bn Loss on Botched Gas-Turbine Bet for AI Data Centers",
+        "gist": "SoftBank disclosed a $7.1bn quarterly loss, driven largely by a $3.7bn writedown after it canceled reservations for gas power-generation turbines it couldn't use. Masayoshi Son's firm had reserved ove"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "TSMC Commits $1bn Combined to Anthropic and OpenAI Ahead of Their IPOs",
+        "gist": "TSMC's board approved buying $500m of stock in both Anthropic's IPO and OpenAI's expected future listing, a combined $1bn bet on its two largest AI customers. The move comes as TSMC posts record profi"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Weil Gotshal Partners Vote to Formally Dissolve 95-Year-Old Firm",
+        "gist": "Partners at Weil, Gotshal & Manges voted to wind down the firm after its effort to find a merger partner collapsed, formalizing a decision made last month. The firm, once among America's most prestigi"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Hedge Funds Suffer Worst Month Since Covid as AI Volatility Bites",
+        "gist": "October was the worst month for hedge funds since the pandemic began, according to JPMorgan, and November — with post-election swings and the Jensen Huang affair — has been bruising too. The Economist"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Anthropic's Claude Expands Into Spreadsheets, Whiteboards and Meetings",
+        "gist": "Anthropic rolled out Claude Sheets and Whiteboards in beta, made its Claude Data analytics tool generally available, and announced Claude Meetings, an assistant that joins video calls. Sheets builds w"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "AI Forecasters Move Up Doomsday-Adjacent Timeline for Superhuman AI Research",
+        "gist": "The AI Futures Project, the group behind the widely-read 'AI 2027' forecast, moved up its projection for AI matching top human researchers, citing evaluator METR's finding that Anthropic's research pa"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI Launches 'Businesses' Hub Letting Brands Build Verified ChatGPT Profiles",
+        "gist": "OpenAI introduced a beta called Businesses in ChatGPT, letting companies claim verified profiles, track how often the chatbot mentions them, and deploy custom AI shopping agents that paid ads can now "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "'Black October' Cyberattack Wave Exposes AI-Driven Spike in Software Vulnerabilities",
+        "gist": "The Economist reports a surge of major cyberattacks over the past month — AI was used to find a critical flaw in PHP, hackers cranked up European supermarket freezer temperatures destroying millions i"
+      },
+      {
+        "section": "Interesting",
+        "headline": "Nvidia's Top Lawyer Reportedly Intervened as Commerce Probed Huang's Alleged Spy Tie",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Jensen Huang Emailed Employees, Including His Own Children, Apologizing for Affair",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Treasury Secretary Scott Bessent Reportedly Moved Onto Military Base After Iranian Death Threats",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "CFTC Reportedly Preparing Charges Against Kalshi Over Undisclosed Trading Products",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Iowa's Governor-Elect Once Modeled for Italian Vogue and Walked a Prada Runway",
         "gist": ""
       }
     ]
