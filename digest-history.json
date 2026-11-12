@@ -1,100 +1,5 @@
 [
   {
-    "date": "2026-11-05",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Democrats' Blue Wave Reshapes Washington, Rattles Markets and Texas Politics",
-        "gist": "With final tallies confirmed, Democrats flipped the House by 50+ seats and the Senate by at least eight, including historic wins in Texas (James Talarico) and Kansas, posting the biggest national Hous"
-      },
-      {
-        "section": "World",
-        "headline": "Voters Rejected Data Centers in 38 of 39 Local Ballot Measures, Spooking the AI Trade",
-        "gist": "Alongside the Democratic sweep, nearly every local ballot measure on data-center construction passed in favor of restrictions, and Democrats won governorships in several AI-buildout states including T"
-      },
-      {
-        "section": "World",
-        "headline": "China Blocks SoftBank's $5.4bn ABB Robotics Takeover",
-        "gist": "Beijing unexpectedly blocked SoftBank's planned $5.4 billion acquisition of ABB's robotics division, throwing Masayoshi Son's push into physical AI into disarray. ABB's robotics unit employs about 12,"
-      },
-      {
-        "section": "World",
-        "headline": "Hong Kong Sentences Democracy Activist Joshua Wong to 10 More Years",
-        "gist": "Hong Kong's High Court sentenced Joshua Wong, a leading pro-democracy figure, to an additional 10 years in prison on a second national-security-law conviction for conspiring to collude with foreign fo"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Dow Posts Best Day in 18 Months as Markets Cheer Divided Government",
-        "gist": "The Dow jumped 1,569 points (3%) and the S&P 500 gained 1.6% in the biggest post-election relief rally in years, as investors bet that a Democratic Congress means gridlock, fewer tax cuts, less tariff"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "CVS to Split Pharmacy From Insurance, Unwinding Decades of Deals",
-        "gist": "CVS Health said it will spin off its roughly 9,000 retail pharmacies into a separately listed company by early 2028, reversing a 20-year strategy that included its $27bn Caremark deal and $78bn Aetna "
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Weil Gotshal's Collapse Triggers Mass Lateral Hire by Gibson Dunn",
-        "gist": "Gibson Dunn is in talks to hire as many as 120 lawyers from Weil, Gotshal & Manges across the US and London — one of the largest lateral law-firm moves ever — as the 95-year-old firm proceeds toward f"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Oracle Scraps Tencent Chip-Leasing Deal Under US Pressure",
-        "gist": "Oracle scrapped a multibillion-dollar chip-leasing contract with Tencent after bowing to pressure from the Trump administration, the latest sign of rising friction for US cloud providers serving Chine"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Musk's Midterm Bet Backfires: $474m Spent, Tens of Billions Lost",
-        "gist": "Elon Musk poured over $440 million into Republican campaigns, including $150m+ on Texas alone, only to watch Democrat James Talarico unseat Ken Paxton and flip the state's Senate seat for the first ti"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Meta Buys AI Coding Startup Conductor; OpenAI Acquires Pierre",
-        "gist": "Meta is acquiring Conductor, a startup whose platform lets developers run multiple AI coding agents in parallel workspaces, folding it into Meta's push to build better in-house dev tooling. Separately"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI Rolls Out Images 2.6, Adding GIFs and Faster Generation",
-        "gist": "OpenAI globally launched GPT-Image-2.6 in ChatGPT and Codex, generating images 50% faster than its predecessor while adding the ability to create and edit GIFs frame-by-frame. Two new variants, Flare "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Grok Bot Can Now Make Phone Calls — And You're Legally Responsible",
-        "gist": "xAI's Grok Bot assistant can now sit on hold, negotiate bills and book appointments over the phone on US numbers, with early demos including a Comcast bill negotiation and a pizza order. Users are con"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Cheap Open-Weight Model Ripple-65B Beats Much Bigger Rivals on Coding",
-        "gist": "AI chip-design startup Ricursive released Ripple-65B Preview, an open-weight model that tops larger US open models — including Meta's and Nvidia's offerings many times its size — on an agentic coding "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Axiom Formalizes the Entire Stacks Project in Machine-Checked Math",
-        "gist": "Math-AI startup Axiom released a complete Lean formalization of the Stacks Project, the open-source reference underlying modern algebraic geometry, creating the largest integrated library of machine-v"
-      },
-      {
-        "section": "Interesting",
-        "headline": "Referee in Brazilian Youth Football Match Hands Out 51 Red Cards in Mass Brawl, Sets Guinness Record",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Elon Musk Jokes Space-Based Data Centers Look \"Pretty Appealing\" After Midterm Losses",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A Dozen More European Flights Hit by Coordinated Bomb-Threat Hoaxes",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "McDonald's McRib Class-Action Lawsuit Over Whether It Contains Rib Meat Proceeds in Court",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-11-06",
     "items": [
       {
@@ -655,6 +560,96 @@
       {
         "section": "Interesting",
         "headline": "Iowa's Governor-Elect Once Modeled for Italian Vogue and Walked a Prada Runway",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-11-12",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Nvidia Board Weighs Ousting Jensen Huang After Second Affair Revelation",
+        "gist": "Nvidia's board met into the night to decide the fate of founder Jensen Huang after the New York Times reported a second affair — this time with Kimberly Powell, the company's VP of health care who rep"
+      },
+      {
+        "section": "World",
+        "headline": "US-Russia-Ukraine Talks in Abu Dhabi Yield Prisoner Swap, No Breakthrough",
+        "gist": "Negotiators from the US, Ukraine and Russia concluded their first trilateral talks since a nine-month pause with their largest prisoner exchange of the war but no progress on ending the fighting. Envo"
+      },
+      {
+        "section": "World",
+        "headline": "Mississippi Elects Its First Black, First Democratic Senator Since Reconstruction",
+        "gist": "Democrat Scott Colom defeated Republican incumbent Cindy Hyde-Smith in a historic upset, becoming Mississippi's first Black senator since Reconstruction and the state's first Democratic senator in nea"
+      },
+      {
+        "section": "World",
+        "headline": "Black Sea Shipping Attacks Have Killed More Seafarers Than the Iran War",
+        "gist": "Russian and Ukrainian forces have launched over 300 attacks on commercial shipping in the Black Sea this year, killing more than 30 seafarers and leaving 20+ missing — more deaths than strikes in the "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Anthropic IPO Roadshow Draws Blockbuster Demand, Valuation May Top $1.5tn",
+        "gist": "Anthropic's roadshow for next week's listing has pulled in investor demand strong enough that bankers are weighing pushing the valuation above the initial $70-78/share range toward $1.4-1.5tn, potenti"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "US Stocks Rally as CoreWeave Earnings Beat, Tech Shrugs Off Nvidia Scandal",
+        "gist": "The S&P 500 rose 1.3% and the Nasdaq 100 climbed 2.3-2.4% on Wednesday as strong CoreWeave earnings and rising Anthropic IPO expectations outweighed Nvidia's governance crisis. AMD, Broadcom, SMIC and"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Banks Buy Credit Insurance to Offload AI Data-Center Loan Risk",
+        "gist": "Barclays, HSBC and JPMorgan are among lenders exploring or using credit insurance from firms like Chubb and AIG to lay off risk on data-center loans as they hit internal exposure limits to single borr"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Hot October CPI Keeps Fed Rate-Hike Debate Alive",
+        "gist": "US consumer prices rose 0.4% in October, slightly below forecasts but still elevated, with a top Fed official urging colleagues to consider a 50-basis-point hike in December — the first such move floa"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Anthropic Rolls Out Claude Sheets, Whiteboards and Meetings",
+        "gist": "Anthropic introduced new artifact types — Claude Sheets, Whiteboards, and Data — letting teams build spreadsheets, organize ideas, and create dashboards without leaving the Claude app. New interactive"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Google Releases Gemini 4 Carbon, Its Strongest Model Yet",
+        "gist": "Google made Gemini 4 Carbon available to all paying developers and enterprises via API, with rollout to Ultra subscribers in the Antigravity coding tool, the Gemini app, and AI Mode in Search. Google "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Google's AlphaGenome 2 Pinpoints Which Cells Diseases Actually Affect",
+        "gist": "DeepMind released AlphaGenome 2, an AI model that predicts how small DNA differences play out inside specific cell types rather than averaging across whole tissues as its predecessor did. It nearly do"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "United Airlines Bans Third-Party AI Agents From Booking Flights",
+        "gist": "United said it will block personal AI assistants, including Meta's Muse, from booking tickets or checking in passengers on its platforms, citing data-privacy risks and FAA rules requiring human attest"
+      },
+      {
+        "section": "Interesting",
+        "headline": "Elon Musk Jokes He'd Be 'Honored' to Hire Jensen Huang If Nvidia Ousts Him",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Over 35,000 Grok-Built Apps Were Publicly Accessible, Including an ICU Patient's Lab Results",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "A 126-Year-Old Air-Vent Maker Designed During the Nixon Era Is Suddenly an AI Data-Center Hot Commodity",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Google Researcher Uses 48 AI Agents to Scan NASA Jungle Laser Maps, Flags Possible Unlisted Maya Site",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Pastry World Cup: Team USA's Four Chefs Enter Final Training Stretch for Chocolate and Sugar Showdown",
         "gist": ""
       }
     ]
