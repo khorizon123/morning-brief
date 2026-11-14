@@ -1,85 +1,5 @@
 [
   {
-    "date": "2026-11-07",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Trump Replaces Chief of Staff Susie Wiles With Stephen Miller After Midterm Rout",
-        "gist": "Days after Republicans' historic midterm losses, Trump named Stephen Miller — his hardline domestic policy adviser and architect of the immigration crackdown — as his new chief of staff, starting Mond"
-      },
-      {
-        "section": "World",
-        "headline": "US Jobs Report Beats Forecasts, Complicating Fed's Path",
-        "gist": "US employers added 165,000 jobs in October, far above the roughly 60,000 forecast, while unemployment ticked down to 4.1%. August and September figures were also revised upward. The strength reinforce"
-      },
-      {
-        "section": "World",
-        "headline": "Nvidia's Jensen Huang Faces Scrutiny Over Alleged Romantic Tie to Suspected Chinese Spy",
-        "gist": "US intelligence officials believe Nvidia CEO Jensen Huang had a romantic relationship with a Singapore-based executive, Alice Huang, whom they suspect was recruited by China to gather information on N"
-      },
-      {
-        "section": "World",
-        "headline": "Israel's Eisenkot Poised to Get First Shot at Forming Government",
-        "gist": "Israeli President Isaac Herzog is expected to announce Sunday that Gadi Eisenkot, the opposition bloc leader endorsed by a parliamentary majority, will get the first mandate to try to form a governmen"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "AI Stocks Rebound After Historic $3.2tn Rout",
-        "gist": "US stocks staged a tepid recovery Friday, with the Nasdaq gaining 1.1%, after Thursday's selloff erased roughly $3.2 trillion in value — the worst session since April 2025 — as Democrats' midterm swee"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Tesla Confirms End of Cybertruck Production",
-        "gist": "Elon Musk confirmed Tesla will wind down Cybertruck production next year at its sole manufacturing site in Texas, citing weak sales and multiple recalls. Musk said the move will free up capacity for t"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Weil Gotshal's Dissolution Triggers Leadership Defection to Kirkland & Ellis",
-        "gist": "Ramona Nee, the lawyer who was set to lead Weil, Gotshal & Manges before abruptly declining the top job and accelerating the firm's collapse, is now joining rival Kirkland & Ellis. The 95-year-old fir"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Law Firms Start Buying Liability Insurance for Their AI Agents",
-        "gist": "AI-native law firm Crosby spent six months securing $5 million in liability insurance for its AI agents from Testudo, a two-year-old insurer backed by $1 billion of underwriting capacity from Lloyd's "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI Releases GPT-6 Cyber, a Model Built to Hunt Software Vulnerabilities",
-        "gist": "OpenAI introduced GPT-6 Cyber, a specialized cybersecurity model designed to identify and validate exploitable software vulnerabilities while staying within researcher-set boundaries. It's the latest "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "METR: Anthropic's AI Research Is Running Up to 3x Faster, Driven by AI Itself",
-        "gist": "AI-evaluation nonprofit METR, granted 11 weeks of inside access to Anthropic, found the lab's research progress on well-defined tasks has roughly doubled compared with its 2024-25 pace, crediting AI t"
-      },
-      {
-        "section": "Interesting",
-        "headline": "Dane Cook Says His Own Half-Brother Embezzled $12 Million From Him",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Researchers Plan to Turn Michigan-Michigan State Tailgaters' Urine Into Fertilizer Pellets",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A French Third-Tier Football Club's Fans Protest Poor Form by Playing Circus Music During Matches",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Russia Asks CAS to Reverse Ice Hockey Readmission as Rival Nations Threaten Boycotts",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A $400m Bollywood Retelling of the Ramayana Becomes India's Most Expensive Film Ever",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-11-08",
     "items": [
       {
@@ -630,6 +550,91 @@
       {
         "section": "Interesting",
         "headline": "Nearly 10% of 1665 Londoners Who Had Dental Surgery Died of Infection, Economist Reminds Readers",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-11-14",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Nationwide FAA Ground Stop Snarls US Air Travel",
+        "gist": "The FAA ordered a rare nationwide ground stop Friday afternoon, halting all departing flights for roughly five hours after a communications failure hit air traffic control centers nationwide. Transpor"
+      },
+      {
+        "section": "World",
+        "headline": "Trump Won't Raise Nvidia Spy Scandal With Xi at Shenzhen Summit",
+        "gist": "Officials say Trump will avoid raising the Jensen Huang spy scandal when he meets Xi Jinping (and possibly Putin) at next week's APEC summit in Shenzhen. The meeting comes as China hawks in Congress p"
+      },
+      {
+        "section": "World",
+        "headline": "Bessent Blames Commerce Department for Failing to Blacklist Megaspeed",
+        "gist": "Treasury Secretary Scott Bessent said his department had pushed for months to sanction Megaspeed, the Singapore firm linked to Jensen Huang's alleged spy affair, but that Commerce Secretary Howard Lut"
+      },
+      {
+        "section": "World",
+        "headline": "Colorado Democrat Ousts MAGA Favorite Lauren Boebert",
+        "gist": "Retired Navy Rear Admiral Eileen Laubacher narrowly defeated Rep. Lauren Boebert, 48.8% to 47.9%, in a Colorado district Trump had won by 18 points in 2024 — a fresh sign of Republican vulnerability a"
+      },
+      {
+        "section": "World",
+        "headline": "Microsoft 365 Outage Stretches Into Second Day, Disrupting Businesses Worldwide",
+        "gist": "A global Microsoft outage that began Thursday continued into Friday, with Downdetector logging complaints from hundreds of thousands of users across more than 70 countries unable to access Outlook, Te"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Anthropic Sets IPO Price Range as Thursday Listing Looms",
+        "gist": "Anthropic set an IPO price range of $70-$78 a share, implying a valuation of $1.26-$1.41 trillion, with bankers Goldman Sachs and Morgan Stanley weighing pushing it even higher given roadshow demand r"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "US Existing-Home Sales Hit Lowest Level Since 2010",
+        "gist": "Sales of existing US homes fell 5.5% in October to a seasonally adjusted annual rate of 3.75 million, the National Association of Realtors said — the steepest drop since January and the weakest pace i"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Nvidia's Board Approaches Arm CEO Rene Haas as Huang Successor",
+        "gist": "Nvidia's board has approached Rene Haas, chief executive of SoftBank-owned chip designer Arm, as it searches for a replacement for Jensen Huang following his resignation. Finance chief Colette Kress i"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "US Treasuries Set for Biggest Weekly Sell-Off in 18 Months",
+        "gist": "US Treasuries are on track for their worst weekly rout in more than 18 months after a hotter-than-expected October inflation print jolted investors who had bet the global bond selloff was over. The mo"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "United Bans Third-Party AI Agents From Booking Flights",
+        "gist": "United Airlines said it will block AI assistants — including Meta's Muse — from accessing customer accounts, booking tickets or checking in passengers on its platforms. The airline cited cybersecurity"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "'Black October' Cyberattack Surge Shows AI Lowering the Bar for Hackers",
+        "gist": "Security researchers are warning that AI is dramatically speeding up and cheapening attacks on physical, internet-connected equipment — ovens, freezers, cameras, industrial control systems — not just "
+      },
+      {
+        "section": "Interesting",
+        "headline": "Tanker Strikes Docked Cruise Ship in New Orleans, Leaving It on Its Side — All 130 Aboard Rescued, Officials Call It a 'Miracle on the Mississippi'",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Supreme Court Agrees to Review Trump's Blanket Denial of Asylum Claims at Southern Border",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Ohio Restaurant That Hosted Vivek Ramaswamy After Attack Ad Faces Customer Backlash",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Trump Threatens to Immediately Double Tariffs on Mexico Over Illegal Immigration",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Washington Plans to Bulldoze DC's Busiest Public Golf Course Into a US Open-Caliber Course",
         "gist": ""
       }
     ]
