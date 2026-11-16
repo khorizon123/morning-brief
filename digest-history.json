@@ -1,100 +1,5 @@
 [
   {
-    "date": "2026-11-09",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Jensen Huang Admits Affair With Suspected Chinese Spy, Nvidia Opens Board Investigation",
-        "gist": "Nvidia's board launched an independent investigation after CEO Jensen Huang admitted to an extramarital affair with Alice Huang, a Singapore-based Megaspeed executive US intelligence believes was recr"
-      },
-      {
-        "section": "World",
-        "headline": "Trump Says Renewed Iran Strikes 'Highly Unlikely,' Oil Slides to 10-Week Low",
-        "gist": "Trump told CNN a new wave of strikes on Iran was 'highly unlikely' provided talks over its nuclear program and the Strait of Hormuz progress, sending Brent crude down to around $95 a barrel, extending"
-      },
-      {
-        "section": "World",
-        "headline": "Trump Concedes Immigration Crackdown Was 'Too Tough,' Floats Amnesty Talks",
-        "gist": "In a '60 Minutes' interview recorded before Stephen Miller's appointment as chief of staff, Trump acknowledged his deportation campaign may have hurt Republicans in the midterms and offered to work wi"
-      },
-      {
-        "section": "World",
-        "headline": "Gunman Kills Nine in Krakow, Including His Own Family",
-        "gist": "A 24-year-old Polish man shot and killed his parents and sister at their home before fatally shooting six more people in Krakow's central market square. Officials have not established a motive."
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "SoftBank's AI Bet Wobbles as Tech Sell-Off Hits Holdings Ahead of Earnings",
-        "gist": "Masayoshi Son's SoftBank reports earnings Tuesday facing mounting pressure as the global tech sell-off erodes the value of its AI-heavy portfolio, including stakes in OpenAI and the now-blocked ABB ro"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Nvidia Spy Scandal Compounds Market Jitters, But Wall Street Stages Rebound",
-        "gist": "US and Asian stocks rose Monday as broader markets shrugged off Nvidia's near-5% premarket drop, continuing a rebound from last week's roughly $3tn rout. S&P 500 futures were up about 0.8% and the Nas"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Mitsui Chemicals, Development Bank of Japan to Buy Chipmaker JSR for $8.8bn",
-        "gist": "Mitsui Chemicals agreed to jointly acquire semiconductor-materials maker JSR with the Development Bank of Japan in an approximately $8.8 billion deal, consolidating Japan's position in critical chip-s"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Zipline Rival Wing Builds $125m Texas Drone Factory as Delivery Race Heats Up",
-        "gist": "Alphabet's drone-delivery unit Wing will invest up to $125 million in a new 15,000-square-foot Fort Worth, Texas factory capable of building tens of thousands of aircraft annually, creating up to 100 "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Anthropic Says It May Already Be Hitting Self-Improvement Threshold",
-        "gist": "Anthropic disclosed it may be imminently crossing — or may have already crossed — its own internal threshold for 'dramatically accelerated progress due to AI,' where AI tools meaningfully speed up the"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI Closes ~$11bn Funding Tranche at $1.25tn Valuation",
-        "gist": "OpenAI reportedly closed roughly $11 billion of its new funding round at a $1.25 trillion valuation — up sharply from $852 billion in March — with the total round potentially reaching $20 billion befo"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Anthropic Strikes $3.4bn Deal to Generate Its Own Power for Data Centers",
-        "gist": "Anthropic signed a $3.4 billion agreement to generate its own electricity for data centers, as surging AI compute demand continues to strain power grids and utilities. The move mirrors a broader indus"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Physical Superintelligence's AI Proves 18-Year-Old Quantum Complexity Conjecture",
-        "gist": "AI-for-physics startup Physical Superintelligence (PSI) said a research system running an unreleased Anthropic model proved the Aaronson-Ambainis conjecture, a key open problem in quantum complexity t"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Congress Presses Nvidia's Huang on Alleged China Spy Tie Amid Scandal",
-        "gist": "Republican leaders of three House committees have given Jensen Huang until November 11 to agree to a closed-door briefing on his relationship with Alice Huang, intensifying scrutiny already roiling Nv"
-      },
-      {
-        "section": "Interesting",
-        "headline": "Peruvian Authorities Seize 3,000 Tarantulas Hidden in Socks at Lima Airport",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Trump Says He Was 'Only Kidding' About Offering UFC's Dana White the Press Secretary Job",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Beavers Return to Scotland's Loch Ness for First Time in 500 Years",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "'Cowmaxxing' Wellness Trend Puts Premium on Cow Hides, Bones and Cartilage",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Novaya Gazeta, Russia's Last Major Liberal Newspaper, Shuts Down for Good",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-11-10",
     "items": [
       {
@@ -625,6 +530,106 @@
       {
         "section": "Interesting",
         "headline": "$500m Bollywood Epic 'Ramayana' Bets Big on CGI Over Spiritual Substance",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-11-16",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Jensen Huang Weighs Nvidia Comeback as Musk, Staff Mount Pressure Campaign",
+        "gist": "Jensen Huang has privately discussed returning as Nvidia's CEO with confidants, even as the board's independent probe into his conduct continues, the FT reports. A petition to reinstate him has topped"
+      },
+      {
+        "section": "World",
+        "headline": "Trump, Xi and Putin to Meet in Shenzhen in 'Yalta 2.0' Summit",
+        "gist": "Trump, Xi Jinping and Vladimir Putin are set to meet Thursday at the APEC summit in Shenzhen, a trilateral gathering some are calling \"Yalta 2.0.\" The Nvidia spy scandal and chip export controls loom "
+      },
+      {
+        "section": "World",
+        "headline": "US Air Travel Chaos Traced to Single Router at Arkansas FAA Facility",
+        "gist": "Investigators probing Friday's nationwide ground stop have focused on a router at an FAA radio site in rural Arkansas that began pinging the network at an abnormally high rate, overwhelming the aging "
+      },
+      {
+        "section": "World",
+        "headline": "Iran Attacks Bahrain Again as Gulf Hostilities Escalate",
+        "gist": "Iran launched a drone attack against Bahrain for the second time in days, with Iran's Revolutionary Guard Corps saying it targeted a radar system at a Bahraini air base. Bahrain said it intercepted se"
+      },
+      {
+        "section": "World",
+        "headline": "Hong Kong Developer New World's Shares Crater 47% on Deeply Discounted Rights Issue",
+        "gist": "Shares in New World Development, a major Hong Kong property developer, tumbled nearly 50% after it unveiled a plan to raise roughly $3.2bn through a rights issue pricing new stock about 80% below Thur"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Anthropic's IPO Roadshow Hits Fever Pitch, Valuation Could Top $1.5tn",
+        "gist": "Anthropic is set to price its IPO this week, with bankers Goldman Sachs and Morgan Stanley weighing pushing the valuation above the initial $70-78 range toward $1.4-1.5tn after roadshow demand came in"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Union Pacific CEO's Leaked Threats Jeopardize $71.5bn Norfolk Southern Merger",
+        "gist": "A leaked recording of Union Pacific CEO Jim Vena threatening to raise rates on shippers who opposed his railroad's proposed $71.5bn merger with Norfolk Southern has handed ammunition to critics of the"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "China's October Data Disappoints as Trade Surplus Nears $1 Trillion",
+        "gist": "China's retail sales rose just 0.4% year-on-year in October, a slowdown from September, while industrial output growth also decelerated, frustrating Beijing's September stimulus push. At the same time"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Amazon's Kuiper Rocket Blows Up Shortly After Launch, Setback vs Starlink",
+        "gist": "A Vulcan rocket carrying 40 Amazon internet satellites exploded shortly after liftoff from Cape Canaveral; the vessel was owned by United Launch Alliance, a Boeing-Lockheed Martin joint venture. The f"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI Folds Robotics Team Into Core Research, Says General Models Can Run Robots Directly",
+        "gist": "OpenAI moved its robotics unit into its main research and product groups, arguing general models like GPT-6 Astra can now operate robots without a separate specialized \"world model\" as previously assu"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Samsung Pushes Beyond AI Chips Into Building Its Own Data Centers",
+        "gist": "Samsung, already a major AI chip supplier, is now aiming to build data centers directly, hoping to replicate its chip-manufacturing success across its sprawling conglomerate. The move mirrors a broade"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Jensen Huang Built Nvidia's China Backdoor — Now His Scandal Threatens It",
+        "gist": "During his tenure, Jensen Huang built a multibillion-dollar network of Asian partners that let Chinese customers access American AI chips despite export controls, lobbying Washington hard to keep the "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI Launches ChatGPT Wallet for Agent Payments",
+        "gist": "OpenAI launched ChatGPT Wallet, letting AI agents make purchases on users' behalf without ever seeing an actual card number, built with American Express, Mastercard and Visa. It's part of a broader pu"
+      },
+      {
+        "section": "Interesting",
+        "headline": "Petition to Reinstate Jensen Huang at Nvidia Tops 140,000 Signatures, Musk Among Them",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "88% of Polled Nvidia Staff on Anonymous App Blind Say Huang Should Stay",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "CEOs Now Hire Matchmakers Who Coach Them to Hide Their Wealth on First Dates",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Baton Rouge Residents Complain Amazon's 80-Pound Delivery Drones Sound Like 'Flying Leaf Blowers'",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Male Dolphins Filmed Babysitting Calves Nearly 300 Times, Possibly to Impress Females",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Federal Judge Blocks Trump Administration From Bulldozing DC Public Golf Course, For Now",
         "gist": ""
       }
     ]
