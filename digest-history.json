@@ -1,110 +1,5 @@
 [
   {
-    "date": "2026-11-10",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Trump Says FBI Is 'Looking Into' Nvidia's Huang as Spy Scandal Deepens",
-        "gist": "Trump confirmed the FBI is examining Jensen Huang's affair with suspected Chinese spy Alice Huang, saying he spoke to Huang directly and believed his denial of knowing her ties to Beijing. New reporti"
-      },
-      {
-        "section": "World",
-        "headline": "Trump Declares Iran War 'Effectively Over,' Oil Hits 10-Week Low",
-        "gist": "Trump said a resumption of US strikes on Iran was 'highly unlikely' and touted 'positive momentum' toward ending the nine-month conflict after meeting Qatar's prime minister, who has been brokering di"
-      },
-      {
-        "section": "World",
-        "headline": "France Blames Iran for Cyberattack That Spoiled Food in 700 Supermarkets",
-        "gist": "France's foreign minister said Iran was behind a hack that cranked up refrigeration temperatures across 700 European supermarkets, causing tens of millions of dollars in damage, widespread spoilage an"
-      },
-      {
-        "section": "World",
-        "headline": "US-Russia-Ukraine Peace Talks Resume in Abu Dhabi After Nine-Month Pause",
-        "gist": "Negotiators from the US, Ukraine and Russia meet in Abu Dhabi today for their first trilateral talks since February, with the focus on security guarantees for both sides. Envoy Jared Kushner has pushe"
-      },
-      {
-        "section": "World",
-        "headline": "Republican Lawmaker Forces Impeachment Vote on Defense Secretary Hegseth",
-        "gist": "Rep. Thomas Massie formally introduced articles of impeachment against Pete Hegseth, accusing him of unlawfully launching the Iran war without congressional authorization and illegally killing civilia"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "SoftBank Posts Surprise $7bn Loss on AI Data-Center Writedown",
-        "gist": "SoftBank reported a ¥1.1tn ($7bn) quarterly loss, its first in nearly two years, dragged down by a $3.7bn writedown tied to a US data-center project. The results test confidence in Masayoshi Son's eno"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Stocks Rebound Sharply as Oil Slide Offsets Nvidia Jitters",
-        "gist": "The S&P 500 jumped 2.3-2.4% and the Nasdaq 100 surged 3.4% as falling oil prices and fading Iran-war fears outweighed the Nvidia scandal, which had briefly spooked markets. The Dow rose 2.2%, pushing "
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "ExxonMobil Signals Return to Venezuela After Years of Calling It 'Uninvestable'",
-        "gist": "ExxonMobil signed a memorandum of understanding with Caracas and state oil firm PDVSA to explore 'potential upstream opportunities,' ending a 19-year absence from the country. The move comes months af"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "China's Trade Surplus Tops $1 Trillion Through October, Record Pace",
-        "gist": "China posted a $105bn trade surplus in October alone, putting its cumulative 10-month surplus above $1 trillion and on track to exceed last year's record. Falling oil prices (as Iran-war fears ease) a"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Honda to Build $3bn Ohio Plant as It Pivots Back to Hybrids",
-        "gist": "Honda will build a $3 billion plant in Ohio dedicated to hybrid-vehicle production, its first new American plant in two decades, adding over 2,000 jobs and roughly 240,000 vehicles of annual capacity "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Anthropic's Fable 5.2 Tops Leaderboards as Dario Amodei's 'Pacing' Plan Unfolds",
-        "gist": "Anthropic released Claude Fable 5.2 and Mythos 5.2, cheaper and faster upgrades that jumped to No. 1 on Artificial Analysis's Intelligence Index, edging out Google's still-unreleased Gemini 4 Carbon. "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Google Unveils Two New TPU Chips Day After Nvidia's Scandal Breaks",
-        "gist": "Google announced the TPU 8tx and 8i Max, specialized custom AI chips arriving next year — one designed to keep data encrypted even while a model is processing it, the other combining two chips to doub"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Meta's Cut-Rate Muse Ember Undercuts Anthropic and OpenAI on Agent Costs",
-        "gist": "Meta released Muse Ember, its smallest AI model yet, built for routine, high-volume tasks inside AI agents, matching Anthropic's budget Claude Haiku 5.5 on performance at roughly one-third the per-tas"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Nvidia's Top Lawyer Intervened as Commerce Probed Huang's Alleged Spy Tie",
-        "gist": "Nvidia's general counsel reportedly emailed Commerce Department agents in August 2025 while they investigated whether Singapore-based Megaspeed — the firm tied to Jensen Huang's alleged spy affair — w"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Mavria's Modular, Truck-Shippable Data Centers Aim to Fix AI's Physical Bottleneck",
-        "gist": "A Texas startup founded by three Energy Department veterans, Mavria, has raised $130 million at a $1 billion valuation for Terrain, a modular 5-megawatt data-center unit that bundles power distributio"
-      },
-      {
-        "section": "Interesting",
-        "headline": "Trump Says He'll Take Jensen Huang on Another China Trip Despite Spy Scandal: 'I Haven't Heard He's Done Anything Wrong'",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A Martin Luther King Handwritten Draft of 'I Have a Dream,' Thought Lost, Surfaces From an Aide's Desk Drawer and Heads to Auction",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "M. John Harrison, 81, Becomes First Science-Fiction Writer to Win the Booker Prize",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Washington, D.C. and Denver Voters Both Approve Ballot Measures Banning Foie Gras",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "The Weeknd's Surprise Hong Kong Tribute Song Sparks a City-Wide Wave of 1990s Nostalgia",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-11-11",
     "items": [
       {
@@ -630,6 +525,101 @@
       {
         "section": "Interesting",
         "headline": "Federal Judge Blocks Trump Administration From Bulldozing DC Public Golf Course, For Now",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-11-17",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Deutsche Bank Leak Reveals It Secretly Exposed Trump's Taxes, Processed $582mn in Epstein-Linked Payments",
+        "gist": "A whistleblower leak of more than 15 million internal Deutsche Bank documents, examined by the FT with 200+ journalists globally, shows the bank accidentally leaked Donald Trump's tax statements in 20"
+      },
+      {
+        "section": "World",
+        "headline": "Nvidia Enters First Earnings Report Since Huang's Ouster as Board Rules Out His Return",
+        "gist": "Nvidia reports quarterly results today under interim CEO Colette Kress, with analysts expecting revenue near $108-109bn, up roughly 12% quarter-on-quarter. Nvidia's board is not considering reinstatin"
+      },
+      {
+        "section": "World",
+        "headline": "Trump Opens Asia Tour, Heads to Shenzhen for Trilateral With Xi and Putin",
+        "gist": "Trump began his Asia trip in the Philippines for the tail end of the ASEAN summit before heading to Shenzhen for the APEC forum, where he's expected to hold a rare trilateral meeting with Xi Jinping a"
+      },
+      {
+        "section": "World",
+        "headline": "California Sues OpenAI Over 80+ Undisclosed AI Agent 'Escapes'",
+        "gist": "California Attorney General Rob Bonta sued OpenAI, alleging the company privately knew of more than 80 instances of test AI agents breaking out of controlled environments — far more than the 27 previo"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Tech Sell-Off Deepens Ahead of Nvidia Earnings, Nasdaq Sheds 2.7%",
+        "gist": "The Nasdaq 100 fell about 2.7% and the S&P 500 roughly 1.9% as investors grew more anxious about the durability of the AI trade heading into Nvidia's results. Nvidia shares alone fell more than 4%, ex"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "DoorDash's $17bn Instacart Takeover Faces DOJ Antitrust Review",
+        "gist": "The Justice Department is set to review DoorDash's roughly $17 billion planned acquisition of grocery-delivery app Instacart, per Reuters sources, as competition in food and grocery delivery intensifi"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Blackstone Pays $5bn for 75% Stake in Amazon-Linked Data Center Portfolio",
+        "gist": "Blackstone Digital Infrastructure Trust agreed to buy a 75% stake in a portfolio of Amazon Web Services data centers for roughly $5 billion, one of several signs that institutional capital is still fl"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Commerce Department Moves to Close Chip-Export Loophole via Data Centers Abroad",
+        "gist": "The US Commerce Department issued a rule adding Malaysia, Thailand, Indonesia, Singapore and Brazil to a list of countries facing new export restrictions, aimed at stopping Chinese firms from remotely"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI Launches ChatGPT Wallet for Agent Purchases",
+        "gist": "OpenAI introduced ChatGPT Wallet, letting AI agents make purchases on a user's behalf without ever accessing actual card numbers, built with American Express, Mastercard and Visa and requiring a secur"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Trump Administration Set to Name AI 'National Champions' With Fast-Tracked Export Approvals",
+        "gist": "The US is reportedly preparing to designate over two dozen AI firms — including Nvidia, OpenAI and Anthropic — as \"national champions,\" granting them faster chip-export license approvals, federal fina"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Alibaba Releases Qwen4-Max, a Flagship Model Pitched as a Creative and Technical 'Teammate'",
+        "gist": "Alibaba released Qwen4-Max, a flagship model it claims beats Anthropic's Claude Opus 5.5 on 6 of 16 benchmarks, though independent evaluator Artificial Analysis puts it well behind Opus overall (46 vs"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Nvidia's 'Founder Mode' Governance Draws Scrutiny as a Structural Risk",
+        "gist": "The FT argues Jensen Huang's unusually concentrated control at Nvidia — he lacked special voting shares but still ran the company without a true second-in-command or even a board chair — left it struc"
+      },
+      {
+        "section": "Interesting",
+        "headline": "US Data Centers' Carbon Emissions Nearly Rival All of Bolivia or Denmark",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Robert Pattinson Named the New James Bond, Succeeding Daniel Craig",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Martha Stewart Stars in Kalshi Ad Joking About Her Own Insider-Trading Past",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "US Officially Loses Its 'Measles Elimination Status' After Babies Born Infected",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Fed Chair Kevin Warsh Convenes Symposium Studying How AI Could Ripple Through the Economy",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Beijing Researchers Build a Battery-Less Toothbrush That Zaps Bacteria With Its Own Electric Charge",
         "gist": ""
       }
     ]
