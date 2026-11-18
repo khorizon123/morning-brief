@@ -1,100 +1,5 @@
 [
   {
-    "date": "2026-11-11",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Anthropic's IPO Roadshow Opens to Strong Demand, Valuation May Hit $1.5tn",
-        "gist": "Anthropic's bankers, led by Goldman Sachs and Morgan Stanley, are considering raising the IPO price range above the initial $70-$78 after heavy investor demand on day one of the roadshow, which could "
-      },
-      {
-        "section": "World",
-        "headline": "Rubio Told Trump of Huang's Alleged Spy Tie Before China Trip, Contradicting Denial",
-        "gist": "The New York Times reports Secretary of State Marco Rubio told Trump aboard Air Force One in May that intelligence showed Nvidia CEO Jensen Huang was involved with a suspected Chinese spy — directly c"
-      },
-      {
-        "section": "World",
-        "headline": "House Republicans Shelve Hegseth Impeachment Effort",
-        "gist": "House Republicans voted 211-204 to refer impeachment articles against Defense Secretary Pete Hegseth to committee, effectively killing Rep. Thomas Massie's effort for now; Trump called it an 'exonerat"
-      },
-      {
-        "section": "World",
-        "headline": "US Soldier Arrested in UK on Suspicion of Spying for Russia",
-        "gist": "British counterterrorism police, working with the FBI, arrested a 41-year-old senior US Army soldier assigned to a NATO rapid-reaction command near Gloucester, England, on espionage allegations. Autho"
-      },
-      {
-        "section": "World",
-        "headline": "Hot October Inflation Print Revives Fed Rate-Hike Fears",
-        "gist": "US consumer prices rose 0.4% in October, beating forecasts, with Fed governor Christopher Waller having flagged hours earlier he'd back a larger half-point hike in December if core prices rose 0.3%+ —"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "SoftBank Posts $7.1bn Loss on Botched Gas-Turbine Bet for AI Data Centers",
-        "gist": "SoftBank disclosed a $7.1bn quarterly loss, driven largely by a $3.7bn writedown after it canceled reservations for gas power-generation turbines it couldn't use. Masayoshi Son's firm had reserved ove"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "TSMC Commits $1bn Combined to Anthropic and OpenAI Ahead of Their IPOs",
-        "gist": "TSMC's board approved buying $500m of stock in both Anthropic's IPO and OpenAI's expected future listing, a combined $1bn bet on its two largest AI customers. The move comes as TSMC posts record profi"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Weil Gotshal Partners Vote to Formally Dissolve 95-Year-Old Firm",
-        "gist": "Partners at Weil, Gotshal & Manges voted to wind down the firm after its effort to find a merger partner collapsed, formalizing a decision made last month. The firm, once among America's most prestigi"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Hedge Funds Suffer Worst Month Since Covid as AI Volatility Bites",
-        "gist": "October was the worst month for hedge funds since the pandemic began, according to JPMorgan, and November — with post-election swings and the Jensen Huang affair — has been bruising too. The Economist"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Anthropic's Claude Expands Into Spreadsheets, Whiteboards and Meetings",
-        "gist": "Anthropic rolled out Claude Sheets and Whiteboards in beta, made its Claude Data analytics tool generally available, and announced Claude Meetings, an assistant that joins video calls. Sheets builds w"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "AI Forecasters Move Up Doomsday-Adjacent Timeline for Superhuman AI Research",
-        "gist": "The AI Futures Project, the group behind the widely-read 'AI 2027' forecast, moved up its projection for AI matching top human researchers, citing evaluator METR's finding that Anthropic's research pa"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI Launches 'Businesses' Hub Letting Brands Build Verified ChatGPT Profiles",
-        "gist": "OpenAI introduced a beta called Businesses in ChatGPT, letting companies claim verified profiles, track how often the chatbot mentions them, and deploy custom AI shopping agents that paid ads can now "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "'Black October' Cyberattack Wave Exposes AI-Driven Spike in Software Vulnerabilities",
-        "gist": "The Economist reports a surge of major cyberattacks over the past month — AI was used to find a critical flaw in PHP, hackers cranked up European supermarket freezer temperatures destroying millions i"
-      },
-      {
-        "section": "Interesting",
-        "headline": "Nvidia's Top Lawyer Reportedly Intervened as Commerce Probed Huang's Alleged Spy Tie",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Jensen Huang Emailed Employees, Including His Own Children, Apologizing for Affair",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Treasury Secretary Scott Bessent Reportedly Moved Onto Military Base After Iranian Death Threats",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "CFTC Reportedly Preparing Charges Against Kalshi Over Undisclosed Trading Products",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Iowa's Governor-Elect Once Modeled for Italian Vogue and Walked a Prada Runway",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-11-12",
     "items": [
       {
@@ -620,6 +525,96 @@
       {
         "section": "Interesting",
         "headline": "Beijing Researchers Build a Battery-Less Toothbrush That Zaps Bacteria With Its Own Electric Charge",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-11-18",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Trump, Xi and Putin Hold Rare Trilateral in Shenzhen",
+        "gist": "Trump arrived in China after stops in the Philippines, with a Thursday meeting alongside Xi Jinping and Vladimir Putin billed by some as \"Yalta 2.0.\" Xi addressed global CEOs at the APEC summit toutin"
+      },
+      {
+        "section": "World",
+        "headline": "Ukraine Severs Crimea's Kerch Bridge in Major Strike",
+        "gist": "Ukrainian drones and cruise missiles brought down a section of the Kerch Strait Bridge, the only link between occupied Crimea and mainland Russia and a top Ukrainian target since 2022. Zelensky said t"
+      },
+      {
+        "section": "World",
+        "headline": "Nvidia's First Post-Huang Earnings Beat, SEC Opens Probe",
+        "gist": "Nvidia posted record quarterly revenue of $115.8bn (up 103% year-on-year) and raised its sales forecast, with shares rising in after-hours trading despite the company's board confirming it won't reins"
+      },
+      {
+        "section": "World",
+        "headline": "Democrats Complete Midterms Sweep With Alaska Senate Win",
+        "gist": "Mary Peltola defeated Republican incumbent Dan Sullivan in Alaska, bringing Democrats to 56 Senate seats — their largest majority in over a decade — and capping a string of upset wins since the midter"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Anthropic Set to Price IPO Above Range, Valuation Near $1.5tn",
+        "gist": "Anthropic is expected to price Thursday's IPO above its initial $70-78 range — potentially above $80/share — putting its valuation near $1.5-1.6tn, up from roughly $1.33tn at the top of the original r"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Genesis AI Raises $500m to Build General-Purpose Robots",
+        "gist": "Robotics startup Genesis AI raised a $500m Series A at a $3.5bn valuation, just two years after founding, to fund large-scale training and data acquisition for a general-purpose robot meant to handle "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Nvidia's Singapore Revenue Quietly Hit $104bn, FT Reveals",
+        "gist": "Nvidia booked $104bn — nearly half its worldwide revenue — through its Singapore subsidiary in 2025, a 72% jump in a year, after the company switched its geographic reporting method from customer bill"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI's GPT-6.2 Astra and Sol Land to Scathing Reviews",
+        "gist": "OpenAI released GPT-6.2 Astra and Sol, upgrades aimed at professional work, days before Anthropic's IPO — and early testers panned them, with one calling Astra \"the worst model OpenAI has ever release"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Claude Models Show Signs of Large-Scale Protein Training",
+        "gist": "Independent testing found Anthropic's latest Claude models can predict the next amino acid in little-studied bacterial protein sequences — something no other tested model can do — but fail once the se"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "California AG's OpenAI Suit Centers on Hugging Face Agent Breach",
+        "gist": "California's lawsuit against OpenAI over rogue AI agents centers on an incident involving Hugging Face, with the complaint citing additional incidents as evidence of an ongoing pattern rather than an "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Nvidia's Rubin HPC Chip Packs Record 50,000+ Cores",
+        "gist": "Nvidia unveiled Rubin HPC, a new GPU built to accelerate scientific and engineering simulations for AI agents, boasting more than 50,000 cores — a record for a single chip. It won't ship until 2028, u"
+      },
+      {
+        "section": "Interesting",
+        "headline": "NSA's Classified Internal Network Goes Down Amid US Outage Wave",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Data Centers May Go to Sea, Floating Untethered and Powered by Waves",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Sotheby's Settles Middle-of-the-Night Dispute Over $180m Van Gogh Tied to Nazi-Era Sale",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "CVC and Advent Head Toward Legal Battle Royale Over Collapsed €3bn Italian Food Deal",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Electric Tugboats to Debut at Port of Los Angeles, Promising 50-60% Lower Operating Costs",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Voyager 1 Set to Become First Object a Light-Day From Earth",
         "gist": ""
       }
     ]
