@@ -1,100 +1,5 @@
 [
   {
-    "date": "2026-11-13",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Jensen Huang Resigns as Nvidia CEO Amid Spy-Affair Scandal",
-        "gist": "Jensen Huang resigned as Nvidia's chief executive and board member effective immediately, capping a stunning fall triggered by revelations of multiple extramarital affairs — including with Alice Huang"
-      },
-      {
-        "section": "World",
-        "headline": "Lutnick Dragged Into Nvidia Scandal as Lawmakers Demand Testimony",
-        "gist": "Commerce Secretary Howard Lutnick faces bipartisan demands to testify after lawmakers accused him of allowing Nvidia chips to be exported to Megaspeed, the Singapore firm linked to Alice Huang, the al"
-      },
-      {
-        "section": "World",
-        "headline": "Trump Pulls Vance Off Iran Talks, Says US Doesn't 'Need' a Deal",
-        "gist": "Trump said he was pulling Vice President JD Vance back from peace negotiations with Iran to instead focus on investigating alleged fraud in Democratic-run cities and states, declaring \"we don't need a"
-      },
-      {
-        "section": "World",
-        "headline": "Novaya Gazeta, Russia's Last Major Independent Newsroom, Closes Its Doors for Good",
-        "gist": "Novaya Gazeta, the Moscow paper whose reporters exposed Kremlin abuses for three decades and lost six journalists to killings, held its final editorial meeting this week after its landlord refused to "
-      },
-      {
-        "section": "World",
-        "headline": "Microsoft 365 Outage Disrupts Outlook, Teams Worldwide",
-        "gist": "A global Microsoft outage beginning Thursday knocked out Outlook, Teams and Copilot for businesses and government agencies across the US, Europe and Asia, forcing Richemont to delay earnings and disru"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Nvidia's 'Central Bank of AI' Role Thrown Into Doubt",
-        "gist": "With Huang gone, Wall Street is questioning whether Nvidia will keep acting as financier of last resort to the AI industry — a role that saw it guarantee up to $164.5bn in deals, including a $105bn Oh"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Anthropic's IPO Roadshow 6x Oversubscribed, Valuation Could Hit $1.4-1.5tn",
-        "gist": "Anthropic's listing, set for next week, is drawing demand roughly six times the available shares, according to Bloomberg, with the AI lab seeking to raise as much as $64.4bn in the IPO plus another $2"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "US Existing-Home Sales Sink to Lowest Level Since 2010",
-        "gist": "Sales of existing US homes fell 5.5% in October to a seasonally adjusted annual rate of 3.75 million, the National Association of Realtors said — the steepest drop since January and the weakest pace s"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "China Weighs $15bn Push Into Shipping Insurance to Bypass Lloyd's",
-        "gist": "Chinese maritime officials are in early talks with local shippers, banks and insurers to raise roughly $15 billion to build a state-backed maritime insurance and reinsurance hub by 2029, aiming to cre"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Google Ships Gemini 4 Hydrogen, a Cheaper Coding-Focused Model",
-        "gist": "Google introduced Gemini 4 Hydrogen, a faster and cheaper model tuned for coding and agentic workflows, scoring 51 on the Artificial Analysis Intelligence Index and beating predecessor Gemini 4 Argon "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Google Launches Gemini-Powered Smart Glasses to Challenge Meta's Ray-Bans",
-        "gist": "Google opened pre-orders for its first Gemini-powered AI glasses, built with Samsung and sold through Warby Parker and Gentle Monster starting at $395 — 18 months after unveiling them at I/O 2025. The"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Evidence Suggests Top Chinese AI Labs Are Training on Export-Banned Nvidia Blackwell Chips",
-        "gist": "A forensic analysis found numerical fingerprints matching Nvidia's export-controlled Blackwell GPUs in six AI models released since April by DeepSeek, Moonshot AI, MiniMax and Ant Group, suggesting th"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Anthropic Lets Developers Self-Host Claude's Managed Agents",
-        "gist": "Anthropic opened a private beta letting companies run Claude's \"Managed Agents\" — sandboxed AI agents that handle multi-step tasks — entirely within their own infrastructure, including credential hand"
-      },
-      {
-        "section": "Interesting",
-        "headline": "Jensen Huang Had at Least Three Extramarital Affairs, Including With Two Nvidia Employees",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Elon Musk Says He'd Be 'Honored' to Hire Huang Away From Nvidia",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Leaked Russian Files Show Over Half a Million Soldiers Have Died in Ukraine War",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "FBI Says North Korean Hackers Stole $400m Via Fake Video Calls Dubbed 'FaceStealer'",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Nearly 10% of 1665 Londoners Who Had Dental Surgery Died of Infection, Economist Reminds Readers",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-11-14",
     "items": [
       {
@@ -605,6 +510,111 @@
       {
         "section": "Interesting",
         "headline": "Elon Musk Declares 'I'm Not MAGA,' Calls His $500m Midterm Spending 'Pretty Foolish'",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-11-20",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Anthropic's IPO Becomes Largest Ever, Stock Surges Then Fades",
+        "gist": "Anthropic priced its IPO at $83 a share and raised $81.3bn, the largest listing in history, with shares briefly spiking above $111 before closing up 17% at $97.17, valuing the Claude maker near $1.3-1"
+      },
+      {
+        "section": "World",
+        "headline": "Trump, Xi, Putin Hold First Trilateral Summit, Yield Little Beyond Photo Op",
+        "gist": "Trump, Xi Jinping and Vladimir Putin met in Shenzhen in an unprecedented three-way summit, producing only a brief four-point declaration on nuclear security and energy cooperation with no breakthrough"
+      },
+      {
+        "section": "World",
+        "headline": "Ukraine Severs Kerch Bridge, Russia Hits Back at Kyiv Bridges",
+        "gist": "After Ukrainian drones and missiles knocked out a section of the Kerch Strait Bridge linking Crimea to Russia, Putin said a partial ceasefire he'd been weighing was now off the table, and Russia respo"
+      },
+      {
+        "section": "World",
+        "headline": "US Approved Nvidia, AMD Chip Sales to Chinese Firms Pentagon Linked to PLA",
+        "gist": "Newly released House Foreign Affairs Committee documents show the US government approved requests to ship nearly 900,000 advanced AI chips from Nvidia and AMD to Chinese companies including Alibaba, T"
+      },
+      {
+        "section": "World",
+        "headline": "ICJ Rules Myanmar Committed Genocide Against Rohingya",
+        "gist": "The International Court of Justice ruled that Myanmar carried out genocide against its Rohingya minority during a 2017 military campaign that killed at least 10,000 people and drove roughly 750,000 to"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Tech Stocks Slide Globally Despite Anthropic's Blockbuster Debut",
+        "gist": "Asia-Pacific stocks had their steepest daily drop in over a month (MSCI Asia-Pacific down ~3%), Europe's STOXX 600 fell about 1%, and the S&P 500 and Nasdaq both dropped roughly 2%, even as Anthropic'"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Walmart Raises Guidance as E-Commerce Offsets Soft In-Store Sales",
+        "gist": "Walmart's quarterly revenue rose 5.2% to $188.8bn, beating estimates, with global e-commerce sales up 17% (23% domestically) and US advertising revenue up 37%, even as in-store sales slipped. The reta"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Union Pacific CEO Apologizes for Threat to Punish Merger Opponents",
+        "gist": "Union Pacific CEO Jim Vena publicly apologized for telling a March conference he'd raise rates on shippers who opposed his railroad's $72bn merger with Norfolk Southern \"to teach you a lesson.\" The re"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Kenya Awards $62bn Rare-Earth Deposit to US-Led Consortium",
+        "gist": "Frontier Minerals — a consortium including American Resources Corp, ReElement Technologies and Bunker Hill Mining — won rights to explore Kenya's Mrima Hill rare-earth deposit, estimated at $62bn, aft"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Anthropic's Wall Street Payday: $550mn in Banking Fees, Mixed Allocations",
+        "gist": "Goldman Sachs and Morgan Stanley will split 41% of a $550mn fee pool as lead underwriters on Anthropic's IPO, while JPMorgan and Citigroup each collect about $55mn for handling retail and internationa"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Google Ships Gemini 4 Neon, Its Fourth Flagship Release in Two Months",
+        "gist": "Google released Gemini 4 Neon, a fast, frontier-level model for coding, knowledge work and science, scoring 61 on the Artificial Analysis Intelligence Index and priced at $3/$15 per million input/outp"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI's Research Agents Now Complete Half of Multi-Hour Tasks Unassisted",
+        "gist": "OpenAI says its internal AI agents now independently complete nearly half of research tasks that would take a human two to four hours, up from about a quarter in March. The median researcher now runs "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI and AMD Use AI Models to Shrink Chip Circuit Area by Up to 14%",
+        "gist": "OpenAI said design changes proposed by its own models cut circuit area on key parts of its in-house Jalapeño AI chip by 10-13%, and a similar approach delivered up to 14% improvements on AMD's flagshi"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Hackers Leak Visa, Mastercard and JPMorgan Customer Data",
+        "gist": "A ransomware group calling itself n0n claimed responsibility for breaching third-party vendors and leaking data from thousands of Visa, Mastercard and JPMorgan customers, though the companies say serv"
+      },
+      {
+        "section": "Interesting",
+        "headline": "GTA VI Launch May Be the Last Blockbuster of Its Kind, Economist Argues",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Fiona the Cincinnati Zoo Hippo Dies After Eating a Child's Knitted Hat",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Robert Pattinson Confirmed as Next James Bond",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "South Korea Blasts Nationwide Emergency Alert to Catch Exam Cheaters Hiding Phones",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "ByteDance to Invest $39bn in a Data-Center Complex in Northeast Brazil",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Houthi Strike Damages Saudi Arabia's $900bn Sovereign Wealth Fund HQ in Riyadh",
         "gist": ""
       }
     ]
