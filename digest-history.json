@@ -1,90 +1,5 @@
 [
   {
-    "date": "2026-11-14",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Nationwide FAA Ground Stop Snarls US Air Travel",
-        "gist": "The FAA ordered a rare nationwide ground stop Friday afternoon, halting all departing flights for roughly five hours after a communications failure hit air traffic control centers nationwide. Transpor"
-      },
-      {
-        "section": "World",
-        "headline": "Trump Won't Raise Nvidia Spy Scandal With Xi at Shenzhen Summit",
-        "gist": "Officials say Trump will avoid raising the Jensen Huang spy scandal when he meets Xi Jinping (and possibly Putin) at next week's APEC summit in Shenzhen. The meeting comes as China hawks in Congress p"
-      },
-      {
-        "section": "World",
-        "headline": "Bessent Blames Commerce Department for Failing to Blacklist Megaspeed",
-        "gist": "Treasury Secretary Scott Bessent said his department had pushed for months to sanction Megaspeed, the Singapore firm linked to Jensen Huang's alleged spy affair, but that Commerce Secretary Howard Lut"
-      },
-      {
-        "section": "World",
-        "headline": "Colorado Democrat Ousts MAGA Favorite Lauren Boebert",
-        "gist": "Retired Navy Rear Admiral Eileen Laubacher narrowly defeated Rep. Lauren Boebert, 48.8% to 47.9%, in a Colorado district Trump had won by 18 points in 2024 — a fresh sign of Republican vulnerability a"
-      },
-      {
-        "section": "World",
-        "headline": "Microsoft 365 Outage Stretches Into Second Day, Disrupting Businesses Worldwide",
-        "gist": "A global Microsoft outage that began Thursday continued into Friday, with Downdetector logging complaints from hundreds of thousands of users across more than 70 countries unable to access Outlook, Te"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Anthropic Sets IPO Price Range as Thursday Listing Looms",
-        "gist": "Anthropic set an IPO price range of $70-$78 a share, implying a valuation of $1.26-$1.41 trillion, with bankers Goldman Sachs and Morgan Stanley weighing pushing it even higher given roadshow demand r"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "US Existing-Home Sales Hit Lowest Level Since 2010",
-        "gist": "Sales of existing US homes fell 5.5% in October to a seasonally adjusted annual rate of 3.75 million, the National Association of Realtors said — the steepest drop since January and the weakest pace i"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Nvidia's Board Approaches Arm CEO Rene Haas as Huang Successor",
-        "gist": "Nvidia's board has approached Rene Haas, chief executive of SoftBank-owned chip designer Arm, as it searches for a replacement for Jensen Huang following his resignation. Finance chief Colette Kress i"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "US Treasuries Set for Biggest Weekly Sell-Off in 18 Months",
-        "gist": "US Treasuries are on track for their worst weekly rout in more than 18 months after a hotter-than-expected October inflation print jolted investors who had bet the global bond selloff was over. The mo"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "United Bans Third-Party AI Agents From Booking Flights",
-        "gist": "United Airlines said it will block AI assistants — including Meta's Muse — from accessing customer accounts, booking tickets or checking in passengers on its platforms. The airline cited cybersecurity"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "'Black October' Cyberattack Surge Shows AI Lowering the Bar for Hackers",
-        "gist": "Security researchers are warning that AI is dramatically speeding up and cheapening attacks on physical, internet-connected equipment — ovens, freezers, cameras, industrial control systems — not just "
-      },
-      {
-        "section": "Interesting",
-        "headline": "Tanker Strikes Docked Cruise Ship in New Orleans, Leaving It on Its Side — All 130 Aboard Rescued, Officials Call It a 'Miracle on the Mississippi'",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Supreme Court Agrees to Review Trump's Blanket Denial of Asylum Claims at Southern Border",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Ohio Restaurant That Hosted Vivek Ramaswamy After Attack Ad Faces Customer Backlash",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Trump Threatens to Immediately Double Tariffs on Mexico Over Illegal Immigration",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Washington Plans to Bulldoze DC's Busiest Public Golf Course Into a US Open-Caliber Course",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-11-15",
     "items": [
       {
@@ -615,6 +530,106 @@
       {
         "section": "Interesting",
         "headline": "Houthi Strike Damages Saudi Arabia's $900bn Sovereign Wealth Fund HQ in Riyadh",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-11-21",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Tech Stocks Enter Bear Market as AI Spending Fears Mount",
+        "gist": "US stocks posted their worst week in more than a year, with the S&P 500 closing over 10% below its October high and the Nasdaq down 20% from peak. Anthropic shares gave up most of their IPO gains, fal"
+      },
+      {
+        "section": "World",
+        "headline": "SEC Investigating Nvidia's Accounting Practices",
+        "gist": "The SEC is investigating Nvidia's accounting practices, according to people briefed on the matter, adding a fresh legal headache atop the fallout from former CEO Jensen Huang's ouster over an alleged "
+      },
+      {
+        "section": "World",
+        "headline": "Deutsche Bank Leak Reveals Deeper Russia and Epstein Ties",
+        "gist": "A fuller accounting of the 15 million-document Deutsche Bank whistleblower leak shows the bank processed $582mn in Epstein-linked payments, paid a Qatari royal $80,000 a month for consulting while doi"
+      },
+      {
+        "section": "World",
+        "headline": "UK and EU Strike Brexit 'Reset' Deal",
+        "gist": "Britain and the EU agreed a deal to ease trade in food and drink, offer 100,000 annual visas for young Europeans to study and work in the UK, and deepen security cooperation, with PM Andy Burnham sayi"
+      },
+      {
+        "section": "World",
+        "headline": "Trump Pushes Ukraine Peace Deal Before Democrats Take Congress",
+        "gist": "The Trump administration has told European officials it wants Kyiv and Moscow to reach a peace deal by early January, before Democrats take control of Congress in the new year. The push follows last w"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Nasdaq's Year of Gains Wiped Out in Single Week",
+        "gist": "A broad selloff erased the Nasdaq's entire 2026 gain, with every member of the Magnificent Seven falling and tech stocks losing more than $4 trillion in market value this week alone. Even Anthropic's "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "CVC Alleges Accounting Manipulation in Collapsed €3bn Advent Deal",
+        "gist": "CVC Capital Partners is accusing Advent International of accounting manipulation in a collapsed €3bn sale of Irca, an Italian pastry-ingredients maker, claiming the company's financial performance was"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Citigroup Underestimated UK Subsidiary Size by $35bn",
+        "gist": "Citigroup underestimated the size of a UK subsidiary by roughly $35bn due to errors in how it recorded trades, people familiar with the matter said. The bank injected extra capital into the unit over "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Apollo Walks Away From $2bn Manchester City Loan",
+        "gist": "Apollo Global Management scrapped a planned $2bn loan to Manchester City's parent company after an independent Premier League commission found the club breached financial rules; City denies wrongdoing"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Trump Threatens Tax on Firms Building Data Centers Abroad",
+        "gist": "President Trump said his administration would impose a \"tremendous tax\" or other penalties on US companies building data centers overseas, aiming to keep AI infrastructure and jobs onshore, though he "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Anthropic Mathematician Claims Riemann Hypothesis Proof Using Claude",
+        "gist": "Levent Alpöge, a mathematician at Anthropic, says he used the company's Claude chatbot to help produce a proof of the Riemann hypothesis, the 167-year-old conjecture about the distribution of prime nu"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Musk Defends Ousted Nvidia CEO Jensen Huang, Downplays His Own Power",
+        "gist": "At the New York Times' DealBook Summit, Elon Musk defended former Nvidia CEO Jensen Huang against his ouster over the China spy scandal, comparing the move to \"taking Michael Jordan off your team when"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Lenders Try to Stop Musk From Launching SpaceX's AI-Chip Collateral Into Space",
+        "gist": "Lenders backing a $43bn SpaceX debt package — secured by the company's advanced AI chips — have tried to bar Musk from firing that collateral into orbit, after he floated plans to cool AI data centers"
+      },
+      {
+        "section": "Interesting",
+        "headline": "Elon Musk Tells DealBook Summit His $500m Midterm Spending Was 'Pretty Foolish'",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Isolated Amazon Indigenous Group Makes Rare First Contact",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Quebec-Style Supply Crunch Hits Champagne: French Production Down 38% on Frost and Drought",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Mountain Guide Uncovers Trove of Ice Age Cave Bear Skeletons in the Dolomites",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Manhattan Button Shop Keeps 10 Million Buttons in a Warehouse, Dressed the Pope and Madonna",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "'Emperor of El Salvador' Bukele Deploys 2,000 Troops to Haiti",
         "gist": ""
       }
     ]
