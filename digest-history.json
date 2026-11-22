@@ -1,70 +1,5 @@
 [
   {
-    "date": "2026-11-15",
-    "items": [
-      {
-        "section": "World",
-        "headline": "US Air Traffic Chaos Enters Day Two, Two Planes Collide in Miami",
-        "gist": "A nationwide FAA ground stop triggered by a defense-contractor software upgrade to air traffic control infrastructure has stretched into a second day, with two planes colliding on a taxiway at Miami I"
-      },
-      {
-        "section": "World",
-        "headline": "US Floats NATO Membership for Ukraine in Exchange for Donbas Withdrawal",
-        "gist": "Zelenskyy says Washington has proposed NATO membership for Ukraine as part of a deal requiring Kyiv to withdraw from parts of the Donbas, and he plans to bring the proposal to the Ukrainian public. It"
-      },
-      {
-        "section": "World",
-        "headline": "Nvidia's Post-Huang Era Takes Shape as Board Weighs Successor",
-        "gist": "Nvidia enters its first weekend without Jensen Huang since his resignation, with tech leaders writing to the board warning his exit could set the US back in the AI race, and Taiwan reacting with shock"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Brookfield, KKR Battle Over $700mn Bid for Gulf Eyewear Chain Eyewa",
-        "gist": "Brookfield and KKR are in advanced competing talks to take a majority stake in Eyewa, a Middle East eyewear retailer, in a deal valued around $700 million. It would be one of the region's larger priva"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Trump Media Faces $1bn Debt Crunch as Bitcoin Bet Sours",
-        "gist": "Truth Social parent Trump Media is staring down roughly $1 billion in debt obligations as both its stock and its bitcoin holdings have plunged, potentially forcing it to sell assets or raise expensive"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Samsung Wants to Move From AI Chips to Building Data Centers Itself",
-        "gist": "Samsung, having established itself as a major AI chip supplier, is now aiming to build data centers directly, looking to replicate its chip success across its wider conglomerate of businesses. The mov"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI's Revenue Jumps 50% to $10bn, Losses Still Heavy",
-        "gist": "OpenAI grew revenue roughly 50% quarter-over-quarter to about $10 billion even as it continued to post large operating losses, according to WSJ reporting. The figures arrive as OpenAI closes an ~$11bn"
-      },
-      {
-        "section": "Interesting",
-        "headline": "Two Planes Collide on Taxiway at Miami Airport Amid Ground-Stop Fallout",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "SpaceX's Starship Caught Mid-Air by Launch Tower Arms on Return to Texas",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Quebec's Strategic Maple Syrup Reserve Is Running Dry",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Leaked Russian Statistics Agency Hack Yields Alleged Government Casualty Records",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "$500m Bollywood Epic 'Ramayana' Bets Big on CGI Over Spiritual Substance",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-11-16",
     "items": [
       {
@@ -630,6 +565,81 @@
       {
         "section": "Interesting",
         "headline": "'Emperor of El Salvador' Bukele Deploys 2,000 Troops to Haiti",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-11-22",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Measles Resurgence Traced to Vaccine Misinformation and Aid Cuts",
+        "gist": "The FT examines how measles, once considered eliminated in wealthy countries, has resurged globally, driven by vaccine misinformation, austerity and cuts to public health aid budgets. The US recently "
+      },
+      {
+        "section": "World",
+        "headline": "Mexico's Capture of 'El Chapo Isidro' Sparks Sinaloa Violence",
+        "gist": "Mexican authorities captured Fausto Isidro Meza-Flores, an FBI most-wanted trafficker known as 'El Chapo Isidro,' triggering violent unrest in Sinaloa state. He had been wanted for years for trafficki"
+      },
+      {
+        "section": "World",
+        "headline": "Bukele Deploys 2,000 Troops to Haiti to Praise From Locals",
+        "gist": "El Salvador's Nayib Bukele sent 2,000 troops into Haiti, a deployment drawing enthusiastic reception from thousands of Haitians amid the country's ongoing security collapse."
+      },
+      {
+        "section": "World",
+        "headline": "COP31 Climate Talks Stall Over Fossil Fuel Phase-Out Language",
+        "gist": "COP31 negotiators ran into a second day of overtime trying to break an impasse, with Saudi Arabia leading opposition to including fossil fuel phase-out language in the final agreement, and the EU rais"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "AI Server Prices Jump Up to 45% After Contracts Already Signed",
+        "gist": "Dell, HPE, Lenovo and Supermicro are demanding up to 45% more for AI server equipment months after deals were already signed, squeezing trading firms and data-center builders caught mid-contract. The "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Argentina's Borrowing Costs Jump as Milei's Popularity Slides",
+        "gist": "Argentina's borrowing costs rose as falling approval ratings for President Javier Milei rattled investors ahead of his re-election bid, complicating the libertarian leader's financing plans. The move "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Private Equity Co-Investors Flag Concerns Over 'Sell-to-Yourself' Deals",
+        "gist": "Co-investors in buyout funds are raising fresh concerns about continuation vehicles, where private equity firms sell portfolio assets to funds they also control, frustrated at being forced out of posi"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Traders Shift US Copper to China as Tariff Fears Ease",
+        "gist": "Traders have begun moving US copper to China to exploit an arbitrage opportunity created by an acute Chinese shortage and high local price premiums, as fears of Trump tariffs on the metal ease. The fl"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "China's Spy Agency Long Targeted AI Chip Acquisition, Officials Say",
+        "gist": "US officials say China's Ministry of State Security had been focused on helping Chinese companies acquire advanced AI chips well before the Nvidia espionage scandal that led to Jensen Huang's ouster. "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Cybersecurity Experts Say Tech Outages Are 'the New Normal'",
+        "gist": "Security experts say the recent wave of tech outages and disruptions — spanning air traffic control, banks and government networks — now represents a durable new normal rather than a one-off cluster o"
+      },
+      {
+        "section": "Interesting",
+        "headline": "US Forest Service Releases Trove of Declassified Bigfoot Documents",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Trump Signs Law Officially Ending Production of the Penny",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "UN Conference Fails to Pass Rules on Lethal Autonomous Weapons",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "UAE Turned Somali Civilian Airports Into Military Facilities US Forces Have Visited",
         "gist": ""
       }
     ]
