@@ -1,105 +1,5 @@
 [
   {
-    "date": "2026-11-16",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Jensen Huang Weighs Nvidia Comeback as Musk, Staff Mount Pressure Campaign",
-        "gist": "Jensen Huang has privately discussed returning as Nvidia's CEO with confidants, even as the board's independent probe into his conduct continues, the FT reports. A petition to reinstate him has topped"
-      },
-      {
-        "section": "World",
-        "headline": "Trump, Xi and Putin to Meet in Shenzhen in 'Yalta 2.0' Summit",
-        "gist": "Trump, Xi Jinping and Vladimir Putin are set to meet Thursday at the APEC summit in Shenzhen, a trilateral gathering some are calling \"Yalta 2.0.\" The Nvidia spy scandal and chip export controls loom "
-      },
-      {
-        "section": "World",
-        "headline": "US Air Travel Chaos Traced to Single Router at Arkansas FAA Facility",
-        "gist": "Investigators probing Friday's nationwide ground stop have focused on a router at an FAA radio site in rural Arkansas that began pinging the network at an abnormally high rate, overwhelming the aging "
-      },
-      {
-        "section": "World",
-        "headline": "Iran Attacks Bahrain Again as Gulf Hostilities Escalate",
-        "gist": "Iran launched a drone attack against Bahrain for the second time in days, with Iran's Revolutionary Guard Corps saying it targeted a radar system at a Bahraini air base. Bahrain said it intercepted se"
-      },
-      {
-        "section": "World",
-        "headline": "Hong Kong Developer New World's Shares Crater 47% on Deeply Discounted Rights Issue",
-        "gist": "Shares in New World Development, a major Hong Kong property developer, tumbled nearly 50% after it unveiled a plan to raise roughly $3.2bn through a rights issue pricing new stock about 80% below Thur"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Anthropic's IPO Roadshow Hits Fever Pitch, Valuation Could Top $1.5tn",
-        "gist": "Anthropic is set to price its IPO this week, with bankers Goldman Sachs and Morgan Stanley weighing pushing the valuation above the initial $70-78 range toward $1.4-1.5tn after roadshow demand came in"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Union Pacific CEO's Leaked Threats Jeopardize $71.5bn Norfolk Southern Merger",
-        "gist": "A leaked recording of Union Pacific CEO Jim Vena threatening to raise rates on shippers who opposed his railroad's proposed $71.5bn merger with Norfolk Southern has handed ammunition to critics of the"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "China's October Data Disappoints as Trade Surplus Nears $1 Trillion",
-        "gist": "China's retail sales rose just 0.4% year-on-year in October, a slowdown from September, while industrial output growth also decelerated, frustrating Beijing's September stimulus push. At the same time"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Amazon's Kuiper Rocket Blows Up Shortly After Launch, Setback vs Starlink",
-        "gist": "A Vulcan rocket carrying 40 Amazon internet satellites exploded shortly after liftoff from Cape Canaveral; the vessel was owned by United Launch Alliance, a Boeing-Lockheed Martin joint venture. The f"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI Folds Robotics Team Into Core Research, Says General Models Can Run Robots Directly",
-        "gist": "OpenAI moved its robotics unit into its main research and product groups, arguing general models like GPT-6 Astra can now operate robots without a separate specialized \"world model\" as previously assu"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Samsung Pushes Beyond AI Chips Into Building Its Own Data Centers",
-        "gist": "Samsung, already a major AI chip supplier, is now aiming to build data centers directly, hoping to replicate its chip-manufacturing success across its sprawling conglomerate. The move mirrors a broade"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Jensen Huang Built Nvidia's China Backdoor — Now His Scandal Threatens It",
-        "gist": "During his tenure, Jensen Huang built a multibillion-dollar network of Asian partners that let Chinese customers access American AI chips despite export controls, lobbying Washington hard to keep the "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI Launches ChatGPT Wallet for Agent Payments",
-        "gist": "OpenAI launched ChatGPT Wallet, letting AI agents make purchases on users' behalf without ever seeing an actual card number, built with American Express, Mastercard and Visa. It's part of a broader pu"
-      },
-      {
-        "section": "Interesting",
-        "headline": "Petition to Reinstate Jensen Huang at Nvidia Tops 140,000 Signatures, Musk Among Them",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "88% of Polled Nvidia Staff on Anonymous App Blind Say Huang Should Stay",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "CEOs Now Hire Matchmakers Who Coach Them to Hide Their Wealth on First Dates",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Baton Rouge Residents Complain Amazon's 80-Pound Delivery Drones Sound Like 'Flying Leaf Blowers'",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Male Dolphins Filmed Babysitting Calves Nearly 300 Times, Possibly to Impress Females",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Federal Judge Blocks Trump Administration From Bulldozing DC Public Golf Course, For Now",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-11-17",
     "items": [
       {
@@ -640,6 +540,96 @@
       {
         "section": "Interesting",
         "headline": "UAE Turned Somali Civilian Airports Into Military Facilities US Forces Have Visited",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-11-23",
+    "items": [
+      {
+        "section": "World",
+        "headline": "ICJ Finds Myanmar Committed Genocide Against the Rohingya",
+        "gist": "The International Court of Justice ruled that Myanmar's 2016-2017 campaign against the Rohingya — which razed over 400 villages and killed at least 10,000 — constituted state-sponsored genocide, the f"
+      },
+      {
+        "section": "World",
+        "headline": "COP31 Climate Talks Collapse Over Fossil-Fuel Language",
+        "gist": "UN climate negotiations in Antalya, Turkey broke down after nearly two weeks when the EU and allied nations rejected a draft deal that failed to reiterate the COP28 commitment to \"transition away from"
+      },
+      {
+        "section": "World",
+        "headline": "Nvidia Scandal Widens: Chinese Intelligence Contact Ran Over a Year, New Smuggling Figure Surfaces",
+        "gist": "US intelligence reports show Alice Huang, whose affair with ousted Nvidia CEO Jensen Huang triggered his ouster, maintained contact with a Chinese intelligence official for more than a year. Separatel"
+      },
+      {
+        "section": "World",
+        "headline": "Port Strike Averted as LA, Long Beach Reach Tentative Labor Deal",
+        "gist": "Port employers and the local ILWU chapter representing 250 security guards reached a tentative deal just before their contract's midnight expiration, averting a strike that threatened six of the ports"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Markets Set to Rebound Sharply After Worst Week Since 2020",
+        "gist": "US futures pointed to a 3.1% jump in the Nasdaq 100 and 2.4% rise in the S&P 500 at Monday's open, clawing back some of Friday's rout that had pushed the Nasdaq into a bear market and erased the index"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Wonder Explores Sale of Grubhub to Retailers",
+        "gist": "Wonder, the meal-delivery company founded by former Walmart executive Marc Lore, is exploring a sale of Grubhub, which it acquired in 2024, with bankers reaching out to Walmart, Target, Kroger and oth"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Amazon in Talks to Buy AI Startup Decart for $7.5bn",
+        "gist": "Amazon is reportedly in talks to acquire AI startup Decart for $7.5 billion, a deal that will be closely watched as a signal of how aggressively Big Tech keeps spending on AI despite last week's marke"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Copper Futures and Physical Markets Diverge as Hedge Funds Unwind Bets",
+        "gist": "Copper futures fell 9% last week and are down 18% from their October record, as hedge funds that had driven prices up on AI-data-center hype rapidly unwind bullish positions. But physical markets tell"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Anthropic Mathematician Says Claude Helped Prove the Riemann Hypothesis",
+        "gist": "Anthropic mathematician Levent Alpöge says he used Claude over roughly six weeks to produce a proof of the Riemann hypothesis, the 167-year-old conjecture about the distribution of prime numbers that "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI Publishes Internal Capability Metric, Calls for Shared Industry Limits",
+        "gist": "OpenAI chief scientist Jakub Pachocki published the company's internal \"log-perplexity\" scorecard tracking AI capability gains since GPT-3.5, and proposed that rival labs agree on common thresholds th"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Thinking Machines Releases Inkling 2 Mini, a Mac-Ready Open-Weights Coding Model",
+        "gist": "Mira Murati's Thinking Machines released Inkling 2 Mini, a new open-weights AI model small enough to run on a 32GB Mac, posting strong scores on coding and agentic benchmarks. It's the latest entrant "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "SoftBank Floats, Then Drops, $1tn Bid for SK Hynix",
+        "gist": "SoftBank's Masayoshi Son floated a $1 trillion takeover of South Korean chipmaker SK Hynix, according to The Information, only for SoftBank to say the deal is now off the table and SK Hynix to say it "
+      },
+      {
+        "section": "Interesting",
+        "headline": "Tamagotchis Turn 30 and Are Suddenly Popular Again, Especially With Millennial and Gen Z Women",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "USS George Washington's 5,000-Person Crew Eats 48,000 Uncrustables a Month — Still Not Enough",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Mexican Cartels Move Into Microfinancing, Controlling $3.5bn in Small Loans to 11 Million Borrowers",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Dutch Court Bars BYD's Seven-Seat SUV From Europe Over Jaguar Land Rover Design Copy",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "New York's High-Tech Public Toilets Have Been Used Nearly 40,000 Times So Far",
         "gist": ""
       }
     ]
