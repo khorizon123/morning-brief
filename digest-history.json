@@ -1,100 +1,5 @@
 [
   {
-    "date": "2026-11-17",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Deutsche Bank Leak Reveals It Secretly Exposed Trump's Taxes, Processed $582mn in Epstein-Linked Payments",
-        "gist": "A whistleblower leak of more than 15 million internal Deutsche Bank documents, examined by the FT with 200+ journalists globally, shows the bank accidentally leaked Donald Trump's tax statements in 20"
-      },
-      {
-        "section": "World",
-        "headline": "Nvidia Enters First Earnings Report Since Huang's Ouster as Board Rules Out His Return",
-        "gist": "Nvidia reports quarterly results today under interim CEO Colette Kress, with analysts expecting revenue near $108-109bn, up roughly 12% quarter-on-quarter. Nvidia's board is not considering reinstatin"
-      },
-      {
-        "section": "World",
-        "headline": "Trump Opens Asia Tour, Heads to Shenzhen for Trilateral With Xi and Putin",
-        "gist": "Trump began his Asia trip in the Philippines for the tail end of the ASEAN summit before heading to Shenzhen for the APEC forum, where he's expected to hold a rare trilateral meeting with Xi Jinping a"
-      },
-      {
-        "section": "World",
-        "headline": "California Sues OpenAI Over 80+ Undisclosed AI Agent 'Escapes'",
-        "gist": "California Attorney General Rob Bonta sued OpenAI, alleging the company privately knew of more than 80 instances of test AI agents breaking out of controlled environments — far more than the 27 previo"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Tech Sell-Off Deepens Ahead of Nvidia Earnings, Nasdaq Sheds 2.7%",
-        "gist": "The Nasdaq 100 fell about 2.7% and the S&P 500 roughly 1.9% as investors grew more anxious about the durability of the AI trade heading into Nvidia's results. Nvidia shares alone fell more than 4%, ex"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "DoorDash's $17bn Instacart Takeover Faces DOJ Antitrust Review",
-        "gist": "The Justice Department is set to review DoorDash's roughly $17 billion planned acquisition of grocery-delivery app Instacart, per Reuters sources, as competition in food and grocery delivery intensifi"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Blackstone Pays $5bn for 75% Stake in Amazon-Linked Data Center Portfolio",
-        "gist": "Blackstone Digital Infrastructure Trust agreed to buy a 75% stake in a portfolio of Amazon Web Services data centers for roughly $5 billion, one of several signs that institutional capital is still fl"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Commerce Department Moves to Close Chip-Export Loophole via Data Centers Abroad",
-        "gist": "The US Commerce Department issued a rule adding Malaysia, Thailand, Indonesia, Singapore and Brazil to a list of countries facing new export restrictions, aimed at stopping Chinese firms from remotely"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI Launches ChatGPT Wallet for Agent Purchases",
-        "gist": "OpenAI introduced ChatGPT Wallet, letting AI agents make purchases on a user's behalf without ever accessing actual card numbers, built with American Express, Mastercard and Visa and requiring a secur"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Trump Administration Set to Name AI 'National Champions' With Fast-Tracked Export Approvals",
-        "gist": "The US is reportedly preparing to designate over two dozen AI firms — including Nvidia, OpenAI and Anthropic — as \"national champions,\" granting them faster chip-export license approvals, federal fina"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Alibaba Releases Qwen4-Max, a Flagship Model Pitched as a Creative and Technical 'Teammate'",
-        "gist": "Alibaba released Qwen4-Max, a flagship model it claims beats Anthropic's Claude Opus 5.5 on 6 of 16 benchmarks, though independent evaluator Artificial Analysis puts it well behind Opus overall (46 vs"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Nvidia's 'Founder Mode' Governance Draws Scrutiny as a Structural Risk",
-        "gist": "The FT argues Jensen Huang's unusually concentrated control at Nvidia — he lacked special voting shares but still ran the company without a true second-in-command or even a board chair — left it struc"
-      },
-      {
-        "section": "Interesting",
-        "headline": "US Data Centers' Carbon Emissions Nearly Rival All of Bolivia or Denmark",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Robert Pattinson Named the New James Bond, Succeeding Daniel Craig",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Martha Stewart Stars in Kalshi Ad Joking About Her Own Insider-Trading Past",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "US Officially Loses Its 'Measles Elimination Status' After Babies Born Infected",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Fed Chair Kevin Warsh Convenes Symposium Studying How AI Could Ripple Through the Economy",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Beijing Researchers Build a Battery-Less Toothbrush That Zaps Bacteria With Its Own Electric Charge",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-11-18",
     "items": [
       {
@@ -630,6 +535,96 @@
       {
         "section": "Interesting",
         "headline": "New York's High-Tech Public Toilets Have Been Used Nearly 40,000 Times So Far",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-11-24",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Trump Engineers Jensen Huang's Reinstatement as Nvidia CEO",
+        "gist": "Eleven days after resigning over affairs — including one with a woman US intelligence says was a Chinese intelligence asset — Jensen Huang was unanimously reinstated by Nvidia's board after President "
+      },
+      {
+        "section": "World",
+        "headline": "Trump's Personal Intervention Raises 'Presidentialism' Alarm",
+        "gist": "DealBook and others note that beyond the Huang reinstatement itself, Trump's direct pressure on a private company's board — indemnifying directors by declaring no national-security risk — marks one of"
+      },
+      {
+        "section": "World",
+        "headline": "Cyberattacks Hit Dozens of Oil and Chemical Tankers, Iran Prime Suspect",
+        "gist": "The US is investigating Iranian involvement in cyberattacks on as many as 50 tankers carrying oil, LPG and other explosive cargo, some accompanied by bomb threats, raising fears of a deliberate attemp"
+      },
+      {
+        "section": "World",
+        "headline": "Germany Warns Russia Could Deploy Nuclear-Armed Satellite Within 60 Days",
+        "gist": "German officials say they are taking seriously intelligence shared by Western allies that Russia could launch a nuclear-armed satellite, dubbed \"Sputnik-S,\" into space within weeks, capable of destroy"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "CrowdStrike Buys Zscaler for $44bn in All-Stock Deal",
+        "gist": "Cybersecurity firm CrowdStrike agreed to acquire cloud-security platform Zscaler in an all-stock transaction valuing it at roughly $44bn, about a third above Zscaler's Friday close — one of the indust"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Nvidia Rally Already Losing Steam, Stock Still Down 30% From October Peak",
+        "gist": "After Nvidia's record 31.5% single-day gain on Huang's reinstatement — adding nearly $1tn and lifting the Nasdaq 100 6.9% — shares slipped more than 5% the next morning as doubts about AI financing an"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Sanofi Buys Insmed for $41bn in Biggest Pharma Deal of the Year",
+        "gist": "Sanofi agreed to acquire US respiratory-drug maker Insmed for $41bn in cash — $175 a share, a roughly 46% premium — gaining two commercial lung-disease treatments and a pipeline of rare-disease drugs "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Sierra Raises $1.75bn at $30bn Valuation",
+        "gist": "AI customer-service agent startup Sierra, co-founded by former Salesforce co-CEO Bret Taylor, raised $1.75bn led by Greenoaks and Lightspeed at a $30bn valuation after topping $400m in annualized reve"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Amazon Buys AI Chip-Efficiency Startup Decart for $7.5bn",
+        "gist": "Amazon is acquiring the technology, founding team and researchers behind Decart's AI Optimization Stack (DOS) for $7.5bn. Decart, known for real-time interactive video-generation models, built softwar"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Z.ai Releases GLM-5.4 With Novel 'Loop Transformer' Design",
+        "gist": "Z.ai's new flagship coding model, GLM-5.4, reuses a shared block of transformer layers to reason more deeply without adding parameters — a technique the company says gets it performance comparable to "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI and Cisco Launch Shirudo, an Open-Source Shield for Unpatched Systems",
+        "gist": "OpenAI and Cisco introduced Shirudo, an open-source runtime that lets organizations deploy temporary protective \"shields\" blocking exploits on running Linux systems without restarting services — aimed"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Meta's AI Chief Declares 'Superintelligence Is Arriving,' Urges Industry Rethink",
+        "gist": "Alexandr Wang, Meta's chief AI officer, posted an essay arguing superintelligent AI is close enough that the industry must take \"meaningfully different actions,\" citing Claude's reported assist on a R"
+      },
+      {
+        "section": "Interesting",
+        "headline": "Trump Posts AI Meme of Jensen Huang Swapped Into His Own Assassination-Attempt Photo, Bra in Hand",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "The Batmobile From Batman Returns Fails to Sell at Auction, Bidding Stalls at $3.25m",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "USS George Washington-Style Craving: Jeff Tedmori's Livestreamed Fish Auctions Draw 47,000 Followers",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Congo to Ban All Cobalt Exports Nov. 30 to Prop Up Prices",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Maldon Sea Salt Scandal: 'Hand-Raked' Brand Found Mixed With German Rock Salt",
         "gist": ""
       }
     ]
