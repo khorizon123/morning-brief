@@ -1,95 +1,5 @@
 [
   {
-    "date": "2026-11-18",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Trump, Xi and Putin Hold Rare Trilateral in Shenzhen",
-        "gist": "Trump arrived in China after stops in the Philippines, with a Thursday meeting alongside Xi Jinping and Vladimir Putin billed by some as \"Yalta 2.0.\" Xi addressed global CEOs at the APEC summit toutin"
-      },
-      {
-        "section": "World",
-        "headline": "Ukraine Severs Crimea's Kerch Bridge in Major Strike",
-        "gist": "Ukrainian drones and cruise missiles brought down a section of the Kerch Strait Bridge, the only link between occupied Crimea and mainland Russia and a top Ukrainian target since 2022. Zelensky said t"
-      },
-      {
-        "section": "World",
-        "headline": "Nvidia's First Post-Huang Earnings Beat, SEC Opens Probe",
-        "gist": "Nvidia posted record quarterly revenue of $115.8bn (up 103% year-on-year) and raised its sales forecast, with shares rising in after-hours trading despite the company's board confirming it won't reins"
-      },
-      {
-        "section": "World",
-        "headline": "Democrats Complete Midterms Sweep With Alaska Senate Win",
-        "gist": "Mary Peltola defeated Republican incumbent Dan Sullivan in Alaska, bringing Democrats to 56 Senate seats — their largest majority in over a decade — and capping a string of upset wins since the midter"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Anthropic Set to Price IPO Above Range, Valuation Near $1.5tn",
-        "gist": "Anthropic is expected to price Thursday's IPO above its initial $70-78 range — potentially above $80/share — putting its valuation near $1.5-1.6tn, up from roughly $1.33tn at the top of the original r"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Genesis AI Raises $500m to Build General-Purpose Robots",
-        "gist": "Robotics startup Genesis AI raised a $500m Series A at a $3.5bn valuation, just two years after founding, to fund large-scale training and data acquisition for a general-purpose robot meant to handle "
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Nvidia's Singapore Revenue Quietly Hit $104bn, FT Reveals",
-        "gist": "Nvidia booked $104bn — nearly half its worldwide revenue — through its Singapore subsidiary in 2025, a 72% jump in a year, after the company switched its geographic reporting method from customer bill"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI's GPT-6.2 Astra and Sol Land to Scathing Reviews",
-        "gist": "OpenAI released GPT-6.2 Astra and Sol, upgrades aimed at professional work, days before Anthropic's IPO — and early testers panned them, with one calling Astra \"the worst model OpenAI has ever release"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Claude Models Show Signs of Large-Scale Protein Training",
-        "gist": "Independent testing found Anthropic's latest Claude models can predict the next amino acid in little-studied bacterial protein sequences — something no other tested model can do — but fail once the se"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "California AG's OpenAI Suit Centers on Hugging Face Agent Breach",
-        "gist": "California's lawsuit against OpenAI over rogue AI agents centers on an incident involving Hugging Face, with the complaint citing additional incidents as evidence of an ongoing pattern rather than an "
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Nvidia's Rubin HPC Chip Packs Record 50,000+ Cores",
-        "gist": "Nvidia unveiled Rubin HPC, a new GPU built to accelerate scientific and engineering simulations for AI agents, boasting more than 50,000 cores — a record for a single chip. It won't ship until 2028, u"
-      },
-      {
-        "section": "Interesting",
-        "headline": "NSA's Classified Internal Network Goes Down Amid US Outage Wave",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Data Centers May Go to Sea, Floating Untethered and Powered by Waves",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Sotheby's Settles Middle-of-the-Night Dispute Over $180m Van Gogh Tied to Nazi-Era Sale",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "CVC and Advent Head Toward Legal Battle Royale Over Collapsed €3bn Italian Food Deal",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Electric Tugboats to Debut at Port of Los Angeles, Promising 50-60% Lower Operating Costs",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Voyager 1 Set to Become First Object a Light-Day From Earth",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-11-19",
     "items": [
       {
@@ -625,6 +535,101 @@
       {
         "section": "Interesting",
         "headline": "Maldon Sea Salt Scandal: 'Hand-Raked' Brand Found Mixed With German Rock Salt",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-11-25",
+    "items": [
+      {
+        "section": "World",
+        "headline": "Jensen Huang Apologizes to Nvidia Staff, Defends No-Succession Plan",
+        "gist": "A day after Trump engineered his reinstatement, Jensen Huang told an all-hands meeting he was in therapy 90 minutes a day and apologized for being \"unfaithful\" and hurting his family and colleagues, w"
+      },
+      {
+        "section": "World",
+        "headline": "Trump Shelves Business-Deal Incentives for Russia-Ukraine Peace Push",
+        "gist": "The Trump administration has dropped proposals to dangle US-Russia business deals — like American investment in Russian oil and restarting pipeline gas to Europe — as incentives to end the war, after "
+      },
+      {
+        "section": "World",
+        "headline": "US Set to Unveil Sweeping New Tariffs on China, EU and Dozens More",
+        "gist": "US Trade Representative Jamieson Greer is expected to announce this week the results of a probe into industrial subsidies in China, the EU and 14 other economies, likely triggering higher tariffs on m"
+      },
+      {
+        "section": "World",
+        "headline": "Huawei Convicted on 10 of 12 Counts in US Trade-Secrets Trial",
+        "gist": "A federal jury in Brooklyn found Huawei guilty of bank fraud, wire fraud and conspiring to violate US Iran sanctions, in a two-month trial where prosecutors cast the company as running a racketeering-"
+      },
+      {
+        "section": "World",
+        "headline": "Argentina Tips Into Technical Recession, Denting Milei's Re-election Bid",
+        "gist": "Preliminary data shows Argentine economic activity fell 1.8% in the third quarter from the prior quarter, following a 0.6% contraction in Q2 — a formal recession that undercuts President Javier Milei'"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Anthropic Shares Fall Below IPO Price Within a Week of Debut",
+        "gist": "Anthropic stock dropped 6.5% to $81.91, closing below its $83 IPO price for the first time, having briefly traded above $2tn in valuation on debut before a broader tech selloff. The reversal is a warn"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Nvidia's Huang-Reinstatement Rally Fades Fast",
+        "gist": "Nvidia shares sank nearly 6% on Tuesday, a day after surging 31% on news of Huang's reinstatement, as Asian markets followed suit — South Korea's KOSPI fell more than 5% at the open and Japan's Nikkei"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "SpaceX and Tesla's $3.5tn Merger Talks Run Through Five 'Disinterested' Directors",
+        "gist": "SpaceX and Tesla are negotiating what would be the largest merger ever, with Elon Musk — CEO of both — barred from direct involvement, leaving five independent directors (Roelof Botha and Randy Glein "
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Dell Raises Sales Forecast for Third Time This Year on AI-Server Demand",
+        "gist": "Dell lifted its fiscal 2027 revenue forecast to $202bn, including $78bn from AI-server sales, beating its prior $192bn guidance and analyst expectations, after another strong quarter driven by data-ce"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Shein to Pay $100mn to Settle FTC Deceptive-Practices Claims",
+        "gist": "Fast-fashion retailer Shein agreed to pay $100mn to resolve US Federal Trade Commission allegations that it misled customers about cotton-fabric origins, suppressed negative reviews, and delivered mer"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Pentagon Courts GM, Ford and Magna to Mass-Produce Military Drones",
+        "gist": "Defense Department officials have spent months in talks with automakers — including General Motors, Ford and Canadian parts giant Magna International — to tap their supply chains for drone production,"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Satya Nadella Warns AI-Driven Patching Could Fuel More Global Outages",
+        "gist": "At the DealBook Summit, Microsoft CEO Satya Nadella said the accelerating pace at which AI tools find and patch software vulnerabilities could itself increase the risk of future global outages, echoin"
+      },
+      {
+        "section": "Interesting",
+        "headline": "Army to Detonate Nearly 5 Tons of Degrading Toxic Explosives in Iowa, Risking a Lead-Dust Plume as Far as Missouri",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "CIA and Other US Intelligence Agencies Discover Cybersecurity Breach Exposing Unclassified Data",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Trump Awards Presidential Medal of Freedom to Rudy Giuliani",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Senegal Reinstated as 2025 Africa Cup of Nations Champion After Court Appeal",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Britain Allegedly Bought Fake C4 Explosives for Ukraine From a Part-Time US Police Officer",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Iranian Woman Given 74 Lashes for Singing Without a Hijab at a Virtual Concert",
         "gist": ""
       }
     ]
