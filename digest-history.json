@@ -1,85 +1,5 @@
 [
   {
-    "date": "2026-11-19",
-    "items": [
-      {
-        "section": "World",
-        "headline": "Trump, Xi and Putin Hold First-Ever Trilateral Summit in Shenzhen",
-        "gist": "The three leaders — who together control over 90% of the world's nuclear weapons — met in Shenzhen for a summit some dubbed \"Yalta 2.0,\" though it produced little beyond a photo op and a joint stateme"
-      },
-      {
-        "section": "World",
-        "headline": "Democrats Nominate Jeffries as Speaker, Capping Midterm Sweep",
-        "gist": "House Democrats overwhelmingly nominated Hakeem Jeffries of New York to become speaker in January, putting him on track to be the first Black lawmaker to hold the role, second in line to the presidenc"
-      },
-      {
-        "section": "World",
-        "headline": "Iran Strikes Bahrain and Kuwait as Gulf Tensions Flare Again",
-        "gist": "Iran launched drone attacks on a Kuwaiti air base hosting American forces and struck Bahrain again, days after US warplanes hit an Iranian missile-launch site; both Gulf states said they intercepted t"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Anthropic's $81bn IPO Becomes the Largest Ever",
-        "gist": "Anthropic priced its IPO at $83 a share — above its already-raised $70-78 range — selling 980 million shares to raise $81.3bn and valuing the Claude maker at roughly $1.5tn on a debut that surpassed S"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Nvidia's Earnings Beat Fails to Calm Nerves; Stock Still Down a Third Since Huang's Exit",
-        "gist": "Despite posting record revenue and raising guidance, Nvidia shares slipped another 2.9% as investors stayed jittery about the AI trade heading into Anthropic's listing; the stock has lost more than a "
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Strike Threat Looms at Ports of LA and Long Beach",
-        "gist": "The Pacific Maritime Association said talks with an ILWU local representing 250 unarmed security guards at the ports of LA and Long Beach have stalled ahead of the current contract's expiration at mid"
-      },
-      {
-        "section": "Markets & Deals",
-        "headline": "Target Posts Strongest Sales Growth in Five Years",
-        "gist": "Target's third-quarter sales rose 7.1% to $27.07bn, beating Wall Street forecasts, driven by broad strength across income groups, categories and channels as the retailer leaned into new products and p"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "Google Ships Fourth Gemini 4 Model in Two Months, Stoking Self-Improvement Buzz",
-        "gist": "Google released Gemini 4 Neon, a mid-tier model that nonetheless beats its own flagship Carbon and edges past Anthropic's Claude Opus 5.5 and OpenAI's GPT-6.2 Sol on most benchmarks, with particular s"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "OpenAI's GPT-6.2 Astra and Sol Face Backlash on Release",
-        "gist": "OpenAI launched GPT-6.2 Astra, a frontier model aimed at the hardest projects, and GPT-6.2 Sol, a cheaper everyday model, now available in ChatGPT Work, Codex and via API — but early testers have pann"
-      },
-      {
-        "section": "AI & Tech",
-        "headline": "AI-Driven Bug Fixes Blamed for Wave of Tech Outages",
-        "gist": "Security experts and US officials say a rush to patch software vulnerabilities identified by AI tools likely destabilized computer systems at Microsoft, JPMorgan and the FAA, among others, contributin"
-      },
-      {
-        "section": "Interesting",
-        "headline": "Center for AI Safety Publicly Declares Anthropic 'Not a Safe AI Company' on Eve of Its IPO",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Sam Bankman-Fried Would Have Pocketed a $40bn Anthropic Windfall Had He Not Forfeited His Stake",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Grand Theft Auto VI Launches to 15 Million Pre-Orders, Possibly the Biggest Entertainment Release Ever",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "A $190.4m Van Gogh Sets Auction Record After Three-Minute Bidding War",
-        "gist": ""
-      },
-      {
-        "section": "Interesting",
-        "headline": "Elon Musk Declares 'I'm Not MAGA,' Calls His $500m Midterm Spending 'Pretty Foolish'",
-        "gist": ""
-      }
-    ]
-  },
-  {
     "date": "2026-11-20",
     "items": [
       {
@@ -630,6 +550,86 @@
       {
         "section": "Interesting",
         "headline": "Iranian Woman Given 74 Lashes for Singing Without a Hijab at a Virtual Concert",
+        "gist": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-11-26",
+    "items": [
+      {
+        "section": "World",
+        "headline": "US Readies Sweeping New Tariffs on China, EU, Japan, South Korea and India",
+        "gist": "The Trump administration proposed tariffs ranging from 15-40% on goods from 14-plus economies, accusing them of running unfair trade practices including subsidies and excess manufacturing capacity. US"
+      },
+      {
+        "section": "World",
+        "headline": "Asia's Markets Have Been Hit Far Harder Than America's by the AI Shakeout",
+        "gist": "Since Jensen Huang's November 11th resignation as Nvidia CEO, Japan's Nikkei is down 6%, while South Korea's KOSPI and Taiwan's TAIEX have each fallen 12% — steeper drops than the S&P 500, despite non"
+      },
+      {
+        "section": "World",
+        "headline": "Nvidia Put on S&P Downgrade Watch Days After Huang's Reinstatement",
+        "gist": "S&P placed Nvidia on a downgrade watchlist, warning that the long tenures of certain board members may have 'compromised their independence' and questioning whether corporate governance kept pace with"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Todd Boehly Consortium Agrees to Buy Lukoil's International Assets",
+        "gist": "A group led by Dodgers owner Todd Boehly, including the US International Development Finance Corporation, agreed to acquire the overseas assets of sanctioned Russian oil giant Lukoil — refineries, pet"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "FCC Clears SpaceX to Launch 1 Million Satellites for Orbital Data Centers",
+        "gist": "America's FCC approved SpaceX's request to launch up to 1 million satellites to build what Musk calls 'a constellation of data centres in space,' a dramatic expansion from the fewer than 17,000 satell"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "Hybrid Capital — Debtlike Preferred Equity — Becomes Private Equity's Hot New Asset Class",
+        "gist": "Major private-markets firms are pivoting hard into 'hybrid' deals — preferred equity, convertible financings and other debt-equity structures — to break a logjam of unsold buyout assets purchased at h"
+      },
+      {
+        "section": "Markets & Deals",
+        "headline": "EasyJet Profits Collapse 96%, Norse Atlantic Suspends Flights",
+        "gist": "EasyJet's annual profit fell from £658m to just £24m, blamed on soaring jet fuel costs and weak consumer demand, in its last results before Apollo takes the airline private in the spring. Norwegian ri"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Amazon's AI Agents Found and Exploited a Zero-Day With No Human Help",
+        "gist": "Amazon said AI agents running on Cairn, an open-source penetration-testing framework, discovered and exploited a zero-day vulnerability in a medical-imaging AI application on a university server with "
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "Cognition Ships SWE-2.1, Roughly Doubling Its Coding Benchmark Score",
+        "gist": "Cognition released SWE-2.1, an upgraded coding and agent model built with reinforcement learning on top of Kimi K3, which roughly doubles its predecessor's score on the Terminal-Bench 4.1 coding bench"
+      },
+      {
+        "section": "AI & Tech",
+        "headline": "OpenAI's GPT-6 Models Can Design New Proteins Without Specialized Biology Tools",
+        "gist": "OpenAI said its GPT-6 models can design novel proteins using general reasoning and code alone, without invoking dedicated biology-specific models — lab tests with a research partner confirmed some of "
+      },
+      {
+        "section": "Interesting",
+        "headline": "Trump Administration Quietly Drops Plan to Dangle Business Deals as Russia-Ukraine Peace Incentive",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "China Launches Pakistani Fighter Pilot Into Space in First Foreign-National Mission",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Macy's Thanksgiving Parade Postponed for First Time in 100 Years Over High Winds",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Scientists Use Slime Molds to Solve Public Transit Network Planning Problems",
+        "gist": ""
+      },
+      {
+        "section": "Interesting",
+        "headline": "Army's Controlled Detonation of 10,000 Pounds of Toxic Explosives in Iowa Goes 'Better Than Expected'",
         "gist": ""
       }
     ]
